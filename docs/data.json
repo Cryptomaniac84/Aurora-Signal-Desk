@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Mon 02 Nov 2026 02:52 PM AEDT",
- "fx_audusd": 0.7025,
+ "generated": "Mon 02 Nov 2026 03:49 PM AEDT",
+ "fx_audusd": 0.7022,
  "signals": [],
  "events": [
-  {
-   "key": "majorityofamericansdisapproveofhowtrumpishandlingtariffsabcp",
-   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
    "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
@@ -77,6 +65,18 @@
    "pts": 22
   },
   {
+   "key": "ourfarmerswillpaynotariffstrumpsaysuscanadahaveconceptofanew",
+   "title": "'Our farmers will pay no tariffs\u2019: Trump says US, Canada have 'concept' of a new trade deal - The Economic Times",
+   "source": "The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPS1VNOXRILVN6MW9YcVFLdExrSGNlU0lYRXpUeWpHWVN1WHFxVm9JZTEwNEp0VVJWVnVFcVNPa0RQVzRpSXBTdEh4YXl1bU1TUjNsek5hMVljS0FETWRzQWJMU2tUMl9TS1pxZ1NUN3lZek00aTZQWEsyZEJsSWJVYURlWHVxME1vTXZGd0hLMk9HMTRBTV9aclAyY0ZGVnRTYmZHNkNyRWtVWXF6REJnWlJIbm9zTlFkVEdXcHZSTUloRXh3RUZBUmlmVkU4YjFQUHN6RnNuMnlnQ2xQc093c3dobjVwY1ZLUHBraXRpeTlPZG9vZGxiMXFEVUt6Ty1ka0xWQ1dQb9IBgAJBVV95cUxNYnJfM0w5dmp2aFFKTjJKemtUbTV0Y0Z3RzFKZl84SUprOHBJQVViRmJTODhoSno3c0NiS2ZwYkRxOFI2VHFtenQ1cUM5dzlUVl9NTnpVLVl3ZmNZNUo5dGJ2OFFZbThiNWpCbWttWFJDNlpqM0FEX3ZVel80bnVNeVFSZ2JXWmdPbkd6aDN0U2puRVJmNkJ6RC1wbkE4ekJCTGtmTV85RVdrckJnNmpIU0JQY2pLQ0RrbHpHQVAxT1JtU0tVWktjOXMzQ0dEMHdBanFfNURYSVZ5dF9LeUh1cUtFdlV1SFdOLVR6QXhIektoZzIzSV9xS0phYXdvS1lY?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "leakrevealstrumpsecretlydoubtingpentagonpetethedailybeast",
    "title": "Leak Reveals Trump Secretly Doubting Pentagon Pete - The Daily Beast",
    "source": "The Daily Beast",
@@ -102,8 +102,8 @@
   },
   {
    "key": "australiasetforfifthratehikeasinflationfightintensifiesbloom",
-   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg.com",
-   "source": "Bloomberg.com",
+   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg",
+   "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElZOUJwR3U5czFFd2NrR1p0UU5kaGE1Q2dyNU5ITVRMQ0MzODktQlRXYldTRk11M2pfU1IyTTRtclZjREFVSDF1RzBTNXZCcVhuRUNubHh6YnB0bTQzMlBvWXZ5VEFxdUZmeXRKNkI2SDlMMTMwbHp5TjJhVEJoeUlDLWh3RXdkVkJxQjVYYU0xOExTdms4M05JcHNIQ0o3TVZ0TEhtdHBpRmlWUE5wc2kyWWpWQQ?oc=5",
    "themes": [
     "rates"
@@ -114,8 +114,8 @@
   },
   {
    "key": "chinas5000tondiggingmachinesareatradewarrisktoindiabloomberg",
-   "title": "China\u2019s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com",
-   "source": "Bloomberg.com",
+   "title": "China\u2019s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg",
+   "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
    "themes": [
     "geopolitics"
@@ -123,30 +123,6 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "theuschinatradewarseemstohavesubsidedbutthesenseofcalmismisl",
-   "title": "The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading - The Guardian",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "teslasamsungopposenewustariffsonvietnamasprobedeadlinenearsy",
-   "title": "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears - Yahoo Finance UK",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVoyeVc1c0QydElzdVJnTlgyQXNMR3pZOERaX3FuOER2LVczTE9CTklXVl96Q2lPdjdjdFVSV2taRERSMmlqcVdXNHVORTh6RkV1aXZ6cjhNUG5TVlI0eWhmMkNoakM2TlhLSGpXOGFTWUZlWmxhdmgyd2lhSUgzZmtjN09hUEk?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   },
   {
    "key": "ohioraceexemplifiesthedemocratsambivalencewhenitcomestotarif",
@@ -243,93 +219,117 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "boeingceosaysorderfor22moref15exfightersbringstotalundercont",
+   "title": "Boeing CEO says order for 22 more F-15EX fighters brings total under contract to 120 - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGFyRHVCM3pvUWdIMERrTWRlYkdXcFByZGIwMG85MWE3TjNGYkJFYzFGekIxNWgtZmlrQnlvd3N2cVpXWGlZYnlQWmxRUC04cW95ZkVBWXpVRmdkZGpNa3BMUGpBakhqMmtOX2wzaVdTREdidWhSUUtvbFA3Y29HRm9WcVV2OUJ0a0JiTzM1dDFpRGZsdFh3OWs5d3Z5MHRMRy1nRjYtRXAya1NfSkFlOHZjZw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "civmecasxcvlsurges70onrevenueand75onprofitinq1fy27asgalliuma",
+   "title": "Civmec (ASX:CVL) Surges 70% on Revenue and 75% on Profit in Q1 FY27 as Gallium and Defence Work Pour In - Kalkine",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWlBWXhaYXpobEtIcWhVNkZfdXZJUUVCclRjckpOMmxZOUEzb0dZZmdEeWQ4WVhqbnhhbGp5TTNuOXM5UG9DTXlKMWI2dFdVRF9KQ01IYTdpTFducFV0S1RPNWcyV2ZhOUU5TUZJQWQ4OUtEZVFjSWZQcHM1M2JIaHpZTFZJNGRBcWJHYlEySFc4V1E5MUtNSGIyRzJuLWxEbk42TWJjRFlsMW16YjRZeS0xZG01ZEJRN05RVWF6LTZ5aHFrY3pBU0szT0hhWXl6bmJ2Mw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "GLD",
-   "why": "stale quote / market closed (last price 3353 min old)",
-   "score": 80
-  },
-  {
-   "sym": "ITA",
-   "why": "stale quote / market closed (last price 3353 min old)",
-   "score": 75
-  },
-  {
-   "sym": "XLE",
-   "why": "stale quote / market closed (last price 3353 min old)",
-   "score": 100
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 3353 min old)",
-   "score": 100
-  },
-  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 92
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 72
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 100
   },
   {
+   "sym": "GLD",
+   "why": "stale quote / market closed (last price 3409 min old)",
+   "score": 72
+  },
+  {
+   "sym": "ITA",
+   "why": "stale quote / market closed (last price 3409 min old)",
+   "score": 67
+  },
+  {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 3409 min old)",
+   "score": 84
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 3409 min old)",
+   "score": 92
+  },
+  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 57
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 90
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 82
   },
   {
    "sym": "WDS.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 36
+   "score": 38
   },
   {
    "sym": "STO.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 38
+   "score": 40
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3353 min old)",
+   "why": "stale quote / market closed (last price 3409 min old)",
    "score": 46
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 63
+   "score": 71
   }
  ],
  "paper": {
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 02 Nov 2026 02:52 PM AEDT",
+  "last_scan": "Mon 02 Nov 2026 03:49 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
