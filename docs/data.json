@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Mon 02 Nov 2026 11:38 AM AEDT",
- "fx_audusd": 0.7034,
+ "generated": "Mon 02 Nov 2026 12:12 PM AEDT",
+ "fx_audusd": 0.7031,
  "signals": [],
  "events": [
-  {
-   "key": "majorityofamericansdisapproveofhowtrumpishandlingtariffsabcp",
-   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
    "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
@@ -125,18 +113,6 @@
    "pts": 22
   },
   {
-   "key": "trumpsayshewantsnvidiasjensenhuangtostayonsciencecouncilwwwt",
-   "title": "Trump Says He Wants Nvidia\u2019s Jensen Huang to Stay on Science Council - www.tokenpost.com",
-   "source": "www.tokenpost.com",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zNlBtUmlZVGJRcHRJVUZSQm5fVVZ1dE5UX0hEXzlTbzd3VXVYbFdxZjFmdUtJazJ4OXVtNWM2SktsSWF5bXpaZmpDLW14aVF4QmxvVWN3?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "opeckeepsdecemberoiloutputtargetssteadyaheadoftoughercallfor",
    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 - Reuters",
    "source": "Reuters",
@@ -149,10 +125,10 @@
    "pts": 20
   },
   {
-   "key": "opecleavesoiloutputtargetsunchangedfordecembertablebloomberg",
-   "title": "OPEC+ Leaves Oil Output Targets Unchanged for December (Table) - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDgwcjdaZlhKT2pQa1JSUXNwMC1kZ0VMcXc3VEpoTlkyVVZzc1N6ZE1CR1hvZkY4dXN0YUIxSWlQNm4ySnp4NUxfMHpsYmJBTUlSQ2wyRVZ5bjF2VGxaX1FHa1ZOSk1US3BhcDEzYWR1WEdHZVVacXlNUExFZ1hyNEZLUm1weUExYTltLWxxd1R4S3BIZTFYSkNqQ2ZmUENsUDg0bDJEQQ?oc=5",
+   "key": "opecsettostickwithplanforsteadyquotasdelegatessaybloomberg",
+   "title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVk3RVBuTjlMMjFBMUd0a1NpM1dVdTJmYkdLbEJUc3U3RnVRM1BoT0NSN1VTV3ZwWVdwcUtFbHZ1bFZKUkg0Vi13T2xWME1hYnFOM3NCVldnR1pwZko4bzdtY1F3VkVIMWNWWFVGcUZEd3VvTkRBcE9LcXpLQklCczJKR0RFaGF2elRSSy1oeFFQMzYwLXc2QXNVcWVGUlFzTU4wSTh3bUZBOWZMSXJv?oc=5",
    "themes": [
     "energy"
    ],
@@ -174,8 +150,8 @@
   },
   {
    "key": "australiasetforfifthratehikeasinflationfightintensifiesbloom",
-   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg",
-   "source": "Bloomberg",
+   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg.com",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElZOUJwR3U5czFFd2NrR1p0UU5kaGE1Q2dyNU5ITVRMQ0MzODktQlRXYldTRk11M2pfU1IyTTRtclZjREFVSDF1RzBTNXZCcVhuRUNubHh6YnB0bTQzMlBvWXZ5VEFxdUZmeXRKNkI2SDlMMTMwbHp5TjJhVEJoeUlDLWh3RXdkVkJxQjVYYU0xOExTdms4M05JcHNIQ0o3TVZ0TEhtdHBpRmlWUE5wc2kyWWpWQQ?oc=5",
    "themes": [
     "rates"
@@ -243,112 +219,116 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "liamlawsonhandedfieryunjustsackingdefenceamidf1uncertaintyra",
+   "title": "Liam Lawson handed fiery 'unjust sacking' defence amid F1 uncertainty - RacingNews365",
+   "source": "RacingNews365",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3l1NXlpZm9xYU5VbWMwRzJYLUVqcTM1NjZxLUY5NW1UeGg2ampTeE8xRjZrazMyekVhdF9mdGNFdmZ1ODRkTmxlTlEyRHhoWVBTMURmWFdkRzVya2FUTldCNUZSM2VMd0dHOE5WRnVzbHNBMG1WYlVBR3VaamJBeTViZGhjb0dlQkNKQ3YyaWtlS2dqckhaUA?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "defencegiantlockheedmartinacquiresnsbasedunderseawarfarecomp",
+   "title": "Defence giant Lockheed Martin acquires N.S.-based undersea warfare company - Yahoo! Finance Canada",
+   "source": "Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWs3UjBXVmctNFZjandtLUUwZ2NRWkhwUmo2dkQwR1lBZlJnVFRUUnhUYnVKNlBNUVBJWkhVRWFPOEJKb2pRa1FMcFNySFZrRXl1STVWdVRFdVBOSHROYVplVk5EU2VxRkpiUDk5LWl3S01sZGpZVXY1X1ZrOHo3N1Nvb1hRREE5WlBPTHY3anY?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "GLD",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 80
-  },
-  {
-   "sym": "ITA",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 75
-  },
-  {
-   "sym": "XLE",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 100
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 100
-  },
-  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 92
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 72
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 100
   },
   {
+   "sym": "GLD",
+   "why": "stale quote / market closed (last price 3192 min old)",
+   "score": 72
+  },
+  {
+   "sym": "ITA",
+   "why": "stale quote / market closed (last price 3192 min old)",
+   "score": 67
+  },
+  {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 3192 min old)",
+   "score": 84
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 3192 min old)",
+   "score": 92
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 92
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 84
   },
   {
    "sym": "WDS.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 74
+   "score": 65
   },
   {
    "sym": "STO.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 73
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 52
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 57
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 77
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 3158 min old)",
-   "score": 64
+   "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 46
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 43
+   "score": 63
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3158 min old)",
+   "why": "stale quote / market closed (last price 3192 min old)",
    "score": 47
   }
  ],
@@ -363,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 02 Nov 2026 11:38 AM AEDT",
+  "last_scan": "Mon 02 Nov 2026 12:12 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
