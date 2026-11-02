@@ -1,120 +1,371 @@
 {
- "mode": "DEMO",
- "generated": "Mon 02 Nov 2026 11:35 AM AEDT",
- "signals": [
-  {
-   "sym": "DEMO",
-   "name": "Sample Defence Co",
-   "exchange": "NASDAQ",
-   "ccy": "USD",
-   "event": "SAMPLE: new government defence contract",
-   "theme": "defence",
-   "strategy": "Aggressive momentum",
-   "score": 85,
-   "entry": 25.4,
-   "stop": 24.6,
-   "target": 26.8,
-   "rr": 1.62,
-   "costs": 2.0,
-   "qty": 15,
-   "net_profit": 19.0,
-   "net_loss": 14.0,
-   "reason": "SAMPLE: volume expansion and momentum after a verified announcement",
-   "link": "https://finance.yahoo.com/quote/DEMO",
-   "news": "https://example.com/sample",
-   "time": "Mon 02 Nov 2026 11:35 AM AEDT",
-   "expires": "Mon 02 Nov 2026 01:05 PM AEDT"
-  }
- ],
+ "mode": "LIVE",
+ "generated": "Mon 02 Nov 2026 11:38 AM AEDT",
+ "fx_audusd": 0.7034,
+ "signals": [],
  "events": [
   {
-   "title": "SAMPLE: Trump announces new tariffs on imported chips",
-   "source": "Sample Wire",
-   "link": "#",
+   "key": "majorityofamericansdisapproveofhowtrumpishandlingtariffsabcp",
+   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
    "themes": [
-    "semiconductors"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
+   "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "tariffsdiesellambwhyatrumpmidtermdefeatwouldmattertoausfarme",
+   "title": "Tariffs, diesel, lamb: why a Trump midterm defeat would matter to Aus farmers - Farm Online",
+   "source": "Farm Online",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGZDRU1tV3c3RWxUSFZPcDExaHY4ZVNkSlU2M0t3c3ZPOU5GQlJUcFBTWXpmWU9fZmNJcmNOS2JYWUx0eEdkMUhEUm1TR3NWM0dPdnoyaWJrMFo1VmpjMzNkcG5pS2JVN2NfZl9QUF9iN1NoVG9CcU9KUVpYSnNsOW16dk8tSjlTVFlFaGVNNm1WQnJZd0kxQXh1azNVMVlGNzFSMw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "germanstudytrumptariffsfailtocurbustradedeficitidnfinancials",
+   "title": "German study: Trump tariffs fail to curb US trade deficit - IDNFinancials",
+   "source": "IDNFinancials",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0x6ZDY5WjhkMldQTWVSeENpS2FOaUVyVFViaTE4X09COF80ZFQ0U3FjSkhvNGNTY3p0cEZQdDdiU00zSWtrTGJnQ3Q2a3pZcXQ0SHZZdWRKanJZdEd6anJDWGdwREZoczFNdVljTDllYVV2UlgzYjA5QmswQVctck9RLXZuamxCY0FWMVgtZURQaE1sVDhXTWpKODk1dw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpannounces15billioninfarmaidaheadofmidtermsastariffsiran",
+   "title": "Trump announces $15 billion in farm aid ahead of midterms as tariffs, Iran war drive up costs - Firstpost",
+   "source": "Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0RfaWI2TnhmaFRCZ0w3cEhnZG5tdlU4SjdYYjhYNjRDSVRCSjIwWmxTVDZzQmhkV0FST1hRQjVidFZsOVFLek1yQkhCbklSSWI2Y2VrU25FZXhjZmZJakdnTjJjWGtRYy1OWGc1LW1vN3VNemRCWEhzblVweXd6bVFmOGh3WFQ2YjhLa2hEbE1HeDl1b0h2eGpOcFJTX3R2c1FQek5sdTNrYTl4N1BpZ3lpVmRhbTZEZnZJdXg4aTdFOWsxZW9YN2VRTXNjOUloanFnMnlnc2J1R21mVHJlUlZhZU1kd9IB6wFBVV95cUxPc1huXy1qUzBONHM5S2N3WklTdW14SEZ3bGpzaGJMQjRaMkFmVnpvT0sxT3J2d09UT0N0QTMzS0lXZ1pWWDNGVVE1S3AyZ29PMGRQS1d2N0RFdzBmTVg5RldFUlA4NHlHWXVtWXBHTWVCRmx0czU4OWFzM0dsNld0eDdGc3R4aU1BcFlYQVl3QWctb0lyMUktcnAtdkVLY3piaHdLc0NGUjRmbHNOdmZKY0NOYm8ycWJyVnZhSHl0MnRHVUpSbUtya3FpaXppUk0zaHlzMl84eTVJdVo5NUE5cUdPR1k1SVRlUzdZ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "nomajoritynoproblemtrumpplansmoretariffsasdemocratseyecongre",
+   "title": "No majority, no problem: Trump plans more tariffs as Democrats eye Congress shift - India Today",
+   "source": "India Today",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbWlYcGUtV1JDR1k1TGdOTnZlNnd4M0lrLUVDYlBPWTJlR2ZodEJrVlp0b0h5cWxwZDB4VWRtU20zWGJPRmVycGZKS1h4WkVueUI0TEVJRno0ellQanVoYmJVX2tSNjhsNm91RVNSTGRlM2o5aEt5dFc1eFJyWEtGVktrazV6a1ZCeXhyOW1nOE5DcFg5MUsyMk54MlhiaF9fMXc4a0cxTkZRaFdPcWVCTUYwdC1zUDZNZlBkOXN6LVZsdnk1VDNDMTV0SWNWWEpJaU9hVFpUWGp3NUU3cXdIX0NtNWFpZGRJcGxVQjFLd2dFYWhPTlHSAfsBQVVfeXFMT2ZpV2tTNElhQjFiZTN0OFRvaGpmcDcxYjh4eGpEMkJnYlZtZUxlMklPSGtwV0ZlbXpyTFoxOGdFUlNEYUtObjRqSTdZb2hvUGxlRXE4TmtCVGJ1eHdoQmNsb0Y3eHhxRHMxYmMtaW9ZSmw0cmZNcXZqTkt4VThUR3JYSGZSREdYTnpUQjhNRVhlcktXVTRmbm03XzJGbDJoYWdUeGN0ZUYwaDY1MVJ6YW5jRjZsOUY0RUZpdnpJNUdTSDRFTmY3VGRUZWhCZDhZYkczZkR1UHRKYzR5ZC1ub1ZWVlpzTXNGT3NfNm9vOWhvWl91bG5INlVNbG8?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptariffshittingsmallbusinessownersinmultiplewayswkrg",
+   "title": "Trump tariffs hitting small business owners in multiple ways - WKRG",
+   "source": "WKRG",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbjNONTR1ZVRpOEpLLUVvaEYxbEw4M0tyeGlnaE9udnp4ZkM5c3ZyLUg5Skt5TlllXzVXR0xpemF4eFcyNktPSFJGMkxlOFVnbXVIVllfTUVrSnFKdEZFenlzci1vaU5RY19DWXp6R0FLa2FLZndQN3VERVZrbUdCczdxandHX3czWnphdXVXdDfSAZYBQVVfeXFMTXdpbXB5R204R2VfTVNwcWxLc09IcF90SU40SWt1bk8tOFZ5TEtyN054cDR1ekNCUnVSV211UDhZd1c2eWZCY1JtekZjYzM5RUdoTGcwbWwwQkVfZXp3clVuZno0dDcwUW5HVlk2Qk9EVnpqWEZiMVBaZ1gwUkdZaTBOeFJqdlV1TFNoQTRpaGxuLWk4ZC1n?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
+   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
+   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
+   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsayshewantsnvidiasjensenhuangtostayonsciencecouncilwwwt",
+   "title": "Trump Says He Wants Nvidia\u2019s Jensen Huang to Stay on Science Council - www.tokenpost.com",
+   "source": "www.tokenpost.com",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zNlBtUmlZVGJRcHRJVUZSQm5fVVZ1dE5UX0hEXzlTbzd3VXVYbFdxZjFmdUtJazJ4OXVtNWM2SktsSWF5bXpaZmpDLW14aVF4QmxvVWN3?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "opeckeepsdecemberoiloutputtargetssteadyaheadoftoughercallfor",
+   "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "opecleavesoiloutputtargetsunchangedfordecembertablebloomberg",
+   "title": "OPEC+ Leaves Oil Output Targets Unchanged for December (Table) - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDgwcjdaZlhKT2pQa1JSUXNwMC1kZ0VMcXc3VEpoTlkyVVZzc1N6ZE1CR1hvZkY4dXN0YUIxSWlQNm4ySnp4NUxfMHpsYmJBTUlSQ2wyRVZ5bjF2VGxaX1FHa1ZOSk1US3BhcDEzYWR1WEdHZVVacXlNUExFZ1hyNEZLUm1weUExYTltLWxxd1R4S3BIZTFYSkNqQ2ZmUENsUDg0bDJEQQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "fdagreenlights1stnewsunscreeningredientinyearsabcnewsbreakin",
+   "title": "FDA green-lights 1st new sunscreen ingredient in years - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZpRHdKYUR6UGJUZ0dvazR3d1dQZlFhaXB5bFBVU3hGcHYtdm42LUFfNXdqM29mOHhCYUlnYnRzU2wzTFpsX3lkSTNsZlpWcTZLUGxVSDJKSUgyQThlWktqUGd5ZldiLUhRSVcweEFfMVpMX0dHSXNNOVFHRjdTaFVuVGF2cmpJNFdDMU52MVoxY0tlRW44bE16RWZGby1JZW5yZlN30gGrAUFVX3lxTE1tWVdjamUzZkVBUlVuVEFqT3ZiVHZXQXFiTWRzaFJyRkRZcDIxWU42Z3d0MVZodmVtcDk0OU5ha1VKX1VkMWJqN2k3bkxad2VLcWp3cGtRenYyUFRSdW50NE1Kdno2UHRmNjVDcjZnY214akx6cGh3cEVkdG51d0RNYUE0X1B0MjFUWTZ1a0hYNl94SFJqdXZyWTVtMXJ5bnFLY1pIdm5BREVIbw?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "australiasetforfifthratehikeasinflationfightintensifiesbloom",
+   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElZOUJwR3U5czFFd2NrR1p0UU5kaGE1Q2dyNU5ITVRMQ0MzODktQlRXYldTRk11M2pfU1IyTTRtclZjREFVSDF1RzBTNXZCcVhuRUNubHh6YnB0bTQzMlBvWXZ5VEFxdUZmeXRKNkI2SDlMMTMwbHp5TjJhVEJoeUlDLWh3RXdkVkJxQjVYYU0xOExTdms4M05JcHNIQ0o3TVZ0TEhtdHBpRmlWUE5wc2kyWWpWQQ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "thebrutalredistributionattheheartoftherbasinterestratepolicy",
+   "title": "The brutal redistribution at the heart of the RBA's interest rate policy - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1VLTVduQkhPQWI1eEJqTUxLdEswT2pQaE5EZV9zcm5RNTE5NHB5SHREV2hEb0RWb2NqdzR3Y3VSaTRuZTY1WG1MYUtMR2lweFNPOGR1bmhzSlJNV01qTVB1Zk1FeGlFRnQ2T05lU1ExLVFqNFIxZ1NDa1FMNlVncVJ0QW9DV19tY3RkV09lNVE2VDhobkZyZW94OA?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "willthefedraiseinterestratesthisyeardividedeconomistsweighin",
+   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "theuschinatradewarseemstohavesubsidedbutthesenseofcalmismisl",
+   "title": "The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading - The Guardian",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "rheinmetallwinsmajororderforjackalcombatvehiclesasiapacificd",
+   "title": "Rheinmetall wins major order for \u2018Jackal\u2019 combat vehicles - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1dIQ3Bfb0F1dkhqcUZYc0hyZTFMaGRoN2VsQ1RtTmcxVDNjVzUxX0ZlSGhTS25mamZiaG52RlJRSzFLSnBmMXNwandnc0wxRGRhanZ2ZExpRUkxX0txMERMYTUxQWlHVnJXbUlHZDRuelRhVlNTZFF0bm9HTGNsQ3FhXzhLZDBodk5IaVI0TkJPM1VGQVB4TjZzZmtGMWgwNlE?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "indrabacklogtops22billionasdefencerevenuesdoubleandiriscontr",
+   "title": "Indra backlog tops \u20ac22 billion as defence revenues double and IRIS\u00b2 contracts lift orders - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUzBiT2xVY2QwTWtwaFkxck9hMFJTZ0NUMnJXZDNLaW5YWW9lNDVmM3FXOWM3SG5hcDFMNHZBaWhteUV0QXVJZDZKdFBMaTlRODEyYnE5VXY3UVhjTnl0TGUzNFJOOFcwdm16R3d3Z0tncjdvczhMd0dkX1o4ZllvS2dUaHpnTnNCb0d4Yjk2aUdWTjBhcVJIblR3MjBzeTcySGt1cUtTcTJQSThLcW4xc3dlaUJldTd3VmtscTZmQi0?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "SAMPLE",
-   "why": "SAMPLE: costs would consume most of the reward"
+   "sym": "GLD",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 80
+  },
+  {
+   "sym": "ITA",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 75
+  },
+  {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 100
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 100
+  },
+  {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 92
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 72
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 100
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 92
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 84
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 74
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 73
+  },
+  {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 52
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 57
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 77
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 64
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 55
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 46
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 43
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 47
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 47
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 3158 min old)",
+   "score": 47
   }
  ],
  "paper": {
-  "stats": {
-   "USD": {
-    "trades": 2,
-    "win_rate": 50.0,
-    "pnl": 5.0,
-    "avg_win": 19.0,
-    "avg_loss": -14.0,
-    "profit_factor": 1.36,
-    "max_drawdown": 14.0
-   }
-  },
+  "stats": {},
   "by": {
-   "strategy": {
-    "Aggressive momentum (USD)": [
-     1,
-     19.0
-    ],
-    "Conservative confirmation (USD)": [
-     1,
-     -14.0
-    ]
-   },
-   "theme": {
-    "defence (USD)": [
-     1,
-     19.0
-    ],
-    "energy (USD)": [
-     1,
-     -14.0
-    ]
-   },
-   "exchange": {
-    "NASDAQ (USD)": [
-     1,
-     19.0
-    ],
-    "NYSE (USD)": [
-     1,
-     -14.0
-    ]
-   }
+   "strategy": {},
+   "theme": {},
+   "exchange": {}
   },
   "open": [],
-  "closed": [
-   {
-    "sym": "DEMO",
-    "pnl": 19.0,
-    "ccy": "USD",
-    "strategy": "Aggressive momentum",
-    "theme": "defence",
-    "exchange": "NASDAQ",
-    "result": "target"
-   },
-   {
-    "sym": "DEMO2",
-    "pnl": -14.0,
-    "ccy": "USD",
-    "strategy": "Conservative confirmation",
-    "theme": "energy",
-    "exchange": "NYSE",
-    "result": "stop"
-   }
-  ]
+  "closed": []
  },
  "health": {
-  "last_scan": "Mon 02 Nov 2026 11:35 AM AEDT",
-  "news": "sample",
-  "telegram": "ok",
+  "last_scan": "Mon 02 Nov 2026 11:38 AM AEDT",
+  "news": "ok",
+  "telegram": "no new signal",
   "quote_errors": 0
  }
 }
