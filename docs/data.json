@@ -1,0 +1,120 @@
+{
+ "mode": "DEMO",
+ "generated": "Mon 02 Nov 2026 11:18 AM AEDT",
+ "signals": [
+  {
+   "sym": "DEMO",
+   "name": "Sample Defence Co",
+   "exchange": "NASDAQ",
+   "ccy": "USD",
+   "event": "SAMPLE: new government defence contract",
+   "theme": "defence",
+   "strategy": "Aggressive momentum",
+   "score": 85,
+   "entry": 25.4,
+   "stop": 24.6,
+   "target": 26.8,
+   "rr": 1.62,
+   "costs": 2.0,
+   "qty": 15,
+   "net_profit": 19.0,
+   "net_loss": 14.0,
+   "reason": "SAMPLE: volume expansion and momentum after a verified announcement",
+   "link": "https://finance.yahoo.com/quote/DEMO",
+   "news": "https://example.com/sample",
+   "time": "Mon 02 Nov 2026 11:18 AM AEDT",
+   "expires": "Mon 02 Nov 2026 12:48 PM AEDT"
+  }
+ ],
+ "events": [
+  {
+   "title": "SAMPLE: Trump announces new tariffs on imported chips",
+   "source": "Sample Wire",
+   "link": "#",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  }
+ ],
+ "rejected": [
+  {
+   "sym": "SAMPLE",
+   "why": "SAMPLE: costs would consume most of the reward"
+  }
+ ],
+ "paper": {
+  "stats": {
+   "USD": {
+    "trades": 2,
+    "win_rate": 50.0,
+    "pnl": 5.0,
+    "avg_win": 19.0,
+    "avg_loss": -14.0,
+    "profit_factor": 1.36,
+    "max_drawdown": 14.0
+   }
+  },
+  "by": {
+   "strategy": {
+    "Aggressive momentum (USD)": [
+     1,
+     19.0
+    ],
+    "Conservative confirmation (USD)": [
+     1,
+     -14.0
+    ]
+   },
+   "theme": {
+    "defence (USD)": [
+     1,
+     19.0
+    ],
+    "energy (USD)": [
+     1,
+     -14.0
+    ]
+   },
+   "exchange": {
+    "NASDAQ (USD)": [
+     1,
+     19.0
+    ],
+    "NYSE (USD)": [
+     1,
+     -14.0
+    ]
+   }
+  },
+  "open": [],
+  "closed": [
+   {
+    "sym": "DEMO",
+    "pnl": 19.0,
+    "ccy": "USD",
+    "strategy": "Aggressive momentum",
+    "theme": "defence",
+    "exchange": "NASDAQ",
+    "result": "target"
+   },
+   {
+    "sym": "DEMO2",
+    "pnl": -14.0,
+    "ccy": "USD",
+    "strategy": "Conservative confirmation",
+    "theme": "energy",
+    "exchange": "NYSE",
+    "result": "stop"
+   }
+  ]
+ },
+ "health": {
+  "last_scan": "Mon 02 Nov 2026 11:18 AM AEDT",
+  "news": "sample",
+  "telegram": "not configured",
+  "quote_errors": 0
+ }
+}
