@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 09:30 AM AEDT",
- "fx_audusd": 0.7,
+ "generated": "Tue 03 Nov 2026 10:19 AM AEDT",
+ "fx_audusd": 0.6998,
  "signals": [],
  "events": [
   {
@@ -53,10 +53,10 @@
    "pts": 22
   },
   {
-   "key": "wideroversightandhardtorepealtariffstrumpstariffsfacecongres",
-   "title": "Wider Oversight and Hard-to-Repeal Tariffs: Trumps Tariffs Face Congressional Test - Sada News Agency - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51YUt6YThEZkNpYjIyZS1sXzVnYVlfMG9nQmRlb3ZMM2hQRVIxUUZFcXlCOEU3bWVQVnZIcE45UXZONGs2b0xqZmYtbmRVakxJSzNsRkZR?oc=5",
+   "key": "applesreceivedmostofitstrumpreciprocaltariffrefundsappleinsi",
+   "title": "Apple's received most of its Trump reciprocal tariff refunds - AppleInsider",
+   "source": "AppleInsider",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmxjWjJxQUhqSUlVYXBlWktkOVR2MzV4REdlWVgzSWZKeXdwNU5RNDRHblBHQTZuTjRNRzRsZEpwMmlmLW9TUnNiOTFuMXEyR1RPU0I4azJySVNtanJrMlhKTE93eFk3ZGVZR3hITmI1Sl91cGt3cjV3NWpPamgxMjRsOUV1U0s4Wndxb044UUVJa0pDM3ZwN0JKRjVfbDhjZ084bg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,47 +77,22 @@
    "pts": 22
   },
   {
+   "key": "trumpstariffshitalaskaresidentsaseconomicconcernscontinuetog",
+   "title": "Trump's tariffs hit Alaska residents as economic concerns continue to grow - CP24",
+   "source": "CP24",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3VhMUEtRmwzYXpoQ2lPMUtlWkpXaEJPbm5NSk95VERRbTYzX0dwZm5EM1JpVzhNZ1lQbDU3cURnV3A1Qjd5QkZiRFJNQUQ2NEVFcEFXMV92elk5OXpaRnNhb2xDQzdRME10U3hfMFExbXVLWThNUkZJZGVfaU9KTjQyOEczdmIyXzRocXE5SUZDRGh5U1hncWEtWUdHeFR6aFM4SDBReUdrMjdMQUR1Z1pXY05ha09EZFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpscanadaautotariffsbecomeakeyissueinmichigansenateraceau",
    "title": "Trump\u2019s Canada auto tariffs become a key issue in Michigan Senate race - Automotive News",
    "source": "Automotive News",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lzaG1XS2dMdUZLeXhDNGJoNS1Pd2JIQlBKZ1RwcDQxWmxXTEdrLWxBdTczbUFTZEhYLUFrMWFBbVkza3g1WW40R2FiSlhUUktsc0JNN25zMkVRSUI4dWpyMTFnSXZhVHRpSEs2Nm9QMF9EaVFVQkFJeGhVYk5yT1lLempzaHJfU0k4RVoycWRoRmZ2SEE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
-   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpwarnschinarussiaagainstinvolvementiniranwarenergynowcom",
-   "title": "Trump Warns China, Russia Against Involvement in Iran War - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZwd3g5MVF5U0Myc2tTamFTOW1mNjBGdm5PZWdsaXc0Ym5IbktKYmlNUlo3WmJiOUVRYlJiYjJSSkFtWk1WTDFDd09MQjZjZEoxVWczelBjQ2NCMkE1NjFUck9pRXYzLWVfa0FrLTM4QmlGek1PNGNQZjZ6RlF0aEdUOC1PaDBGSDlJZ0RiYnM?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
-   "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXNBMGpFek5ZYnhOajJlVUxIRlByV2l3T2l5bVhxQ2tZbDh2SE52aHhBLTdjT3VYUnBNTVNOQk9RcDlyTU14eTNTNVRnS0xRam1DcVJOQ25wcHFrSm80eXg2amMyTC1hZUFfZG4wMnh3T1pxSjIwRW5pb0V4S3FmemNzRktKNUJIQ1FKRTI1amxXUUM1QzRsajJ3RWJ4bXk4Ty1mX005c1RYMFZ3RFB1ai1zUUtCTm9DQ3JadFNn?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -138,16 +113,76 @@
    "pts": 22
   },
   {
-   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
+   "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
+   "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
+   "source": "The Independent",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXNBMGpFek5ZYnhOajJlVUxIRlByV2l3T2l5bVhxQ2tZbDh2SE52aHhBLTdjT3VYUnBNTVNOQk9RcDlyTU14eTNTNVRnS0xRam1DcVJOQ25wcHFrSm80eXg2amMyTC1hZUFfZG4wMnh3T1pxSjIwRW5pb0V4S3FmemNzRktKNUJIQ1FKRTI1amxXUUM1QzRsajJ3RWJ4bXk4Ty1mX005c1RYMFZ3RFB1ai1zUUtCTm9DQ3JadFNn?oc=5",
    "themes": [
     "geopolitics"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
+  },
+  {
+   "key": "trumpvancesignalprogressintalkswithirantoavertrenewedwarnaha",
+   "title": "Trump, Vance signal progress in talks with Iran to avert renewed war - Naharnet",
+   "source": "Naharnet",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUV4TGJBWWJXLXpSdlo2cU9ndmo2d1BjM3FsS2FiYkxuSnRhRkJCLWlwNEZkYWY3Mk9QYmFQSEFYTjliOXYtVkYtc0N3NWUwWjExQTJsRXQ3UFlzT25DazN1STdFVjN2V1hJOFRRRGp5UFBEQ1h2a3dEWXZDRjNfa25ULVJXc0I3M3F4cW8wQTJWU0ozYmc0cDEyWGNrRl85Y1NkZGtpb01DX2dsVnlv?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpdownplaysiranstrikesandpushestalksasoilpricesfallchosun",
+   "title": "Trump downplays Iran strikes and pushes talks as oil prices fall - Chosunbiz",
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2d4NnBSRkxnV1A3OVdXM25ZX2s0RldRRjRkZnRxNG5JWlA3QW9uMVFRMVhhU2ZUM2VYb196c2hYMFVSeHNvRm55TDZZY0tKdjQ0NWxzVXBvS3dYZDdEUXRtdzhyM2paOE95cEs0VjRJUGFGd0Z4RWpXRXlGdkZ5aUl0ekVaRW5L0gGcAUFVX3lxTE5BNWRzdzE3T29vcTkweVZmSnJqM05rQkFwMWFfTzNEMXVhVUpPeXcwMUxubGdBbzlvZHIwMUtsQ0dQWkR3UTdxNUprZVJqWV9jV2haSE1tSVBwa1FTVE0zUXBwSmkxSkdWMG5FRERMT3A4ZVhsUGxfVHlfWUI5cWgtYUdmOFdicFY1bHdiamZ4NUxvdlp1SGlQWTBpNw?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptoutsrecorddropinoilpricesonelectionevesaysiranwantsase",
+   "title": "Trump touts \u2018record\u2019 drop in oil prices on election eve, says Iran \u2018wants a settlement\u2019 - Washington Examiner",
+   "source": "Washington Examiner",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbkZvQlNrTUZuMEtaMXVmRE1pWWF0cTVtNVF3MG1wa3hJbmhGWXFaTVR1NnpnTW5sSjVJY3k3cjZWZWtoQ05GRnRUMndOMGtiZU5UY0RuVFAxNzZlQWo4MExzTjlVV3lwUlVKNDdlamU1RHNidExSNEQzZkFhd0xJNG10MDNUdmdCVXJUVDBheFhmNVpraHZpaEZCcGd1TElXTFBLbUlxM0pQVGhaaUZWa0pndGNlQm85ejNJQzZNek96SzgwZ3hhaFZ4WDBxNmVhRW5vLVJlTnJxaVgxRGdUZTZFeFFIeXZjUjBNTQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "therbasinterestratedecisionisabalancingactbetweenchristmasun",
+   "title": "The RBA's interest rate decision is a balancing act between Christmas, unemployment, and a lame duck Trump - Crikey",
+   "source": "Crikey",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjhEQkgyU3FwNTgySVFZQUxwQ1RnMkV4c0pTX1htVmREZmRYRERIQjA0Vk51UkhyYzZTcktfMG0wSVJzRUxQTmFSMjBfQWx6Z3R4dE00Wi1hNmdhd19mVnBuWUNpMi04clhKMUlUeXUzNXprNTRDQUJONWtwd29fZjAzRnNFWGh0X0hiNUlud09BTGxJRGMxeW5lZkhCaS1BdTJVWXNrU245bkhYcDU3UkpCOA?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thousandsofjobsinniarecomingfromdefencecontractssaysminister",
+   "title": "'Thousands' of jobs in NI are coming from defence contracts, says minister - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mU2ZmU0EzRlhUdl9SWlVDdld3eUNxbEhXTzhJSUVmM1R0M1FvVVJaa29JN3NBR2lYNWxhaVQwNDh5Mks0WGdDcFR4ekJFR056VjVnajhEZGFuV2c?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "freedfromopecquotasuaesaysoilexportshaverisenasithostsindust",
@@ -168,18 +203,6 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG11NU5pb3lsQ0x5amc3cUlHTVFMQWJDdDJPQWg2RVpDeWRfSjU4NGdBX19MXzRiY0lrRmg4cElQZ0lvRF9UdlNFYXJPdUQ5YWUyVEhHd0lGcmhTUndzQ1Q0M1NNeHYtbFpHQnR0SVpscG0xdEZ3eXNhclJXX1RoQWJHRWhHTTU2WEJWZTZ4MzhPVVJTalYzQlRBdmN3Tmx3XzRJLTlkVExrYkxKTUxwSQ?oc=5",
    "themes": [
     "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "australiasreservebanktippedtohikeratesagainasinflationremain",
-   "title": "Australia\u2019s Reserve Bank Tipped to Hike Rates Again As Inflation Remains Stubborn - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXZsQmVORmd5amNvQWJsUFBvc2VDakUtbjV0YTN0bUlSXzExTEhpeXhtajV2dVZhQ1lGRnlYNkxHSFM2bUZleE5kd0hqS296YWhGSU1mVDhSbi1sUWdXdmhYYzNEam04cUJRQUU4RU1oa2hhRHc1MVRZX2pWMGVSZ082MDhOUVhEaV9DZHBrZlBfbU9Ia0M5VzdGNktJRzVhY3h5OXFEXzU0TndRVkFnR3V0YXlqSDk2cTlURmdMS0w3YmxQ?oc=5",
-   "themes": [
-    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -210,34 +233,10 @@
    "pts": 12
   },
   {
-   "key": "howusborderstatemidtermracesareshapingupamidinsanetariffsglo",
-   "title": "How U.S. border state midterm races are shaping up amid \u2018insane tariffs\u2019 - Global News",
-   "source": "Global News",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lYnRFNkFwWGZCSklRd3FPYXl0TWhMZEhtaVFOdWRJaTUzcEZBWW9UaS1ISG5WaWVNVkp2OU5pLWktU2hXYll0WFdjQmpmbmhCS3c2SV9QSHFTYXpQcllNcFNTZTlBR2MxSFJ3?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "wardepartmentcommitsupto450mloantonerosmiragenews",
    "title": "War Department Commits Up to $450M Loan to Neros - Mirage News",
    "source": "Mirage News",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW1TTUJMUnJZb20wc0NqS1VDUlhrdUNtU25hbmpDOFJDT1hsUG9kUDdpUVAwQ2hCZ0NXNnNHSVlybFptRXR0NjBHY0ZoTU1lMUFvajhTNGdRU3FpMk1XTUM2VXRIaVk0ZWxURFNxYW1NVHpxZ3ZzeGdZWGV0eWd6VkJzUXdDMkZnSTQw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "popeleosaidonsundayhehopedcooperationbetweenrussiaandukraine",
-   "title": "Pope Leo said on Sunday he hoped cooperation between Russia and Ukraine in implementing a ceasefire in the Russian-occupied Ukrainian town of Oleshky would pave the way for broader peace efforts. Ukraine and Russia said on October 23 they had agr - Facebook",
-   "source": "Facebook",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVlCaUlsMXlRUGxaU1FGYjFyWWpuRHFSTFp4OV81MnhKMHZ6S1VQUFpsNko2UUhnRlVvZXRTNmc1djd3R1RDWldXTFFPbk9lWm9LX2pheW5YMDRHVUszLXBJV0RvMjI3ZlRhT2pJUFpJOHdqRENZUUs2YlJkQ25kTjk5VnZ6X3VJSlhjWGNubFduYnVfWVRXV2pJYjB6NTE4S0RjWDNjb0NoekkydVR3dDdEdnpjQjN4WmU2TnNGNm5mQ1YtN3NPVEY1dC1sSVR0eUxv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -249,88 +248,88 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 69
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 92
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 44
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 44
-  },
-  {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 57
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 91 min old)",
+   "why": "stale quote / market closed (last price 140 min old)",
    "score": 47
   },
   {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1039 min old)",
-   "score": 92
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1039 min old)",
-   "score": 72
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 47
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 91 min old)",
+   "why": "stale quote / market closed (last price 140 min old)",
    "score": 84
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 79
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 81
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 52
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 47
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 57
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 45
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 1088 min old)",
+   "score": 92
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 1088 min old)",
+   "score": 72
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 45
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 38
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 1088 min old)",
+   "score": 38
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 91 min old)",
+   "why": "stale quote / market closed (last price 140 min old)",
    "score": 48
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 91 min old)",
+   "why": "stale quote / market closed (last price 140 min old)",
    "score": 45
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 55
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 48
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 91 min old)",
-   "score": 36
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1041 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 140 min old)",
+   "score": 49
   }
  ],
  "paper": {
@@ -344,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 09:30 AM AEDT",
+  "last_scan": "Tue 03 Nov 2026 10:19 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
