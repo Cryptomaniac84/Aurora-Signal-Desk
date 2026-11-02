@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 01:50 AM AEDT",
- "fx_audusd": 0.7018,
+ "generated": "Tue 03 Nov 2026 02:49 AM AEDT",
+ "fx_audusd": 0.702,
  "signals": [],
  "events": [
+  {
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "trumpscanadaautotariffsbecomeakeyissueinmichigansenateraceau",
    "title": "Trump\u2019s Canada auto tariffs become a key issue in Michigan Senate race - Automotive News",
@@ -29,10 +41,10 @@
    "pts": 22
   },
   {
-   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
-   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmlhejU0a0tXb1Q4cjJqS0JOM2VfWEtKRVZNUklkOUZYZ2lPRjVqc3owVnJLUEswM1BmVldVTkt1WmlRVG9wMW5BNUJQZHlYSUdYcTdMOS13ZzdHYjJYRGFPdjhKMDI3OG4yN2kwTW15WS1NOHlDaWNKUW1CVkw4Qnl3dmtXYkdNQWpxX3J5T05paVZpbFFHYU82MFdQUjg0?oc=5",
+   "key": "nongshimsusunitsuesfortrumptariffrefundsfirstcaseinsouthkore",
+   "title": "Nongshim's U.S. Unit Sues for Trump Tariff Refunds, First Case in South Korea's Food Industry - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wcVM2aFQ0RkhfZk11czZHY0M1UDhCNFhqUGtYT2lQb3Z3cmpJS3J2UjVWYWtnUDFxNTZTLWhYeFY4cVptX2NlRVh2N3hfMV90cjVGYmhiQk9UYURlR0pnR2IyUllrYWFhWXlrLXZva3lkLXBMMVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -78,8 +90,8 @@
   },
   {
    "key": "chinas5000tondiggingmachinesareatradewarrisktoindiabloomberg",
-   "title": "China\u2019s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg",
-   "source": "Bloomberg",
+   "title": "China\u2019s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg.com",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5",
    "themes": [
     "geopolitics"
@@ -101,10 +113,22 @@
    "pts": 12
   },
   {
-   "key": "teslasamsungopposenewustariffsonvietnamasprobedeadlinenearsy",
-   "title": "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears - Yahoo Finance UK",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVoyeVc1c0QydElzdVJnTlgyQXNMR3pZOERaX3FuOER2LVczTE9CTklXVl96Q2lPdjdjdFVSV2taRERSMmlqcVdXNHVORTh6RkV1aXZ6cjhNUG5TVlI0eWhmMkNoakM2TlhLSGpXOGFTWUZlWmxhdmgyd2lhSUgzZmtjN09hUEk?oc=5",
+   "key": "canadatariffshowardlutnickdrivingresumedtalkssourcessayctvne",
+   "title": "Canada tariffs: Howard Lutnick driving resumed talks, sources say - CTV News",
+   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTdveEJiWFdNR1Nlb3Bjd2RfVzd4YzNTVTdjX2xHbDhkV1p2S0xzQ1M1YWxyRU9DVHNwVUQ0THZhcjA1N3ZqMWFza1dmZHV4Qk4yMHJTTXFSTndpZGRIVHlteFpLekk3U1A3S3dKbG1EZVZ6SzBHVEg1QzR3WGhIMHpYMlhCMEJ2UXRJcDNIeVhMTFpscnIwQTdYN0l6YWN6Y29HZVRwV1NfWFhjX1E5emY3NFp4dw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "wardepartmentcommitsupto450mloantonerosmiragenews",
+   "title": "War Department Commits Up to $450M Loan to Neros - Mirage News",
+   "source": "Mirage News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW1TTUJMUnJZb20wc0NqS1VDUlhrdUNtU25hbmpDOFJDT1hsUG9kUDdpUVAwQ2hCZ0NXNnNHSVlybFptRXR0NjBHY0ZoTU1lMUFvajhTNGdRU3FpMk1XTUM2VXRIaVk0ZWxURFNxYW1NVHpxZ3ZzeGdZWGV0eWd6VkJzUXdDMkZnSTQw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,18 +173,6 @@
    "pts": 12
   },
   {
-   "key": "bigaatmanirbharpushdefenceministryinksrs53866crcontractwithg",
-   "title": "Big Aatmanirbhar push: Defence ministry inks Rs 53,866cr contract with GRSE & GSL for 8 next-generation c - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQandqV1E3MWNESi12UGlNbVNnUW0zd2RHWS1mSGJwbUJDeDJ2MmxBV3N4QXBWMGhSY2lqNUFRRkJQdU16UkQwc0tSYTh4dkI5YjhsZHh6bGQ0YllTUnVjUDRtV3Z0RkVBWWNkWlJILTNBYVJFRWtOa1ZkT3QtNG9uMlVfVk1SVlVCclByMGxUSHdWcGI3XzRhY1BpbjdKWkNadFR2WUhMbXdLamVLaVFFbGczTlhYV0d4TkNVWFRiRXpGWHJnV2twdGotakJpRERtMEE5d0NoNTdxNFo3Q2V1M0tTd2p0eTNUMGR0TFFHZU5PTWdGM0xCR1pjYklVVnhWRjNkMDZlcDlKa09TZnVEVFQwU3J3eU3SAZwCQVVfeXFMT3UxM3lPOXowc01Bc19jUXFFa2F6VE5YM2Y4bGhvWldfeXR3OTM4TDJCVnZpZnpuM0tlU2xrUGtuQ2VmajRsVzNOZnczV2dNblpudVlKeXVvb3lPSWV3bG9wcXd6Xzg3X0VlTXlHenBHVlVqbFN5ZWNJZmctRmJDUFlOOG9tVGhWOVlTTWZIS2F4eHpmbl9YLWJ6QWpvY2NCaUlVZHMtaTVpaGg3bXdSWVhXUXozREVrajZwcHV2R1VkZ1FQTUdWUEdoQ0tSbV9lcE1Fblk2Uy1mQ3lQVEp0c2NaNjlxLUUtc1lRZVdKdjB1ZXI2ak41ZHFDQU1VYzUxWTJaeGZocHBvUG85WUYzc3JhNkpuTXZnMHpiT2E?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "ministryofdefenceawards5386650crorecorvettecontractsmultibag",
    "title": "Ministry of Defence awards \u20b953,866.50 crore corvette contracts - Multibagg AI",
    "source": "Multibagg AI",
@@ -173,22 +185,10 @@
    "pts": 12
   },
   {
-   "key": "navytoreceive8newwarshipsarmedwithmissilessensors2indiancomp",
-   "title": "Navy to receive 8 new warships armed with missiles, sensors: 2 Indian companies to build them; Defence Mini... - Bhaskar English",
-   "source": "Bhaskar English",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEVZN2NRdDMxZVh2TUc3SkFIRW5Bb2xaT2lNd3E0cGp4MjNyUERLbWdVOXVFS1NjOWZUdE9lME9Qc0lsMFh5UVU0bEZyOXpDTVZOeXU4amxfVWREdXdwMG04akMwZmtFMl9SRGtDd1pvdUJDVVR3eHVOYWFlV28wZTdBUklsTkk1WXlWZHNYU3VmQ0xHUWdWYTRnVHBnTU1iV2trU20wYVJaaUZPWU44R2tINE1RMzkxMXNteWZR0gHDAUFVX3lxTE83bWJjcVg5eVB6bzJ4VDhNbVZrb1diSXVHTXE0OWdpc2NnLTlhOTdWR0IzUmk2UEJ2ekpjRHh6TFotZlNObXhzdXk4blh2bWpJYXE5cVdsZENSRjRsNEZWSUtDSTF6VmdGUlFrM1hDcGlPekZNVzh0ZWNsaG1EcUQ0VXJERXB5UzM3bXBteTBvWmZhNUVQcDc1WEtEbllfY1MxRDdMY3o2U29wa1ZwbU5zNGhXeWtpY0lOX2NIc2RQUXJ0bw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "ministryofdefencesealscontractsworthover53000croretoprocuree",
-   "title": "Ministry of Defence seals contracts worth over \u20b953,000 crore to procure eight warships for Navy - The Hindu",
-   "source": "The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWmZPQkVLeVcyeEkwNGxWUEVYMlN6RUZIZ1lLMkpILUJqcF9ta2N2MjZRay04LXA5WE1VWkQwRFg1X0N3Um1ZMEM4UVVNTThVVk5RTXN5aGNZalRpQWZxa2xfVWVVM0JTaHBYRXE2dDZjNGR1aktPZjBPU3ZPWXBCSEdvMXNyNV8zVHBtZ0V3MXV0c2xzR3ItQVYzWHIxdEZJdmMwY29jd1B6bm9GYkFMYVV0YkRQdHN3bUtINWh6MENmXzRTVndjalZ5QkRYeGZuVlc0UFd1RmhsUlNMbTZsM1BUNlhmNUHSAe4BQVVfeXFMTzJZcHNxMjBRSlg1b3drSHB4WTZydGQwU3BFYXNJOEw0STQ0WXI4ajNraVMtNFRXRjhNY3dxZ0NsYm9XTFhvbEd2a2xURVZ2WjM2OG4zOVJiUG0wOHg2aTh6NS1ZQmJVVDRBMEJoaUN1NVd6c1gxcmdUUHpTd040MUNYOC1GRzlabzBTQy1fQkFienc2cXd4cU1vck9QZV8ta2lpOHp2TEdUc0pjZmFOc2F5M3NibkpwX2pBMzdZMTZ4WEE0MlNhMGpXOFZVTzRELVUxbjA4Vk5kb2o1NzFGYy1PbXNmTWJBY3BTcjg4UQ?oc=5",
+   "key": "bigaatmanirbharpushdefenceministryinksrs53866crcontractwithg",
+   "title": "Big Aatmanirbhar push: Defence ministry inks Rs 53,866cr contract with GRSE & GSL for 8 next-generation c - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQandqV1E3MWNESi12UGlNbVNnUW0zd2RHWS1mSGJwbUJDeDJ2MmxBV3N4QXBWMGhSY2lqNUFRRkJQdU16UkQwc0tSYTh4dkI5YjhsZHh6bGQ0YllTUnVjUDRtV3Z0RkVBWWNkWlJILTNBYVJFRWtOa1ZkT3QtNG9uMlVfVk1SVlVCclByMGxUSHdWcGI3XzRhY1BpbjdKWkNadFR2WUhMbXdLamVLaVFFbGczTlhYV0d4TkNVWFRiRXpGWHJnV2twdGotakJpRERtMEE5d0NoNTdxNFo3Q2V1M0tTd2p0eTNUMGR0TFFHZU5PTWdGM0xCR1pjYklVVnhWRjNkMDZlcDlKa09TZnVEVFQwU3J3eU3SAZwCQVVfeXFMT3UxM3lPOXowc01Bc19jUXFFa2F6VE5YM2Y4bGhvWldfeXR3OTM4TDJCVnZpZnpuM0tlU2xrUGtuQ2VmajRsVzNOZnczV2dNblpudVlKeXVvb3lPSWV3bG9wcXd6Xzg3X0VlTXlHenBHVlVqbFN5ZWNJZmctRmJDUFlOOG9tVGhWOVlTTWZIS2F4eHpmbl9YLWJ6QWpvY2NCaUlVZHMtaTVpaGg3bXdSWVhXUXozREVrajZwcHV2R1VkZ1FQTUdWUEdoQ0tSbV9lcE1Fblk2Uy1mQ3lQVEp0c2NaNjlxLUUtc1lRZVdKdjB1ZXI2ak41ZHFDQU1VYzUxWTJaeGZocHBvUG85WUYzc3JhNkpuTXZnMHpiT2E?oc=5",
    "themes": [
     "defence"
    ],
@@ -221,10 +221,10 @@
    "pts": 12
   },
   {
-   "key": "defenceministrysignsrs53866crorecontractsforindiannavys8corv",
-   "title": "Defence Ministry signs Rs 53,866 crore contracts for Indian Navy's 8 corvettes - ANI News",
-   "source": "ANI News",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2lWYlloUklNbk1xRHd5bU5iRnhDVWlVb2RvN2pTbTAzcE16c1Z2dmZzempxY25XOW42OWVZODBCTXhlMWJRRTBZVXU3ZHhYOTdRenVEZXNlS3otdXloS212T2lBZG9NeXVDX051NDRlelVvMW9SZ2JfNFpnNXZvaHNGN3V4azdQdDg1b2FGZkhPSktrQjdJRE9SRHRJd0dNdUpJSC1NVWhBQ0xVbTNneFRhOFhNdnFUSGdmdVRoODJYbDRvT3c?oc=5",
+   "key": "navytoreceive8newwarshipsarmedwithmissilessensors2indiancomp",
+   "title": "Navy to receive 8 new warships armed with missiles, sensors: 2 Indian companies to build them; Defence Mini... - Bhaskar English",
+   "source": "Bhaskar English",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEVZN2NRdDMxZVh2TUc3SkFIRW5Bb2xaT2lNd3E0cGp4MjNyUERLbWdVOXVFS1NjOWZUdE9lME9Qc0lsMFh5UVU0bEZyOXpDTVZOeXU4amxfVWREdXdwMG04akMwZmtFMl9SRGtDd1pvdUJDVVR3eHVOYWFlV28wZTdBUklsTkk1WXlWZHNYU3VmQ0xHUWdWYTRnVHBnTU1iV2trU20wYVJaaUZPWU44R2tINE1RMzkxMXNteWZR0gHDAUFVX3lxTE83bWJjcVg5eVB6bzJ4VDhNbVZrb1diSXVHTXE0OWdpc2NnLTlhOTdWR0IzUmk2UEJ2ekpjRHh6TFotZlNObXhzdXk4blh2bWpJYXE5cVdsZENSRjRsNEZWSUtDSTF6VmdGUlFrM1hDcGlPekZNVzh0ZWNsaG1EcUQ0VXJERXB5UzM3bXBteTBvWmZhNUVQcDc1WEtEbllfY1MxRDdMY3o2U29wa1ZwbU5zNGhXeWtpY0lOX2NIc2RQUXJ0bw?oc=5",
    "themes": [
     "defence"
    ],
@@ -233,10 +233,10 @@
    "pts": 12
   },
   {
-   "key": "boeingceosaysorderfor22moref15exfightersbringstotalundercont",
-   "title": "Boeing CEO says order for 22 more F-15EX fighters brings total under contract to 120 - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGFyRHVCM3pvUWdIMERrTWRlYkdXcFByZGIwMG85MWE3TjNGYkJFYzFGekIxNWgtZmlrQnlvd3N2cVpXWGlZYnlQWmxRUC04cW95ZkVBWXpVRmdkZGpNa3BMUGpBakhqMmtOX2wzaVdTREdidWhSUUtvbFA3Y29HRm9WcVV2OUJ0a0JiTzM1dDFpRGZsdFh3OWs5d3Z5MHRMRy1nRjYtRXAya1NfSkFlOHZjZw?oc=5",
+   "key": "ministryofdefencesealscontractsworthover53000croretoprocuree",
+   "title": "Ministry of Defence seals contracts worth over \u20b953,000 crore to procure eight warships for Navy - The Hindu",
+   "source": "The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWmZPQkVLeVcyeEkwNGxWUEVYMlN6RUZIZ1lLMkpILUJqcF9ta2N2MjZRay04LXA5WE1VWkQwRFg1X0N3Um1ZMEM4UVVNTThVVk5RTXN5aGNZalRpQWZxa2xfVWVVM0JTaHBYRXE2dDZjNGR1aktPZjBPU3ZPWXBCSEdvMXNyNV8zVHBtZ0V3MXV0c2xzR3ItQVYzWHIxdEZJdmMwY29jd1B6bm9GYkFMYVV0YkRQdHN3bUtINWh6MENmXzRTVndjalZ5QkRYeGZuVlc0UFd1RmhsUlNMbTZsM1BUNlhmNUHSAe4BQVVfeXFMTzJZcHNxMjBRSlg1b3drSHB4WTZydGQwU3BFYXNJOEw0STQ0WXI4ajNraVMtNFRXRjhNY3dxZ0NsYm9XTFhvbEd2a2xURVZ2WjM2OG4zOVJiUG0wOHg2aTh6NS1ZQmJVVDRBMEJoaUN1NVd6c1gxcmdUUHpTd040MUNYOC1GRzlabzBTQy1fQkFienc2cXd4cU1vck9QZV8ta2lpOHp2TEdUc0pjZmFOc2F5M3NibkpwX2pBMzdZMTZ4WEE0MlNhMGpXOFZVTzRELVUxbjA4Vk5kb2o1NzFGYy1PbXNmTWJBY3BTcjg4UQ?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,72 +248,72 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 60
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 73
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 59
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 65
   },
   {
    "sym": "XLE",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 48
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 55
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 62
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 60
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 39
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 80
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 78
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 76
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 57
+   "score": 64
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 57
+   "why": "price not above VWAP and 20-bar average",
+   "score": 64
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 581 min old)",
+   "why": "stale quote / market closed (last price 640 min old)",
    "score": 38
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 32
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 44
   },
   {
    "sym": "CVX",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 29
+   "score": 44
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 638 min old)",
    "score": 82
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 638 min old)",
    "score": 62
   }
  ],
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 01:50 AM AEDT",
+  "last_scan": "Tue 03 Nov 2026 02:49 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
