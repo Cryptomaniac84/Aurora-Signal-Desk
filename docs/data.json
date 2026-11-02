@@ -1,6 +1,6 @@
 {
  "mode": "DEMO",
- "generated": "Mon 02 Nov 2026 11:18 AM AEDT",
+ "generated": "Mon 02 Nov 2026 11:35 AM AEDT",
  "signals": [
   {
    "sym": "DEMO",
@@ -22,8 +22,8 @@
    "reason": "SAMPLE: volume expansion and momentum after a verified announcement",
    "link": "https://finance.yahoo.com/quote/DEMO",
    "news": "https://example.com/sample",
-   "time": "Mon 02 Nov 2026 11:18 AM AEDT",
-   "expires": "Mon 02 Nov 2026 12:48 PM AEDT"
+   "time": "Mon 02 Nov 2026 11:35 AM AEDT",
+   "expires": "Mon 02 Nov 2026 01:05 PM AEDT"
   }
  ],
  "events": [
@@ -112,9 +112,9 @@
   ]
  },
  "health": {
-  "last_scan": "Mon 02 Nov 2026 11:18 AM AEDT",
+  "last_scan": "Mon 02 Nov 2026 11:35 AM AEDT",
   "news": "sample",
-  "telegram": "not configured",
+  "telegram": "ok",
   "quote_errors": 0
  }
 }
