@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 02 Nov 2026 03:49 PM AEDT",
- "fx_audusd": 0.7022,
+ "generated": "Mon 02 Nov 2026 04:50 PM AEDT",
+ "fx_audusd": 0.7024,
  "signals": [],
  "events": [
   {
@@ -68,7 +68,7 @@
    "key": "ourfarmerswillpaynotariffstrumpsaysuscanadahaveconceptofanew",
    "title": "'Our farmers will pay no tariffs\u2019: Trump says US, Canada have 'concept' of a new trade deal - The Economic Times",
    "source": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPS1VNOXRILVN6MW9YcVFLdExrSGNlU0lYRXpUeWpHWVN1WHFxVm9JZTEwNEp0VVJWVnVFcVNPa0RQVzRpSXBTdEh4YXl1bU1TUjNsek5hMVljS0FETWRzQWJMU2tUMl9TS1pxZ1NUN3lZek00aTZQWEsyZEJsSWJVYURlWHVxME1vTXZGd0hLMk9HMTRBTV9aclAyY0ZGVnRTYmZHNkNyRWtVWXF6REJnWlJIbm9zTlFkVEdXcHZSTUloRXh3RUZBUmlmVkU4YjFQUHN6RnNuMnlnQ2xQc093c3dobjVwY1ZLUHBraXRpeTlPZG9vZGxiMXFEVUt6Ty1ka0xWQ1dQb9IBgAJBVV95cUxNYnJfM0w5dmp2aFFKTjJKemtUbTV0Y0Z3RzFKZl84SUprOHBJQVViRmJTODhoSno3c0NiS2ZwYkRxOFI2VHFtenQ1cUM5dzlUVl9NTnpVLVl3ZmNZNUo5dGJ2OFFZbThiNWpCbWttWFJDNlpqM0FEX3ZVel80bnVNeVFSZ2JXWmdPbkd6aDN0U2puRVJmNkJ6RC1wbkE4ekJCTGtmTV85RVdrckJnNmpIU0JQY2pLQ0RrbHpHQVAxT1JtU0tVWktjOXMzQ0dEMHdBanFfNURYSVZ5dF9LeUh1cUtFdlV1SFdOLVR6QXhIektoZzIzSV9xS0phYXdvS1lY?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOS1dnVGxKRlE5djdGclZWOFBwTVlLMFF4NUd0Z0tRVVdieVJ5OE5IVmRTck5WVXFNdTh2dko1TGE3dEFvZXctLTJnV1pXUEcwSVFtblJ2d3hUSHJ0YnRBWDdqcl95Q2otbElVMGVxMk01LTRpUlh6TTVFVDd5czAwa3JZUWREMFlTMm04YmdnWDZoR1dZVGNTTVVGU0pfdWM0UFRrNjlmUVk2TkJmOEVfU2NzbFdDdFVna19aMGNTQXEzaHl6ZS1fM3I0QjhzS2lBMXFwMEp0b09HX2hXeEdTRk0yOXNKbk1Hcm5tS1AzMHlSQmNNM0hRQVZ0WdIBgAJBVV95cUxNYnJfM0w5dmp2aFFKTjJKemtUbTV0Y0Z3RzFKZl84SUprOHBJQVViRmJTODhoSno3c0NiS2ZwYkRxOFI2VHFtenQ1cUM5dzlUVl9NTnpVLVl3ZmNZNUo5dGJ2OFFZbThiNWpCbWttWFJDNlpqM0FEX3ZVel80bnVNeVFSZ2JXWmdPbkd6aDN0U2puRVJmNkJ6RC1wbkE4ekJCTGtmTV85RVdrckJnNmpIU0JQY2pLQ0RrbHpHQVAxT1JtU0tVWktjOXMzQ0dEMHdBanFfNURYSVZ5dF9LeUh1cUtFdlV1SFdOLVR6QXhIektoZzIzSV9xS0phYXdvS1lY?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,6 +113,30 @@
    "pts": 20
   },
   {
+   "key": "bankofenglandsettoraiseratesto4inpushtoquellinflationfinanci",
+   "title": "Bank of England set to raise rates to 4% in push to quell inflation - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1dtRFFpVXU3ZkM4b1RrUU10VDM0R0VjcWY1b09pZ0ZWUzE2Ym9OZVIxT2hBMDRLU0k0S0tsSVlwU3FIX2NMODNlWENHbHpvZ1pEWUJMQS1FSVRJeGFwakt2UEVVanhIU3NqTktnS1BhWDlTMVdraDJLaU5LLW03dnlRbHk?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "thebankofenglandpondersanewnormalforinterestratesbloomberg",
+   "title": "The Bank of England Ponders a New Normal for Interest Rates - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkJQbGJCR3owYk1VbV9oUlRTcVl4RmNuSzBtNFhhYldvcFVrcEZEODk5TmpRdzJRa0ZwV2tLTDZqLWxNUlVfTTZBTERqYmJRVFFhS0xoTDZTNjd6YWFYLWRpbUFPNktvam0td0hMQm1DZmlFZnY1azZrblpJX29QUVlhVTIzczNiU1pUcUNHYmRGN09ZNUQyUndsT1dLRFBzTWNuWDJwOWNBUExUSWRZ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "chinas5000tondiggingmachinesareatradewarrisktoindiabloomberg",
    "title": "China\u2019s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg",
    "source": "Bloomberg",
@@ -137,10 +161,10 @@
    "pts": 12
   },
   {
-   "key": "longesttruceofukrainewarinkhersonregionsettoendthenewspakist",
-   "title": "Longest truce of Ukraine war, in Kherson region, set to end - The News Pakistan",
-   "source": "The News Pakistan",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHQxNVl3a1J6d1FtNWVQeVFQNWVuZjlmOU9Rc2o0MHctaG5yT0p5TXV2WGZtVGJRZHE2bHJwbWFOWDZNOG02MzU5U1JyS3JJMjZKbzJWYnozYWVJTkZtS3hjejhWNlpLT1V6UEdzcVZ2R1VrSV9oSlI3ZkJxcWxKSTgwSXo5R2dOY1RmTGk3cF96YVR3dHNSNzZB?oc=5",
+   "key": "popeleosaidonsundayhehopedcooperationbetweenrussiaandukraine",
+   "title": "Pope Leo said on Sunday he hoped cooperation between Russia and Ukraine in implementing a ceasefire in the Russian-occupied Ukrainian town of Oleshky would pave the way for broader peace efforts. Ukraine and Russia said on October 23 they had agr - Facebook",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVlCaUlsMXlRUGxaU1FGYjFyWWpuRHFSTFp4OV81MnhKMHZ6S1VQUFpsNko2UUhnRlVvZXRTNmc1djd3R1RDWldXTFFPbk9lWm9LX2pheW5YMDRHVUszLXBJV0RvMjI3ZlRhT2pJUFpJOHdqRENZUUs2YlJkQ25kTjk5VnZ6X3VJSlhjWGNubFduYnVfWVRXV2pJYjB6NTE4S0RjWDNjb0NoekkydVR3dDdEdnpjQjN4WmU2TnNGNm5mQ1YtN3NPVEY1dC1sSVR0eUxv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,12 +173,12 @@
    "pts": 12
   },
   {
-   "key": "rheinmetallwinsmajororderforjackalcombatvehiclesasiapacificd",
-   "title": "Rheinmetall wins major order for \u2018Jackal\u2019 combat vehicles - Asia Pacific Defence Reporter",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1dIQ3Bfb0F1dkhqcUZYc0hyZTFMaGRoN2VsQ1RtTmcxVDNjVzUxX0ZlSGhTS25mamZiaG52RlJRSzFLSnBmMXNwandnc0wxRGRhanZ2ZExpRUkxX0txMERMYTUxQWlHVnJXbUlHZDRuelRhVlNTZFF0bm9HTGNsQ3FhXzhLZDBodk5IaVI0TkJPM1VGQVB4TjZzZmtGMWgwNlE?oc=5",
+   "key": "longesttruceofukrainewarinkhersonregionsettoendthenewspakist",
+   "title": "Longest truce of Ukraine war, in Kherson region, set to end - The News Pakistan",
+   "source": "The News Pakistan",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHQxNVl3a1J6d1FtNWVQeVFQNWVuZjlmOU9Rc2o0MHctaG5yT0p5TXV2WGZtVGJRZHE2bHJwbWFOWDZNOG02MzU5U1JyS3JJMjZKbzJWYnozYWVJTkZtS3hjejhWNlpLT1V6UEdzcVZ2R1VrSV9oSlI3ZkJxcWxKSTgwSXo5R2dOY1RmTGk3cF96YVR3dHNSNzZB?oc=5",
    "themes": [
-    "defence"
+    "geopolitics"
    ],
    "trump": false,
    "trusted": false,
@@ -219,117 +243,93 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "boeingceosaysorderfor22moref15exfightersbringstotalundercont",
-   "title": "Boeing CEO says order for 22 more F-15EX fighters brings total under contract to 120 - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGFyRHVCM3pvUWdIMERrTWRlYkdXcFByZGIwMG85MWE3TjNGYkJFYzFGekIxNWgtZmlrQnlvd3N2cVpXWGlZYnlQWmxRUC04cW95ZkVBWXpVRmdkZGpNa3BMUGpBakhqMmtOX2wzaVdTREdidWhSUUtvbFA3Y29HRm9WcVV2OUJ0a0JiTzM1dDFpRGZsdFh3OWs5d3Z5MHRMRy1nRjYtRXAya1NfSkFlOHZjZw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "civmecasxcvlsurges70onrevenueand75onprofitinq1fy27asgalliuma",
-   "title": "Civmec (ASX:CVL) Surges 70% on Revenue and 75% on Profit in Q1 FY27 as Gallium and Defence Work Pour In - Kalkine",
-   "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWlBWXhaYXpobEtIcWhVNkZfdXZJUUVCclRjckpOMmxZOUEzb0dZZmdEeWQ4WVhqbnhhbGp5TTNuOXM5UG9DTXlKMWI2dFdVRF9KQ01IYTdpTFducFV0S1RPNWcyV2ZhOUU5TUZJQWQ4OUtEZVFjSWZQcHM1M2JIaHpZTFZJNGRBcWJHYlEySFc4V1E5MUtNSGIyRzJuLWxEbk42TWJjRFlsMW16YjRZeS0xZG01ZEJRN05RVWF6LTZ5aHFrY3pBU0szT0hhWXl6bmJ2Mw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 92
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 72
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 100
   },
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 72
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 67
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3409 min old)",
-   "score": 84
+   "why": "stale quote / market closed (last price 3470 min old)",
+   "score": 92
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 57
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 90
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 82
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 38 min old)",
+   "score": 90
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 38 min old)",
+   "score": 70
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3409 min old)",
+   "why": "stale quote / market closed (last price 3470 min old)",
    "score": 46
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 71
+   "why": "stale quote / market closed (last price 40 min old)",
+   "score": 38
   }
  ],
  "paper": {
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 02 Nov 2026 03:49 PM AEDT",
+  "last_scan": "Mon 02 Nov 2026 04:50 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
