@@ -1,0 +1,27 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Aurora Signal Desk</title>
+<style>:root{--bg:#070b14;--card:#0f1726;--tx:#dbe7ff;--mu:#7d8fb3;--g:#25e6a0;--r:#ff5d73;--a:#2ec5ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:15px system-ui,sans-serif;padding:10px}
+h1{font-size:18px;margin:4px 0;letter-spacing:2px;color:var(--a)}nav{display:flex;gap:6px;overflow-x:auto;margin:8px 0}
+button{background:var(--card);color:var(--mu);border:1px solid #1e2b45;border-radius:8px;padding:8px 12px;white-space:nowrap}button.on{color:var(--bg);background:var(--a)}
+.c{background:var(--card);border:1px solid #1e2b45;border-radius:12px;padding:12px;margin:8px 0}.g{color:var(--g)}.r{color:var(--r)}.m{color:var(--mu);font-size:13px}
+.demo{background:#ffb02033;border:1px solid #ffb020;border-radius:8px;padding:8px;margin:8px 0}a{color:var(--a)}b.s{font-size:22px;color:var(--g)}</style></head><body>
+<h1>◢ AURORA SIGNAL DESK</h1><div id="top" class="m"></div><nav id="nav"></nav><div id="v"></div>
+<script>
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const url=u=>/^https?:\/\//.test(u)?esc(u):"#";let D,tab="Opportunities";
+const T={Opportunities:d=>d.signals.length?d.signals.map(s=>`<div class=c><b class=s>${s.score}</b> <b>${esc(s.sym)}</b> <span class=m>${esc(s.name)} · ${esc(s.exchange)}</span>
+<p>${esc(s.event)}</p><p>Entry ${esc(s.entry)} · Stop <span class=r>${esc(s.stop)}</span> · Target <span class=g>${esc(s.target)}</span> (${esc(s.ccy)})</p>
+<p class=m>${esc(s.strategy)} · reward/risk after costs ${esc(s.rr)}:1 · ${esc(s.qty)} shares · costs ${esc(s.costs)}<br>${esc(s.reason)}<br>Valid until ${esc(s.expires)}</p>
+<a href="${url(s.link)}">Chart</a> · <a href="${url(s.news)}">News</a></div>`).join(""):`<div class=c>No confirmed setups right now. That is normal - the scanner never forces trades.</div>`,
+Events:d=>d.events.map(e=>`<div class=c><span class=${e.trump?"g":"m"}>${e.trump?"TRUMP · ":""}${esc(e.themes.join(", "))}${e.trusted?" · trusted source":" · unverified source"}</span><p><a href="${url(e.link)}">${esc(e.title)}</a></p><span class=m>${esc(e.source)}</span></div>`).join(""),
+Paper:d=>{const p=d.paper;return Object.entries(p.stats).map(([c,s])=>`<div class=c><b>${esc(c)}</b> (never mixed with other currencies)<br>Trades ${s.trades} · Win rate ${s.win_rate}% · P/L ${s.pnl}<br>Avg win ${s.avg_win} · Avg loss ${s.avg_loss} · Profit factor ${esc(s.profit_factor??"n/a")} · Max drawdown ${s.max_drawdown}</div>`).join("")||`<div class=c>No closed paper trades yet.</div>`
++`<div class=c>Open paper trades: ${p.open.length}</div>`+Object.entries(p.by).map(([k,v])=>`<div class=c><b>By ${esc(k)}</b><br>${Object.entries(v).map(([n,x])=>`${esc(n)}: ${x[0]} trades, ${x[1]}`).join("<br>")||"-"}</div>`).join("")},
+Health:d=>`<div class=c>Last scan: ${esc(d.health.last_scan)}<br>News feeds: ${esc(d.health.news)}<br>Telegram: ${esc(d.health.telegram)}<br>Quote errors: ${esc(d.health.quote_errors)}<br>AUD/USD used: ${esc(d.fx_audusd??"n/a")}</div>
+<div class=c><b>Rejected setups (and why)</b><br>${d.rejected.map(r=>`${esc(r.sym)}: ${esc(r.why)}`).join("<br>")||"-"}</div>
+<div class=c class=m>Scans run about every 15 min via GitHub (can be delayed). Free quotes can be delayed. Not 24/7 monitoring. Not financial advice.</div>`};
+function draw(){document.querySelector("#nav").innerHTML=Object.keys(T).map(k=>`<button class="${k==tab?"on":""}" onclick="tab='${k}';draw()">${k}</button>`).join("");
+document.querySelector("#top").textContent=D?`Updated ${D.generated} (Sydney)`:"Loading…";
+document.querySelector("#v").innerHTML=D?(D.mode=="DEMO"?'<div class=demo>DEMO MODE - sample data only, not real signals.</div>':"")+T[tab](D):""}
+async function go(){try{D=await (await fetch("data.json?"+Date.now())).json()}catch(e){document.querySelector("#v").textContent="No data yet - run the workflow once."}draw()}
+go();setInterval(go,60000);
+</script></body></html>
