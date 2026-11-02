@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 08:08 AM AEDT",
- "fx_audusd": 0.6997,
+ "generated": "Tue 03 Nov 2026 08:49 AM AEDT",
+ "fx_audusd": 0.7,
  "signals": [],
  "events": [
   {
@@ -33,30 +33,6 @@
    "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "mynewdispatcharticleonthelegalcaseagainsttrumpssection338tar",
-   "title": "My New Dispatch Article on the Legal Case Against Trump's Section 338 Tariffs Targeting Canadian Imports - Reason Magazine",
-   "source": "Reason Magazine",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWnhfbkhWN29pMUx2WGl5U1dnOG9WTDFabG1wcFhwbkdKUlEtbGNKS0ppMUlkSGg3MnlUbXFPZzR1eGwxVmRuUWdvcEx0X3N1VTdmR3hTcHJCeTFQZXE0T1B3OTdZZVhhYnBTUWd1TC1mNG5iM1VWLVp3VmRtZERMVUtaYkJ3ZWVzUVZrQjFfM3k2S0JBUk83R0ZCTGs1c3RBb2tIZ3dHNnhqNmlUS0MyZ0ZrUTc1eDJkWG5fLWVZdTkwOURMeXNDZC10N05FSU5pRnh1dnNJb1Y?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "wideroversightandhardtorepealtariffstrumpstariffsfacecongres",
-   "title": "Wider Oversight and Hard-to-Repeal Tariffs: Trumps Tariffs Face Congressional Test - Sada News Agency - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51YUt6YThEZkNpYjIyZS1sXzVnYVlfMG9nQmRlb3ZMM2hQRVIxUUZFcXlCOEU3bWVQVnZIcE45UXZONGs2b0xqZmYtbmRVakxJSzNsRkZR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -102,10 +78,22 @@
    "pts": 22
   },
   {
-   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
+   "key": "nongshimsusunitsuesfortrumptariffrefundsfirstcaseinsouthkore",
+   "title": "Nongshim's U.S. Unit Sues for Trump Tariff Refunds, First Case in South Korea's Food Industry - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wcVM2aFQ0RkhfZk11czZHY0M1UDhCNFhqUGtYT2lQb3Z3cmpJS3J2UjVWYWtnUDFxNTZTLWhYeFY4cVptX2NlRVh2N3hfMV90cjVGYmhiQk9UYURlR0pnR2IyUllrYWFhWXlrLXZva3lkLXBMMVE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "fullspeechbillclintonscoldstrumpovermarkcarneyinsultsdropsus",
+   "title": "FULL SPEECH: Bill Clinton Scolds Trump Over Mark Carney Insults; Drops U.S-Canada Tariff Deal Bomb - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOemNLbXlLYjNZY2w4UDF1eEFYbDlZV2ktRFQ1eHhjaV8wc3RVSzU1TlNLaGY4WEx3Wk5xbFRyeXZPRmFMcjNPU0lYeTUycFljaXczZWUtNFF5YXQwMFBDSmVEbC02MDdja0tpaWJXRjEtYTFoQ01YV3I0TzhPdkhRaXp6UTZtS04tVTBxZkhtRDhvRHdVR2kteHFmbTJlNkNwbFRkOVVHb2psOGo4MUFJLXdPOHJoUmhrT3dhUXFteU5veEhCTGNXZnI3QUlPNFBTV0NGamczcDk3eGtqSDBXbW5ISG1VQXB3akRCbS1wMEJTdDJoUkJtLVBHUGdLeVYzZVlaNVliUi3SAY4CQVVfeXFMT0pkeG9UdGNsMGFvZUhQRmVmb0N0VV9zcG5xa0h1d3ZRZ0RVUy1nTVZ6cGcwcWtySVBYeWxReFkxRXEtbGk1Q0hOLXVUWjVXakVYejZDZlRFV211d21aZWFFZFBKT20xUHRlR2cwWF9FckhJOTUzOFc3aDFkcTByT0R6UURxaEMzOVYtbFZrWElTeXhJZVAtWFY2TVRJRC1NSUtiekdHRXBqRnpjMXBrZDFoTGMtUG05UU9sQXYtbzVYYU1RYXFNdEZmeGlkeUUzZjFVNmdEQ3p0dm5BdXRXY29WOXdNeWJJYTlLZHh0cDV5cjBrMW9YM0QwNjFMUnkwazhZd0tsX21hMTRiSHhB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -148,18 +136,6 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "freedfromopecquotasuaesaysoilexportshaverisenasithostsindust",
-   "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   },
   {
    "key": "drreddysgetstentativeusfdanodforgenerichivpreventionreuters",
@@ -244,92 +220,116 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "elbitsystemswins170millioncontracttobuilddefensetrainingcent",
+   "title": "Elbit Systems Wins $170 Million Contract to Build Defense Training Center for Israel - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzF4SWdoVjVDNjNwc2VQbnpMT0NHeWZFVkprcWJrNXZQdk1tdGJBTndkSzBwNTNqT0pwdzB6WWFJcWd1bXBSRWUwa01hVF9wd2VITGVMbm51UlpBbzdqd0t3Qk1BZ3YxVnc1V3J5Tm1zYW0xclMtMmdfTnFLaXFEZmlZX05qQUNDYTB3UFNYb2hkV1VXUHc?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "filtronicawardedukdefenceinnovationcontractadsadvance",
+   "title": "Filtronic awarded UK Defence Innovation Contract - ADS Advance",
+   "source": "ADS Advance",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMWZXTEM0TW1lbUtOcy1NUnFRdF9mbTdJMEJIRDVwOUZCYmY1NEVGemt6NFJVNXdxajlkSkFHUTZ2VVVQeHlZRHV0ZjVISEstT0dWd1owM3F3LU4xRU9LYkRiMHhNRkpEMHpaaXBuYzI0bHZSWkNsWWllOXVaVjA?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 68
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 69
   },
   {
    "sym": "ITA",
-   "why": "reward/risk after costs only -0.51",
-   "score": 89
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 92
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (1.1x normal)",
+   "why": "stale quote / market closed (last price 49 min old)",
    "score": 44
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 43
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 44
   },
   {
    "sym": "XOM",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 49 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 48
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 957 min old)",
+   "why": "stale quote / market closed (last price 997 min old)",
    "score": 92
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 957 min old)",
+   "why": "stale quote / market closed (last price 997 min old)",
    "score": 72
   },
   {
    "sym": "LMT",
-   "why": "position size under 1 share",
+   "why": "stale quote / market closed (last price 49 min old)",
    "score": 84
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 80
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 79
   },
   {
    "sym": "NOC",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 54
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 52
   },
   {
    "sym": "XBI",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 57
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 48
   },
   {
    "sym": "LLY",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 61
+   "why": "stale quote / market closed (last price 49 min old)",
+   "score": 45
   },
   {
    "sym": "PFE",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 49 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 49 min old)",
    "score": 48
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "stale quote / market closed (last price 49 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 959 min old)",
+   "why": "stale quote / market closed (last price 999 min old)",
    "score": 38
   }
  ],
@@ -344,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 08:08 AM AEDT",
+  "last_scan": "Tue 03 Nov 2026 08:49 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
