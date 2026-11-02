@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 04:47 AM AEDT",
- "fx_audusd": 0.7011,
+ "generated": "Tue 03 Nov 2026 05:43 AM AEDT",
+ "fx_audusd": 0.7005,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "Trump\u2019s Tariffs Are On the Ballot in Michigan - The New York Times",
    "source": "The New York Times",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkFSTFJEWHAwa1plOTZ6ZTdYX1hoV2xDWXIxbEJZY242Q09aQk5xeUQzbjFoNl9udEJ6VDA1amM0VnBiVzdkaGZ5MWUzSDR6SkVKRGpXM2c5TDBlalNoWEx5M28xeExNWFFuSGZUX3RJSWRneERpOFRxUmNsWFFRVV96NGNSSUlqeXhILS1oX243QQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "mynewdispatcharticleonthelegalcaseagainsttrumpssection338tar",
+   "title": "My New Dispatch Article on the Legal Case Against Trump's Section 338 Tariffs Targeting Canadian Imports - Reason Magazine",
+   "source": "Reason Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWnhfbkhWN29pMUx2WGl5U1dnOG9WTDFabG1wcFhwbkdKUlEtbGNKS0ppMUlkSGg3MnlUbXFPZzR1eGwxVmRuUWdvcEx0X3N1VTdmR3hTcHJCeTFQZXE0T1B3OTdZZVhhYnBTUWd1TC1mNG5iM1VWLVp3VmRtZERMVUtaYkJ3ZWVzUVZrQjFfM3k2S0JBUk83R0ZCTGs1c3RBb2tIZ3dHNnhqNmlUS0MyZ0ZrUTc1eDJkWG5fLWVZdTkwOURMeXNDZC10N05FSU5pRnh1dnNJb1Y?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -42,10 +54,10 @@
    "pts": 22
   },
   {
-   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
+   "key": "democraticvictorycouldputfreshpressureontrumpsimporttariffsi",
+   "title": "Democratic victory could put fresh pressure on Trump's import tariffs - IDNFinancials",
+   "source": "IDNFinancials",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEtGMnpjZWhWUFVJZDd3eVB0bUVYemlqVk5jaVlnRk1KdXBlZnl6cFB3MGJrYkt6V1d6ZXRSdkpERGtBeWpBVkM4WTc4TGlGb1hRWnc3OGxyS0YzeUxZa3ZibUQ2Nl9JWi1KT0h3MkdTQ0psWXI3SC1BOEY1UTMwaHAtLXBXQUdzcEYyWU5ha1hLaVI5N1JoSkFySENKdVpqNnFXQ3JoM1JXMlNwOFE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -54,10 +66,10 @@
    "pts": 22
   },
   {
-   "key": "mynewdispatcharticleonthelegalcaseagainsttrumpssection338tar",
-   "title": "My New Dispatch Article on the Legal Case Against Trump's Section 338 Tariffs Targeting Canadian Imports - Reason Magazine",
-   "source": "Reason Magazine",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWnhfbkhWN29pMUx2WGl5U1dnOG9WTDFabG1wcFhwbkdKUlEtbGNKS0ppMUlkSGg3MnlUbXFPZzR1eGwxVmRuUWdvcEx0X3N1VTdmR3hTcHJCeTFQZXE0T1B3OTdZZVhhYnBTUWd1TC1mNG5iM1VWLVp3VmRtZERMVUtaYkJ3ZWVzUVZrQjFfM3k2S0JBUk83R0ZCTGs1c3RBb2tIZ3dHNnhqNmlUS0MyZ0ZrUTc1eDJkWG5fLWVZdTkwOURMeXNDZC10N05FSU5pRnh1dnNJb1Y?oc=5",
+   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
+   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -78,34 +90,10 @@
    "pts": 22
   },
   {
-   "key": "tariffsdiesellambwhyatrumpmidtermdefeatwouldmattertoausfarme",
-   "title": "Tariffs, diesel, lamb: why a Trump midterm defeat would matter to Aus farmers - Farm Online",
-   "source": "Farm Online",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGZDRU1tV3c3RWxUSFZPcDExaHY4ZVNkSlU2M0t3c3ZPOU5GQlJUcFBTWXpmWU9fZmNJcmNOS2JYWUx0eEdkMUhEUm1TR3NWM0dPdnoyaWJrMFo1VmpjMzNkcG5pS2JVN2NfZl9QUF9iN1NoVG9CcU9KUVpYSnNsOW16dk8tSjlTVFlFaGVNNm1WQnJZd0kxQXh1azNVMVlGNzFSMw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
    "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
    "source": "EnergyNow",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
-   "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXNBMGpFek5ZYnhOajJlVUxIRlByV2l3T2l5bVhxQ2tZbDh2SE52aHhBLTdjT3VYUnBNTVNOQk9RcDlyTU14eTNTNVRnS0xRam1DcVJOQ25wcHFrSm80eXg2amMyTC1hZUFfZG4wMnh3T1pxSjIwRW5pb0V4S3FmemNzRktKNUJIQ1FKRTI1amxXUUM1QzRsajJ3RWJ4bXk4Ty1mX005c1RYMFZ3RFB1ai1zUUtCTm9DQ3JadFNn?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -126,12 +114,24 @@
    "pts": 22
   },
   {
-   "key": "teslasamsungopposenewustariffsonvietnamasprobedeadlinenearsr",
-   "title": "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUJxSGZ6aEZSWjV4VHFHeVBzTXMxVDFKcEg5OG1sbEdjTkliSDZSS2NvYmlRbUxfQks0eUVUbjJRSktzZVFqWnZTWlplTHM5YjVnUkNESHd4ZmgyRk5ib2lHdlNKYlZlQ3VqUHdvcHZvMjAzYXE2NDZLbnFnel9CZ1FoSHI5Nk1zY3NiTy1tSjhrZ1hZdVRnNVB3eHBfVUticXc1ejZ2cWlhUjR6ajRhTGRsVWVDVV9I?oc=5",
+   "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
+   "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
+   "source": "The Independent",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXNBMGpFek5ZYnhOajJlVUxIRlByV2l3T2l5bVhxQ2tZbDh2SE52aHhBLTdjT3VYUnBNTVNOQk9RcDlyTU14eTNTNVRnS0xRam1DcVJOQ25wcHFrSm80eXg2amMyTC1hZUFfZG4wMnh3T1pxSjIwRW5pb0V4S3FmemNzRktKNUJIQ1FKRTI1amxXUUM1QzRsajJ3RWJ4bXk4Ty1mX005c1RYMFZ3RFB1ai1zUUtCTm9DQ3JadFNn?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "freedfromopecquotasuaesaysoilexportshaverisenasithostsindust",
+   "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": false,
    "trusted": true,
@@ -150,10 +150,10 @@
    "pts": 20
   },
   {
-   "key": "australiasetforfifthratehikeasinflationfightintensifiesbloom",
-   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg.com",
+   "key": "australiasreservebanktippedtohikeratesagainasinflationremain",
+   "title": "Australia\u2019s Reserve Bank Tipped to Hike Rates Again As Inflation Remains Stubborn - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElZOUJwR3U5czFFd2NrR1p0UU5kaGE1Q2dyNU5ITVRMQ0MzODktQlRXYldTRk11M2pfU1IyTTRtclZjREFVSDF1RzBTNXZCcVhuRUNubHh6YnB0bTQzMlBvWXZ5VEFxdUZmeXRKNkI2SDlMMTMwbHp5TjJhVEJoeUlDLWh3RXdkVkJxQjVYYU0xOExTdms4M05JcHNIQ0o3TVZ0TEhtdHBpRmlWUE5wc2kyWWpWQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXZsQmVORmd5amNvQWJsUFBvc2VDakUtbjV0YTN0bUlSXzExTEhpeXhtajV2dVZhQ1lGRnlYNkxHSFM2bUZleE5kd0hqS296YWhGSU1mVDhSbi1sUWdXdmhYYzNEam04cUJRQUU4RU1oa2hhRHc1MVRZX2pWMGVSZ082MDhOUVhEaV9DZHBrZlBfbU9Ia0M5VzdGNktJRzVhY3h5OXFEXzU0TndRVkFnR3V0YXlqSDk2cTlURmdMS0w3YmxQ?oc=5",
    "themes": [
     "rates"
    ],
@@ -186,10 +186,10 @@
    "pts": 12
   },
   {
-   "key": "departmentofwarsofficeofstrategiccapitalsignsconditionalloan",
-   "title": "Department of War's Office of Strategic Capital Signs Conditional Loan Commitment of up to - U.S. Department of War (.gov)",
-   "source": "U.S. Department of War (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWTNsOEU5RjhWQzVIaTd1RkxyUGRRM2xEUUF6akc4NVM2SF94X01ZR1VBU3p2WUVTOUxJY2dTSS1McDhoRUN1R0MxSGc1Zi0yeWliX0xMUHhOZ25EZTUwQmhqVUZNa2c0M1lPbUdtZFg5VTdFUjI1ZFQ5Zjk5S2ZObjdQVDQ1TUtTQzgtQUFZNXVqdmZRcFA1NG1ybWtMbjlWXzZFbHJGbFVydVQtOHZEOC11bnVfWThrLWNVdEVibmZ5UTJvVDRVQVowQ1VPd20zaHIzSQ?oc=5",
+   "key": "wardepartmentcommitsupto450mloantonerosmiragenews",
+   "title": "War Department Commits Up to $450M Loan to Neros - Mirage News",
+   "source": "Mirage News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW1TTUJMUnJZb20wc0NqS1VDUlhrdUNtU25hbmpDOFJDT1hsUG9kUDdpUVAwQ2hCZ0NXNnNHSVlybFptRXR0NjBHY0ZoTU1lMUFvajhTNGdRU3FpMk1XTUM2VXRIaVk0ZWxURFNxYW1NVHpxZ3ZzeGdZWGV0eWd6VkJzUXdDMkZnSTQw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -210,22 +210,10 @@
    "pts": 12
   },
   {
-   "key": "pakistansreported30z10medealsignalsdeeperchinadefencepivotde",
-   "title": "Pakistan\u2019s Reported 30 Z-10ME Deal Signals Deeper China Defence Pivot - Defence Security Asia",
-   "source": "Defence Security Asia",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcl90YUpsdmcxNE9ITjdYbHhGR184ZVA0R3VnREg3a3Z0WVF6aDFzVEtXeXBtZU9vOVJ5Zkh6NzJwUmw1YklsZDQ1MGFKZVhKNW42clUwNHFONXc4djA4bHhNY0d4UWxrUVhGTkE2WjRUN0pzakFTRFc1NTR0V0V2SWNHVjQyTVRrTnhV?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "elbitsystemswins170millioncontracttobuilddefensetrainingcent",
-   "title": "Elbit Systems Wins $170 Million Contract to Build Defense Training Center for Israel - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzF4SWdoVjVDNjNwc2VQbnpMT0NHeWZFVkprcWJrNXZQdk1tdGJBTndkSzBwNTNqT0pwdzB6WWFJcWd1bXBSRWUwa01hVF9wd2VITGVMbm51UlpBbzdqd0t3Qk1BZ3YxVnc1V3J5Tm1zYW0xclMtMmdfTnFLaXFEZmlZX05qQUNDYTB3UFNYb2hkV1VXUHc?oc=5",
+   "key": "kierjointventuresecures600mdefencecontractsharecastcom",
+   "title": "Kier joint venture secures \u00a3600m defence contract - Sharecast.com",
+   "source": "Sharecast.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkJadE0zTGJockZNc2JUX3NzdzlmR0UyTDJCRTNqdGV2S09OXzFKRTlFSm1wc2JhdlcwY190M0FZQ0kyeUtiNEhJd3hkUjFoOENFYU5MQnNKVVNoQk40MkFHSGFyVTVOcF9RTmxYRENnV1V6bDFJTUc5REh0eFpvOWpQT3lNTFRFYllDZjBRTVJKRFdtaDhpdnR6dnRUYjhCUUJzOHBpek5IYWUtT0Y4OGotWF9FYlNuQ0l0Q1JnMU5fejNzV1NwdHVUTjZQQQ?oc=5",
    "themes": [
     "defence"
    ],
@@ -244,63 +232,75 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "elbitsystemswins170millioncontracttobuilddefensetrainingcent",
+   "title": "Elbit Systems Wins $170 Million Contract to Build Defense Training Center for Israel - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzF4SWdoVjVDNjNwc2VQbnpMT0NHeWZFVkprcWJrNXZQdk1tdGJBTndkSzBwNTNqT0pwdzB6WWFJcWd1bXBSRWUwa01hVF9wd2VITGVMbm51UlpBbzdqd0t3Qk1BZ3YxVnc1V3J5Tm1zYW0xclMtMmdfTnFLaXFEZmlZX05qQUNDYTB3UFNYb2hkV1VXUHc?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.0x normal)",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 37
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 38
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.3x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 39
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 38
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 40
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 755 min old)",
+   "why": "stale quote / market closed (last price 812 min old)",
    "score": 92
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 755 min old)",
+   "why": "stale quote / market closed (last price 812 min old)",
    "score": 72
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 66
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "RTX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 72
+   "score": 37
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "XBI",
@@ -309,27 +309,27 @@
   },
   {
    "sym": "LLY",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 71
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 65
+  },
+  {
+   "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
    "score": 36
   },
   {
-   "sym": "PFE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 56
-  },
-  {
-   "sym": "SPY",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
-  },
-  {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.0x normal)",
    "score": 35
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 758 min old)",
+   "why": "stale quote / market closed (last price 814 min old)",
    "score": 38
   }
  ],
@@ -344,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 04:47 AM AEDT",
+  "last_scan": "Tue 03 Nov 2026 05:43 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
