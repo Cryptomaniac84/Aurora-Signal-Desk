@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 02 Nov 2026 04:50 PM AEDT",
- "fx_audusd": 0.7024,
+ "generated": "Mon 02 Nov 2026 05:59 PM AEDT",
+ "fx_audusd": 0.702,
  "signals": [],
  "events": [
   {
@@ -21,6 +21,18 @@
    "title": "Tariffs, diesel, lamb: why a Trump midterm defeat would matter to Aus farmers - Farm Online",
    "source": "Farm Online",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGZDRU1tV3c3RWxUSFZPcDExaHY4ZVNkSlU2M0t3c3ZPOU5GQlJUcFBTWXpmWU9fZmNJcmNOS2JYWUx0eEdkMUhEUm1TR3NWM0dPdnoyaWJrMFo1VmpjMzNkcG5pS2JVN2NfZl9QUF9iN1NoVG9CcU9KUVpYSnNsOW16dk8tSjlTVFlFaGVNNm1WQnJZd0kxQXh1azNVMVlGNzFSMw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "nongshimsusunitsuesfortrumptariffrefundsfirstcaseinsouthkore",
+   "title": "Nongshim's U.S. Unit Sues for Trump Tariff Refunds, First Case in South Korea's Food Industry - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wcVM2aFQ0RkhfZk11czZHY0M1UDhCNFhqUGtYT2lQb3Z3cmpJS3J2UjVWYWtnUDFxNTZTLWhYeFY4cVptX2NlRVh2N3hfMV90cjVGYmhiQk9UYURlR0pnR2IyUllrYWFhWXlrLXZva3lkLXBMMVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,18 +137,6 @@
    "pts": 20
   },
   {
-   "key": "thebankofenglandpondersanewnormalforinterestratesbloomberg",
-   "title": "The Bank of England Ponders a New Normal for Interest Rates - Bloomberg",
-   "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkJQbGJCR3owYk1VbV9oUlRTcVl4RmNuSzBtNFhhYldvcFVrcEZEODk5TmpRdzJRa0ZwV2tLTDZqLWxNUlVfTTZBTERqYmJRVFFhS0xoTDZTNjd6YWFYLWRpbUFPNktvam0td0hMQm1DZmlFZnY1azZrblpJX29QUVlhVTIzczNiU1pUcUNHYmRGN09ZNUQyUndsT1dLRFBzTWNuWDJwOWNBUExUSWRZ?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "chinas5000tondiggingmachinesareatradewarrisktoindiabloomberg",
    "title": "China\u2019s 5,000-Ton Digging Machines Are a Trade War Risk to India - Bloomberg",
    "source": "Bloomberg",
@@ -185,6 +185,30 @@
    "pts": 12
   },
   {
+   "key": "civmecasxcvlsurges70onrevenueand75onprofitinq1fy27asgalliuma",
+   "title": "Civmec (ASX:CVL) Surges 70% on Revenue and 75% on Profit in Q1 FY27 as Gallium and Defence Work Pour In - Kalkine",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWlBWXhaYXpobEtIcWhVNkZfdXZJUUVCclRjckpOMmxZOUEzb0dZZmdEeWQ4WVhqbnhhbGp5TTNuOXM5UG9DTXlKMWI2dFdVRF9KQ01IYTdpTFducFV0S1RPNWcyV2ZhOUU5TUZJQWQ4OUtEZVFjSWZQcHM1M2JIaHpZTFZJNGRBcWJHYlEySFc4V1E5MUtNSGIyRzJuLWxEbk42TWJjRFlsMW16YjRZeS0xZG01ZEJRN05RVWF6LTZ5aHFrY3pBU0szT0hhWXl6bmJ2Mw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "chessdynamicssecuressensorcontractforindonesianfrigatesjanes",
+   "title": "Chess Dynamics secures sensor contract for Indonesian frigates - Janes Defence Intelligence",
+   "source": "Janes Defence Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVo5ZE5kcmJQVE9tWmpsUFpya0c0WWFveG90dzk0N3oxSThkV2puanVYenowTUdWdDN3YkNOQUhRUkpmYVRNVTJBUUZoYUtaRkdzSzRZVU5PYmZMdERISWtaeHpITVN6SVlMWENIb3l5eUNXZVVHX3B1bXZOcFlyRzRBbEIxQVJTbkFYaTJXOUlqcjlEbE55d1VYVkRWUS1BZmNmSU1weENZMjJ3ek9rTUpOSWc2eFNHMXhMUVk5MnlxLTVKaXh3el9CWFAtZm5ZNmc?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "indrabacklogtops22billionasdefencerevenuesdoubleandiriscontr",
    "title": "Indra backlog tops \u20ac22 billion as defence revenues double and IRIS\u00b2 contracts lift orders - Defence Industry Europe",
    "source": "Defence Industry Europe",
@@ -219,116 +243,92 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "defenceministrysignsover810crorecontractwithbdlfor160satsaaw",
-   "title": "Defence Ministry signs over \u20b9810 crore contract with BDL for 160 SAT-SAAW systems - News On AIR",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkV0UGFUM2pGZTBhWFJJT2dMdTFSNkphazBVMmdWbjR2UGlpMDVtVmYwWkwwQTlYenpnQUJTZzhPcEhJVkhxR08yTWVCSlY3c0ZoUTBHRVdBTGZVd3dISFdRX1pkdlN0OGhEZmMxVV9xTkdOUUdXQWlTQXZJUUJMMFBYenRBNEhaSUxTTDhTcU8wQWxKZzVja1pTZ0YyNlYtejhFOEpZM2lnNE91dWM2eC1ranRJdw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "uknucleardefenceinvestmenttorisebyover20billionassubmarinean",
-   "title": "UK nuclear defence investment to rise by over \u00a320 billion as submarine and warhead work expands - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBlckNnLUhURDRDOFZQcGR2SGQyRzB6dUJPTURlQzJvUTJjVjZjZ3ZHM29oVFpsWGFMaHBsMktMUnNSVjFSUlduT084Y2J0VFJPWDRsdUNQMGYxVDdjT2ZGbTNiQUxUZ09lVjRxX3pZYWhBOFliTi0xZWIyZFgxa3pJX3NEYTg0V0FRLWNOVC1rdmhfUDVTQmRCMVowLVhhdGdfbGNEdEVlYWVNNFZYempYeTUyM3VEVnNEOFpEcUo?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 92
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 72
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 100
   },
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 72
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 67
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 92
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 57
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 90
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 82
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 38 min old)",
+   "why": "stale quote / market closed (last price 107 min old)",
    "score": 90
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 38 min old)",
+   "why": "stale quote / market closed (last price 107 min old)",
    "score": 70
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3470 min old)",
+   "why": "stale quote / market closed (last price 3539 min old)",
    "score": 46
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 40 min old)",
+   "why": "stale quote / market closed (last price 109 min old)",
    "score": 38
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 02 Nov 2026 04:50 PM AEDT",
+  "last_scan": "Mon 02 Nov 2026 05:59 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
