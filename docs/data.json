@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 02:49 AM AEDT",
- "fx_audusd": 0.702,
+ "generated": "Tue 03 Nov 2026 03:52 AM AEDT",
+ "fx_audusd": 0.7019,
  "signals": [],
  "events": [
+  {
+   "key": "trumpstariffsareontheballotinmichiganthenewyorktimes",
+   "title": "Trump\u2019s Tariffs Are On the Ballot in Michigan - The New York Times",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkFSTFJEWHAwa1plOTZ6ZTdYX1hoV2xDWXIxbEJZY242Q09aQk5xeUQzbjFoNl9udEJ6VDA1amM0VnBiVzdkaGZ5MWUzSDR6SkVKRGpXM2c5TDBlalNoWEx5M28xeExNWFFuSGZUX3RJSWRneERpOFRxUmNsWFFRVV96NGNSSUlqeXhILS1oX243QQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
    "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
@@ -21,6 +33,18 @@
    "title": "Trump\u2019s Canada auto tariffs become a key issue in Michigan Senate race - Automotive News",
    "source": "Automotive News",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lzaG1XS2dMdUZLeXhDNGJoNS1Pd2JIQlBKZ1RwcDQxWmxXTEdrLWxBdTczbUFTZEhYLUFrMWFBbVkza3g1WW40R2FiSlhUUktsc0JNN25zMkVRSUI4dWpyMTFnSXZhVHRpSEs2Nm9QMF9EaVFVQkFJeGhVYk5yT1lLempzaHJfU0k4RVoycWRoRmZ2SEE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "mynewdispatcharticleonthelegalcaseagainsttrumpssection338tar",
+   "title": "My New Dispatch Article on the Legal Case Against Trump's Section 338 Tariffs Targeting Canadian Imports - Reason Magazine",
+   "source": "Reason Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWnhfbkhWN29pMUx2WGl5U1dnOG9WTDFabG1wcFhwbkdKUlEtbGNKS0ppMUlkSGg3MnlUbXFPZzR1eGwxVmRuUWdvcEx0X3N1VTdmR3hTcHJCeTFQZXE0T1B3OTdZZVhhYnBTUWd1TC1mNG5iM1VWLVp3VmRtZERMVUtaYkJ3ZWVzUVZrQjFfM3k2S0JBUk83R0ZCTGs1c3RBb2tIZ3dHNnhqNmlUS0MyZ0ZrUTc1eDJkWG5fLWVZdTkwOURMeXNDZC10N05FSU5pRnh1dnNJb1Y?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,6 +77,30 @@
    "pts": 22
   },
   {
+   "key": "fullspeechbillclintonscoldstrumpovermarkcarneyinsultsdropsus",
+   "title": "FULL SPEECH: Bill Clinton Scolds Trump Over Mark Carney Insults; Drops U.S-Canada Tariff Deal Bomb - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOemNLbXlLYjNZY2w4UDF1eEFYbDlZV2ktRFQ1eHhjaV8wc3RVSzU1TlNLaGY4WEx3Wk5xbFRyeXZPRmFMcjNPU0lYeTUycFljaXczZWUtNFF5YXQwMFBDSmVEbC02MDdja0tpaWJXRjEtYTFoQ01YV3I0TzhPdkhRaXp6UTZtS04tVTBxZkhtRDhvRHdVR2kteHFmbTJlNkNwbFRkOVVHb2psOGo4MUFJLXdPOHJoUmhrT3dhUXFteU5veEhCTGNXZnI3QUlPNFBTV0NGamczcDk3eGtqSDBXbW5ISG1VQXB3akRCbS1wMEJTdDJoUkJtLVBHUGdLeVYzZVlaNVliUi3SAY4CQVVfeXFMT0pkeG9UdGNsMGFvZUhQRmVmb0N0VV9zcG5xa0h1d3ZRZ0RVUy1nTVZ6cGcwcWtySVBYeWxReFkxRXEtbGk1Q0hOLXVUWjVXakVYejZDZlRFV211d21aZWFFZFBKT20xUHRlR2cwWF9FckhJOTUzOFc3aDFkcTByT0R6UURxaEMzOVYtbFZrWElTeXhJZVAtWFY2TVRJRC1NSUtiekdHRXBqRnpjMXBrZDFoTGMtUG05UU9sQXYtbzVYYU1RYXFNdEZmeGlkeUUzZjFVNmdEQ3p0dm5BdXRXY29WOXdNeWJJYTlLZHh0cDV5cjBrMW9YM0QwNjFMUnkwazhZd0tsX21hMTRiSHhB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpwarnschinarussiaagainstinvolvementiniranwarenergynowcom",
+   "title": "Trump Warns China, Russia Against Involvement in Iran War - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZwd3g5MVF5U0Myc2tTamFTOW1mNjBGdm5PZWdsaXc0Ym5IbktKYmlNUlo3WmJiOUVRYlJiYjJSSkFtWk1WTDFDd09MQjZjZEoxVWczelBjQ2NCMkE1NjFUck9pRXYzLWVfa0FrLTM4QmlGek1PNGNQZjZ6RlF0aEdUOC1PaDBGSDlJZ0RiYnM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
    "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
    "source": "The Independent",
@@ -65,21 +113,45 @@
    "pts": 22
   },
   {
-   "key": "leakrevealstrumpsecretlydoubtingpentagonpetethedailybeast",
-   "title": "Leak Reveals Trump Secretly Doubting Pentagon Pete - The Daily Beast",
-   "source": "The Daily Beast",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGFHalRlTDJzOWVnaFo4Y3lPdTFWYVozNkxzVU54bTNBM0lYbExpeXBXRU5QYzNCRmhZSEp3RmJSVDlIODEwajloSk5iYU9qREpReGdPU3hlN3FVWFd3SThFY1FNQ212ZERLd1dreEw0TkhFQXc0LXF5MmlNbU1hUHhYTGhRajg?oc=5",
+   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
+   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
    "themes": [
-    "defence"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
+   "key": "teslasamsungopposenewustariffsonvietnamasprobedeadlinenearsr",
+   "title": "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUJxSGZ6aEZSWjV4VHFHeVBzTXMxVDFKcEg5OG1sbEdjTkliSDZSS2NvYmlRbUxfQks0eUVUbjJRSktzZVFqWnZTWlplTHM5YjVnUkNESHd4ZmgyRk5ib2lHdlNKYlZlQ3VqUHdvcHZvMjAzYXE2NDZLbnFnel9CZ1FoSHI5Nk1zY3NiTy1tSjhrZ1hZdVRnNVB3eHBfVUticXc1ejZ2cWlhUjR6ajRhTGRsVWVDVV9I?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "freedfromopecquotasuaesaysoilexportshaverisenasithostsindust",
+   "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "australiasetforfifthratehikeasinflationfightintensifiesbloom",
-   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg",
-   "source": "Bloomberg",
+   "title": "Australia Set for Fifth Rate Hike as Inflation Fight Intensifies - Bloomberg.com",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElZOUJwR3U5czFFd2NrR1p0UU5kaGE1Q2dyNU5ITVRMQ0MzODktQlRXYldTRk11M2pfU1IyTTRtclZjREFVSDF1RzBTNXZCcVhuRUNubHh6YnB0bTQzMlBvWXZ5VEFxdUZmeXRKNkI2SDlMMTMwbHp5TjJhVEJoeUlDLWh3RXdkVkJxQjVYYU0xOExTdms4M05JcHNIQ0o3TVZ0TEhtdHBpRmlWUE5wc2kyWWpWQQ?oc=5",
    "themes": [
     "rates"
@@ -105,18 +177,6 @@
    "title": "Santa's sleigh will be weighed down by tariffs - Peterson Institute for International Economics",
    "source": "Peterson Institute for International Economics",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdmRl93WEwtMjdkbzM2YU10emsyNURrNjNPWmFhbUJZNktCRkExaE1ERG5DU1ExcUtOZkRnc1dfZEpHdm11eVJhWVlaMEU2eWFZTzl2T1V2OHN3cWZfbWg5eU8yNEZ3QVd3WDlQb2dqYWQ4TTVYbnZVbWQ0TWxtVkdLSS1jUEQ0bG5zdWl0Q21DekF3cURJRQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "canadatariffshowardlutnickdrivingresumedtalkssourcessayctvne",
-   "title": "Canada tariffs: Howard Lutnick driving resumed talks, sources say - CTV News",
-   "source": "CTV News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTdveEJiWFdNR1Nlb3Bjd2RfVzd4YzNTVTdjX2xHbDhkV1p2S0xzQ1M1YWxyRU9DVHNwVUQ0THZhcjA1N3ZqMWFza1dmZHV4Qk4yMHJTTXFSTndpZGRIVHlteFpLekk3U1A3S3dKbG1EZVZ6SzBHVEg1QzR3WGhIMHpYMlhCMEJ2UXRJcDNIeVhMTFpscnIwQTdYN0l6YWN6Y29HZVRwV1NfWFhjX1E5emY3NFp4dw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -183,73 +243,13 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "bigaatmanirbharpushdefenceministryinksrs53866crcontractwithg",
-   "title": "Big Aatmanirbhar push: Defence ministry inks Rs 53,866cr contract with GRSE & GSL for 8 next-generation c - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQandqV1E3MWNESi12UGlNbVNnUW0zd2RHWS1mSGJwbUJDeDJ2MmxBV3N4QXBWMGhSY2lqNUFRRkJQdU16UkQwc0tSYTh4dkI5YjhsZHh6bGQ0YllTUnVjUDRtV3Z0RkVBWWNkWlJILTNBYVJFRWtOa1ZkT3QtNG9uMlVfVk1SVlVCclByMGxUSHdWcGI3XzRhY1BpbjdKWkNadFR2WUhMbXdLamVLaVFFbGczTlhYV0d4TkNVWFRiRXpGWHJnV2twdGotakJpRERtMEE5d0NoNTdxNFo3Q2V1M0tTd2p0eTNUMGR0TFFHZU5PTWdGM0xCR1pjYklVVnhWRjNkMDZlcDlKa09TZnVEVFQwU3J3eU3SAZwCQVVfeXFMT3UxM3lPOXowc01Bc19jUXFFa2F6VE5YM2Y4bGhvWldfeXR3OTM4TDJCVnZpZnpuM0tlU2xrUGtuQ2VmajRsVzNOZnczV2dNblpudVlKeXVvb3lPSWV3bG9wcXd6Xzg3X0VlTXlHenBHVlVqbFN5ZWNJZmctRmJDUFlOOG9tVGhWOVlTTWZIS2F4eHpmbl9YLWJ6QWpvY2NCaUlVZHMtaTVpaGg3bXdSWVhXUXozREVrajZwcHV2R1VkZ1FQTUdWUEdoQ0tSbV9lcE1Fblk2Uy1mQ3lQVEp0c2NaNjlxLUUtc1lRZVdKdjB1ZXI2ak41ZHFDQU1VYzUxWTJaeGZocHBvUG85WUYzc3JhNkpuTXZnMHpiT2E?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "israelfranceheadtoheadoverswissairdefensecontractglobesisrae",
-   "title": "Israel, France head to head over Swiss air defense contract - Globes - Israel Business News",
-   "source": "Globes - Israel Business News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGhiV3Vhc1ZSVzhIVWVoWXoxNDAwUWw5VUlrTm5KdmxVcFNLRHQ0QWZuQlJQRTNvUXRvNTloUjZHeXA5aElmZDhmS2NSbnhLR0NuRHlZYnk0YVJYLWdDMXVXd2dUNFVVeEpOVWFDWWdINXllNC16WHlmaGs2a1g2aHR2eWpxS3hkVjY4c1ByQUtNRUVRV0pWSDBkSm5SRTRaXzIxdnNJdw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "newoffsetpolicyfordefencecontractssettosupportbritishindustr",
-   "title": "New offset policy for defence contracts set to support British industry - Insider Media Ltd",
-   "source": "Insider Media Ltd",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWRQVXVURkRKcDRMLVYtWktydFR2NGJSTG5PaW90VUgwVjBzZTBpY1V6czFzdUY2blMxb1hnZHFKS0J6bXBrV0JmMnlWMkROdXNoSm5TSTQ4Q3VaWk0talo4bUFtM01FZHJRRjlLWThQLXRhcFJVb2dSMzBBNjVRTEtjZHlHTm5tWHdNS3JCZ2RIS291ZE9tclZ4OVZTM0thb091LWxLU2RGZ01feUVyMi1obG4?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "navytoreceive8newwarshipsarmedwithmissilessensors2indiancomp",
-   "title": "Navy to receive 8 new warships armed with missiles, sensors: 2 Indian companies to build them; Defence Mini... - Bhaskar English",
-   "source": "Bhaskar English",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEVZN2NRdDMxZVh2TUc3SkFIRW5Bb2xaT2lNd3E0cGp4MjNyUERLbWdVOXVFS1NjOWZUdE9lME9Qc0lsMFh5UVU0bEZyOXpDTVZOeXU4amxfVWREdXdwMG04akMwZmtFMl9SRGtDd1pvdUJDVVR3eHVOYWFlV28wZTdBUklsTkk1WXlWZHNYU3VmQ0xHUWdWYTRnVHBnTU1iV2trU20wYVJaaUZPWU44R2tINE1RMzkxMXNteWZR0gHDAUFVX3lxTE83bWJjcVg5eVB6bzJ4VDhNbVZrb1diSXVHTXE0OWdpc2NnLTlhOTdWR0IzUmk2UEJ2ekpjRHh6TFotZlNObXhzdXk4blh2bWpJYXE5cVdsZENSRjRsNEZWSUtDSTF6VmdGUlFrM1hDcGlPekZNVzh0ZWNsaG1EcUQ0VXJERXB5UzM3bXBteTBvWmZhNUVQcDc1WEtEbllfY1MxRDdMY3o2U29wa1ZwbU5zNGhXeWtpY0lOX2NIc2RQUXJ0bw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "ministryofdefencesealscontractsworthover53000croretoprocuree",
-   "title": "Ministry of Defence seals contracts worth over \u20b953,000 crore to procure eight warships for Navy - The Hindu",
-   "source": "The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWmZPQkVLeVcyeEkwNGxWUEVYMlN6RUZIZ1lLMkpILUJqcF9ta2N2MjZRay04LXA5WE1VWkQwRFg1X0N3Um1ZMEM4UVVNTThVVk5RTXN5aGNZalRpQWZxa2xfVWVVM0JTaHBYRXE2dDZjNGR1aktPZjBPU3ZPWXBCSEdvMXNyNV8zVHBtZ0V3MXV0c2xzR3ItQVYzWHIxdEZJdmMwY29jd1B6bm9GYkFMYVV0YkRQdHN3bUtINWh6MENmXzRTVndjalZ5QkRYeGZuVlc0UFd1RmhsUlNMbTZsM1BUNlhmNUHSAe4BQVVfeXFMTzJZcHNxMjBRSlg1b3drSHB4WTZydGQwU3BFYXNJOEw0STQ0WXI4ajNraVMtNFRXRjhNY3dxZ0NsYm9XTFhvbEd2a2xURVZ2WjM2OG4zOVJiUG0wOHg2aTh6NS1ZQmJVVDRBMEJoaUN1NVd6c1gxcmdUUHpTd040MUNYOC1GRzlabzBTQy1fQkFienc2cXd4cU1vck9QZV8ta2lpOHp2TEdUc0pjZmFOc2F5M3NibkpwX2pBMzdZMTZ4WEE0MlNhMGpXOFZVTzRELVUxbjA4Vk5kb2o1NzFGYy1PbXNmTWJBY3BTcjg4UQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 73
+   "score": 58
   },
   {
    "sym": "ITA",
@@ -258,63 +258,63 @@
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 55
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 60
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
   },
   {
-   "sym": "LMT",
-   "why": "volume not confirmed (1.3x normal)",
-   "score": 80
+   "sym": "XOM",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 78
+   "sym": "CVX",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 76
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 700 min old)",
+   "score": 90
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 700 min old)",
+   "score": 70
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 36
   },
   {
    "sym": "QQQ",
    "why": "price not above VWAP and 20-bar average",
-   "score": 64
+   "score": 48
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 640 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 702 min old)",
+   "score": 39
   },
   {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
+   "sym": "LMT",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 57
   },
   {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
+   "sym": "RTX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 55
   },
   {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 638 min old)",
-   "score": 82
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 638 min old)",
-   "score": 62
+   "sym": "NOC",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 65
   }
  ],
  "paper": {
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 02:49 AM AEDT",
+  "last_scan": "Tue 03 Nov 2026 03:52 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
