@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 03:52 AM AEDT",
- "fx_audusd": 0.7019,
+ "generated": "Tue 03 Nov 2026 04:47 AM AEDT",
+ "fx_audusd": 0.7011,
  "signals": [],
  "events": [
   {
@@ -17,10 +17,10 @@
    "pts": 22
   },
   {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "key": "wideroversightandhardtorepealtariffstrumpstariffsfacecongres",
+   "title": "Wider Oversight and Hard-to-Repeal Tariffs: Trumps Tariffs Face Congressional Test - Sada News Agency - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51YUt6YThEZkNpYjIyZS1sXzVnYVlfMG9nQmRlb3ZMM2hQRVIxUUZFcXlCOEU3bWVQVnZIcE45UXZONGs2b0xqZmYtbmRVakxJSzNsRkZR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -29,10 +29,23 @@
    "pts": 22
   },
   {
-   "key": "trumpscanadaautotariffsbecomeakeyissueinmichigansenateraceau",
-   "title": "Trump\u2019s Canada auto tariffs become a key issue in Michigan Senate race - Automotive News",
-   "source": "Automotive News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lzaG1XS2dMdUZLeXhDNGJoNS1Pd2JIQlBKZ1RwcDQxWmxXTEdrLWxBdTczbUFTZEhYLUFrMWFBbVkza3g1WW40R2FiSlhUUktsc0JNN25zMkVRSUI4dWpyMTFnSXZhVHRpSEs2Nm9QMF9EaVFVQkFJeGhVYk5yT1lLempzaHJfU0k4RVoycWRoRmZ2SEE?oc=5",
+   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
+   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
+   "themes": [
+    "energy",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
+   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,6 +66,18 @@
    "pts": 22
   },
   {
+   "key": "trumpscanadaautotariffsbecomeakeyissueinmichigansenateraceau",
+   "title": "Trump\u2019s Canada auto tariffs become a key issue in Michigan Senate race - Automotive News",
+   "source": "Automotive News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lzaG1XS2dMdUZLeXhDNGJoNS1Pd2JIQlBKZ1RwcDQxWmxXTEdrLWxBdTczbUFTZEhYLUFrMWFBbVkza3g1WW40R2FiSlhUUktsc0JNN25zMkVRSUI4dWpyMTFnSXZhVHRpSEs2Nm9QMF9EaVFVQkFJeGhVYk5yT1lLempzaHJfU0k4RVoycWRoRmZ2SEE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "tariffsdiesellambwhyatrumpmidtermdefeatwouldmattertoausfarme",
    "title": "Tariffs, diesel, lamb: why a Trump midterm defeat would matter to Aus farmers - Farm Online",
    "source": "Farm Online",
@@ -65,34 +90,10 @@
    "pts": 22
   },
   {
-   "key": "nongshimsusunitsuesfortrumptariffrefundsfirstcaseinsouthkore",
-   "title": "Nongshim's U.S. Unit Sues for Trump Tariff Refunds, First Case in South Korea's Food Industry - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wcVM2aFQ0RkhfZk11czZHY0M1UDhCNFhqUGtYT2lQb3Z3cmpJS3J2UjVWYWtnUDFxNTZTLWhYeFY4cVptX2NlRVh2N3hfMV90cjVGYmhiQk9UYURlR0pnR2IyUllrYWFhWXlrLXZva3lkLXBMMVE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "fullspeechbillclintonscoldstrumpovermarkcarneyinsultsdropsus",
-   "title": "FULL SPEECH: Bill Clinton Scolds Trump Over Mark Carney Insults; Drops U.S-Canada Tariff Deal Bomb - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOemNLbXlLYjNZY2w4UDF1eEFYbDlZV2ktRFQ1eHhjaV8wc3RVSzU1TlNLaGY4WEx3Wk5xbFRyeXZPRmFMcjNPU0lYeTUycFljaXczZWUtNFF5YXQwMFBDSmVEbC02MDdja0tpaWJXRjEtYTFoQ01YV3I0TzhPdkhRaXp6UTZtS04tVTBxZkhtRDhvRHdVR2kteHFmbTJlNkNwbFRkOVVHb2psOGo4MUFJLXdPOHJoUmhrT3dhUXFteU5veEhCTGNXZnI3QUlPNFBTV0NGamczcDk3eGtqSDBXbW5ISG1VQXB3akRCbS1wMEJTdDJoUkJtLVBHUGdLeVYzZVlaNVliUi3SAY4CQVVfeXFMT0pkeG9UdGNsMGFvZUhQRmVmb0N0VV9zcG5xa0h1d3ZRZ0RVUy1nTVZ6cGcwcWtySVBYeWxReFkxRXEtbGk1Q0hOLXVUWjVXakVYejZDZlRFV211d21aZWFFZFBKT20xUHRlR2cwWF9FckhJOTUzOFc3aDFkcTByT0R6UURxaEMzOVYtbFZrWElTeXhJZVAtWFY2TVRJRC1NSUtiekdHRXBqRnpjMXBrZDFoTGMtUG05UU9sQXYtbzVYYU1RYXFNdEZmeGlkeUUzZjFVNmdEQ3p0dm5BdXRXY29WOXdNeWJJYTlLZHh0cDV5cjBrMW9YM0QwNjFMUnkwazhZd0tsX21hMTRiSHhB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpwarnschinarussiaagainstinvolvementiniranwarenergynowcom",
-   "title": "Trump Warns China, Russia Against Involvement in Iran War - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZwd3g5MVF5U0Myc2tTamFTOW1mNjBGdm5PZWdsaXc0Ym5IbktKYmlNUlo3WmJiOUVRYlJiYjJSSkFtWk1WTDFDd09MQjZjZEoxVWczelBjQ2NCMkE1NjFUck9pRXYzLWVfa0FrLTM4QmlGek1PNGNQZjZ6RlF0aEdUOC1PaDBGSDlJZ0RiYnM?oc=5",
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,12 +114,12 @@
    "pts": 22
   },
   {
-   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
+   "key": "trumpsattackonutahjudgeshowswhycamerasshouldbebannedincharli",
+   "title": "Trump\u2019s attack on Utah judge shows why cameras should be banned in Charlie Kirk case, defense argues - The Salt Lake Tribune",
+   "source": "The Salt Lake Tribune",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBaVhERDJaZW9DMU5SQVV2Uloxajd0dGdqa0gyV3cwMTRGUVFEV2VkRDN2eGVwS1dkNE4ydWx4MEtDaDZEdnJDZDhQbFI5RzM5TzF5ZG9TZ21hb3dnX3AwVHlZZGZ1VVFGQ0tMeWxEWWJySlBDMXc0SGFncw?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
    ],
    "trump": true,
    "trusted": false,
@@ -137,12 +138,12 @@
    "pts": 20
   },
   {
-   "key": "freedfromopecquotasuaesaysoilexportshaverisenasithostsindust",
-   "title": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
+   "key": "drreddysgetstentativeusfdanodforgenerichivpreventionreuters",
+   "title": "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG11NU5pb3lsQ0x5amc3cUlHTVFMQWJDdDJPQWg2RVpDeWRfSjU4NGdBX19MXzRiY0lrRmg4cElQZ0lvRF9UdlNFYXJPdUQ5YWUyVEhHd0lGcmhTUndzQ1Q0M1NNeHYtbFpHQnR0SVpscG0xdEZ3eXNhclJXX1RoQWJHRWhHTTU2WEJWZTZ4MzhPVVJTalYzQlRBdmN3Tmx3XzRJLTlkVExrYkxKTUxwSQ?oc=5",
    "themes": [
-    "energy"
+    "pharma"
    ],
    "trump": false,
    "trusted": true,
@@ -185,10 +186,10 @@
    "pts": 12
   },
   {
-   "key": "wardepartmentcommitsupto450mloantonerosmiragenews",
-   "title": "War Department Commits Up to $450M Loan to Neros - Mirage News",
-   "source": "Mirage News",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW1TTUJMUnJZb20wc0NqS1VDUlhrdUNtU25hbmpDOFJDT1hsUG9kUDdpUVAwQ2hCZ0NXNnNHSVlybFptRXR0NjBHY0ZoTU1lMUFvajhTNGdRU3FpMk1XTUM2VXRIaVk0ZWxURFNxYW1NVHpxZ3ZzeGdZWGV0eWd6VkJzUXdDMkZnSTQw?oc=5",
+   "key": "departmentofwarsofficeofstrategiccapitalsignsconditionalloan",
+   "title": "Department of War's Office of Strategic Capital Signs Conditional Loan Commitment of up to - U.S. Department of War (.gov)",
+   "source": "U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWTNsOEU5RjhWQzVIaTd1RkxyUGRRM2xEUUF6akc4NVM2SF94X01ZR1VBU3p2WUVTOUxJY2dTSS1McDhoRUN1R0MxSGc1Zi0yeWliX0xMUHhOZ25EZTUwQmhqVUZNa2c0M1lPbUdtZFg5VTdFUjI1ZFQ5Zjk5S2ZObjdQVDQ1TUtTQzgtQUFZNXVqdmZRcFA1NG1ybWtMbjlWXzZFbHJGbFVydVQtOHZEOC11bnVfWThrLWNVdEVibmZ5UTJvVDRVQVowQ1VPd20zaHIzSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -209,12 +210,12 @@
    "pts": 12
   },
   {
-   "key": "longesttruceofukrainewarinkhersonregionsettoendthenewspakist",
-   "title": "Longest truce of Ukraine war, in Kherson region, set to end - The News Pakistan",
-   "source": "The News Pakistan",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHQxNVl3a1J6d1FtNWVQeVFQNWVuZjlmOU9Rc2o0MHctaG5yT0p5TXV2WGZtVGJRZHE2bHJwbWFOWDZNOG02MzU5U1JyS3JJMjZKbzJWYnozYWVJTkZtS3hjejhWNlpLT1V6UEdzcVZ2R1VrSV9oSlI3ZkJxcWxKSTgwSXo5R2dOY1RmTGk3cF96YVR3dHNSNzZB?oc=5",
+   "key": "pakistansreported30z10medealsignalsdeeperchinadefencepivotde",
+   "title": "Pakistan\u2019s Reported 30 Z-10ME Deal Signals Deeper China Defence Pivot - Defence Security Asia",
+   "source": "Defence Security Asia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcl90YUpsdmcxNE9ITjdYbHhGR184ZVA0R3VnREg3a3Z0WVF6aDFzVEtXeXBtZU9vOVJ5Zkh6NzJwUmw1YklsZDQ1MGFKZVhKNW42clUwNHFONXc4djA4bHhNY0d4UWxrUVhGTkE2WjRUN0pzakFTRFc1NTR0V0V2SWNHVjQyTVRrTnhV?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -233,10 +234,10 @@
    "pts": 12
   },
   {
-   "key": "ministryofdefenceawards5386650crorecorvettecontractsmultibag",
-   "title": "Ministry of Defence awards \u20b953,866.50 crore corvette contracts - Multibagg AI",
-   "source": "Multibagg AI",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVFlbFNfaHppc2RjNTFjZTF2WndMTUNWdTV3cWlNbXdpOW4zQ0kwcUY1RkMyWVhqalIxcVFIZ0VxUVhOY2NEVDUyemlkUWV0ekFOUUpDUDFBaWxMY0VodDNrVTZMLUNMZ0doTzlEODF6cm5pb1M2Y2lvdDJrVkJYeVh3UWtEa2plRENoQnZFRW1lWlo2X1lqckl6SVJaTHNwTWNQNnFaYXJuRGk1?oc=5",
+   "key": "filtronicawardedukdefenceinnovationcontractadsadvance",
+   "title": "Filtronic awarded UK Defence Innovation Contract - ADS Advance",
+   "source": "ADS Advance",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMWZXTEM0TW1lbUtOcy1NUnFRdF9mbTdJMEJIRDVwOUZCYmY1NEVGemt6NFJVNXdxajlkSkFHUTZ2VVVQeHlZRHV0ZjVISEstT0dWd1owM3F3LU4xRU9LYkRiMHhNRkpEMHpaaXBuYzI0bHZSWkNsWWllOXVaVjA?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,13 +249,13 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 58
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 37
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 65
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
   },
   {
    "sym": "XLE",
@@ -263,58 +264,73 @@
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 53
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 700 min old)",
-   "score": 90
+   "why": "stale quote / market closed (last price 755 min old)",
+   "score": 92
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 700 min old)",
-   "score": 70
-  },
-  {
-   "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 36
-  },
-  {
-   "sym": "QQQ",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 48
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 702 min old)",
-   "score": 39
+   "why": "stale quote / market closed (last price 755 min old)",
+   "score": 72
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 57
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 66
   },
   {
    "sym": "RTX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 55
+   "score": 72
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 65
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
+  },
+  {
+   "sym": "XBI",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
+  },
+  {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 36
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 56
+  },
+  {
+   "sym": "SPY",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
+  },
+  {
+   "sym": "QQQ",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 35
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 758 min old)",
+   "score": 38
   }
  ],
  "paper": {
@@ -328,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 03:52 AM AEDT",
+  "last_scan": "Tue 03 Nov 2026 04:47 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
