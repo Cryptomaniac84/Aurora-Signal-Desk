@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 10:19 AM AEDT",
- "fx_audusd": 0.6998,
+ "generated": "Tue 03 Nov 2026 10:57 AM AEDT",
+ "fx_audusd": 0.7001,
  "signals": [],
  "events": [
   {
@@ -21,6 +21,18 @@
    "title": "Trump\u2019s Tariffs Are On the Ballot in Michigan - The New York Times",
    "source": "The New York Times",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkFSTFJEWHAwa1plOTZ6ZTdYX1hoV2xDWXIxbEJZY242Q09aQk5xeUQzbjFoNl9udEJ6VDA1amM0VnBiVzdkaGZ5MWUzSDR6SkVKRGpXM2c5TDBlalNoWEx5M28xeExNWFFuSGZUX3RJSWRneERpOFRxUmNsWFFRVV96NGNSSUlqeXhILS1oX243QQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "applesreceivedmostofitstrumpreciprocaltariffrefundsappleinsi",
+   "title": "Apple's received most of its Trump reciprocal tariff refunds - AppleInsider",
+   "source": "AppleInsider",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmxjWjJxQUhqSUlVYXBlWktkOVR2MzV4REdlWVgzSWZKeXdwNU5RNDRHblBHQTZuTjRNRzRsZEpwMmlmLW9TUnNiOTFuMXEyR1RPU0I4azJySVNtanJrMlhKTE93eFk3ZGVZR3hITmI1Sl91cGt3cjV3NWpPamgxMjRsOUV1U0s4Wndxb044UUVJa0pDM3ZwN0JKRjVfbDhjZ084bg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "applesreceivedmostofitstrumpreciprocaltariffrefundsappleinsi",
-   "title": "Apple's received most of its Trump reciprocal tariff refunds - AppleInsider",
-   "source": "AppleInsider",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmxjWjJxQUhqSUlVYXBlWktkOVR2MzV4REdlWVgzSWZKeXdwNU5RNDRHblBHQTZuTjRNRzRsZEpwMmlmLW9TUnNiOTFuMXEyR1RPU0I4azJySVNtanJrMlhKTE93eFk3ZGVZR3hITmI1Sl91cGt3cjV3NWpPamgxMjRsOUV1U0s4Wndxb044UUVJa0pDM3ZwN0JKRjVfbDhjZ084bg?oc=5",
+   "key": "wideroversightandhardtorepealtariffstrumpstariffsfacecongres",
+   "title": "Wider Oversight and Hard-to-Repeal Tariffs: Trumps Tariffs Face Congressional Test - Sada News Agency - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51YUt6YThEZkNpYjIyZS1sXzVnYVlfMG9nQmRlb3ZMM2hQRVIxUUZFcXlCOEU3bWVQVnZIcE45UXZONGs2b0xqZmYtbmRVakxJSzNsRkZR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,12 +113,12 @@
    "pts": 22
   },
   {
-   "key": "trumpsattackonutahjudgeshowswhycamerasshouldbebannedincharli",
-   "title": "Trump\u2019s attack on Utah judge shows why cameras should be banned in Charlie Kirk case, defense argues - The Salt Lake Tribune",
-   "source": "The Salt Lake Tribune",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBaVhERDJaZW9DMU5SQVV2Uloxajd0dGdqa0gyV3cwMTRGUVFEV2VkRDN2eGVwS1dkNE4ydWx4MEtDaDZEdnJDZDhQbFI5RzM5TzF5ZG9TZ21hb3dnX3AwVHlZZGZ1VVFGQ0tMeWxEWWJySlBDMXc0SGFncw?oc=5",
+   "key": "trumpwarnschinarussiaagainstinvolvementiniranwarenergynowcom",
+   "title": "Trump Warns China, Russia Against Involvement in Iran War - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZwd3g5MVF5U0Myc2tTamFTOW1mNjBGdm5PZWdsaXc0Ym5IbktKYmlNUlo3WmJiOUVRYlJiYjJSSkFtWk1WTDFDd09MQjZjZEoxVWczelBjQ2NCMkE1NjFUck9pRXYzLWVfa0FrLTM4QmlGek1PNGNQZjZ6RlF0aEdUOC1PaDBGSDlJZ0RiYnM?oc=5",
    "themes": [
-    "defence"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -125,32 +137,20 @@
    "pts": 22
   },
   {
-   "key": "trumpvancesignalprogressintalkswithirantoavertrenewedwarnaha",
-   "title": "Trump, Vance signal progress in talks with Iran to avert renewed war - Naharnet",
-   "source": "Naharnet",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUV4TGJBWWJXLXpSdlo2cU9ndmo2d1BjM3FsS2FiYkxuSnRhRkJCLWlwNEZkYWY3Mk9QYmFQSEFYTjliOXYtVkYtc0N3NWUwWjExQTJsRXQ3UFlzT25DazN1STdFVjN2V1hJOFRRRGp5UFBEQ1h2a3dEWXZDRjNfa25ULVJXc0I3M3F4cW8wQTJWU0ozYmc0cDEyWGNrRl85Y1NkZGtpb01DX2dsVnlv?oc=5",
+   "key": "trumpsattackonutahjudgeshowswhycamerasshouldbebannedincharli",
+   "title": "Trump\u2019s attack on Utah judge shows why cameras should be banned in Charlie Kirk case, defense argues - The Salt Lake Tribune",
+   "source": "The Salt Lake Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GT2psMTEzVWtMQjBzR21JeG5IM3dlQ0JpMW5udWpIUlgwZkZwb2haQVpodjJrZ2N1SlhxV2EwMmwyX0lxSHlCRVFsRzdmNFFRRHZncW9EU3hGT3ZUX2JvYVBOYTQ5M2hsQVhHdUY2UEpJS1F0VzlIWUd3?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "trumpdownplaysiranstrikesandpushestalksasoilpricesfallchosun",
-   "title": "Trump downplays Iran strikes and pushes talks as oil prices fall - Chosunbiz",
-   "source": "Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2d4NnBSRkxnV1A3OVdXM25ZX2s0RldRRjRkZnRxNG5JWlA3QW9uMVFRMVhhU2ZUM2VYb196c2hYMFVSeHNvRm55TDZZY0tKdjQ0NWxzVXBvS3dYZDdEUXRtdzhyM2paOE95cEs0VjRJUGFGd0Z4RWpXRXlGdkZ5aUl0ekVaRW5L0gGcAUFVX3lxTE5BNWRzdzE3T29vcTkweVZmSnJqM05rQkFwMWFfTzNEMXVhVUpPeXcwMUxubGdBbzlvZHIwMUtsQ0dQWkR3UTdxNUprZVJqWV9jV2haSE1tSVBwa1FTVE0zUXBwSmkxSkdWMG5FRERMT3A4ZVhsUGxfVHlfWUI5cWgtYUdmOFdicFY1bHdiamZ4NUxvdlp1SGlQWTBpNw?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumptoutsrecorddropinoilpricesonelectionevesaysiranwantsase",
-   "title": "Trump touts \u2018record\u2019 drop in oil prices on election eve, says Iran \u2018wants a settlement\u2019 - Washington Examiner",
+   "key": "trumptoutsrecorddropinoilpricesonelectionevesaysiranwantsade",
+   "title": "Trump touts 'record' drop in oil prices on election eve, says Iran wants a deal - Washington Examiner",
    "source": "Washington Examiner",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbkZvQlNrTUZuMEtaMXVmRE1pWWF0cTVtNVF3MG1wa3hJbmhGWXFaTVR1NnpnTW5sSjVJY3k3cjZWZWtoQ05GRnRUMndOMGtiZU5UY0RuVFAxNzZlQWo4MExzTjlVV3lwUlVKNDdlamU1RHNidExSNEQzZkFhd0xJNG10MDNUdmdCVXJUVDBheFhmNVpraHZpaEZCcGd1TElXTFBLbUlxM0pQVGhaaUZWa0pndGNlQm85ejNJQzZNek96SzgwZ3hhaFZ4WDBxNmVhRW5vLVJlTnJxaVgxRGdUZTZFeFFIeXZjUjBNTQ?oc=5",
    "themes": [
@@ -161,12 +161,36 @@
    "pts": 22
   },
   {
-   "key": "therbasinterestratedecisionisabalancingactbetweenchristmasun",
-   "title": "The RBA's interest rate decision is a balancing act between Christmas, unemployment, and a lame duck Trump - Crikey",
-   "source": "Crikey",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjhEQkgyU3FwNTgySVFZQUxwQ1RnMkV4c0pTX1htVmREZmRYRERIQjA0Vk51UkhyYzZTcktfMG0wSVJzRUxQTmFSMjBfQWx6Z3R4dE00Wi1hNmdhd19mVnBuWUNpMi04clhKMUlUeXUzNXprNTRDQUJONWtwd29fZjAzRnNFWGh0X0hiNUlud09BTGxJRGMxeW5lZkhCaS1BdTJVWXNrU245bkhYcDU3UkpCOA?oc=5",
+   "key": "iranclaimsusdronedownedqeshmblastsreportedtrumpcitesoildropg",
+   "title": "Iran claims US drone downed, Qeshm blasts reported \u2014 Trump cites oil drop - Gulf News",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSWkyaGVPTDJyWnpJS0RsNzlBOUdEUE9JcGpPM1UwUFRja1ZiYWlfMl9vTDNXSlhpYmRnVk5Nd3ZreHNNNVFJaHpNZGxWNndFdVFURzhzT0NHVFNhTmR1WUwyX2RBTU1EMTBfV0t3SGJNYkpfcTBHVUZjSzEtRXpIMFk1TDJyWlgzekY2N1lWNnAxX2lYdU1vTTJIM2Q4a0tnaGc1RVJ1WUFOZTBtUmEzN2pUMXLSAccBQVVfeXFMUERnRGdUcVdkU2xMZmZJd0luanpiX0tzbWhjejkxNXJQbWZQcVNzUGJYWWhVUVBRcW9EcG8yaEdhcV9GQVdiQzRhUmg4WWk2RHEzUXc5Y1lBS1lFcHp0VHkwR2JkUTdkb3p3bnY3X0RIU1cwUXA2Rnh3S0tlVE54YjNTWUMwdVdxaF8weHlrQS1YQ21rSk40azFNVmlmTW84WkdZTFEzZUZqOUI3b3lSNU5TYm55TllOTnp6RVRDYTRnWWl5MGV6Yw?oc=5",
    "themes": [
-    "rates"
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
+   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "leakrevealstrumpsecretlydoubtingpentagonpetethedailybeast",
+   "title": "Leak Reveals Trump Secretly Doubting Pentagon Pete - The Daily Beast",
+   "source": "The Daily Beast",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGFHalRlTDJzOWVnaFo4Y3lPdTFWYVozNkxzVU54bTNBM0lYbExpeXBXRU5QYzNCRmhZSEp3RmJSVDlIODEwajloSk5iYU9qREpReGdPU3hlN3FVWFd3SThFY1FNQ212ZERLd1dreEw0TkhFQXc0LXF5MmlNbU1hUHhYTGhRajg?oc=5",
+   "themes": [
+    "defence"
    ],
    "trump": true,
    "trusted": false,
@@ -219,117 +243,78 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "santassleighwillbeweigheddownbytariffspetersoninstituteforin",
-   "title": "Santa's sleigh will be weighed down by tariffs - Peterson Institute for International Economics",
-   "source": "Peterson Institute for International Economics",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdmRl93WEwtMjdkbzM2YU10emsyNURrNjNPWmFhbUJZNktCRkExaE1ERG5DU1ExcUtOZkRnc1dfZEpHdm11eVJhWVlaMEU2eWFZTzl2T1V2OHN3cWZfbWg5eU8yNEZ3QVd3WDlQb2dqYWQ4TTVYbnZVbWQ0TWxtVkdLSS1jUEQ0bG5zdWl0Q21DekF3cURJRQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "wardepartmentcommitsupto450mloantonerosmiragenews",
-   "title": "War Department Commits Up to $450M Loan to Neros - Mirage News",
-   "source": "Mirage News",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW1TTUJMUnJZb20wc0NqS1VDUlhrdUNtU25hbmpDOFJDT1hsUG9kUDdpUVAwQ2hCZ0NXNnNHSVlybFptRXR0NjBHY0ZoTU1lMUFvajhTNGdRU3FpMk1XTUM2VXRIaVk0ZWxURFNxYW1NVHpxZ3ZzeGdZWGV0eWd6VkJzUXdDMkZnSTQw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 58
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 69
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 80
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 44
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 44
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 140 min old)",
+   "why": "stale quote / market closed (last price 178 min old)",
    "score": 84
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 81
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 79
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 52
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 140 min old)",
+   "why": "stale quote / market closed (last price 178 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 45
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1088 min old)",
-   "score": 92
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 41
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1088 min old)",
-   "score": 72
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 45
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 38
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1088 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 43
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 140 min old)",
+   "why": "stale quote / market closed (last price 178 min old)",
    "score": 48
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 140 min old)",
+   "why": "stale quote / market closed (last price 178 min old)",
    "score": 45
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 140 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 178 min old)",
+   "score": 55
   }
  ],
  "paper": {
@@ -343,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 10:19 AM AEDT",
+  "last_scan": "Tue 03 Nov 2026 10:57 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
