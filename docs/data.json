@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 03:26 PM AEDT",
- "fx_audusd": 0.6985,
+ "generated": "Tue 03 Nov 2026 04:23 PM AEDT",
+ "fx_audusd": 0.698,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "Trump has lost control of his war with Canada - SMH.com.au",
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0V4Q0FDdHdUMEh6RHBBd21MdFlIZDVWY1JQeVlTNnpWaU8zTlR6VnhWR2NFWVQxSVNtZHlwQXhQajE1NUZCWFU2S0lKYXllbHNJVWhsOGl5UmF5TDRzTTM1S1RYS1ZJV3NLZE5NV3ltTzN4YVRmTnh1a0FheGJpMUN3NzE3TG9kbGZNbTh2QmVUX09tNlY4cldXaHVEZDNEYjFZVkF3dkkyc0IyeUxn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffscouldbackfireinmichigansmidtermscbc",
+   "title": "Trump\u2019s tariffs could backfire in Michigan\u2019s midterms - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,18 +65,6 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffscouldbackfireinmichigansmidtermscbc",
-   "title": "Trump\u2019s tariffs could backfire in Michigan\u2019s midterms - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ia2h6Q00tR2NBQ0t6X2swOTg4cmxudWJQRGZYNUVIUjRQUjRHTnhZekVfVFJFdU5tVHBDT3hCUW4yeVhPXzRLVmp4UEFwWlMtczdnWHZxRGs?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "nongshimusunitsuesformorethan4billionwonintrumperatariffrefu",
    "title": "Nongshim U.S. Unit Sues for More Than 4 Billion Won in Trump-Era Tariff Refunds - Businesskorea",
    "source": "Businesskorea",
@@ -101,22 +101,10 @@
    "pts": 22
   },
   {
-   "key": "wideroversightandhardtorepealtariffstrumpstariffsfacecongres",
-   "title": "Wider Oversight and Hard-to-Repeal Tariffs: Trumps Tariffs Face Congressional Test - Sada News Agency - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51YUt6YThEZkNpYjIyZS1sXzVnYVlfMG9nQmRlb3ZMM2hQRVIxUUZFcXlCOEU3bWVQVnZIcE45UXZONGs2b0xqZmYtbmRVakxJSzNsRkZR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "givennochoicebytrumpcanadaembracesasiatosaveautoheartlandsqu",
-   "title": "Given No Choice by Trump \u2013 Canada Embraces Asia to Save Auto Heartland Squeezed by U.S. Tariffs - EnergyNow.com",
+   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
+   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
    "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnVaMlhXOGpTUFFhTzI0a0U2a3Z4ajJ4VVRFamJyVU9DRldSZkhXWFBTN0c5NWp5RkRnNVJsY0k3XzN4MnlYaXJaaDZ6WUtlSGJPaGpHUTU2SHMxX1VlOWNWMk1yWFd0UUdfWGlBS0xIS3AtMWlRLV96eGJDNkRGZ2JOS2U0QWZCbzEyUTBaM2x0NWF2QkYwbGhmRU56V2s?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,22 +137,34 @@
    "pts": 22
   },
   {
-   "key": "trumpdownplaysiranstrikesandpushestalksasoilpricesfallchosun",
-   "title": "Trump downplays Iran strikes and pushes talks as oil prices fall - Chosunbiz",
-   "source": "Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2d4NnBSRkxnV1A3OVdXM25ZX2s0RldRRjRkZnRxNG5JWlA3QW9uMVFRMVhhU2ZUM2VYb196c2hYMFVSeHNvRm55TDZZY0tKdjQ0NWxzVXBvS3dYZDdEUXRtdzhyM2paOE95cEs0VjRJUGFGd0Z4RWpXRXlGdkZ5aUl0ekVaRW5L0gGcAUFVX3lxTE5BNWRzdzE3T29vcTkweVZmSnJqM05rQkFwMWFfTzNEMXVhVUpPeXcwMUxubGdBbzlvZHIwMUtsQ0dQWkR3UTdxNUprZVJqWV9jV2haSE1tSVBwa1FTVE0zUXBwSmkxSkdWMG5FRERMT3A4ZVhsUGxfVHlfWUI5cWgtYUdmOFdicFY1bHdiamZ4NUxvdlp1SGlQWTBpNw?oc=5",
+   "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
+   "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
+   "source": "The Independent",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXNBMGpFek5ZYnhOajJlVUxIRlByV2l3T2l5bVhxQ2tZbDh2SE52aHhBLTdjT3VYUnBNTVNOQk9RcDlyTU14eTNTNVRnS0xRam1DcVJOQ25wcHFrSm80eXg2amMyTC1hZUFfZG4wMnh3T1pxSjIwRW5pb0V4S3FmemNzRktKNUJIQ1FKRTI1amxXUUM1QzRsajJ3RWJ4bXk4Ty1mX005c1RYMFZ3RFB1ai1zUUtCTm9DQ3JadFNn?oc=5",
    "themes": [
-    "energy"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
-   "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXNBMGpFek5ZYnhOajJlVUxIRlByV2l3T2l5bVhxQ2tZbDh2SE52aHhBLTdjT3VYUnBNTVNOQk9RcDlyTU14eTNTNVRnS0xRam1DcVJOQ25wcHFrSm80eXg2amMyTC1hZUFfZG4wMnh3T1pxSjIwRW5pb0V4S3FmemNzRktKNUJIQ1FKRTI1amxXUUM1QzRsajJ3RWJ4bXk4Ty1mX005c1RYMFZ3RFB1ai1zUUtCTm9DQ3JadFNn?oc=5",
+   "key": "trumpsattackonutahjudgeshowswhycamerasshouldbebannedincharli",
+   "title": "Trump\u2019s attack on Utah judge shows why cameras should be banned in Charlie Kirk case, defense argues - The Salt Lake Tribune",
+   "source": "The Salt Lake Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GT2psMTEzVWtMQjBzR21JeG5IM3dlQ0JpMW5udWpIUlgwZkZwb2haQVpodjJrZ2N1SlhxV2EwMmwyX0lxSHlCRVFsRzdmNFFRRHZncW9EU3hGT3ZUX2JvYVBOYTQ5M2hsQVhHdUY2UEpJS1F0VzlIWUd3?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "melaniatrumpsaysshebrokeredtruceinwartornukrainiancityafpcom",
+   "title": "Melania Trump says she brokered truce in war-torn Ukrainian city - AFP.com",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMkdGSWMwWkdJQlJNaEFPbFczZktYU1p3OHFkSXNDcXdFT2g0UzFibjAtQ1lZWFg3RVZmMXpSODhtZGhDRmZXRkg1NA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -185,24 +185,24 @@
    "pts": 20
   },
   {
-   "key": "drreddysgetstentativeusfdanodforgenerichivpreventionreuters",
-   "title": "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+   "key": "coronavirusmaypromptopecoiloutputcutreuters",
+   "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG11NU5pb3lsQ0x5amc3cUlHTVFMQWJDdDJPQWg2RVpDeWRfSjU4NGdBX19MXzRiY0lrRmg4cElQZ0lvRF9UdlNFYXJPdUQ5YWUyVEhHd0lGcmhTUndzQ1Q0M1NNeHYtbFpHQnR0SVpscG0xdEZ3eXNhclJXX1RoQWJHRWhHTTU2WEJWZTZ4MzhPVVJTalYzQlRBdmN3Tmx3XzRJLTlkVExrYkxKTUxwSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMzIza3Q0Qk50YXVWVU9HTjdvNkZPTVpBWW5mRlRuc1FCdi12eXVHQkl4alMwUlZpWUc2TUdWOWQyV1RhZFYtRGEzRmd1ZC01enN5MmgzQmdDYUVW?oc=5",
    "themes": [
-    "pharma"
+    "energy"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
   },
   {
-   "key": "australiahikesratesto18yearhightofightinflationcnbc",
-   "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA?oc=5",
+   "key": "drreddysgetstentativeusfdanodforgenerichivpreventionreuters",
+   "title": "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG11NU5pb3lsQ0x5amc3cUlHTVFMQWJDdDJPQWg2RVpDeWRfSjU4NGdBX19MXzRiY0lrRmg4cElQZ0lvRF9UdlNFYXJPdUQ5YWUyVEhHd0lGcmhTUndzQ1Q0M1NNeHYtbFpHQnR0SVpscG0xdEZ3eXNhclJXX1RoQWJHRWhHTTU2WEJWZTZ4MzhPVVJTalYzQlRBdmN3Tmx3XzRJLTlkVExrYkxKTUxwSQ?oc=5",
    "themes": [
-    "rates"
+    "pharma"
    ],
    "trump": false,
    "trusted": true,
@@ -221,10 +221,10 @@
    "pts": 20
   },
   {
-   "key": "howtodaysrbaratehikeaffectsyourhippocketabcnewsheadlinesaust",
-   "title": "How today's RBA rate hike affects your hip pocket - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVF3X1ZfWE01dU9ETzRVNnNDaERJUmU1T1RmTTBEeHViazkwOS1CQW9pSy10YTZrU0FIQ1dXd001VDZISE9rbVZiazFpNlA5cWxhTnRPUFQwZVg0V3R1OVNneXc2V1VROGh2cGk2V205QTFVUDF4M3ktY19TN2ltbDE0TkpPWWk1RHJIXzl4aXZ2Q1RlbWRLcnZWd0hsZ2twbmc5aHZ5SVc?oc=5",
+   "key": "australiahikesratesto18yearhightofightinflationcnbc",
+   "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA?oc=5",
    "themes": [
     "rates"
    ],
@@ -248,88 +248,88 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 69
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
+   "score": 57
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 504 min old)",
+   "score": 84
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 504 min old)",
+   "score": 92
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 447 min old)",
-   "score": 57
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 447 min old)",
-   "score": 57
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 73
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 65
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 447 min old)",
-   "score": 82
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 447 min old)",
-   "score": 90
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 55
   },
   {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 504 min old)",
+   "score": 55
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 29 min old)",
+   "score": 65
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 29 min old)",
+   "score": 67
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 504 min old)",
    "score": 44
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 70
+   "why": "stale quote / market closed (last price 29 min old)",
+   "score": 67
   }
  ],
  "paper": {
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 03:26 PM AEDT",
+  "last_scan": "Tue 03 Nov 2026 04:23 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
