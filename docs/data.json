@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 05:20 PM AEDT",
- "fx_audusd": 0.6984,
+ "generated": "Tue 03 Nov 2026 06:41 PM AEDT",
+ "fx_audusd": 0.6988,
  "signals": [],
  "events": [
   {
@@ -125,24 +125,12 @@
    "pts": 22
   },
   {
-   "key": "trumpvancesignalprogressintalkswithirantoavertrenewedwarnaha",
-   "title": "Trump, Vance signal progress in talks with Iran to avert renewed war - Naharnet",
-   "source": "Naharnet",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUV4TGJBWWJXLXpSdlo2cU9ndmo2d1BjM3FsS2FiYkxuSnRhRkJCLWlwNEZkYWY3Mk9QYmFQSEFYTjliOXYtVkYtc0N3NWUwWjExQTJsRXQ3UFlzT25DazN1STdFVjN2V1hJOFRRRGp5UFBEQ1h2a3dEWXZDRjNfa25ULVJXc0I3M3F4cW8wQTJWU0ozYmc0cDEyWGNrRl85Y1NkZGtpb01DX2dsVnlv?oc=5",
+   "key": "trumpsaysoilpricesaredroppinglikearockasiranwantsasettlement",
+   "title": "Trump Says Oil Prices Are \u2018Dropping Like a Rock\u2019 as Iran \u2018Wants a Settlement,\u2019 Peace Deal \u2018Could Happen\u2019 Ahead of Midterms - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRkZDLU5hcTREMzVsNUhnZVN3RE83NTE1OUNsX3ZaZm5yeHNuUjBLM1h5cmRLLU1ybDNHeE04Um1HZENoT2RSNnVrQ0NZMGcyVXZXdE1LR0loZ0c5N3M5UGNCbjFTdU5COGpNU0V6X29jaUQtYVVqMDd6aGFMOUExcm1WMXhyQ1oxQWhPVExESE1JdjVoYVlEeV9CR0IzTmZfQVp0MUpqWkxEcmN1U3hkb2ROZ3dSMjBzRG9YUmtnXzF0NDZGVmF3a2MwWFZxU09aTjVhVUl6azVmVUxCcU52UzZCSWR1Q2Z5ODhEQ211VTJrQUpZc2QzN2RGa2JEMU9lZFVIUA?oc=5",
    "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
-   "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXNBMGpFek5ZYnhOajJlVUxIRlByV2l3T2l5bVhxQ2tZbDh2SE52aHhBLTdjT3VYUnBNTVNOQk9RcDlyTU14eTNTNVRnS0xRam1DcVJOQ25wcHFrSm80eXg2amMyTC1hZUFfZG4wMnh3T1pxSjIwRW5pb0V4S3FmemNzRktKNUJIQ1FKRTI1amxXUUM1QzRsajJ3RWJ4bXk4Ty1mX005c1RYMFZ3RFB1ai1zUUtCTm9DQ3JadFNn?oc=5",
-   "themes": [
-    "geopolitics"
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -173,6 +161,30 @@
    "pts": 22
   },
   {
+   "key": "thousandsofjobsinniarecomingfromdefencecontractssaysminister",
+   "title": "'Thousands' of jobs in NI are coming from defence contracts, says minister - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTkRqTlByX2llSV8xNHR1VWp4V1EzaENMZXpVQ3VoUGt4YVhiT3JvamRkLTVQdnBzWWlDb1JIV2JEazRIVEoyZGs2MXl1TURxNElFcVlKLTRCb2pVUVE?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "coronavirusmaypromptopecoiloutputcutreuters",
+   "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMzIza3Q0Qk50YXVWVU9HTjdvNkZPTVpBWW5mRlRuc1FCdi12eXVHQkl4alMwUlZpWUc2TUdWOWQyV1RhZFYtRGEzRmd1ZC01enN5MmgzQmdDYUVW?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "drreddysgetstentativeusfdanodforgenerichivpreventionreuters",
    "title": "Dr Reddy's gets tentative US FDA nod for generic HIV prevention - Reuters",
    "source": "Reuters",
@@ -189,18 +201,6 @@
    "title": "RBA lifts interest rates to highest level in 18 years to try to dampen inflation - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmNCLTQ3TGpocmdBa1lKSjFFLVozOGE1ZXpvWHlkclF5TEV3SmhyX3pBU21kYkxKZHNWQkNOZTNWQnplUnR0TmJ6R2RnTjFybzFBQUNNSks3aDJVV01QN0UzejRvYkZRNXFNY041djFXR3V6MXB3bTk3WFFPZkswbFpWbHBrTVRIRnMtWFM0NG9VbUlzUUxIUlNwOGhpeFZOZ0FzWVlRVkFreWxuRUtHQWl3?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "australiahikesratesto18yearhightofightinflationcnbc",
-   "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA?oc=5",
    "themes": [
     "rates"
    ],
@@ -248,87 +248,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 69
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 560 min old)",
-   "score": 57
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 560 min old)",
-   "score": 84
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 560 min old)",
-   "score": 92
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 149 min old)",
    "score": 77
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 70 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 92
   },
   {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 641 min old)",
+   "score": 84
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 641 min old)",
+   "score": 92
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 641 min old)",
+   "score": 57
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 560 min old)",
+   "why": "stale quote / market closed (last price 641 min old)",
    "score": 49
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 149 min old)",
    "score": 74
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 05:20 PM AEDT",
+  "last_scan": "Tue 03 Nov 2026 06:41 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
