@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 06:41 PM AEDT",
- "fx_audusd": 0.6988,
+ "generated": "Tue 03 Nov 2026 07:38 PM AEDT",
+ "fx_audusd": 0.6976,
  "signals": [],
  "events": [
   {
@@ -113,6 +113,18 @@
    "pts": 22
   },
   {
+   "key": "mynewdispatcharticleonthelegalcaseagainsttrumpssection338tar",
+   "title": "My New Dispatch Article on the Legal Case Against Trump's Section 338 Tariffs Targeting Canadian Imports - Reason Magazine",
+   "source": "Reason Magazine",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWnhfbkhWN29pMUx2WGl5U1dnOG9WTDFabG1wcFhwbkdKUlEtbGNKS0ppMUlkSGg3MnlUbXFPZzR1eGwxVmRuUWdvcEx0X3N1VTdmR3hTcHJCeTFQZXE0T1B3OTdZZVhhYnBTUWd1TC1mNG5iM1VWLVp3VmRtZERMVUtaYkJ3ZWVzUVZrQjFfM3k2S0JBUk83R0ZCTGs1c3RBb2tIZ3dHNnhqNmlUS0MyZ0ZrUTc1eDJkWG5fLWVZdTkwOURMeXNDZC10N05FSU5pRnh1dnNJb1Y?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpwarnschinarussiaagainstinvolvementiniranwarenergynowcom",
    "title": "Trump Warns China, Russia Against Involvement in Iran War - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -149,12 +161,12 @@
    "pts": 22
   },
   {
-   "key": "iranclaimsusdronedownedqeshmblastsreportedtrumpcitesoildropg",
-   "title": "Iran claims US drone downed, Qeshm blasts reported \u2014 Trump cites oil drop - Gulf News",
-   "source": "Gulf News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSWkyaGVPTDJyWnpJS0RsNzlBOUdEUE9JcGpPM1UwUFRja1ZiYWlfMl9vTDNXSlhpYmRnVk5Nd3ZreHNNNVFJaHpNZGxWNndFdVFURzhzT0NHVFNhTmR1WUwyX2RBTU1EMTBfV0t3SGJNYkpfcTBHVUZjSzEtRXpIMFk1TDJyWlgzekY2N1lWNnAxX2lYdU1vTTJIM2Q4a0tnaGc1RVJ1WUFOZTBtUmEzN2pUMXLSAccBQVVfeXFMUERnRGdUcVdkU2xMZmZJd0luanpiX0tzbWhjejkxNXJQbWZQcVNzUGJYWWhVUVBRcW9EcG8yaEdhcV9GQVdiQzRhUmg4WWk2RHEzUXc5Y1lBS1lFcHp0VHkwR2JkUTdkb3p3bnY3X0RIU1cwUXA2Rnh3S0tlVE54YjNTWUMwdVdxaF8weHlrQS1YQ21rSk40azFNVmlmTW84WkdZTFEzZUZqOUI3b3lSNU5TYm55TllOTnp6RVRDYTRnWWl5MGV6Yw?oc=5",
+   "key": "melaniatrumpsaysshebrokeredtruceinwartornukrainiancityafpcom",
+   "title": "Melania Trump says she brokered truce in war-torn Ukrainian city - AFP.com",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMkdGSWMwWkdJQlJNaEFPbFczZktYU1p3OHFkSXNDcXdFT2g0UzFibjAtQ1lZWFg3RVZmMXpSODhtZGhDRmZXRkg1NA?oc=5",
    "themes": [
-    "energy"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -167,18 +179,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTkRqTlByX2llSV8xNHR1VWp4V1EzaENMZXpVQ3VoUGt4YVhiT3JvamRkLTVQdnBzWWlDb1JIV2JEazRIVEoyZGs2MXl1TURxNElFcVlKLTRCb2pVUVE?oc=5",
    "themes": [
     "defence"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "coronavirusmaypromptopecoiloutputcutreuters",
-   "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMzIza3Q0Qk50YXVWVU9HTjdvNkZPTVpBWW5mRlRuc1FCdi12eXVHQkl4alMwUlZpWUc2TUdWOWQyV1RhZFYtRGEzRmd1ZC01enN5MmgzQmdDYUVW?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": false,
    "trusted": true,
@@ -209,6 +209,18 @@
    "pts": 20
   },
   {
+   "key": "australiahikesratesto18yearhightofightinflationcnbc",
+   "title": "Australia hikes rates to 18-year high to fight inflation - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "wartariffsandchinawhattheusmidtermsmeanfortheasiapacificalja",
    "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific - Al Jazeera",
    "source": "Al Jazeera",
@@ -231,104 +243,92 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "santassleighwillbeweigheddownbytariffspetersoninstituteforin",
-   "title": "Santa's sleigh will be weighed down by tariffs - Peterson Institute for International Economics",
-   "source": "Peterson Institute for International Economics",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdmRl93WEwtMjdkbzM2YU10emsyNURrNjNPWmFhbUJZNktCRkExaE1ERG5DU1ExcUtOZkRnc1dfZEpHdm11eVJhWVlaMEU2eWFZTzl2T1V2OHN3cWZfbWg5eU8yNEZ3QVd3WDlQb2dqYWQ4TTVYbnZVbWQ0TWxtVkdLSS1jUEQ0bG5zdWl0Q21DekF3cURJRQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 69
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 149 min old)",
+   "why": "stale quote / market closed (last price 207 min old)",
    "score": 77
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 209 min old)",
    "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 84
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 641 min old)",
+   "why": "stale quote / market closed (last price 699 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 641 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 699 min old)",
+   "score": 44
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 149 min old)",
+   "why": "stale quote / market closed (last price 207 min old)",
    "score": 74
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 06:41 PM AEDT",
+  "last_scan": "Tue 03 Nov 2026 07:38 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
