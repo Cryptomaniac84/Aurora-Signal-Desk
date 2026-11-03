@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 09:56 AM AEDT",
- "fx_audusd": 0.6969,
+ "generated": "Wed 04 Nov 2026 10:30 AM AEDT",
+ "fx_audusd": 0.6968,
  "signals": [],
  "events": [
   {
@@ -113,10 +113,22 @@
    "pts": 22
   },
   {
+   "key": "trumptariffreversalcouldcutcostsforusenergyfirmsbutwilllikel",
+   "title": "Trump Tariff Reversal Could Cut Costs for US Energy Firms But Will Likely Leave Broader Flows Unchanged - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWVpWU1aazVlMlhNczhWQjVXajY0U00zdU5WZzZwMFFNdkxDZEgwQnhjRVFaLUNYc0czY3h5QzdkOXdMajkyVVByaURNOFQ4dVEwTk9yaWtIQ2ZFTkpCNTA5OWxvQTVxcEluMzU5T0ZRZElRay11eC1LWmY3ZllYQUFFTGplQ2hDanVJZ3NSTEFJbnhMTDAybkQ5SnFQZTZlbS1pR1B3VXFCb2RqNkJUXzI5WGxxVmdWSU1HTEwtZTJlbXhwR3l2YWdOOUd4dw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "screwedeitherwayrepublicansenatorfightsbacklashovertrumptari",
-   "title": "\u2018Screwed either way\u2019: Republican senator fights backlash over Trump tariffs in Maine - Brandon Sun",
-   "source": "Brandon Sun",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQy1DTjJTRkJvVzdPNUlfV3ptNk9CeENSaTgtRTR1QlUzNkxFNGJkakF2bWxhSFFwaE1oNTJwb1FCbFdQWDRIMzRkM0pGNFVNamlNdFZZemdnbER1X0RmaGRkcU9YNnppX2NTbGFVaXk5VGZQMGtFRnRGb2tSekVKQ3d0MHhZY2xzT2Q5Tm16Q2VmODl0bndGUHR6QUp3Vk84TGNrZ0ROM09ZeHZMZm9PRjY4MTlheVk1NnVrQ2VYZ21RUU5YRExN?oc=5",
+   "title": "'Screwed either way': Republican senator fights backlash over Trump tariffs in Maine - Castanet",
+   "source": "Castanet",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTc3aUxmQlpnVExTYmV0NzdnRGY1Zl9lc3JZU0VXdEE5WHBUYjhZdHRGalVyQnRTd0ZjczhmLTNWeDBkWnpkT0JyVk9WNVRHd2owaGY4Y0ZwbW95SEpzc0hqOXdlVkIyQVB4SmZXOHhTd1RsY1BYdzRTUHpnRW04dTU4TWdWMDQtMW4tNks3cjh2aGxGcDhIR28weWNRS0Jib3IwSkVtb3VFMGYzSzVUdjdlQ3Utb3VKbUtESG1Ca2hDeXM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -129,18 +141,6 @@
    "title": "Video | Trump's Tariffs, Blue Wave And The Battle For Congress | NDTV From Capitol Hill - NDTV",
    "source": "NDTV",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlQ5ZEkwN1pzbmRnS3QxbkxmcTZsWXBjVzFIRnBCYjJoaUdwWlFwdWZPU3VlcHdLc1NGWlYzYmpoaXBnLWhWTzhuRmtRUDlhNVo0MzdHakdJNWFfYk9HaG5xRGotc09zTXZWakJJcUducTRsWmhjRDJ6ZTBHZEVrT2o1cmZ3bkw2Um1JQ2tXTDhiTmFmUlVzRjFNVnVIdGRyS0tkbUVPZUh3THI2Qy1MRg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpcarneyfloatadealtoendtheautotariffwarthetruthaboutcarsc",
-   "title": "Trump, Carney Float a Deal to End the Auto-Tariff War - thetruthaboutcars.com",
-   "source": "thetruthaboutcars.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUh4S3R1T0xpX2Q1bzZuWEl2TWp1dl93M0FUVjcwRU9zY3ZWVjEzdnZWYWltSnk0RDhLOFV2VFhQOUdUYV9MRGpvcGdZc3EyYUNlbV92MUN0aUFfWERUYjdHN2NhOUE0Vmc4akIxV3RGNk1XZmpCa18zUmMyTU1YbUFPYW82cTlOM1hDSWd5ZVZiUzJTTXVhNktERzdrYi1UbVBkSjBkbGcyX1FRWXdj?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,73 +248,73 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 48
-  },
-  {
-   "sym": "ITA",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 56
-  },
-  {
-   "sym": "XLE",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 57
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 66
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 54
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 51
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1064 min old)",
-   "score": 74
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 61
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 116 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 49
   },
   {
+   "sym": "ITA",
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 57
+  },
+  {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 49
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 69
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 56
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 52
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 60
+  },
+  {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 53
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 55
+  },
+  {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 50
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 48
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 70
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 60
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 116 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 41
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 116 min old)",
-   "score": 80
+   "why": "stale quote / market closed (last price 151 min old)",
+   "score": 62
   }
  ],
  "paper": {
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 09:56 AM AEDT",
+  "last_scan": "Wed 04 Nov 2026 10:30 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
