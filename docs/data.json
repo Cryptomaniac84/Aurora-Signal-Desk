@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 08:31 PM AEDT",
- "fx_audusd": 0.6973,
+ "generated": "Tue 03 Nov 2026 09:35 PM AEDT",
+ "fx_audusd": 0.6976,
  "signals": [],
  "events": [
   {
@@ -125,6 +125,18 @@
    "pts": 22
   },
   {
+   "key": "melaniatrumpsaysshebrokeredtruceinwartornukrainiancityafpcom",
+   "title": "Melania Trump says she brokered truce in war-torn Ukrainian city - AFP.com",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMkdGSWMwWkdJQlJNaEFPbFczZktYU1p3OHFkSXNDcXdFT2g0UzFibjAtQ1lZWFg3RVZmMXpSODhtZGhDRmZXRkg1NA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "thousandsofjobsinniarecomingfromdefencecontractssaysminister",
    "title": "'Thousands' of jobs in NI are coming from defence contracts, says minister - BBC",
    "source": "BBC",
@@ -149,10 +161,10 @@
    "pts": 20
   },
   {
-   "key": "videotherbaliftsinterestratestothehighestlevelin18yearsabcne",
-   "title": "VIDEO: The RBA lifts interest rates to the highest level in 18 years - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "key": "interestrateshighestsince2008asinflationforecasttostayhighab",
+   "title": "Interest rates highest since 2008 as inflation forecast to stay high - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0UtQU9ZZFVncDdKOElRcVBIXzJ4anVQd3VkMmhyVVNQdGNGSXF5eW5JOTlQaFRjdE1tRFByNmk5MjJKSk1LZ1lkTUR5YVhjZTNQdEY1VmFQVXhBTWpiOWhvYU15bmcyVkh6SjRLQk55VjZBdXQ5dy1IY3AtbzlwODdqVE9IY19WOWt2YmVRZFhMeDdQZFVhdlNuUWtGUlByWjdWcVE0Yy01MW9taHg4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmNCLTQ3TGpocmdBa1lKSjFFLVozOGE1ZXpvWHlkclF5TEV3SmhyX3pBU21kYkxKZHNWQkNOZTNWQnplUnR0TmJ6R2RnTjFybzFBQUNNSks3aDJVV01QN0UzejRvYkZRNXFNY041djFXR3V6MXB3bTk3WFFPZkswbFpWbHBrTVRIRnMtWFM0NG9VbUlzUUxIUlNwOGhpeFZOZ0FzWVlRVkFreWxuRUtHQWl3?oc=5",
    "themes": [
     "rates"
    ],
@@ -161,10 +173,10 @@
    "pts": 20
   },
   {
-   "key": "interestrateshighestsince2008asinflationforecasttostayhighab",
-   "title": "Interest rates highest since 2008 as inflation forecast to stay high - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "key": "videotherbaliftsinterestratestothehighestlevelin18yearsabcne",
+   "title": "VIDEO: The RBA lifts interest rates to the highest level in 18 years - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmNCLTQ3TGpocmdBa1lKSjFFLVozOGE1ZXpvWHlkclF5TEV3SmhyX3pBU21kYkxKZHNWQkNOZTNWQnplUnR0TmJ6R2RnTjFybzFBQUNNSks3aDJVV01QN0UzejRvYkZRNXFNY041djFXR3V6MXB3bTk3WFFPZkswbFpWbHBrTVRIRnMtWFM0NG9VbUlzUUxIUlNwOGhpeFZOZ0FzWVlRVkFreWxuRUtHQWl3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0UtQU9ZZFVncDdKOElRcVBIXzJ4anVQd3VkMmhyVVNQdGNGSXF5eW5JOTlQaFRjdE1tRFByNmk5MjJKSk1LZ1lkTUR5YVhjZTNQdEY1VmFQVXhBTWpiOWhvYU15bmcyVkh6SjRLQk55VjZBdXQ5dy1IY3AtbzlwODdqVE9IY19WOWt2YmVRZFhMeDdQZFVhdlNuUWtGUlByWjdWcVE0Yy01MW9taHg4?oc=5",
    "themes": [
     "rates"
    ],
@@ -209,34 +221,22 @@
    "pts": 12
   },
   {
+   "key": "wardepartmentcommitsupto450mloantonerosmiragenews",
+   "title": "War Department Commits Up to $450M Loan to Neros - Mirage News",
+   "source": "Mirage News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW1TTUJMUnJZb20wc0NqS1VDUlhrdUNtU25hbmpDOFJDT1hsUG9kUDdpUVAwQ2hCZ0NXNnNHSVlybFptRXR0NjBHY0ZoTU1lMUFvajhTNGdRU3FpMk1XTUM2VXRIaVk0ZWxURFNxYW1NVHpxZ3ZzeGdZWGV0eWd6VkJzUXdDMkZnSTQw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "downersecures305billiondefencecontractbusinessdesk",
    "title": "Downer secures $3.05 billion defence contract - BusinessDesk",
    "source": "BusinessDesk",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFFTVGF5azF3QVBodkM3UzROSU5RZHFneFVRTTBjUkxiVWs1aTZPbmpFMGE5RzducUpJRE11YzRsRTUtUnAtM1RDMlRNSlpFdk5vVVlvRHFsdU5zVHdtaVFVbC1ZMDJ4UzhVdHZpd1hDblVtWi02M1FuWDhXS1N5OXQ4R3VWUUZmaklsb0FGX3BYSXhFYmVPdWdRSGxKYm1mS2VCX1lDZ1l0NG92NG1V?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "mtiwirelessedgesaysisraeliministryofdefenceincreasescontract",
-   "title": "MTI Wireless Edge Says Israeli Ministry Of Defence Increases Contract With PSK To $8.50 Mln - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ3VPNEN1cmotSmpFZXhMOHB2YlNlRlgyem55X3YybUZKOGVFWnFLSjVjZ094NHZsamJwcHhUaURJTmxQUGFLdTJzSTZJN0RjYXREeWRuOTczVGRuTkZMS3dMQlYxNFdzX3JIbmF3NkxTaDc0MGxNckY4Z3VKNE5DdWZrUnpGSWZXUXBscU1WbldrZzZQVEpGc2R0bmxDMWNwaU9pZ21Va1k0MFhuQldjS1FrYndHeF9hYlBFa05OUDJxMVJrU2RSel8yTElyUHA4dk9nWGJJX3gzOEl0cDJXX0U5azZYakFGUWRxVEtxbmNBZw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "kierbamjvsecures600mbabcockdefenceupgradecontractgroundengin",
-   "title": "KierBAM JV secures \u00a3600M Babcock defence upgrade contract - Ground Engineering",
-   "source": "Ground Engineering",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pcG94RFkta1lnV21ZMElBSmltQXRYZFQ1b0lGdGlZb1ZnSXhpRVNxSGt1dWhwTE5sMWFuS2wxNVlhLURtZXg4Zw?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,87 +248,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 69
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 260 min old)",
+   "why": "stale quote / market closed (last price 324 min old)",
    "score": 77
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 262 min old)",
+   "why": "stale quote / market closed (last price 326 min old)",
    "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 90
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 55
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 752 min old)",
+   "why": "stale quote / market closed (last price 816 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 752 min old)",
-   "score": 44
+   "why": "stale quote / market closed (last price 816 min old)",
+   "score": 49
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 260 min old)",
+   "why": "stale quote / market closed (last price 324 min old)",
    "score": 74
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 08:31 PM AEDT",
+  "last_scan": "Tue 03 Nov 2026 09:35 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
