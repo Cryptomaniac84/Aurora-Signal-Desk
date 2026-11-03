@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 04:22 AM AEDT",
- "fx_audusd": 0.6973,
+ "generated": "Wed 04 Nov 2026 05:11 AM AEDT",
+ "fx_audusd": 0.6976,
  "signals": [],
  "events": [
   {
@@ -53,6 +53,42 @@
    "pts": 22
   },
   {
+   "key": "michiganvoterspullawayfromtrumpovertariffscbc",
+   "title": "Michigan voters pull away from Trump over tariffs - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffclaimsneedevidencenotarubberstampthehill",
+   "title": "Trump\u2019s tariff claims need evidence, not a rubber stamp - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3pqbTQ0YmV6S0NuMDFldndIemtXdW1EMzBZcGdSVUNxSkFMNlIyZHg1Q3FtVmtsQjgtcUpldWpPSDhoN3ZXLVJvbXlyQnpKeHdsa0JlUHJhU1NXMTVzU05XbHQ5Z0VJNHh0RFZDRW9KM0prUEVwdnZIQ09zNXpuZQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpchangeswhichcanadiangoodsface50percenttariffslegis1",
+   "title": "Trump Changes Which Canadian Goods Face 50 Percent Tariffs - Legis1",
+   "source": "Legis1",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KU21UbUNMbWFlNlJwSlBKd0JyNXhwcHpFVnBrUmxDaHE0S1Z4TlZJVndZeE4wQVIzaHZWM2RCR0NxRG1oZmdxUGxoS3dkQkFBSXJWTjc0RFZod3haZ0RNazZyWUx0RzNvaG5vY1NjNWJDZmFuSlBMMnJTQTdDZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "christinabohannansaystrumpstariffsarecostingfamilies4200that",
    "title": "Christina Bohannan says Trump\u2019s tariffs are costing families $4,200. That\u2019s Mostly False. - The Daily Iowan",
    "source": "The Daily Iowan",
@@ -65,34 +101,34 @@
    "pts": 22
   },
   {
+   "key": "trumpcouldputtariffsonwindturbinesrockymountainpowerisntworr",
+   "title": "Trump could put tariffs on wind turbines \u2014 Rocky Mountain Power isn\u2019t worried - Deseret News",
+   "source": "Deseret News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejhINXA2Q3pwN1plM3Q0NEdHRDg2ZFVmWlh5TXQ0UzZjZVRmaTZ4YmtzVExTaUVtNm5TZDNldnJnVDZyTnVLbjZwYU1KNVRuZTJtblZfQ2xGZExLQW5HODhwNHNzd21PeUl1dWFpTEZLQmlpcENhQ01kMlJxdDJhN0c2bmpKbE1mUk9LYTNKYXlhbFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpcarneyfloatadealtoendtheautotariffwarthetruthaboutcarsc",
+   "title": "Trump, Carney Float a Deal to End the Auto-Tariff War - thetruthaboutcars.com",
+   "source": "thetruthaboutcars.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUh4S3R1T0xpX2Q1bzZuWEl2TWp1dl93M0FUVjcwRU9zY3ZWVjEzdnZWYWltSnk0RDhLOFV2VFhQOUdUYV9MRGpvcGdZc3EyYUNlbV92MUN0aUFfWERUYjdHN2NhOUE0Vmc4akIxV3RGNk1XZmpCa18zUmMyTU1YbUFPYW82cTlOM1hDSWd5ZVZiUzJTTXVhNktERzdrYi1UbVBkSjBkbGcyX1FRWXdj?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpstarifffiascocouldsavefreetradethebusinesstimes",
    "title": "Trump\u2019s tariff fiasco could save free trade - The Business Times",
    "source": "The Business Times",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU5X0s0TFpiNEFQLUlrVF9uS2VTbkhBOTdvX1h6dTdSQW95LVQ1UUI0YllVS3RBRXJ2dVNGaG5SS0dhemFrTkxDRmptMzYyX2hkMGo0dEdGYVNOLWhfelVqU1prRl9Lb3VTd0ZEckwyQWlyYllqSzlqVV82OEpES3VrbTJpUUZLUmpNYnZsZjJwSG1KbzRF?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffscouldbackfireinmichigansmidtermscbc",
-   "title": "Trump\u2019s tariffs could backfire in Michigan\u2019s midterms - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysusclosetocanadatradedealfertilizertariffsamongkeyis",
-   "title": "Trump says U.S. close to Canada trade deal, fertilizer tariffs among key issues - Investing.com",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd1I3ZVl3QUFUTk9aUmlsdVdUejlQaHdlWVAtNWJJR3NfY08xdzlWaktVSHd3dGFVSDhVdm5KdzNXR2Z4MXhUQVlMeC1OQ3U3WUJoYUFEUXZiSklvLW5sOTk5ZUR1c3B6WTU4ZHR0OGhWZi0xM1hVN1lPUmdlQzh0SERIaUlQeGFSNmk2dVNTOFFNWVQ1RWFlZW5sV0xPOXQxUkhpakRfa2owcHJBZWNXbDhLUkMzMkxqX1RDMk5hZDNVM3lLM2kw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -114,35 +150,11 @@
   },
   {
    "key": "trumpconfirmsstrikesoniranaspezeshkianurgesagainstreturntowa",
-   "title": "Trump confirms strikes on Iran as Pezeshkian urges against return to war - Toowoomba Chronicle",
-   "source": "Toowoomba Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMW9TSXpmSjNBSDhRM1NpaUdQVU5HSkYyaVpqNVFVUzNzQ1V4eVBnR0dVZmtlM1FYWGFoMFNlYWNIMHJXVWlIX0ZTQ2gxYWZmNFNlNFNLeGtpMG5TTzc3TktZaVpQblhzbjFZeWYtTnhXZXNXbVVLSkZhNF9xMUdNS09oR25NRWg2OEFTME5wVHc5NEpyMEMxclI0bEd0YlBJdUQyd0E4bTZhaU5ZVkZ1cUVITnJTQUtyRW5Fd2NZajk0WXpyajFmSVNKZ1VHdjk5bFNxSWRMRlg5Y0xCNkE?oc=5",
+   "title": "Trump confirms strikes on Iran as Pezeshkian urges against return to war - NST Online",
+   "source": "NST Online",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUY5bHNVZVFrRXFFNWpodkN6SFVZN1hLdURVcDdOQlE5cGxFcGtleXc2eHdVaDNWLUpJWXV6OXJJTkZzN1pleFFSblpOTngxYkxLNkE4OHNxcDJfTGVBWk1zWGJOUEE0cEJhU19Wc2dVU29Ldl8zRFgwNk1JUENmQXE3SHRhYzhod1lsaVpjajR2RkdhUFc1Rl9TczBNeDNmU2RwOGtlcmNyN3ZXZkFTVk9UTnDSAboBQVVfeXFMT0hBR2NUX0x0TDFrVzJzeldZakJhTjJNS2Z6ZzFIR1Vub205VVpaM1RHMmdYZW1GNlhfejl0VzRfa1djbjI0UFhIdGxGemViRERHQmJCYjFaQjZSSi1mT1ZJTjJQby1tNjZGNWdYQi1NT2oybV9KZzRqODdVX0VxVmN4OUlCVXpyZDV1Wm5fU240RU9rMmlGM1RzY3VhZm9RWGM0bHhqMWZEckhiRWhBVmRUVFUzTmlLX0NR?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsignalsprogressonirandealastehranpushesfasterceasefirea",
-   "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire - Al Jazeera",
-   "source": "Al Jazeera",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXRvLUpqbi1FNFBLbTk4Y0lENWhacExyTXdZOGNvNENlYVd1WWdUWGpLdFBRQzM3S25GNUtNTUI2SEF3QVdrZFh1ZC11eDhUNEZfWVdNemhDazlUa0oxVEY2TXk5NmlGcVRNRFFMSUZwdlZYdVNTM3R0aVdYbFZVNmRCRzRZQ0FNMmFWMVBodFlOZzNhdUg0SEJacUNHTW_SAaQBQVVfeXFMT21lMjVQYV9jeGVYWTg0Rk5nWW5pQzg3MFhSS0NVRXUtQlBuNHcxUk5EQVVNR0FNY0NKalRuaFFrckpaYWhvY2s1NW5SeVZWa2ZVbk1XbVk2QUxhV1J6UmV6OU1JOEg3bV9JNkF6bnFzc0JlZVNBZDlsbTJoOHRnbDVWbUtsREpQQ0J0TW9JUGRfYUhzOHpHd3pLc1R3SF9naVNvZUg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysoilpricesaredroppinglikearockasiranwantsasettlement",
-   "title": "Trump Says Oil Prices Are \u2018Dropping Like a Rock\u2019 as Iran \u2018Wants a Settlement,\u2019 Peace Deal \u2018Could Happen\u2019 Ahead of Midterms - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRkZDLU5hcTREMzVsNUhnZVN3RE83NTE1OUNsX3ZaZm5yeHNuUjBLM1h5cmRLLU1ybDNHeE04Um1HZENoT2RSNnVrQ0NZMGcyVXZXdE1LR0loZ0c5N3M5UGNCbjFTdU5COGpNU0V6X29jaUQtYVVqMDd6aGFMOUExcm1WMXhyQ1oxQWhPVExESE1JdjVoYVlEeV9CR0IzTmZfQVp0MUpqWkxEcmN1U3hkb2ROZ3dSMjBzRG9YUmtnXzF0NDZGVmF3a2MwWFZxU09aTjVhVUl6azVmVUxCcU52UzZCSWR1Q2Z5ODhEQ211VTJrQUpZc2QzN2RGa2JEMU9lZFVIUA?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -173,24 +185,24 @@
    "pts": 22
   },
   {
+   "key": "melaniatrumptohostrussiaukraineofficialsatwhitehouseoveroles",
+   "title": "Melania Trump to host Russia, Ukraine officials at White House over Oleshky ceasefire - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSjF5Mk9VbHVmMy0tblZadE1PTEFSZDY0Y0F6OVZuNkREVXFEeXpwZkRRVUhaU3RZN25obDk5RnVuZW5TVWhKNnZjN3RwZWltSk9iS2dFcnB0TkQ1UjRjWnBHV2tHMy05dUxqNGhuMjlRY3pzZjVLeExQNDVXYTRseVBUWWFEWUZtcWlRUmlKMGk1WWgzUTVUcFAwQTlHa0tQWjJsWlY3eUxvS3VVMk4wZ0FNekxmVFZIVFN5RnF1d1FJYUdCX1RRZkxsYzh3aHNQc3BVNGk2X0UyMEo0LVF0dW5hUkQ5ZVdfbmE00gHwAUFVX3lxTE81RWtMYVRVcVVyZGQ3cHZTWjZMb0Q4UFJ5WkZWOWNsYlh2eXJHa2l5OW42dGFwcVBOTUw1TzhlWjFNbGtYcTlqZHFxaGY5d2Nybm81dUprMGJhLXlXVng4Z3lXd0dsdGszVXoyUXpvZTRiU1E3MTBnQ0ZGekxLYWZ2SVQzeG5hRm5aUzR5UzFraFM2blpULU9XRWJybzhNQ2piMDNOckhvSHhJekhzYnRlMEUyeUEwQVhyOUdmZEtINk9jZ0FzamdOWFpSelY5T05YY01BQUhaNERnTjViSVhFcEJhYkhraEJqZ2RsTmhCbg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "thousandsofjobsinniarecomingfromdefencecontractssaysminister",
    "title": "'Thousands' of jobs in NI are coming from defence contracts, says minister - BBC",
    "source": "BBC",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mU2ZmU0EzRlhUdl9SWlVDdld3eUNxbEhXTzhJSUVmM1R0M1FvVVJaa29JN3NBR2lYNWxhaVQwNDh5Mks0WGdDcFR4ekJFR056VjVnajhEZGFuV2c?oc=5",
    "themes": [
     "defence"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "coronavirusmaypromptopecoiloutputcutreuters",
-   "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMzIza3Q0Qk50YXVWVU9HTjdvNkZPTVpBWW5mRlRuc1FCdi12eXVHQkl4alMwUlZpWUc2TUdWOWQyV1RhZFYtRGEzRmd1ZC01enN5MmgzQmdDYUVW?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": false,
    "trusted": true,
@@ -221,22 +233,10 @@
    "pts": 12
   },
   {
-   "key": "wallstreetisbracingforafreshwaveoftariffsiranactionandpotent",
-   "title": "Wall Street is bracing for a fresh wave of tariffs, Iran action (and potentially a government shutdown) after the midterms - Fortune",
-   "source": "Fortune",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3BjSDBOMTBSTE04RjhSc0RYSWJic25sS2duRTRocGJvT3RHYmtaWDYxVnMtTWM5ejNCdmEwWi1vdFkyeTZmR0lzZ2duM2V2blhMTEVzSnRIMVc2ajc1SUplUzVEMGo0N202T1pLU0FtX2VCbGEwdUZIZ0RfMkQzaWpWT3R0UUpCUTBLZFBIWQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "tradewartestsamericasasiaallianceswhitepaperhinrichfoundatio",
-   "title": "Trade war tests America\u2019s Asia alliances | White Paper - Hinrich Foundation",
-   "source": "Hinrich Foundation",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3FVOVh3bFBqbEM4Ums2S2dBZm9TbHk1VVpPZHNBcUlqOGtyX0hPbW9SSmZmWjFOR3o4RENQZ3FlSVdFUzJBdUdLTVltNzVHTk1XZHlSZ25oYURrcXplbXJVNE5IMXNMQnZua1VoWG5GaGdmd3o5cmZnMFRkUFRiMDk1bXJuSVFGVXhWZlBfTkdueVhyWS1hYVlLcVlXYmVlV1U0?oc=5",
+   "key": "premiumcomment128bntariffrefundsthemoneyhasmovedyetnoteveryo",
+   "title": "Premium Comment $128bn tariff refunds \u2013 the money has moved, yet not everyone has been paid - The Loadstar",
+   "source": "The Loadstar",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVM2N0hhUVBmajg3QUFvNXl0aEdUQl9GYlNzX2o0aVhCMU5lLWVIUWpod0hlT29Da3k3eVVLZkdpQTM3ekNDcWxZc1ZEdUxuVUpnZVJfRHFRSkR5NFJobEVtR1RDMHFkSlRxYnFwdWkzb1c5NnZJZjQ5b25yLURqU1E2YWhYMkxyU3BKLUlrM1psQjFFdkswbjVkYXk?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -249,17 +249,17 @@
   {
    "sym": "GLD",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 37
+   "score": 72
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "XLE",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 73
+   "score": 72
   },
   {
    "sym": "FXI",
@@ -267,53 +267,33 @@
    "score": 38
   },
   {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
-  },
-  {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 730 min old)",
-   "score": 77
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 732 min old)",
-   "score": 92
-  },
-  {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 71
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 35
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 52
-  },
-  {
-   "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
    "score": 36
   },
   {
+   "sym": "SPY",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 71
+  },
+  {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 62
+   "score": 70
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 730 min old)",
+   "why": "stale quote / market closed (last price 780 min old)",
    "score": 74
   }
  ],
@@ -328,7 +308,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 04:22 AM AEDT",
+  "last_scan": "Wed 04 Nov 2026 05:11 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
