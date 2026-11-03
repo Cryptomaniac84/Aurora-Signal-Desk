@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 03:24 AM AEDT",
- "fx_audusd": 0.6972,
+ "generated": "Wed 04 Nov 2026 04:22 AM AEDT",
+ "fx_audusd": 0.6973,
  "signals": [],
  "events": [
+  {
+   "key": "ademocraticcongresscouldcurbtheiranwarbutnottrumpstariffsfor",
+   "title": "A Democratic Congress could curb the Iran war but not Trump's tariffs, former ambassador says - Fortune",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYZXl4MWdyZG1sdUV2VV96cFIycVlnaUxHU1d5dW9rQjlEdnVaWThZb3VGZ3FTOWg1cHBqUzR3VWJNcjRtekV3QnBZOEhVbE1rVlhoX0h3YXBLbmY2ZWl1bnRTa2ZhZ0diaWNQZF9IRmdCV0U?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "trumphaslostcontrolofhiswarwithcanadasmhcomau",
    "title": "Trump has lost control of his war with Canada - SMH.com.au",
@@ -65,34 +77,10 @@
    "pts": 22
   },
   {
-   "key": "trumpdefendsrecordonimmigrationirantariffsinmidtermelectiond",
-   "title": "Trump defends record on immigration, Iran, tariffs in midterm election day pitch - The Sun Malaysia",
-   "source": "The Sun Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWlJaUlhcEhmd3J4NHFlakdEOHE4dm84MV9ZTGR3U25OU3ljQ2pvZDhvS2xNRFFmWE1MazRVcnNxRVJMeXFoSFNya04za3JHXzVOVm5yVW1UVXhjVFlWUzlnTFB6azJvSlVNVUZPRExDVzNPajltSlFVMDlPekliZUZKdUdscGtQb0czMHRVd1lFTUpaY1VVd1AycGs5WDBrdm83NlZENEN1bXNMTmNROXJkZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpstariffscouldbackfireinmichigansmidtermscbc",
    "title": "Trump\u2019s tariffs could backfire in Michigan\u2019s midterms - CBC",
    "source": "CBC",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "indianamericancommunityleaderajatbhutoriaslamstrumptariffsan",
-   "title": "Indian-American community leader Ajat Bhutoria slams Trump tariffs and H-1B crackdown, vouches for Democrat majority in midterms - ANI News",
-   "source": "ANI News",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS3NvaFM1TWwxZ2l6aFhSTVZKekdyRHk4bGI3VVAwc0E2ZEFLaDB4NXAtYldiY1dGam8wMjNyY0RIQmMwVDV0RHZRVW5TZGpEdXRWQ0EtOUlsbm91WEgyLTd5SFB1cDhnNDZ4SV94SFNSanBYTWQzWmRfX0dTQTNoZFZ1SWZESmNlVm1odGFramtiVFZfYXhoYmhjSFR0cGpEZEI5bDVkUkVLSmNvbkV3WHRWRDVGb280TkgxMElNNWhMX2daamFJUE0wakVFLURIVE5mNVd2eDBramNKRzJMSUlwOW9fS0hTSjkzTU90M3NmcTJIZUJBbzNtYy1GY3hPRTBsZzRxZjZCdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,10 +101,22 @@
    "pts": 22
   },
   {
-   "key": "globaltradeandgrowthwithstoodthepressureoftrumpstariffstomor",
-   "title": "Global trade and growth withstood the pressure of Trump's tariffs - Tomorrow's Affairs",
-   "source": "Tomorrow's Affairs",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUlHVGhCUHMyN0pBSXVLTmtRTFU1MVYwZnd3dnFjUmw4NEJGNHhEMGlKanEwYW9uRDhoaWVYU2NCNmRPellUcTFiWEg5cU42OEpWZmVYY3dHZVZTeld5czdlWkM0V1hjVDR4dEJYZFp1Z2hlaXBpVTcwWTBCQkhQTkJuR3dJZ3lzeFdCS3JlamlWbm5qRXRINFNR?oc=5",
+   "key": "indianamericancommunityleaderajatbhutoriaslamstrumptariffsan",
+   "title": "Indian-American community leader Ajat Bhutoria slams Trump tariffs and H-1B crackdown, vouches for Democrat majority in midterms - ANI News",
+   "source": "ANI News",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS3NvaFM1TWwxZ2l6aFhSTVZKekdyRHk4bGI3VVAwc0E2ZEFLaDB4NXAtYldiY1dGam8wMjNyY0RIQmMwVDV0RHZRVW5TZGpEdXRWQ0EtOUlsbm91WEgyLTd5SFB1cDhnNDZ4SV94SFNSanBYTWQzWmRfX0dTQTNoZFZ1SWZESmNlVm1odGFramtiVFZfYXhoYmhjSFR0cGpEZEI5bDVkUkVLSmNvbkV3WHRWRDVGb280TkgxMElNNWhMX2daamFJUE0wakVFLURIVE5mNVd2eDBramNKRzJMSUlwOW9fS0hTSjkzTU90M3NmcTJIZUJBbzNtYy1GY3hPRTBsZzRxZjZCdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpconfirmsstrikesoniranaspezeshkianurgesagainstreturntowa",
+   "title": "Trump confirms strikes on Iran as Pezeshkian urges against return to war - Toowoomba Chronicle",
+   "source": "Toowoomba Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMW9TSXpmSjNBSDhRM1NpaUdQVU5HSkYyaVpqNVFVUzNzQ1V4eVBnR0dVZmtlM1FYWGFoMFNlYWNIMHJXVWlIX0ZTQ2gxYWZmNFNlNFNLeGtpMG5TTzc3TktZaVpQblhzbjFZeWYtTnhXZXNXbVVLSkZhNF9xMUdNS09oR25NRWg2OEFTME5wVHc5NEpyMEMxclI0bEd0YlBJdUQyd0E4bTZhaU5ZVkZ1cUVITnJTQUtyRW5Fd2NZajk0WXpyajFmSVNKZ1VHdjk5bFNxSWRMRlg5Y0xCNkE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,6 +149,18 @@
    "pts": 22
   },
   {
+   "key": "extraordinarymomentmelaniatrumptohostrussiaukraineceasefirem",
+   "title": "\u2018Extraordinary moment\u2019: Melania Trump to host Russia-Ukraine ceasefire meeting - TVP World",
+   "source": "TVP World",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5EdXFsUkJoXzBCeTNTVU1RZjFhdTRYZWJ1TEswLUkzU2RCa2pfUk9JbVphdVkxT1VIa0xOaXZrNDBocVJ1S2RVTDNRVGJQZ2RpaUhIbzQ5YklLakgteklvVUdsWnBreHJWaG84WktXeExFUWYwaENRMEdEQ09QQllyQ1V1ZEcwODNhUHpNcndwUTRjYU5JMVFMcjR5UQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "melaniatrumptohostrussiaukrainemeetingafteroleshkyceasefiret",
    "title": "Melania Trump to Host Russia-Ukraine Meeting After Oleshky Ceasefire - The Pavlovic Today",
    "source": "The Pavlovic Today",
@@ -167,6 +179,18 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mU2ZmU0EzRlhUdl9SWlVDdld3eUNxbEhXTzhJSUVmM1R0M1FvVVJaa29JN3NBR2lYNWxhaVQwNDh5Mks0WGdDcFR4ekJFR056VjVnajhEZGFuV2c?oc=5",
    "themes": [
     "defence"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "coronavirusmaypromptopecoiloutputcutreuters",
+   "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMzIza3Q0Qk50YXVWVU9HTjdvNkZPTVpBWW5mRlRuc1FCdi12eXVHQkl4alMwUlZpWUc2TUdWOWQyV1RhZFYtRGEzRmd1ZC01enN5MmgzQmdDYUVW?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": false,
    "trusted": true,
@@ -209,34 +233,10 @@
    "pts": 12
   },
   {
-   "key": "premiumcomment128bntariffrefundsthemoneyhasmovedyetnoteveryo",
-   "title": "Premium Comment $128bn tariff refunds \u2013 the money has moved, yet not everyone has been paid - The Loadstar",
-   "source": "The Loadstar",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVM2N0hhUVBmajg3QUFvNXl0aEdUQl9GYlNzX2o0aVhCMU5lLWVIUWpod0hlT29Da3k3eVVLZkdpQTM3ekNDcWxZc1ZEdUxuVUpnZVJfRHFRSkR5NFJobEVtR1RDMHFkSlRxYnFwdWkzb1c5NnZJZjQ5b25yLURqU1E2YWhYMkxyU3BKLUlrM1psQjFFdkswbjVkYXk?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "tradewartestsamericasasiaallianceswhitepaperhinrichfoundatio",
    "title": "Trade war tests America\u2019s Asia alliances | White Paper - Hinrich Foundation",
    "source": "Hinrich Foundation",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3FVOVh3bFBqbEM4Ums2S2dBZm9TbHk1VVpPZHNBcUlqOGtyX0hPbW9SSmZmWjFOR3o4RENQZ3FlSVdFUzJBdUdLTVltNzVHTk1XZHlSZ25oYURrcXplbXJVNE5IMXNMQnZua1VoWG5GaGdmd3o5cmZnMFRkUFRiMDk1bXJuSVFGVXhWZlBfTkdueVhyWS1hYVlLcVlXYmVlV1U0?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "section338tariffsoncanadaputcongressatacrossroadslegis1",
-   "title": "Section 338 Tariffs on Canada Put Congress at a Crossroads - Legis1",
-   "source": "Legis1",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MTERCcVlWdkpkRURfa2kxbWVYMUdLR3VLUFBGTDZSQUJzYm9nTF80OXFpa1RoMl82NkJsN3VucnRGaHc0c2hndnNRSDRhX0NFQ251ci16Q2h3X01yTXdJcGhyellHZDRWTGlsYWtOZjc2WUFY?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,18 +248,18 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 41
   },
   {
    "sym": "XLE",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 38
+   "score": 73
   },
   {
    "sym": "FXI",
@@ -268,52 +268,52 @@
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 673 min old)",
+   "why": "stale quote / market closed (last price 730 min old)",
    "score": 77
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 675 min old)",
+   "why": "stale quote / market closed (last price 732 min old)",
    "score": 92
   },
   {
    "sym": "LMT",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 72
+   "score": 37
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 65
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 38
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 52
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 71
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 36
   },
   {
    "sym": "QQQ",
-   "why": "position size under 1 share",
-   "score": 76
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 62
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 673 min old)",
+   "why": "stale quote / market closed (last price 730 min old)",
    "score": 74
   }
  ],
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 03:24 AM AEDT",
+  "last_scan": "Wed 04 Nov 2026 04:22 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
