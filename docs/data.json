@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 03 Nov 2026 01:39 PM AEDT",
- "fx_audusd": 0.6998,
+ "generated": "Tue 03 Nov 2026 02:29 PM AEDT",
+ "fx_audusd": 0.6996,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "Trump has lost control of his war with Canada - SMH.com.au",
    "source": "SMH.com.au",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0V4Q0FDdHdUMEh6RHBBd21MdFlIZDVWY1JQeVlTNnpWaU8zTlR6VnhWR2NFWVQxSVNtZHlwQXhQajE1NUZCWFU2S0lKYXllbHNJVWhsOGl5UmF5TDRzTTM1S1RYS1ZJV3NLZE5NV3ltTzN4YVRmTnh1a0FheGJpMUN3NzE3TG9kbGZNbTh2QmVUX09tNlY4cldXaHVEZDNEYjFZVkF3dkkyc0IyeUxn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstarifffiascocouldsavefreetradethebusinesstimes",
+   "title": "Trump\u2019s tariff fiasco could save free trade - The Business Times",
+   "source": "The Business Times",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU5X0s0TFpiNEFQLUlrVF9uS2VTbkhBOTdvX1h6dTdSQW95LVQ1UUI0YllVS3RBRXJ2dVNGaG5SS0dhemFrTkxDRmptMzYyX2hkMGo0dEdGYVNOLWhfelVqU1prRl9Lb3VTd0ZEckwyQWlyYllqSzlqVV82OEpES3VrbTJpUUZLUmpNYnZsZjJwSG1KbzRF?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,22 +101,10 @@
    "pts": 22
   },
   {
-   "key": "wideroversightandhardtorepealtariffstrumpstariffsfacecongres",
-   "title": "Wider Oversight and Hard-to-Repeal Tariffs: Trumps Tariffs Face Congressional Test - Sada News Agency - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51YUt6YThEZkNpYjIyZS1sXzVnYVlfMG9nQmRlb3ZMM2hQRVIxUUZFcXlCOEU3bWVQVnZIcE45UXZONGs2b0xqZmYtbmRVakxJSzNsRkZR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
+   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
+   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
    "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,23 +113,10 @@
    "pts": 22
   },
   {
-   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
-   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "givennochoicebytrumpcanadaembracesasiatosaveautoheartlandsqu",
-   "title": "Given No Choice by Trump \u2013 Canada Embraces Asia to Save Auto Heartland Squeezed by U.S. Tariffs - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnVaMlhXOGpTUFFhTzI0a0U2a3Z4ajJ4VVRFamJyVU9DRldSZkhXWFBTN0c5NWp5RkRnNVJsY0k3XzN4MnlYaXJaaDZ6WUtlSGJPaGpHUTU2SHMxX1VlOWNWMk1yWFd0UUdfWGlBS0xIS3AtMWlRLV96eGJDNkRGZ2JOS2U0QWZCbzEyUTBaM2x0NWF2QkYwbGhmRU56V2s?oc=5",
+   "key": "democraticvictorycouldputfreshpressureontrumpsimporttariffsi",
+   "title": "Democratic victory could put fresh pressure on Trump's import tariffs - IDNFinancials",
+   "source": "IDNFinancials",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEtGMnpjZWhWUFVJZDd3eVB0bUVYemlqVk5jaVlnRk1KdXBlZnl6cFB3MGJrYkt6V1d6ZXRSdkpERGtBeWpBVkM4WTc4TGlGb1hRWnc3OGxyS0YzeUxZa3ZibUQ2Nl9JWi1KT0h3MkdTQ0psWXI3SC1BOEY1UTMwaHAtLXBXQUdzcEYyWU5ha1hLaVI5N1JoSkFySENKdVpqNnFXQ3JoM1JXMlNwOFE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -150,10 +137,10 @@
    "pts": 22
   },
   {
-   "key": "trumpwarnschinarussiaagainstinvolvementiniranwarenergynowcom",
-   "title": "Trump Warns China, Russia Against Involvement in Iran War - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZwd3g5MVF5U0Myc2tTamFTOW1mNjBGdm5PZWdsaXc0Ym5IbktKYmlNUlo3WmJiOUVRYlJiYjJSSkFtWk1WTDFDd09MQjZjZEoxVWczelBjQ2NCMkE1NjFUck9pRXYzLWVfa0FrLTM4QmlGek1PNGNQZjZ6RlF0aEdUOC1PaDBGSDlJZ0RiYnM?oc=5",
+   "key": "trumpvancesignalprogressintalkswithirantoavertrenewedwarnaha",
+   "title": "Trump, Vance signal progress in talks with Iran to avert renewed war - Naharnet",
+   "source": "Naharnet",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUV4TGJBWWJXLXpSdlo2cU9ndmo2d1BjM3FsS2FiYkxuSnRhRkJCLWlwNEZkYWY3Mk9QYmFQSEFYTjliOXYtVkYtc0N3NWUwWjExQTJsRXQ3UFlzT25DazN1STdFVjN2V1hJOFRRRGp5UFBEQ1h2a3dEWXZDRjNfa25ULVJXc0I3M3F4cW8wQTJWU0ozYmc0cDEyWGNrRl85Y1NkZGtpb01DX2dsVnlv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -174,18 +161,6 @@
    "pts": 22
   },
   {
-   "key": "trumpsattackonutahjudgeshowswhycamerasshouldbebannedincharli",
-   "title": "Trump\u2019s attack on Utah judge shows why cameras should be banned in Charlie Kirk case, defense argues - The Salt Lake Tribune",
-   "source": "The Salt Lake Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GT2psMTEzVWtMQjBzR21JeG5IM3dlQ0JpMW5udWpIUlgwZkZwb2haQVpodjJrZ2N1SlhxV2EwMmwyX0lxSHlCRVFsRzdmNFFRRHZncW9EU3hGT3ZUX2JvYVBOYTQ5M2hsQVhHdUY2UEpJS1F0VzlIWUd3?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumppostsoddelvispresleypicandmakeswildclaimsaboutvietnamwa",
    "title": "Trump posts odd Elvis Presley pic and makes wild claims about Vietnam war on eve of midterms - The Independent",
    "source": "The Independent",
@@ -198,10 +173,10 @@
    "pts": 22
   },
   {
-   "key": "trumptoutsrecorddropinoilpricesonelectionevesaysiranwantsade",
-   "title": "Trump touts 'record' drop in oil prices on election eve, says Iran wants a deal - Washington Examiner",
-   "source": "Washington Examiner",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbkZvQlNrTUZuMEtaMXVmRE1pWWF0cTVtNVF3MG1wa3hJbmhGWXFaTVR1NnpnTW5sSjVJY3k3cjZWZWtoQ05GRnRUMndOMGtiZU5UY0RuVFAxNzZlQWo4MExzTjlVV3lwUlVKNDdlamU1RHNidExSNEQzZkFhd0xJNG10MDNUdmdCVXJUVDBheFhmNVpraHZpaEZCcGd1TElXTFBLbUlxM0pQVGhaaUZWa0pndGNlQm85ejNJQzZNek96SzgwZ3hhaFZ4WDBxNmVhRW5vLVJlTnJxaVgxRGdUZTZFeFFIeXZjUjBNTQ?oc=5",
+   "key": "trumpdownplaysiranstrikesandpushestalksasoilpricesfallchosun",
+   "title": "Trump downplays Iran strikes and pushes talks as oil prices fall - Chosunbiz",
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2d4NnBSRkxnV1A3OVdXM25ZX2s0RldRRjRkZnRxNG5JWlA3QW9uMVFRMVhhU2ZUM2VYb196c2hYMFVSeHNvRm55TDZZY0tKdjQ0NWxzVXBvS3dYZDdEUXRtdzhyM2paOE95cEs0VjRJUGFGd0Z4RWpXRXlGdkZ5aUl0ekVaRW5L0gGcAUFVX3lxTE5BNWRzdzE3T29vcTkweVZmSnJqM05rQkFwMWFfTzNEMXVhVUpPeXcwMUxubGdBbzlvZHIwMUtsQ0dQWkR3UTdxNUprZVJqWV9jV2haSE1tSVBwa1FTVE0zUXBwSmkxSkdWMG5FRERMT3A4ZVhsUGxfVHlfWUI5cWgtYUdmOFdicFY1bHdiamZ4NUxvdlp1SGlQWTBpNw?oc=5",
    "themes": [
     "energy"
    ],
@@ -244,93 +219,117 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "santassleighwillbeweigheddownbytariffspetersoninstituteforin",
+   "title": "Santa's sleigh will be weighed down by tariffs - Peterson Institute for International Economics",
+   "source": "Peterson Institute for International Economics",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUdmRl93WEwtMjdkbzM2YU10emsyNURrNjNPWmFhbUJZNktCRkExaE1ERG5DU1ExcUtOZkRnc1dfZEpHdm11eVJhWVlaMEU2eWFZTzl2T1V2OHN3cWZfbWg5eU8yNEZ3QVd3WDlQb2dqYWQ4TTVYbnZVbWQ0TWxtVkdLSS1jUEQ0bG5zdWl0Q21DekF3cURJRQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "downersecures305billiondefencecontractbusinessdesk",
+   "title": "Downer secures $3.05 billion defence contract - BusinessDesk",
+   "source": "BusinessDesk",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFFTVGF5azF3QVBodkM3UzROSU5RZHFneFVRTTBjUkxiVWs1aTZPbmpFMGE5RzducUpJRE11YzRsRTUtUnAtM1RDMlRNSlpFdk5vVVlvRHFsdU5zVHdtaVFVbC1ZMDJ4UzhVdHZpd1hDblVtWi02M1FuWDhXS1N5OXQ4R3VWUUZmaklsb0FGX3BYSXhFYmVPdWdRSGxKYm1mS2VCX1lDZ1l0NG92NG1V?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 69
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 38
+   "score": 73
   },
   {
    "sym": "STO.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 65
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 340 min old)",
-   "score": 84
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 340 min old)",
-   "score": 92
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 340 min old)",
-   "score": 57
+   "score": 72
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 46
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 73
+   "score": 37
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 390 min old)",
    "score": 55
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 390 min old)",
+   "score": 74
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 390 min old)",
+   "score": 82
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 390 min old)",
+   "score": 47
   }
  ],
  "paper": {
@@ -344,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 03 Nov 2026 01:39 PM AEDT",
+  "last_scan": "Tue 03 Nov 2026 02:29 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
