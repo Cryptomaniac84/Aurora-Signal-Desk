@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 06:03 AM AEDT",
- "fx_audusd": 0.6974,
+ "generated": "Wed 04 Nov 2026 06:57 AM AEDT",
+ "fx_audusd": 0.6967,
  "signals": [],
  "events": [
   {
@@ -41,18 +41,6 @@
    "pts": 22
   },
   {
-   "key": "michiganvoterspullawayfromtrumpovertariffscbc",
-   "title": "Michigan voters pull away from Trump over tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "screwedeitherwayrepublicansenatorfightsbacklashovertrumptari",
    "title": "'Screwed either way': Republican senator fights backlash over Trump tariffs in Maine - Castanet",
    "source": "Castanet",
@@ -65,10 +53,46 @@
    "pts": 22
   },
   {
+   "key": "trumptariffswillcauseautoindustrymorepainthansasagoaremovals",
+   "title": "Trump tariffs will cause auto industry more pain than SA's Agoa removal, says pundit - EWN",
+   "source": "EWN",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzFZd0pFVk9BbElpajBPdVFIYkMtcTBESlVhR0UxZVI1SG8taTN5Z09KSGszM0daeFFZaHJVTWxoTGRpbHNDYmdJNmNYaWZLQm9VbWdJZ0Exc2tVN0tFU2RPNm9rZXFqYWw5Qk45cEdsdk1SOXBBWG5pYTNUdnV0MjRvVkF0aHlramItd3JyQWZMcHBjX0xLSjZLSmFxUXM4U01uQXY4ckl5V215ZXI2ZVdmY25HZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpstariffclaimsneedevidencenotarubberstampthehill",
    "title": "Trump\u2019s tariff claims need evidence, not a rubber stamp - The Hill",
    "source": "The Hill",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3pqbTQ0YmV6S0NuMDFldndIemtXdW1EMzBZcGdSVUNxSkFMNlIyZHg1Q3FtVmtsQjgtcUpldWpPSDhoN3ZXLVJvbXlyQnpKeHdsa0JlUHJhU1NXMTVzU05XbHQ5Z0VJNHh0RFZDRW9KM0prUEVwdnZIQ09zNXpuZQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "michiganvoterspullawayfromtrumpovertariffscbc",
+   "title": "Michigan voters pull away from Trump over tariffs - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "videotrumpstariffsbluewaveandthebattleforcongressndtvfromcap",
+   "title": "Video | Trump's Tariffs, Blue Wave And The Battle For Congress | NDTV From Capitol Hill - NDTV",
+   "source": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlQ5ZEkwN1pzbmRnS3QxbkxmcTZsWXBjVzFIRnBCYjJoaUdwWlFwdWZPU3VlcHdLc1NGWlYzYmpoaXBnLWhWTzhuRmtRUDlhNVo0MzdHakdJNWFfYk9HaG5xRGotc09zTXZWakJJcUducTRsWmhjRDJ6ZTBHZEVrT2o1cmZ3bkw2Um1JQ2tXTDhiTmFmUlVzRjFNVnVIdGRyS0tkbUVPZUh3THI2Qy1MRg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -117,18 +141,6 @@
    "title": "Trump, Carney Float a Deal to End the Auto-Tariff War - thetruthaboutcars.com",
    "source": "thetruthaboutcars.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUh4S3R1T0xpX2Q1bzZuWEl2TWp1dl93M0FUVjcwRU9zY3ZWVjEzdnZWYWltSnk0RDhLOFV2VFhQOUdUYV9MRGpvcGdZc3EyYUNlbV92MUN0aUFfWERUYjdHN2NhOUE0Vmc4akIxV3RGNk1XZmpCa18zUmMyTU1YbUFPYW82cTlOM1hDSWd5ZVZiUzJTTXVhNktERzdrYi1UbVBkSjBkbGcyX1FRWXdj?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstarifffiascocouldsavefreetradethebusinesstimes",
-   "title": "Trump\u2019s tariff fiasco could save free trade - The Business Times",
-   "source": "The Business Times",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU5X0s0TFpiNEFQLUlrVF9uS2VTbkhBOTdvX1h6dTdSQW95LVQ1UUI0YllVS3RBRXJ2dVNGaG5SS0dhemFrTkxDRmptMzYyX2hkMGo0dEdGYVNOLWhfelVqU1prRl9Lb3VTd0ZEckwyQWlyYllqSzlqVV82OEpES3VrbTJpUUZLUmpNYnZsZjJwSG1KbzRF?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -197,18 +209,6 @@
    "pts": 22
   },
   {
-   "key": "coronavirusmaypromptopecoiloutputcutreuters",
-   "title": "Coronavirus may prompt OPEC oil output cut - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIMzIza3Q0Qk50YXVWVU9HTjdvNkZPTVpBWW5mRlRuc1FCdi12eXVHQkl4alMwUlZpWUc2TUdWOWQyV1RhZFYtRGEzRmd1ZC01enN5MmgzQmdDYUVW?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "interestrateshighestsince2008asinflationforecasttostayhighab",
    "title": "Interest rates highest since 2008 as inflation forecast to stay high - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
@@ -248,73 +248,53 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 37
-  },
-  {
-   "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
-  },
-  {
-   "sym": "XLE",
    "why": "volume not confirmed (0.1x normal)",
    "score": 38
   },
   {
+   "sym": "ITA",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 40
+  },
+  {
+   "sym": "XLE",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
+  },
+  {
    "sym": "FXI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 53
-  },
-  {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
-  },
-  {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 831 min old)",
-   "score": 75
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 833 min old)",
-   "score": 90
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 55
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 71
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 37
   },
   {
    "sym": "QQQ",
-   "why": "position size under 1 share",
-   "score": 80
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 35
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 831 min old)",
+   "why": "stale quote / market closed (last price 886 min old)",
    "score": 74
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 35
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 47
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 44
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 31
   }
  ],
  "paper": {
@@ -328,7 +308,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 06:03 AM AEDT",
+  "last_scan": "Wed 04 Nov 2026 06:57 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
