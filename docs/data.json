@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 05:24 PM AEDT",
- "fx_audusd": 0.6984,
+ "generated": "Wed 04 Nov 2026 06:45 PM AEDT",
+ "fx_audusd": 0.7,
  "signals": [],
  "events": [
   {
@@ -33,18 +33,6 @@
    "title": "Trump slaps additional 50% tariff on certain Canadian goods - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
-   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,12 +113,12 @@
    "pts": 22
   },
   {
-   "key": "roiasiahopesdemocratscanproviderelieffromtrumpsiranwartariff",
-   "title": "ROI-Asia hopes Democrats can provide relief from Trump's Iran war, tariffs: Russell - marketscreener.com",
-   "source": "marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVklBMS1EQlNsTDBrZ0tKRTd4THo0eXA1M05HMS1LMlAwQjA0OV9sZERxN1Z6TXdFaFQwcXJOUGg0OHlfaVNkODZpU2t4M0hSSHRpLUNrYllPUDEzbEZ0R1hRdkxCLThxZlpEUVJENWNORzZ3dnoxRVdxTjBrSF9uUnlNZngtYjFGejNtaXZ1d0t4Z2x6YlpFNkQwQ3ZEV1F0OUFfSlBTVmhpWElYc2ZoMVgyNTVKTkp3cTktQ3ZwYTIwTjFucXB6a0dJV3d1QmM?oc=5",
+   "key": "trumpsmywayapproachdeepenssouthkoreastradedefenseuncertainti",
+   "title": "Trump's 'My Way' Approach Deepens South Korea's Trade, Defense Uncertainties - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkVaYmxoc2pQeGtyYldNR0dzTlJlQXBaUEVVMjFoTUstZmtvTGJyeWpzNk93Uk55RnRDTko0a2x2MHlKX2k1bDkyT0V5dTVzVmpvTmZGV3dUZmxyYXJJbzVhZTFFaFJTa1FvNFo3MVA3eWNqblVvc3RPaUJwME1rZFJRQWk?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
    ],
    "trump": true,
    "trusted": false,
@@ -149,10 +137,10 @@
    "pts": 22
   },
   {
-   "key": "trumpconfirmsstrikesoniranastehranwarnsagainstreturntowarafp",
-   "title": "Trump confirms strikes on Iran as Tehran warns against return to war - AFP.com",
-   "source": "AFP.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRNMk9XMXBCU3hrZFo3Z1NKcFVKYlF3Q251cXZnZ0U3eFI5TmFUaU1SUWV6VFFNWUh2YjRZOGhIanBPb1lzLUp6NHhFY1JqWUprdDNEczhjSEI1MG4yMnRNbWVCSkdrTnE4MEVMMlNEMFVYTHhZYnZ2TWl5dTJybllGZXB0OUQxelE?oc=5",
+   "key": "trumpcongratulatesdemocratsonmidtermssaysiranwarplayedroleja",
+   "title": "Trump congratulates Democrats on midterms, says Iran war played role - Japan Today",
+   "source": "Japan Today",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbkJEVjg1VElWMy0xYkR4Q0tiY2pabERKZ0NtMXRvTktpNDVQUEFGVU5ZTjRyR3hmQUdrN0NCT0JQN1VxOWhtNE5NNmxWamlJWGs2NE1qSkFncXduMlJyYjhNWmF5akxRei05d0NQUnE4ZHVsTFh4TzNhdm9mYVNtUkI0N1BDb0RLdmFrSzBPVzJBNEZiaEdFUDBvUkZLNHM3dGQw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -197,24 +185,12 @@
    "pts": 22
   },
   {
-   "key": "fdagreenlights1stnewsunscreeningredientinyearsabcnewsbreakin",
-   "title": "FDA green-lights 1st new sunscreen ingredient in years - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZpRHdKYUR6UGJUZ0dvazR3d1dQZlFhaXB5bFBVU3hGcHYtdm42LUFfNXdqM29mOHhCYUlnYnRzU2wzTFpsX3lkSTNsZlpWcTZLUGxVSDJKSUgyQThlWktqUGd5ZldiLUhRSVcweEFfMVpMX0dHSXNNOVFHRjdTaFVuVGF2cmpJNFdDMU52MVoxY0tlRW44bE16RWZGby1JZW5yZlN30gGrAUFVX3lxTE1tWVdjamUzZkVBUlVuVEFqT3ZiVHZXQXFiTWRzaFJyRkRZcDIxWU42Z3d0MVZodmVtcDk0OU5ha1VKX1VkMWJqN2k3bkxad2VLcWp3cGtRenYyUFRSdW50NE1Kdno2UHRmNjVDcjZnY214akx6cGh3cEVkdG51d0RNYUE0X1B0MjFUWTZ1a0hYNl94SFJqdXZyWTVtMXJ5bnFLY1pIdm5BREVIbw?oc=5",
+   "key": "whatshappeningtoukinterestratesandwhatdoesitmeanformortgages",
+   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
    "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "merckgetsusfdaemergencyusenodfortreatmentofscrewwormindogsre",
-   "title": "Merck gets US FDA emergency use nod for treatment of screwworm in dogs - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM01TazRqQ1ZjeC1WZUQwcjhDVlgyckhiMWpHNVpYcF9hRFlGNjhwYVFRdjBxWlg5VmNBRXUxSEp4Z0VDS2VYa2JvcnA0VHJCTmhHdHotWk5WYjJCM05EeTN2NFZmSi1TTm5VNVE4b0dDZ1VPblpybzU2TnVaQ21RSWVfY1NSQ08xZTg3emVTakUyeDZpRUFyMEVqTm9GTUtGQzBIYTBOZkdiUnlmTVNwQVRQclZ4b2VwOXg5cDdlQV8tbTUtS1VtNzRkdmE?oc=5",
-   "themes": [
-    "pharma"
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -243,58 +219,82 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "elbitwinsidfdealforartillerytrainingsimulationasiapacificdef",
+   "title": "Elbit wins IDF deal for artillery training, simulation - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWx0VEw4bllMMEtDeTNwSUVjN2tNLUE3QTAwTUZvZ0VTc0hyTmdzWmgxVkRHUkxWak9JazBqZEpjZGNPREpoNXZETUEzb3Z3Q1NqYWx3SDlROGUxWHlCT1VET1g2Qjc0dl9BZmIyMDBsYkFsSjhQNXV0bms5VWZaTVY3ODhRUFk0SllNYnBocjhqVFBZeEExWGU1R0lkRjg?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "spaintomodernizearmedforceswith4billionindefenseprocurementd",
+   "title": "Spain to modernize armed forces with \u20ac4 billion in defense procurement - Defensehere",
+   "source": "Defensehere",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjJRb1pxLXIzMWlKMDN5OTZKLUhFcFlpRkVJUVJTd05yc0FGYW0xY2h6WmpVY2t2UDh4VFRubEdVaDBLY1FhY1VUdmRvVUZ2MUpiRXNCMXVXV2tQZ0tvZm9EbmtMSy0xOEJOcEJYM0NoTWRFbGhBbWYtSGEyN3pxSFhFZ2pwanc0b1FULUpEdFd5NUJSUzhVWERGcENXLW8?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 564 min old)",
+   "why": "stale quote / market closed (last price 645 min old)",
    "score": 70
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 564 min old)",
+   "why": "stale quote / market closed (last price 645 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 564 min old)",
+   "why": "stale quote / market closed (last price 645 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 564 min old)",
+   "why": "stale quote / market closed (last price 645 min old)",
    "score": 80
   },
   {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 564 min old)",
-   "score": 70
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 564 min old)",
-   "score": 55
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 564 min old)",
-   "score": 55
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 564 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 645 min old)",
+   "score": 57
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 564 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 645 min old)",
+   "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 564 min old)",
-   "score": 62
+   "why": "stale quote / market closed (last price 645 min old)",
+   "score": 72
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 645 min old)",
+   "score": 70
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 645 min old)",
+   "score": 69
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 153 min old)",
+   "score": 55
   }
  ],
  "paper": {
@@ -308,7 +308,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 05:24 PM AEDT",
+  "last_scan": "Wed 04 Nov 2026 06:45 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
