@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 08:20 AM AEDT",
- "fx_audusd": 0.701,
+ "generated": "Thu 05 Nov 2026 09:13 AM AEDT",
+ "fx_audusd": 0.7007,
  "signals": [],
  "events": [
   {
@@ -53,6 +53,18 @@
    "pts": 22
   },
   {
+   "key": "trumptariffstostaydespitedemocraticlandslideinusmidtermsrais",
+   "title": "Trump Tariffs to Stay Despite Democratic Landslide in U.S. Midterms, Raising Fears of Added Burden on South Korea - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQlNqUU1oNnExRHRQclNTY3c3N1JBNjZ4MGV2bXNvYzhwcEJWY3A4WnFrb1QzZ1QwZlh3ZkoxU04tQnNjdXJvbGtFM292TGxJSUVUNG9ibVQxNHdJbWU0OHdNeTk2d1ZhV2w2YVh1RGxUSEZXMlE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "howdidrepublicanslosethisbadlyvotersturnedagainsttrumpstarif",
    "title": "How Did Republicans Lose This Badly? Voters Turned Against Trump's Tariffs. - Reason Magazine",
    "source": "Reason Magazine",
@@ -69,18 +81,6 @@
    "title": "Democrats promise to repeal Trump's tariffs and push for an end to the war with Iran - UA.NEWS",
    "source": "UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjR1SDJRWHJDcXl6bWg5VmtOaE9GTHVkUG9EdGt1aExJNzdjamZzRUhhRzNxOEFaeWpxOTUxT3VDLVJaZjQxLWdYaHlweDRQdjM0NDRBSGZ5YTRVUUdKUk5QMERaUzZscjBWWXF5ZGQ4Ym1Mb19fbVozdUhtcVVRUmF1THVJVkdPbFZtaWtrMGV0ZnJTcU83cmZFQzl5ZVpUMDZhdUl0ZjhYYXFNXzNJbmZB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "quicksparkdowjonesindexeyesbestrallysincetrumpstarifftrucetr",
-   "title": "QUICK SPARK: Dow Jones Index Eyes Best Rally Since Trump's Tariff Truce - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV1R4VTBrX0N3SGdDR1REdUVMY1Q1OTFTakpmVVBaZmRESEVKX2RlZTlZUkFEVTMzNk01ejdFWlhra2JKNnpGVGV4eTU1WlZ5OEJXWmc1Q0NLbkFIZWpxdnpCODFpckR2cTZkQlQ3Q1FFU3NyNEdKLUVfM1hrdU5waWRmU1FZSU15YWUzMmhwa1I1VlZOdEotR21SR2E2NEN1NnpZb2FvbmotRnBQQUstY2Zrb0hFX0hQRDgtTktlN2lJbW1xcFRMeQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -173,18 +173,6 @@
    "pts": 12
   },
   {
-   "key": "smallbusinessownersshouldntexpecttariffrelieffromdemocraticc",
-   "title": "Small-business owners shouldn't expect tariff relief from Democratic Congress - The Business Journals",
-   "source": "The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFY2UkZJRmVUZ09ZSXZjMXlVRnppaVROaVdMYVVQVVVnVnVha1JuSW9BT2RHOC1fYVVSYmJYbW9BYmZMQ1B6cjk4RmhUY1lqSWMtQ0ZIMDFha0RfYmtvUnZ5d29qMmJxYXRRYkJiZW9DaVE1MlhMQUctMUJIS25iazBua2daenl1Y2RKQVR4dC1MVk04WFJESk1PZDlwTVpmajFSei1KX24?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "vanceblamesiranwarforgopsmidtermlossestimemagazine",
    "title": "Vance Blames Iran War for GOP\u2019s Midterm Losses - Time Magazine",
    "source": "Time Magazine",
@@ -221,6 +209,18 @@
    "pts": 12
   },
   {
+   "key": "euronaval2026msidefencesystemsdetailsnewds30mgunordersjanesd",
+   "title": "Euronaval 2026: MSI-Defence Systems details new DS30M gun orders - Janes Defence Intelligence",
+   "source": "Janes Defence Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWRSckZaN0MwMGNGeloweTBISGJLamltV040YkRsZ0hXdUo4OFB2T3V2ai11dDlaNjFWWkFFMF9OUDVGWEI5YTRKbm9JTkwwbmNjR0ROdHNlS241cHBJR3Z6RmtQOE9jX1VuRG9vWkFLdklaYUVxUHJ0anJvNUJ4ZDFNTkRIY1h3eldrYXh1b1Q3bExEdlRfYk0ySzY3S1puRlJ5YktJNHd3anBqSzRlZkJxV2Y0S3I0dVNMVmJwQ3JnbW5yN3BxdUlPSEQ0M1dnQUE?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "seisgadgetsupportsociusbluebottleverificationforjapanaustral",
    "title": "Seisgadget supports Ocius Bluebottle verification for Japan - Australian Defence Magazine",
    "source": "Australian Defence Magazine",
@@ -233,10 +233,10 @@
    "pts": 12
   },
   {
-   "key": "euronaval2026msidefencesystemsdetailsnewds30mgunordersjanesd",
-   "title": "Euronaval 2026: MSI-Defence Systems details new DS30M gun orders - Janes Defence Intelligence",
-   "source": "Janes Defence Intelligence",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWRSckZaN0MwMGNGeloweTBISGJLamltV040YkRsZ0hXdUo4OFB2T3V2ai11dDlaNjFWWkFFMF9OUDVGWEI5YTRKbm9JTkwwbmNjR0ROdHNlS241cHBJR3Z6RmtQOE9jX1VuRG9vWkFLdklaYUVxUHJ0anJvNUJ4ZDFNTkRIY1h3eldrYXh1b1Q3bExEdlRfYk0ySzY3S1puRlJ5YktJNHd3anBqSzRlZkJxV2Y0S3I0dVNMVmJwQ3JnbW5yN3BxdUlPSEQ0M1dnQUE?oc=5",
+   "key": "willdefenceorderwinchangenorbitobnorbtstocknarrativesimplywa",
+   "title": "Will Defence Order Win Change Norbit (OB:NORBT) Stock Narrative - Simply Wall St",
+   "source": "Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3BVZ3RUbGVLRVg1ZGlUYzIxb0pUbUJjV2NIYmRYaldYNzVDUEpXeVlPTUJ1UXhlOVBxSUdHSmEyQlJDRVhmUFpla1hQT3BGM2lkZ3c3Vko1VXc2YVpSYk1iNm8zb3hxUnJDTmE5RGRMd0hBNmd6R2lCN0gyWnFxWVdnUTl4bTBILThnVVdyZTM2TzRjeHpLQ2NlbkpDNGpnOXdkaDFDbENmTVRETlhGZjlfeVAtQU9yV29malZ4MTNQblMxTkhRS9IByAFBVV95cUxON3BVZ3RUbGVLRVg1ZGlUYzIxb0pUbUJjV2NIYmRYaldYNzVDUEpXeVlPTUJ1UXhlOVBxSUdHSmEyQlJDRVhmUFpla1hQT3BGM2lkZ3c3Vko1VXc2YVpSYk1iNm8zb3hxUnJDTmE5RGRMd0hBNmd6R2lCN0gyWnFxWVdnUTl4bTBILThnVVdyZTM2TzRjeHpLQ2NlbkpDNGpnOXdkaDFDbENmTVRETlhGZjlfeVAtQU9yV29malZ4MTNQblMxTkhRSw?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,77 +248,77 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 87
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 79
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 69
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 74
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 75
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 58
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 50
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 969 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 37
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 21 min old)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 44
   }
  ],
@@ -333,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 08:20 AM AEDT",
+  "last_scan": "Thu 05 Nov 2026 09:13 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
