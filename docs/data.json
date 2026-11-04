@@ -1,14 +1,38 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 12:33 PM AEDT",
- "fx_audusd": 0.6978,
+ "generated": "Wed 04 Nov 2026 01:27 PM AEDT",
+ "fx_audusd": 0.6965,
  "signals": [],
  "events": [
+  {
+   "key": "donaldtrumpbringsgoldcurtainswinstonchurchillbusttotheovalof",
+   "title": "Donald Trump Brings Gold Curtains, Winston Churchill Bust to the Oval Office - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVndhRERWMV83UEQxUlkxcUZOZm8waUZJQ1gzdWh6OEpmcWRVNlp2VWdTZ3VqdWZvN0dxM1R2VWlKT3gtSGxvejZKcnJVQ0sxY1FZMDAtWUxzaTkyaUFBNUVSQWRzZXhKdkFxTHpVOWpRTl8xZ19KeTZFZVFWMVBmNTZrMUhyMkVhWjl0YUdyVGZaMHF0Y1czazBwekhRVjk4cFYwVjhR0gGrAUFVX3lxTFB5U29GWmc1eEFDRm1lMENOVFJyS2dOSENiWlJRcWh0VzVMeVRGeFdWM3h5TGJoMlloT1hoM1lLdDIxVGxhc2RMeXRyUDNSM21icjg5VWUxTGlUQWI1SWV1Q2Y0SjMxWkRfSUdVNWU0d1YxbHhMY0lBZlJSaUJYYll4LUptdWhJX0FiWUQzX3VMZUtuaXdXclFHMXFQaU0wUlE5cnpWSGttaUIySQ?oc=5",
+   "themes": [
+    "mining"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "businesstrumptariffshittingsmallbusinessesfrance24",
    "title": "Business - Trump tariffs hitting small businesses - France 24",
    "source": "France 24",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2paSlpDWlZqdGpQRE5qaXFKeWtHWWk4M1dMU253czh0bVJYeV9DMTdmRWxFbHBDYXhVZjlVNFhOVUh6ZnVBREp2UG5lNzlOaVRKakFYbUtnajRzU2Y4X1h1NUNGMkc0VkxSWV9lRVJScnJEZnJvdkRDbG5fRF9PcVFuZElyeDNldEpXTGx4Y2FNNlFJRzd4Zg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "usaskstokeepcollectingtrumpstariffsaftercourtlossenergynowco",
+   "title": "U.S. Asks to Keep Collecting Trump\u2019s Tariffs After Court Loss - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9JN2Vlb2FpV0NGUnlXTklZb1V0RHdWVnB6TWk1NEdqa3dYMGs0WXAwQkpmWk1NTi1nRHJwWHE4Y0RUYm1rVHJkNGpoWjBQRVQ0NEFtRzByTWFzTjlzQ1pLUExmX0NlSXNkNVA5YWxZX0FDbWhzTDhWcDZTSTY2U2p3Y25FbUcyVVdwc1dWRlpobnhn?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -29,22 +53,10 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffclaimsneedevidencenotarubberstampthehill",
-   "title": "Trump\u2019s tariff claims need evidence, not a rubber stamp - The Hill",
+   "key": "dncchairsaysdemocratsshouldrepealtrumptariffsendiranwarifthe",
+   "title": "DNC chair says Democrats should repeal Trump tariffs, end Iran war if they win power - The Hill",
    "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3pqbTQ0YmV6S0NuMDFldndIemtXdW1EMzBZcGdSVUNxSkFMNlIyZHg1Q3FtVmtsQjgtcUpldWpPSDhoN3ZXLVJvbXlyQnpKeHdsa0JlUHJhU1NXMTVzU05XbHQ5Z0VJNHh0RFZDRW9KM0prUEVwdnZIQ09zNXpuZdIBhgFBVV95cUxOOVVSZHRUcVNyRldVbVZyVzJxTnF0VDRKaGRielJ4cDREVXAxSVg0MjRUekJGbmxLMVRqTEc2QlZ0U1B0aVE4Z3N4Rms0MnhZR2ZwRTdISFI5Yjd1MVQwdUY4dkZNRnRmMGxTU3R0TXAxNTY3X0RHVFh3VnlwN2dSLUhWS3ZEQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumptounveilmoretariffsaftermidtermsas40trilliondebtandwarc",
-   "title": "Trump to Unveil More Tariffs After Midterms as $40 Trillion Debt and War Costs Raise Revenue Pressure, Say Top Economists - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQck02RUdYV0NFaWdxd1dtXzFKd1dabk5veEwtNDVpWkdhUG5xejNLRUhKVTJ6RWpDTjZjNGpPSS1WRDdHZENsV0VfUjBsWmc0NnFmTFBXUWlJVmhKY1BDWTFOa19wR3JEU0Y4b09rR2JKckt2NzhOYkYtdDU3c285OFllMzA1UUJhUG5Ra2RtdkhiT0xvMHBSbGQyU0xsRHd2dkIyelZrOTNIYTBMZlluOFlxWmd0T2dPdUpYaHJTX0lob0I5R2V4N0MtZG1EX21lM3FwcGdoZlVUdHoyanNmM2NiTm5FZFhrYUZ5OVN3amgwQjg3eEdzZzJtOUZzaDJJZ2l5MDFMQ1FsUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVpDbDdHMTBSUzNqaVV6STRLZVhyZUJBQjBpNTdQQ3lUaElvaVN5eEJqVUxvR3ZOY29ROTVxMWl5WkpsZm5CV3h3S2J2cWhrcG10N0hoMEo2YlhZNEFSd1B6b3QxbmlSLTM5UENJY2xTbE9LdVVDa1lxOXVVOGZIcdIBhgFBVV95cUxQcGljNXRSc3NKREhoeVpMbVQ4b0NkVllLR0RNLURmak1oYVREYnVYaEFWcTdaRXZ4UnpjQjdmRFBGNFpKUENobWR4V1J1aE5nTUxFa1ljT1owVC1va0tLTGRud2E4ZVlsRlI0dUMweDRYN3lCa1pUN2pjSnlBd2dZMDlwWlU2QQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,22 +77,10 @@
    "pts": 22
   },
   {
-   "key": "trumptariffswillcauseautoindustrymorepainthansasagoaremovals",
-   "title": "Trump tariffs will cause auto industry more pain than SA's Agoa removal, says pundit - EWN",
-   "source": "EWN",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzFZd0pFVk9BbElpajBPdVFIYkMtcTBESlVhR0UxZVI1SG8taTN5Z09KSGszM0daeFFZaHJVTWxoTGRpbHNDYmdJNmNYaWZLQm9VbWdJZ0Exc2tVN0tFU2RPNm9rZXFqYWw5Qk45cEdsdk1SOXBBWG5pYTNUdnV0MjRvVkF0aHlramItd3JyQWZMcHBjX0xLSjZLSmFxUXM4U01uQXY4ckl5V215ZXI2ZVdmY25HZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "michiganvoterspullawayfromtrumpovertariffscbc",
-   "title": "Michigan voters pull away from Trump over tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
+   "key": "trumptounveilmoretariffsaftermidtermsas40trilliondebtandwarc",
+   "title": "Trump to Unveil More Tariffs After Midterms as $40 Trillion Debt and War Costs Raise Revenue Pressure, Say Top Economists - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQck02RUdYV0NFaWdxd1dtXzFKd1dabk5veEwtNDVpWkdhUG5xejNLRUhKVTJ6RWpDTjZjNGpPSS1WRDdHZENsV0VfUjBsWmc0NnFmTFBXUWlJVmhKY1BDWTFOa19wR3JEU0Y4b09rR2JKckt2NzhOYkYtdDU3c285OFllMzA1UUJhUG5Ra2RtdkhiT0xvMHBSbGQyU0xsRHd2dkIyelZrOTNIYTBMZlluOFlxWmd0T2dPdUpYaHJTX0lob0I5R2V4N0MtZG1EX21lM3FwcGdoZlVUdHoyanNmM2NiTm5FZFhrYUZ5OVN3amgwQjg3eEdzZzJtOUZzaDJJZ2l5MDFMQ1FsUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "screwedeitherwayrepublicansenatorfightsbacklashovertrumptari",
-   "title": "'Screwed either way': Republican senator fights backlash over Trump tariffs in Maine - Castanet",
-   "source": "Castanet",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTc3aUxmQlpnVExTYmV0NzdnRGY1Zl9lc3JZU0VXdEE5WHBUYjhZdHRGalVyQnRTd0ZjczhmLTNWeDBkWnpkT0JyVk9WNVRHd2owaGY4Y0ZwbW95SEpzc0hqOXdlVkIyQVB4SmZXOHhTd1RsY1BYdzRTUHpnRW04dTU4TWdWMDQtMW4tNks3cjh2aGxGcDhIR28weWNRS0Jib3IwSkVtb3VFMGYzSzVUdjdlQ3Utb3VKbUtESG1Ca2hDeXM?oc=5",
+   "key": "michiganvoterspullawayfromtrumpovertariffscbc",
+   "title": "Michigan voters pull away from Trump over tariffs - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -117,6 +117,30 @@
    "title": "Video | Trump's Tariffs, Blue Wave And The Battle For Congress | NDTV From Capitol Hill - NDTV",
    "source": "NDTV",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlQ5ZEkwN1pzbmRnS3QxbkxmcTZsWXBjVzFIRnBCYjJoaUdwWlFwdWZPU3VlcHdLc1NGWlYzYmpoaXBnLWhWTzhuRmtRUDlhNVo0MzdHakdJNWFfYk9HaG5xRGotc09zTXZWakJJcUducTRsWmhjRDJ6ZTBHZEVrT2o1cmZ3bkw2Um1JQ2tXTDhiTmFmUlVzRjFNVnVIdGRyS0tkbUVPZUh3THI2Qy1MRg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "screwedeitherwayrepublicansenatorfightsbacklashovertrumptari",
+   "title": "'Screwed either way': Republican senator fights backlash over Trump tariffs in Maine - Castanet",
+   "source": "Castanet",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTc3aUxmQlpnVExTYmV0NzdnRGY1Zl9lc3JZU0VXdEE5WHBUYjhZdHRGalVyQnRTd0ZjczhmLTNWeDBkWnpkT0JyVk9WNVRHd2owaGY4Y0ZwbW95SEpzc0hqOXdlVkIyQVB4SmZXOHhTd1RsY1BYdzRTUHpnRW04dTU4TWdWMDQtMW4tNks3cjh2aGxGcDhIR28weWNRS0Jib3IwSkVtb3VFMGYzSzVUdjdlQ3Utb3VKbUtESG1Ca2hDeXM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptariffswillcauseautoindustrymorepainthansasagoaremovals",
+   "title": "Trump tariffs will cause auto industry more pain than SA's Agoa removal, says pundit - EWN",
+   "source": "EWN",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzFZd0pFVk9BbElpajBPdVFIYkMtcTBESlVhR0UxZVI1SG8taTN5Z09KSGszM0daeFFZaHJVTWxoTGRpbHNDYmdJNmNYaWZLQm9VbWdJZ0Exc2tVN0tFU2RPNm9rZXFqYWw5Qk45cEdsdk1SOXBBWG5pYTNUdnV0MjRvVkF0aHlramItd3JyQWZMcHBjX0xLSjZLSmFxUXM4U01uQXY4ckl5V215ZXI2ZVdmY25HZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -185,10 +209,10 @@
    "pts": 20
   },
   {
-   "key": "interestrateshighestsince2008asinflationforecasttostayhighab",
-   "title": "Interest rates highest since 2008 as inflation forecast to stay high - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmNCLTQ3TGpocmdBa1lKSjFFLVozOGE1ZXpvWHlkclF5TEV3SmhyX3pBU21kYkxKZHNWQkNOZTNWQnplUnR0TmJ6R2RnTjFybzFBQUNNSks3aDJVV01QN0UzejRvYkZRNXFNY041djFXR3V6MXB3bTk3WFFPZkswbFpWbHBrTVRIRnMtWFM0NG9VbUlzUUxIUlNwOGhpeFZOZ0FzWVlRVkFreWxuRUtHQWl3?oc=5",
+   "key": "whatshappeningtoukinterestratesandwhatdoesitmeanformortgages",
+   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
    "themes": [
     "rates"
    ],
@@ -197,12 +221,12 @@
    "pts": 20
   },
   {
-   "key": "nvidiaordersdatacentreclientstoreducechinaexposurefinancialt",
-   "title": "Nvidia orders data centre clients to reduce China exposure - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY?oc=5",
+   "key": "interestrateshighestsince2008asinflationforecasttostayhighab",
+   "title": "Interest rates highest since 2008 as inflation forecast to stay high - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmNCLTQ3TGpocmdBa1lKSjFFLVozOGE1ZXpvWHlkclF5TEV3SmhyX3pBU21kYkxKZHNWQkNOZTNWQnplUnR0TmJ6R2RnTjFybzFBQUNNSks3aDJVV01QN0UzejRvYkZRNXFNY041djFXR3V6MXB3bTk3WFFPZkswbFpWbHBrTVRIRnMtWFM0NG9VbUlzUUxIUlNwOGhpeFZOZ0FzWVlRVkFreWxuRUtHQWl3?oc=5",
    "themes": [
-    "semiconductors"
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -219,117 +243,118 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "premiumcomment128bntariffrefundsthemoneyhasmovedyetnoteveryo",
-   "title": "Premium Comment $128bn tariff refunds \u2013 the money has moved, yet not everyone has been paid - The Loadstar",
-   "source": "The Loadstar",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVM2N0hhUVBmajg3QUFvNXl0aEdUQl9GYlNzX2o0aVhCMU5lLWVIUWpod0hlT29Da3k3eVVLZkdpQTM3ekNDcWxZc1ZEdUxuVUpnZVJfRHFRSkR5NFJobEVtR1RDMHFkSlRxYnFwdWkzb1c5NnZJZjQ5b25yLURqU1E2YWhYMkxyU3BKLUlrM1psQjFFdkswbjVkYXk?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "elbitwinsidfdealforartillerytrainingsimulationasiapacificdef",
-   "title": "Elbit wins IDF deal for artillery training, simulation - Asia Pacific Defence Reporter",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWx0VEw4bllMMEtDeTNwSUVjN2tNLUE3QTAwTUZvZ0VTc0hyTmdzWmgxVkRHUkxWak9JazBqZEpjZGNPREpoNXZETUEzb3Z3Q1NqYWx3SDlROGUxWHlCT1VET1g2Qjc0dl9BZmIyMDBsYkFsSjhQNXV0bms5VWZaTVY3ODhRUFk0SllNYnBocjhqVFBZeEExWGU1R0lkRjg?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "GLD",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "sym": "BHP.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 54
+  },
+  {
+   "sym": "RIO.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
    "score": 48
   },
   {
+   "sym": "FMG.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 48
+  },
+  {
+   "sym": "PLS.AX",
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 64
+  },
+  {
+   "sym": "GDX",
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 72
+  },
+  {
+   "sym": "GLD",
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 62
+  },
+  {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 56
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 327 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 66
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 72
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 59
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 70
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 44
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 46
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 70
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 51
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 69
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 36
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 61
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 49
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 274 min old)",
    "score": 50
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 70
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 55
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 53
+  },
+  {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 327 min old)",
    "score": 70
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 327 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 80
+   "why": "stale quote / market closed (last price 327 min old)",
+   "score": 62
   }
  ],
  "paper": {
@@ -343,7 +368,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 12:33 PM AEDT",
+  "last_scan": "Wed 04 Nov 2026 01:27 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
