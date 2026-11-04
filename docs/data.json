@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 11:45 PM AEDT",
- "fx_audusd": 0.7014,
+ "generated": "Thu 05 Nov 2026 12:58 AM AEDT",
+ "fx_audusd": 0.702,
  "signals": [],
  "events": [
-  {
-   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
-   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "howelectionlosseswillalterthepoliticsoftrumpstariffsbloomber",
    "title": "How Election Losses Will Alter the Politics of Trump\u2019s Tariffs - Bloomberg.com",
@@ -33,6 +21,18 @@
    "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,6 +65,18 @@
    "pts": 30
   },
   {
+   "key": "candemocratsstopiranwarreversetrumpstariffsaftermidtermswina",
+   "title": "Can Democrats stop Iran war, reverse Trump\u2019s tariffs after midterms win? - Al Jazeera",
+   "source": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjd5aWdVVzA1ZThHeGRqck9pSjhRMjd3R1YyVTRsQlY5MG0wR28yUUJtc0VwTVVYdmJZeWl0VEE0YnhxMXMtQWlWT2lsWHpiQVFXa1dLRHV6ekE4c3lkeWhYOUxSNlRkTXQ3ZG5QRnNNTGd5bnZORWdpVEF3WHBUVU9hQzh3Y0d6QmpYT1M4RGczckx0WWZhTTlGRXhzdktIVFM1ZUxMa1FDNzYxNkpaQURPUdIBuAFBVV95cUxPX1BUN1ZpOUxnM3Izb2s0aU1qQVBHZlZJRVpGbVRnUkVxX3J4QmZ1NDJBenRUXzhNcUJUc1UzM1lyY3dpM1lJaldYS1JrQ2V6emFKYXhOS1BQRm1GR0dLeXdISENVaVQxX09YNFFnSTdEUC14SVFUQy1CRDlEazN1VGRoY0ExVlFreXhfNmNMcjFESW5sV3A1a3hwNk9YVHUyTWxxRDh4V1lmS1RjeFgybHFGNXdOMlpt?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "thecountriesfightingbackagainsttrumpstarifftiradedwcom",
    "title": "The countries fighting back against Trump's tariff tirade - DW.com",
    "source": "DW.com",
@@ -77,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "whatademocraticcongresscanandcannotdoabouttrumpswartariffsan",
-   "title": "What a Democratic Congress can and cannot do about Trump's war, tariffs and visa curbs | HT Explainers - Hindustan Times",
-   "source": "Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSlctOTB3bk5vQTMwZUZFbHB4bGhqNW5sV0d3UUxPcXphWHFybUFjc3oyTmIwM19sTzhBbkdwWlVxVll5RGdBRTlOQzh4dnNvLVA2YlFMUUpQTGhPYVh0alZ3WWxfRXFUZWlGemtBZkNFQWZXMTgtVFMyT2d2TnpRSk9JeVNkb1JBN0h6VjdNanlXZDdwT2FOQWYwM3B3MUMwdWZJeXBCaGJhQXRQa2t5MmM3c3d2R241U3BSa0xrR1NWZ1ZLYl9mc01lai0xYjBPT2k5Q0FnQVJHaGhOb1HSAeMBQVVfeXFMTmhWY1JVbkN6RGtKalZwQzNMeUk2a3Q5NmN5UG02SldHOUVjVFAxSjdjT3hKZGdxYkMzdHFuTWNXaTY0LVUxQkRudmdyek9EaUFFeUVpYkpSX2xwU0U3TFJ1ak0yS0FMdlZ2MTFTNHE1bm83RktsczV1Qm9IX25Lek1WeHRzU1ZhcVhjQVdsTG16eVRFNlZoRDAwYV9lSUNOUGttQW5hWUxJX0pzQ3pyUGhxX044MmREN2k5X2NDM3RfTWFCeDBWLTBoOHRYeVhSSFJ4NUozV212bXluX0wwS1pQS1E?oc=5",
+   "key": "billclintonsayshewarnedtrumpabouttariffs24yearsagoonthegolfc",
+   "title": "Bill Clinton says he warned Trump about tariffs 24 years ago on the golf course \u2014 here's how they're hitting Americans - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWxReUk1bDhXLW84RGl6RmlmamlVN2laTEJjRDRJbGo3c08xZjYtYlE3SXgyYkhhSHJmWExKcS0wVHJ5S0Z5TlFYTUZFa3RWbmtmNWphR3hBTzU3OWx6UEVQTnNUaXlkYjVNbk0ySGI2RjI3Z3Y3OWZXd0Y4QzhyYzJ5N2tvdWN3MGZ5SFVVQWRkNHA2MnJjMnFEbw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "billclintonsayshewarnedtrumpabouttariffs24yearsagoonthegolfc",
-   "title": "Bill Clinton says he warned Trump about tariffs 24 years ago on the golf course \u2014 here's how they're hitting Americans - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWxReUk1bDhXLW84RGl6RmlmamlVN2laTEJjRDRJbGo3c08xZjYtYlE3SXgyYkhhSHJmWExKcS0wVHJ5S0Z5TlFYTUZFa3RWbmtmNWphR3hBTzU3OWx6UEVQTnNUaXlkYjVNbk0ySGI2RjI3Z3Y3OWZXd0Y4QzhyYzJ5N2tvdWN3MGZ5SFVVQWRkNHA2MnJjMnFEbw?oc=5",
+   "key": "whatademocraticcongresscanandcannotdoabouttrumpswartariffsan",
+   "title": "What a Democratic Congress can and cannot do about Trump's war, tariffs and visa curbs | HT Explainers - Hindustan Times",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSlctOTB3bk5vQTMwZUZFbHB4bGhqNW5sV0d3UUxPcXphWHFybUFjc3oyTmIwM19sTzhBbkdwWlVxVll5RGdBRTlOQzh4dnNvLVA2YlFMUUpQTGhPYVh0alZ3WWxfRXFUZWlGemtBZkNFQWZXMTgtVFMyT2d2TnpRSk9JeVNkb1JBN0h6VjdNanlXZDdwT2FOQWYwM3B3MUMwdWZJeXBCaGJhQXRQa2t5MmM3c3d2R241U3BSa0xrR1NWZ1ZLYl9mc01lai0xYjBPT2k5Q0FnQVJHaGhOb1HSAeMBQVVfeXFMTmhWY1JVbkN6RGtKalZwQzNMeUk2a3Q5NmN5UG02SldHOUVjVFAxSjdjT3hKZGdxYkMzdHFuTWNXaTY0LVUxQkRudmdyek9EaUFFeUVpYkpSX2xwU0U3TFJ1ak0yS0FMdlZ2MTFTNHE1bm83RktsczV1Qm9IX25Lek1WeHRzU1ZhcVhjQVdsTG16eVRFNlZoRDAwYV9lSUNOUGttQW5hWUxJX0pzQ3pyUGhxX044MmREN2k5X2NDM3RfTWFCeDBWLTBoOHRYeVhSSFJ4NUozV212bXluX0wwS1pQS1E?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,24 +173,12 @@
    "pts": 22
   },
   {
-   "key": "fdaapprovesmodernasmrnaseasonalfluvaccineabcnewsbreakingnews",
-   "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BQaW1BVDVnZmczM0Z2LVJBR0RuZEFxc25uSW10QTIzSlhBX0VGQ282YU5EMWI2M3FoTnJmTGU0WGY2RVdFXzNoanREejdsUHVDWUZXMWdJUldzUHB0R1ZWYjUydHU1YTRfYnVqdnlZU0VsTXNjS203TG8zWDI4OHgtOFBqcXgxYUIzanBDU1h3WjFmdlhiUtIBngFBVV95cUxQbVdvZXgyUFJhSlVYU2c2UzlnTzJGY25ubnBHSlVLTGNWcnBzZm1rbktweEpjTURzRGIyQURmd2p4Q3V6eUthX3FBZnFRYmc0Mjk0NUlKaUZhRld1aVIyS01fNmJ1VVN3eE1PeS0wQmQtUnZ5LUJoMF9YZGt5TmV3MGc5UFJDQmRuRE42MkJ0TnhRUmZVYjJqbW5tM3RUdw?oc=5",
+   "key": "merckgetsusfdaemergencyusenodfortreatmentofscrewwormindogsre",
+   "title": "Merck gets US FDA emergency use nod for treatment of screwworm in dogs - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM01TazRqQ1ZjeC1WZUQwcjhDVlgyckhiMWpHNVpYcF9hRFlGNjhwYVFRdjBxWlg5VmNBRXUxSEp4Z0VDS2VYa2JvcnA0VHJCTmhHdHotWk5WYjJCM05EeTN2NFZmSi1TTm5VNVE4b0dDZ1VPblpybzU2TnVaQ21RSWVfY1NSQ08xZTg3emVTakUyeDZpRUFyMEVqTm9GTUtGQzBIYTBOZkdiUnlmTVNwQVRQclZ4b2VwOXg5cDdlQV8tbTUtS1VtNzRkdmE?oc=5",
    "themes": [
     "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "willthefedraiseinterestratesthisyeardividedeconomistsweighin",
-   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-   "themes": [
-    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -221,10 +221,10 @@
    "pts": 12
   },
   {
-   "key": "innovaerotechnologiesasxinnbuildsdefencedroneambitionsaftera",
-   "title": "Innovaero Technologies (ASX:INN) Builds Defence Drone Ambitions After ASX Listing - Kalkine",
-   "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWRqbFhHaUFJdGxoSEljSFhfenhIY3lSSERaQ2ppSnVvMEc5dkNoY0FNSTBqZUlFVEZMRUtiVDFsUmV4bk95QmszdXlXQ2N0eVhBbDhfSzNIb25nMlRZUmJTTEJJSW5uMElYMmRsN0dNNTZTM2JIa0tDNXpTZWQ1Ymo4dFBQTkMtbjNHUnpnWDg5a01Mczk5dmFhMVBwSl9weEJDY2lKaTB2Wm5YLXUyQWxMUkNPZWQ1anc?oc=5",
+   "key": "aselsansaysnewairdefenceexportdealworthupto11billionaddstogr",
+   "title": "ASELSAN says new air defence export deal worth up to $1.1 billion adds to growing orders - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGJ2aUJZVFRQZnA5bW5uWHljSXpVSzdxOGZVbml5TDNMWFVQUVJQTExrYmNwN1lZYnctRWN6SXpHODlzckV5NE80SkFma2drakRfT3hOeDZodF9QRHFIVEt4cURGMkE5TTdhLUo4UUI3S1F0VkxBcDlrRHVNVWhzQ2M5NmlmSVgycFlfaDlWTVpjWVZ4UnVUaHhyLVdzdHl4aWNOajVwcjRORlZLd2UybnM2NjgwcWM?oc=5",
    "themes": [
     "defence"
    ],
@@ -233,10 +233,10 @@
    "pts": 12
   },
   {
-   "key": "aselsansaysnewairdefenceexportdealworthupto11billionaddstogr",
-   "title": "ASELSAN says new air defence export deal worth up to $1.1 billion adds to growing orders - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGJ2aUJZVFRQZnA5bW5uWHljSXpVSzdxOGZVbml5TDNMWFVQUVJQTExrYmNwN1lZYnctRWN6SXpHODlzckV5NE80SkFma2drakRfT3hOeDZodF9QRHFIVEt4cURGMkE5TTdhLUo4UUI3S1F0VkxBcDlrRHVNVWhzQ2M5NmlmSVgycFlfaDlWTVpjWVZ4UnVUaHhyLVdzdHl4aWNOajVwcjRORlZLd2UybnM2NjgwcWM?oc=5",
+   "key": "baesystemslinedupforspearfishtorpedodevelopmentworkukdefence",
+   "title": "BAE Systems lined up for Spearfish torpedo development work - UK Defence Journal",
+   "source": "UK Defence Journal",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaklDcE1yY2VFUnhhcXJfbEN2aHpGdEhZajA3TFhHMVY5dEpkRGdnLUpnRlZLRGhEWmJ0LWl1NGJMNy12NkRBTVlSdDRMbm9OcnlNcFJkTDd5Sld1VzV1MlV5cmV6NFhHT0RzVU5Hb0F5ODlhNGx6eldGbXF4TENJZEVtYnZfX0p5amlIOUxId3p1WWp2WUs0?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,87 +248,72 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 70
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 80
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 70
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 945 min old)",
-   "score": 55
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 945 min old)",
-   "score": 70
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 945 min old)",
-   "score": 69
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 453 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 55
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 70
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 55
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 53
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 70
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 945 min old)",
+   "why": "stale quote / market closed (last price 1019 min old)",
    "score": 62
   }
  ],
@@ -343,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 11:45 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 12:58 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
