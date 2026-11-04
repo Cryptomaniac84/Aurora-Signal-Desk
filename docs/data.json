@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 02:46 AM AEDT",
- "fx_audusd": 0.7013,
+ "generated": "Thu 05 Nov 2026 03:45 AM AEDT",
+ "fx_audusd": 0.7012,
  "signals": [],
  "events": [
   {
@@ -41,18 +41,6 @@
    "pts": 30
   },
   {
-   "key": "trumpadministrationpaysoutmilestone100billionintariffrefunds",
-   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "debtlimittariffstoplistoflikelydealsintrumpsnewerabloombergc",
    "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -65,10 +53,10 @@
    "pts": 30
   },
   {
-   "key": "majorityofamericansdisapproveofhowtrumpishandlingtariffsabcp",
-   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos",
+   "key": "trumpadministrationpaysoutmilestone100billionintariffrefunds",
+   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -93,6 +81,30 @@
    "title": "The countries fighting back against Trump's tariff tirade - DW.com",
    "source": "DW.com",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpcitesimmigrationirantariffsinelectiondaypitchmacaubusin",
+   "title": "Trump cites immigration, Iran, tariffs in election day pitch - Macau Business",
+   "source": "Macau Business",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVp1NF9kc0RGSWIyZW9zMldEcmxSd2w4dDlWSm9EM0VZVVF2TEZLaXdTY1FmSlFDd3ppT3l3UHVmZTFSN09rcHZTaVRSRFBCSElBb1BOYmVPYXhQUk9XdGctRHBDZi1DM0t6SHQzb3lNY1JtYW9yUTNiVlJJdGFudFlxZHN0UkpkY3ZLbmEtbno?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,71 +161,10 @@
    "pts": 22
   },
   {
-   "key": "extraordinarymomentmelaniatrumptohostrussiaukraineceasefirem",
-   "title": "\u2018Extraordinary moment\u2019: Melania Trump to host Russia-Ukraine ceasefire meeting - TVP World",
-   "source": "TVP World",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5EdXFsUkJoXzBCeTNTVU1RZjFhdTRYZWJ1TEswLUkzU2RCa2pfUk9JbVphdVkxT1VIa0xOaXZrNDBocVJ1S2RVTDNRVGJQZ2RpaUhIbzQ5YklLakgteklvVUdsWnBreHJWaG84WktXeExFUWYwaENRMEdEQ09QQllyQ1V1ZEcwODNhUHpNcndwUTRjYU5JMVFMcjR5UQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "melaniatrumptohostrussiaukraineofficialsatwhitehouseoveroles",
-   "title": "Melania Trump to host Russia, Ukraine officials at White House over Oleshky ceasefire - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSjF5Mk9VbHVmMy0tblZadE1PTEFSZDY0Y0F6OVZuNkREVXFEeXpwZkRRVUhaU3RZN25obDk5RnVuZW5TVWhKNnZjN3RwZWltSk9iS2dFcnB0TkQ1UjRjWnBHV2tHMy05dUxqNGhuMjlRY3pzZjVLeExQNDVXYTRseVBUWWFEWUZtcWlRUmlKMGk1WWgzUTVUcFAwQTlHa0tQWjJsWlY3eUxvS3VVMk4wZ0FNekxmVFZIVFN5RnF1d1FJYUdCX1RRZkxsYzh3aHNQc3BVNGk2X0UyMEo0LVF0dW5hUkQ5ZVdfbmE00gHwAUFVX3lxTE81RWtMYVRVcVVyZGQ3cHZTWjZMb0Q4UFJ5WkZWOWNsYlh2eXJHa2l5OW42dGFwcVBOTUw1TzhlWjFNbGtYcTlqZHFxaGY5d2Nybm81dUprMGJhLXlXVng4Z3lXd0dsdGszVXoyUXpvZTRiU1E3MTBnQ0ZGekxLYWZ2SVQzeG5hRm5aUzR5UzFraFM2blpULU9XRWJybzhNQ2piMDNOckhvSHhJekhzYnRlMEUyeUEwQVhyOUdmZEtINk9jZ0FzamdOWFpSelY5T05YY01BQUhaNERnTjViSVhFcEJhYkhraEJqZ2RsTmhCbg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "higherenergygoldexportsoffsetustariffimpactoncanadabloomberg",
-   "title": "Higher Energy, Gold Exports Offset US Tariff Impact on Canada - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmEyTnRCX2tVWnlwZ0p2ZXV0Yld6ZTBic3RrQlBtSmE0VzFIUHozWnZwS3kyU1ZsQVNUeTB4anFKejEzODJPM3hlNmptMHF1ZFprZVJpRENqTF94N2dTaW9PU0hiMjhuS2FXX0ZqVDU5aUE4SmFuWmE4c3FZZ1FmMnU4VzhlMEZZWDZBMk8yTVY5Y1Q1dWp1cGxoc01TLXBjUURkS25ncFFITUx0TU1ZUQ?oc=5",
-   "themes": [
-    "mining",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "usdemocraticwinunlikelytoeasefirmscosttariffwoesinneartermex",
-   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFREOVI1am9RMmxtb1dOZTc2dFNqaDZLMENlSFQwZEg3SWthaFdPVVV3QXEyMjlKTE5zZHI3Nk1RclhjZWt3SmZuQjNyMVM3c2RLZFo4Z0JEOEZCdXNPZFBPLVpCZnlmUkFBNWE5Zk0zcWFyTTNBZHlMR1FtaFFRVnNXWS04LTlocmtSTEFscG9GTlh6aGd3SC0tVHRmSWtYdnhKWnRqVmNHa0NhaEhkTENiRnJEaWJOREtuOEN1dVRrQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "fdagreenlights1stnewsunscreeningredientinyearsabcnewsbreakin",
-   "title": "FDA green-lights 1st new sunscreen ingredient in years - ABC News - Breaking News, Latest News and Videos",
+   "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
+   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZpRHdKYUR6UGJUZ0dvazR3d1dQZlFhaXB5bFBVU3hGcHYtdm42LUFfNXdqM29mOHhCYUlnYnRzU2wzTFpsX3lkSTNsZlpWcTZLUGxVSDJKSUgyQThlWktqUGd5ZldiLUhRSVcweEFfMVpMX0dHSXNNOVFHRjdTaFVuVGF2cmpJNFdDMU52MVoxY0tlRW44bE16RWZGby1JZW5yZlN30gGrAUFVX3lxTE1tWVdjamUzZkVBUlVuVEFqT3ZiVHZXQXFiTWRzaFJyRkRZcDIxWU42Z3d0MVZodmVtcDk0OU5ha1VKX1VkMWJqN2k3bkxad2VLcWp3cGtRenYyUFRSdW50NE1Kdno2UHRmNjVDcjZnY214akx6cGh3cEVkdG51d0RNYUE0X1B0MjFUWTZ1a0hYNl94SFJqdXZyWTVtMXJ5bnFLY1pIdm5BREVIbw?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "merckgetsusfdaemergencyusenodfortreatmentofscrewwormindogsre",
-   "title": "Merck gets US FDA emergency use nod for treatment of screwworm in dogs - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM01TazRqQ1ZjeC1WZUQwcjhDVlgyckhiMWpHNVpYcF9hRFlGNjhwYVFRdjBxWlg5VmNBRXUxSEp4Z0VDS2VYa2JvcnA0VHJCTmhHdHotWk5WYjJCM05EeTN2NFZmSi1TTm5VNVE4b0dDZ1VPblpybzU2TnVaQ21RSWVfY1NSQ08xZTg3emVTakUyeDZpRUFyMEVqTm9GTUtGQzBIYTBOZkdiUnlmTVNwQVRQclZ4b2VwOXg5cDdlQV8tbTUtS1VtNzRkdmE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
    "themes": [
     "pharma"
    ],
@@ -234,118 +185,141 @@
    "pts": 20
   },
   {
-   "key": "chilecentralbankmulledakeyratehikeatitslastdecisionbloomberg",
-   "title": "Chile Central Bank Mulled a Key Rate Hike at Its Last Decision - Bloomberg.com",
+   "key": "bankofenglandsnewinflationgaugeprovidessomereassurancebloomb",
+   "title": "Bank of England\u2019s New Inflation Gauge Provides Some Reassurance - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczVwWmpFX1VSU2VtVFh5Zk5xR2hBZXZNN1JoTXZ5dU1SbG82SGV5WEluZGI4WXAwRWxSZTFfTGNLTTRUcmVMLXZoRzQtWkxhV0dsWk5VUnJxZ2x6UnJ4SVJVX25fdk85b0Y2dGl6QzYxRUg4VTJwbGFQakNORlU1SUxVbF9fTHBaOEhMNlJoV3dTZjF3OHpRVmY3cXdRUkJlU3Q4TVdnRGxacnFhVG41SHp1bw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUEyMmNscU5GaU43UTVTczh1MGd3LWYtX1RwRkJoM3ZqOHBxZVUtbnZxcnVlbW1iRU1zNGltd2JoRkgzbG9oRHI1bjlUYnZzdlQyMXgtSnZPM2VOUzlWYTdEZXhYYU9RRFVQRHhQMDZkdTJOdVR1QnBFa2QydldYandZTGw4eWlvU2lNY1lXZlRlazg0c0JIOGhPeHdpeWZmYjMtY2dKVFo2Mm01X0V3Uk02NnQ?oc=5",
    "themes": [
     "rates"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "usdemocraticwinunlikelytoeasefirmscosttariffwoesinneartermex",
+   "title": "US Democratic win unlikely to ease firms\u2019 cost, tariff woes in near term, executives say - The Straits Times",
+   "source": "The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTll3UUFEdDZoZ3FNNmkweEF1cE1nazBQRVBPeWx1OEFIZ2VhZ0tpY0RMNFRLTHJXVEs4eDV6VVNDRGlyNG96eWxtUV9EZFNTNE9VakpEQTJMRjNSNzQ2X2lxckRPckZxYnBHbnJVSmRzQlFYVVNDcFQxcDEwQWZ4cm1GbURldUhmQ3RRWWVvOEhuS1RJdHBQUkpIUzdNNlEyMGNYN29zU3ZkU2hFOTBfMEJmQUdXYlJrQjhZT3NoMmhDTWE2a1RDUVpvSkhGaFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "whatventiaservicesgroupsasxvntfirsthalfresultshowsaboutitssh",
+   "title": "What Ventia Services Group's (ASX:VNT) First-Half Result Shows About Its Shift Away From Defence Base Services - Kalkine",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOHJnRWJnM3pFdkg3dk5yQnhtVlczSml5MWhBeW5kWFR0NHA3eG5ST3B6M20yU2FHSXpQbnZlZW1tWjhlZjNQVEV2NlBTOWNEbS1udkZ1U0o5czA1dGNPU2ZJYkJTblJCRFZCOGh0dEFzUlVYNHhfTGdiQTMyMTFvVWlWRGFXTEV5MHJud2NpWDlQTDFYVzlUck1XN0tXY1l6dnhkRmJKUUVPN0tfSVlONnctNWoyOVpVcnBKN3Rhc3RfSHQ0SVRIa1JWd1hTc3FzUE94QjVvdHJEUmNYRHBZUzJBRFlNZjUwM250SA?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "estoniandefencefirmssoughta700milliondroneshielddealwithouta",
+   "title": "Estonian defence firms sought a \u20ac700 million drone shield deal without a public tender - Estonian World",
+   "source": "Estonian World",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1J2eGRFQ2N5QTZYOUVOc2lKM0wzWWt6YU5DRzI1Zmc5ZUx2YnF5WXdBWl9BeWFRNll2Z09QWmFRTi1ZWUJCRHBFU3RqaFk4YkV4d1FZcldBbXIzZkM5OGpaMjNEWDMxSzVHTE95SjFKWDhIZk1ZdGRmd2dkeTMzUVhxdFdSN1I4dHQ4aDNDZTJhdk45QUtaeWN4WWUtaDVzUzkxcWpTSzY3c056ZUl2aVUzanRHWDFBYkhDRG5xaw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "seisgadgetsupportsociusbluebottleverificationforjapanaustral",
+   "title": "Seisgadget supports Ocius Bluebottle verification for Japan - Australian Defence Magazine",
+   "source": "Australian Defence Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDNhUXo4NlZjQWNrUkpaei1uOHZrYXRTT3g2ckNuek5UWVJOX09wb3ZfR0pIaG9pek9BakdjOVlSanpfVjE3a1dVdE0yd0s2RU84Um5uQktTYWY0WUoyYTIwQ01pdy12T01jTHFTWHRCalFxbVJNaFlfc3BhSmRKSGNFdGFVUTRlLTkta1JfV2ZiaGEwY1p4SDF5T1l6WEpMN19TazJPZ2dmQQ?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 48
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 71
   },
   {
    "sym": "ITA",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 47
+   "score": 62
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 47
+   "why": "volume not confirmed (1.1x normal)",
+   "score": 52
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 76
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 88
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 75
+   "why": "already moved too far today (chasing)",
+   "score": 76
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 75
-  },
-  {
-   "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 634 min old)",
-   "score": 75
-  },
-  {
-   "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 636 min old)",
-   "score": 90
-  },
-  {
-   "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 634 min old)",
-   "score": 90
-  },
-  {
-   "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 636 min old)",
-   "score": 55
-  },
-  {
-   "sym": "GDX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 58
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 67
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 73
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 66
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 57
   },
   {
    "sym": "PFE",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 64
+   "score": 72
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.5x normal)",
-   "score": 59
+   "score": 65
   },
   {
    "sym": "QQQ",
    "why": "price not above VWAP and 20-bar average",
-   "score": 52
+   "score": 55
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 634 min old)",
+   "why": "stale quote / market closed (last price 693 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 29
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 31
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 45
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 36
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 44
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 30
   }
  ],
  "paper": {
@@ -359,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 02:46 AM AEDT",
+  "last_scan": "Thu 05 Nov 2026 03:45 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
