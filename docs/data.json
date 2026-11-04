@@ -1,13 +1,13 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 09:13 AM AEDT",
- "fx_audusd": 0.7007,
+ "generated": "Thu 05 Nov 2026 09:57 AM AEDT",
+ "fx_audusd": 0.7006,
  "signals": [],
  "events": [
   {
-   "key": "debtlimittariffstoplistoflikelydealsintrumpsnewerabloomberg",
-   "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg",
-   "source": "Bloomberg",
+   "key": "debtlimittariffstoplistoflikelydealsintrumpsnewerabloombergc",
+   "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
    "themes": [
     "geopolitics"
@@ -53,6 +53,18 @@
    "pts": 22
   },
   {
+   "key": "seniordemocraticcongressmansayspartygoingtoputanendtotrumpst",
+   "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumptariffstostaydespitedemocraticlandslideinusmidtermsrais",
    "title": "Trump Tariffs to Stay Despite Democratic Landslide in U.S. Midterms, Raising Fears of Added Burden on South Korea - BigGo Finance",
    "source": "BigGo Finance",
@@ -65,22 +77,10 @@
    "pts": 22
   },
   {
-   "key": "howdidrepublicanslosethisbadlyvotersturnedagainsttrumpstarif",
-   "title": "How Did Republicans Lose This Badly? Voters Turned Against Trump's Tariffs. - Reason Magazine",
-   "source": "Reason Magazine",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3kxMlVDR3lkb1FFaDNwOTB5ZndDczU2NnJhVUVacnVzdGYxaTBEM3RrR3pPU0NuNTY3MjF5RVN2NFlmTFpaWlcwVWFiOE93YXRpdUY0SzYxODlJWExjNDZCNzEwQ1lCbzg2dEd0QS1rTjhFQ2NkeURwVV9CVlo1MTd3dGVuSmRoUU1vTjRtRVlzbncxRWJkMnNvNE0tUzVJZXdJY1pB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "democratspromisetorepealtrumpstariffsandpushforanendtothewar",
-   "title": "Democrats promise to repeal Trump's tariffs and push for an end to the war with Iran - UA.NEWS",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjR1SDJRWHJDcXl6bWg5VmtOaE9GTHVkUG9EdGt1aExJNzdjamZzRUhhRzNxOEFaeWpxOTUxT3VDLVJaZjQxLWdYaHlweDRQdjM0NDRBSGZ5YTRVUUdKUk5QMERaUzZscjBWWXF5ZGQ4Ym1Mb19fbVozdUhtcVVRUmF1THVJVkdPbFZtaWtrMGV0ZnJTcU83cmZFQzl5ZVpUMDZhdUl0ZjhYYXFNXzNJbmZB?oc=5",
+   "key": "democratsissueultimatumtotrumptariffsmustbeabolishedwarmuste",
+   "title": "Democrats issue ultimatum to Trump: Tariffs must be abolished, war must end! - TodayPress.tv",
+   "source": "TodayPress.tv",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVBKREM5cGJZVXh1dkRjVWl5X2VIZXVOMm9jWDZicDhaV1VCUVVReU9ZcHBVZFZ5UnlobFNpV2I4NE1BVllNaE45clZyNXJyRnFQQ1NxcTB6S2ZiX3NKdEFpZVRkOUlsQXhqZHViLXhucGdlQTdrZDVuYmxicVFxRDJJUzBsQjQtOU1iWVh1MmpqRkVUSG1TNGNZMzFkR0VtOXFjUXd1QQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -197,10 +197,10 @@
    "pts": 12
   },
   {
-   "key": "estoniandefencefirmssoughta700milliondroneshielddealwithouta",
-   "title": "Estonian defence firms sought a \u20ac700 million drone shield deal without a public tender - Estonian World",
-   "source": "Estonian World",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1J2eGRFQ2N5QTZYOUVOc2lKM0wzWWt6YU5DRzI1Zmc5ZUx2YnF5WXdBWl9BeWFRNll2Z09QWmFRTi1ZWUJCRHBFU3RqaFk4YkV4d1FZcldBbXIzZkM5OGpaMjNEWDMxSzVHTE95SjFKWDhIZk1ZdGRmd2dkeTMzUVhxdFdSN1I4dHQ4aDNDZTJhdk45QUtaeWN4WWUtaDVzUzkxcWpTSzY3c056ZUl2aVUzanRHWDFBYkhDRG5xaw?oc=5",
+   "key": "euronaval2026msidefencesystemsdetailsnewds30mgunordersjanesd",
+   "title": "Euronaval 2026: MSI-Defence Systems details new DS30M gun orders - Janes Defence Intelligence",
+   "source": "Janes Defence Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWRSckZaN0MwMGNGeloweTBISGJLamltV040YkRsZ0hXdUo4OFB2T3V2ai11dDlaNjFWWkFFMF9OUDVGWEI5YTRKbm9JTkwwbmNjR0ROdHNlS241cHBJR3Z6RmtQOE9jX1VuRG9vWkFLdklaYUVxUHJ0anJvNUJ4ZDFNTkRIY1h3eldrYXh1b1Q3bExEdlRfYk0ySzY3S1puRlJ5YktJNHd3anBqSzRlZkJxV2Y0S3I0dVNMVmJwQ3JnbW5yN3BxdUlPSEQ0M1dnQUE?oc=5",
    "themes": [
     "defence"
    ],
@@ -209,10 +209,10 @@
    "pts": 12
   },
   {
-   "key": "euronaval2026msidefencesystemsdetailsnewds30mgunordersjanesd",
-   "title": "Euronaval 2026: MSI-Defence Systems details new DS30M gun orders - Janes Defence Intelligence",
-   "source": "Janes Defence Intelligence",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWRSckZaN0MwMGNGeloweTBISGJLamltV040YkRsZ0hXdUo4OFB2T3V2ai11dDlaNjFWWkFFMF9OUDVGWEI5YTRKbm9JTkwwbmNjR0ROdHNlS241cHBJR3Z6RmtQOE9jX1VuRG9vWkFLdklaYUVxUHJ0anJvNUJ4ZDFNTkRIY1h3eldrYXh1b1Q3bExEdlRfYk0ySzY3S1puRlJ5YktJNHd3anBqSzRlZkJxV2Y0S3I0dVNMVmJwQ3JnbW5yN3BxdUlPSEQ0M1dnQUE?oc=5",
+   "key": "estoniandefencefirmssoughta700milliondroneshielddealwithouta",
+   "title": "Estonian defence firms sought a \u20ac700 million drone shield deal without a public tender - Estonian World",
+   "source": "Estonian World",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1J2eGRFQ2N5QTZYOUVOc2lKM0wzWWt6YU5DRzI1Zmc5ZUx2YnF5WXdBWl9BeWFRNll2Z09QWmFRTi1ZWUJCRHBFU3RqaFk4YkV4d1FZcldBbXIzZkM5OGpaMjNEWDMxSzVHTE95SjFKWDhIZk1ZdGRmd2dkeTMzUVhxdFdSN1I4dHQ4aDNDZTJhdk45QUtaeWN4WWUtaDVzUzkxcWpTSzY3c056ZUl2aVUzanRHWDFBYkhDRG5xaw?oc=5",
    "themes": [
     "defence"
    ],
@@ -233,10 +233,10 @@
    "pts": 12
   },
   {
-   "key": "willdefenceorderwinchangenorbitobnorbtstocknarrativesimplywa",
-   "title": "Will Defence Order Win Change Norbit (OB:NORBT) Stock Narrative - Simply Wall St",
-   "source": "Simply Wall St",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3BVZ3RUbGVLRVg1ZGlUYzIxb0pUbUJjV2NIYmRYaldYNzVDUEpXeVlPTUJ1UXhlOVBxSUdHSmEyQlJDRVhmUFpla1hQT3BGM2lkZ3c3Vko1VXc2YVpSYk1iNm8zb3hxUnJDTmE5RGRMd0hBNmd6R2lCN0gyWnFxWVdnUTl4bTBILThnVVdyZTM2TzRjeHpLQ2NlbkpDNGpnOXdkaDFDbENmTVRETlhGZjlfeVAtQU9yV29malZ4MTNQblMxTkhRS9IByAFBVV95cUxON3BVZ3RUbGVLRVg1ZGlUYzIxb0pUbUJjV2NIYmRYaldYNzVDUEpXeVlPTUJ1UXhlOVBxSUdHSmEyQlJDRVhmUFpla1hQT3BGM2lkZ3c3Vko1VXc2YVpSYk1iNm8zb3hxUnJDTmE5RGRMd0hBNmd6R2lCN0gyWnFxWVdnUTl4bTBILThnVVdyZTM2TzRjeHpLQ2NlbkpDNGpnOXdkaDFDbENmTVRETlhGZjlfeVAtQU9yV29malZ4MTNQblMxTkhRSw?oc=5",
+   "key": "aselsansaysnewairdefenceexportdealworthupto11billionaddstogr",
+   "title": "ASELSAN says new air defence export deal worth up to $1.1 billion adds to growing orders - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGJ2aUJZVFRQZnA5bW5uWHljSXpVSzdxOGZVbml5TDNMWFVQUVJQTExrYmNwN1lZYnctRWN6SXpHODlzckV5NE80SkFma2drakRfT3hOeDZodF9QRHFIVEt4cURGMkE5TTdhLUo4UUI3S1F0VkxBcDlrRHVNVWhzQ2M5NmlmSVgycFlfaDlWTVpjWVZ4UnVUaHhyLVdzdHl4aWNOajVwcjRORlZLd2UybnM2NjgwcWM?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,78 +248,78 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 87
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 88
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 79
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 78
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 69
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 67
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 74
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 69
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 75
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 58
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 51
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 50
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 51
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1021 min old)",
+   "why": "stale quote / market closed (last price 1066 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 37
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 36
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 82
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 44
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 40
   }
  ],
  "paper": {
@@ -333,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 09:13 AM AEDT",
+  "last_scan": "Thu 05 Nov 2026 09:57 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
