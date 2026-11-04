@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 09:57 PM AEDT",
- "fx_audusd": 0.7014,
+ "generated": "Wed 04 Nov 2026 10:51 PM AEDT",
+ "fx_audusd": 0.7013,
  "signals": [],
  "events": [
   {
@@ -32,7 +32,7 @@
    "key": "democratsvictoriessetstageforshowdownovertrumpstariffsbloomb",
    "title": "Democrats\u2019 Victories Set Stage for Showdown Over Trump\u2019s Tariffs - Bloomberg Law News",
    "source": "Bloomberg Law News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVlvY18tVkZUdC1MMUdjTW94dkFtRDFOMjN5bVc2UFd5cXlMQmtzYXZyek5RY0lSdExaemprLWZaNTFQbkYxNHlSVEJ4M2FxaTRBbExkOGZiNWQzXzVwbDlYbTJzMWY3MVFLNy1Zc050WEpQNTZ3SnlqSmdDYTZlS01jYmJKTzVNM3NLZTlMNDZ0dldxVHRrMUJTeGFNRFpiZlJsZHNqQTYzVzVtcDRMY2Y5OFdoYjZWbXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUZybzRPUFhKT3RUcTJ5SzB5djhDSG5HSURPZTlheC1JeG15Q0RkaGlEckFVcnJ3NlZmOTBxRU5QMk5uTmFpbWx5eUtMbWtyT3JEWHZxQ1d5TlBuTFlsSWFRdGdPU3JDWl9zZTU0M19SV3N0SmxMNDFYa1BxalNYTVY3SUE5V09XRXVKQzliYVZkOE1oZWp2TUhqNkRyVnJrV0I5aEpaTQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,16 +41,28 @@
    "pts": 30
   },
   {
-   "key": "majorityofamericansdisapproveofhowtrumpishandlingtariffsabcp",
-   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
+   "key": "thecountriesfightingbackagainsttrumpstarifftiradedwcom",
+   "title": "The countries fighting back against Trump's tariff tirade - DW.com",
+   "source": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
    "themes": [
     "geopolitics"
    ],
    "trump": true,
-   "trusted": true,
-   "pts": 30
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whatademocraticcongresscanandcannotdoabouttrumpswartariffsan",
+   "title": "What a Democratic Congress can and cannot do about Trump's war, tariffs and visa curbs | HT Explainers - Hindustan Times",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSlctOTB3bk5vQTMwZUZFbHB4bGhqNW5sV0d3UUxPcXphWHFybUFjc3oyTmIwM19sTzhBbkdwWlVxVll5RGdBRTlOQzh4dnNvLVA2YlFMUUpQTGhPYVh0alZ3WWxfRXFUZWlGemtBZkNFQWZXMTgtVFMyT2d2TnpRSk9JeVNkb1JBN0h6VjdNanlXZDdwT2FOQWYwM3B3MUMwdWZJeXBCaGJhQXRQa2t5MmM3c3d2R241U3BSa0xrR1NWZ1ZLYl9mc01lai0xYjBPT2k5Q0FnQVJHaGhOb1HSAeMBQVVfeXFMTmhWY1JVbkN6RGtKalZwQzNMeUk2a3Q5NmN5UG02SldHOUVjVFAxSjdjT3hKZGdxYkMzdHFuTWNXaTY0LVUxQkRudmdyek9EaUFFeUVpYkpSX2xwU0U3TFJ1ak0yS0FMdlZ2MTFTNHE1bm83RktsczV1Qm9IX25Lek1WeHRzU1ZhcVhjQVdsTG16eVRFNlZoRDAwYV9lSUNOUGttQW5hWUxJX0pzQ3pyUGhxX044MmREN2k5X2NDM3RfTWFCeDBWLTBoOHRYeVhSSFJ4NUozV212bXluX0wwS1pQS1E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "billclintonsayshewarnedtrumpabouttariffs24yearsagoonthegolfc",
@@ -81,30 +93,6 @@
    "title": "U.S. Asks to Keep Collecting Trump\u2019s Tariffs After Court Loss - EnergyNow.com",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9JN2Vlb2FpV0NGUnlXTklZb1V0RHdWVnB6TWk1NEdqa3dYMGs0WXAwQkpmWk1NTi1nRHJwWHE4Y0RUYm1rVHJkNGpoWjBQRVQ0NEFtRzByTWFzTjlzQ1pLUExmX0NlSXNkNVA5YWxZX0FDbWhzTDhWcDZTSTY2U2p3Y25FbUcyVVdwc1dWRlpobnhn?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "magarejectionendstrumpstariffbullytacticsagainstindiatopecon",
-   "title": "MAGA Rejection Ends Trump's Tariff Bully Tactics Against India: Top Economist - NDTV",
-   "source": "NDTV",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMzY5RU1zRm9xN3ZuMGVKN2RUR3VtODNhTWVybkMwTlBmTnZoWTRJcDR1bnVYSmRGYXhyanowN25SQ0RVckhmRzVWTHF6NWlTbmgxTkJnZVZoWXdyUDZHZWF2RzduLVk2QVp6blQtM3RPWTdoS1Z5NklMeldJVWgwX0xvN3VybHUxTkl6RG56REk5UjBFWXVmcUd2dUthNVpkQmJuNk10QlZzUHFldW5MSFNuRUVOb2ZwNXVGeWdDSXg1V2FhQTdFT3Y2eEh6SkhJTHRzbDZR0gHeAUFVX3lxTE83a1FuQTB4MWhkdkVfS3pyaVdyQk9GalF6SVZhbF9HVFpYYUhhV1pQbE1qeERNRkJ4aFVObng0Q0pWSkQybHNHNnBtazNoMkd2QnhzTmFTZHo0R01qYkhDSy1PSzVDZ2dJMUI2ZGZ3a3pUZnQ5NldUSl9RRTh1alZvLWRtOFd6U3VqcUVZTkQ1NVotSU90NVNod0VXSHlQTzhOSEVxZWg1d0NCODdZeTFOVDlGYzBRamVuZnJoazlKVkc4TW83bDF5VnI4bHpTS0F1Zjc2am04UFY0Nkh5dw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "whatademocraticcongresscanandcannotdoabouttrumpswartariffsan",
-   "title": "What a Democratic Congress can and cannot do about Trump's war, tariffs and visa curbs | HT Explainers - Hindustan Times",
-   "source": "Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSlctOTB3bk5vQTMwZUZFbHB4bGhqNW5sV0d3UUxPcXphWHFybUFjc3oyTmIwM19sTzhBbkdwWlVxVll5RGdBRTlOQzh4dnNvLVA2YlFMUUpQTGhPYVh0alZ3WWxfRXFUZWlGemtBZkNFQWZXMTgtVFMyT2d2TnpRSk9JeVNkb1JBN0h6VjdNanlXZDdwT2FOQWYwM3B3MUMwdWZJeXBCaGJhQXRQa2t5MmM3c3d2R241U3BSa0xrR1NWZ1ZLYl9mc01lai0xYjBPT2k5Q0FnQVJHaGhOb1HSAeMBQVVfeXFMTmhWY1JVbkN6RGtKalZwQzNMeUk2a3Q5NmN5UG02SldHOUVjVFAxSjdjT3hKZGdxYkMzdHFuTWNXaTY0LVUxQkRudmdyek9EaUFFeUVpYkpSX2xwU0U3TFJ1ak0yS0FMdlZ2MTFTNHE1bm83RktsczV1Qm9IX25Lek1WeHRzU1ZhcVhjQVdsTG16eVRFNlZoRDAwYV9lSUNOUGttQW5hWUxJX0pzQ3pyUGhxX044MmREN2k5X2NDM3RfTWFCeDBWLTBoOHRYeVhSSFJ4NUozV212bXluX0wwS1pQS1E?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -173,6 +161,18 @@
    "pts": 22
   },
   {
+   "key": "democratwinstexasoilregulatorseatforfirsttimesince1990bloomb",
+   "title": "Democrat Wins Texas Oil Regulator Seat for First Time Since 1990 - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFdmMUJjV0NmaW5iOFB6WV9VMm51Zjd2YUtHYkhtQlNoelVVTnMwd1pncjY5aGpwZWJFQzY5ajJkdU0yaVJuY3otMkEtc3JEckVfZkJDa3d4M1NsTWwyS0N5bHhGVjdOUzV6RXgxejJIYUZOdFFKUXJtbEw5b1ZVTFJxanR1UXRvc1VHeGp3aHVrVE1LTnZ4TDlQblJqUUlwY2ZwVi1Kd1BuZkhHa3F1M3ZBTWxadw?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "fdaapprovesmodernasmrnaseasonalfluvaccineabcnewsbreakingnews",
    "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
@@ -185,36 +185,12 @@
    "pts": 20
   },
   {
-   "key": "federalreserveraisesinterestratesforthe1sttimesince2023abcne",
-   "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC News - Breaking News, Latest News and Videos",
+   "key": "willthefedraiseinterestratesthisyeardividedeconomistsweighin",
+   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
    "themes": [
     "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "whatshappeningtoukinterestratesandwhatdoesitmeanformortgages",
-   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "oraclescraps7billionchipdealwithchinastencentafteruspressure",
-   "title": "Oracle scraps $7 billion chip deal with China's Tencent after US pressure: Report - CNBC TV18",
-   "source": "CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVdJYWZ3ZDNUZ1pnbDhjcmNFUF85Mks1T09vWjBMNlVXejN6VEVmb012ZlE1VFdIcUZjdVZPeE5waVBlR3FiUHI2SG53V243eEZXSi10QmRXNHpxdl9PT2tWY2FlTG1iSENwalRCMGJac0s3NnhkN0JPVUdSZUo0U29WUG1YaWZNVXFaS0pXYzhfUWl4QjJuenh3MEhHWk9DOG9tdUNqcFNCSzBoamg0UHB2UllLR3paN2tDalNON1N4MVhXdVdmN3l6LVJ6RWfSAdQBQVVfeXFMTlI5LXZVUUZORTN1aHVERDZSNHJJNzlqRnlEVnNJS25LVURtWUJ4azdCTEI5OGFxeG1aNVluQTF4bm9XeFdhSEYyM0hrdlRKUkdsVkxnSDA4Q1dPeVliWkdIaFM3NW53MEdia0NkUjU3aHYyd1Y3QU5jdVYzSVJhYTdsOTlPX09IVFdzVzNyWjRQdGZ6ZFJua29rdzVZRW9aMGV5NlQxS19fNE1SLUdIUmdDTHlPcXZhbXVRM3I2bWpIMU82NXBNbWNRREF3YTZBb3czRVM?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": false,
    "trusted": true,
@@ -243,92 +219,116 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "innovaerotechnologiesasxinnbuildsdefencedroneambitionsaftera",
+   "title": "Innovaero Technologies (ASX:INN) Builds Defence Drone Ambitions After ASX Listing - Kalkine",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWRqbFhHaUFJdGxoSEljSFhfenhIY3lSSERaQ2ppSnVvMEc5dkNoY0FNSTBqZUlFVEZMRUtiVDFsUmV4bk95QmszdXlXQ2N0eVhBbDhfSzNIb25nMlRZUmJTTEJJSW5uMElYMmRsN0dNNTZTM2JIa0tDNXpTZWQ1Ymo4dFBQTkMtbjNHUnpnWDg5a01Mczk5dmFhMVBwSl9weEJDY2lKaTB2Wm5YLXUyQWxMUkNPZWQ1anc?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "aselsansaysnewairdefenceexportdealworthupto11billionaddstogr",
+   "title": "ASELSAN says new air defence export deal worth up to $1.1 billion adds to growing orders - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGJ2aUJZVFRQZnA5bW5uWHljSXpVSzdxOGZVbml5TDNMWFVQUVJQTExrYmNwN1lZYnctRWN6SXpHODlzckV5NE80SkFma2drakRfT3hOeDZodF9QRHFIVEt4cURGMkE5TTdhLUo4UUI3S1F0VkxBcDlrRHVNVWhzQ2M5NmlmSVgycFlfaDlWTVpjWVZ4UnVUaHhyLVdzdHl4aWNOajVwcjRORlZLd2UybnM2NjgwcWM?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 70
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 80
   },
   {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 892 min old)",
+   "score": 55
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 892 min old)",
+   "score": 55
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 402 min old)",
+   "score": 55
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 402 min old)",
+   "score": 75
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 70
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 70
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 69
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 400 min old)",
    "score": 55
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 838 min old)",
-   "score": 70
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 838 min old)",
-   "score": 55
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 838 min old)",
-   "score": 53
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 838 min old)",
-   "score": 70
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 838 min old)",
+   "why": "stale quote / market closed (last price 892 min old)",
    "score": 62
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 09:57 PM AEDT",
+  "last_scan": "Wed 04 Nov 2026 10:51 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
