@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 02:19 PM AEDT",
- "fx_audusd": 0.6966,
+ "generated": "Wed 04 Nov 2026 03:23 PM AEDT",
+ "fx_audusd": 0.6961,
  "signals": [],
  "events": [
+  {
+   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
+   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
    "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
@@ -125,10 +137,10 @@
    "pts": 22
   },
   {
-   "key": "michiganvoterspullawayfromtrumpovertariffscbc",
-   "title": "Michigan voters pull away from Trump over tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DSEdoY1I3a1ZPc0dMMUZUVXM1RmtiQlRJdnZLZW5HdUJMcHBrRFF1NTFzSXcyZ00yOERhUlVnQ0JjTTFOUy1NM1QxVC1QSWdQQmxIb1NPUFc4dw?oc=5",
+   "key": "trumptariffreversalcouldcutcostsforusenergyfirmsbutwilllikel",
+   "title": "Trump Tariff Reversal Could Cut Costs for US Energy Firms But Will Likely Leave Broader Flows Unchanged - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWVpWU1aazVlMlhNczhWQjVXajY0U00zdU5WZzZwMFFNdkxDZEgwQnhjRVFaLUNYc0czY3h5QzdkOXdMajkyVVByaURNOFQ4dVEwTk9yaWtIQ2ZFTkpCNTA5OWxvQTVxcEluMzU5T0ZRZElRay11eC1LWmY3ZllYQUFFTGplQ2hDanVJZ3NSTEFJbnhMTDAybkQ5SnFQZTZlbS1pR1B3VXFCb2RqNkJUXzI5WGxxVmdWSU1HTEwtZTJlbXhwR3l2YWdOOUd4dw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,10 +161,22 @@
    "pts": 22
   },
   {
-   "key": "christinabohannansaystrumpstariffsarecostingfamilies4200that",
-   "title": "Christina Bohannan says Trump\u2019s tariffs are costing families $4,200. That\u2019s Mostly False. - The Daily Iowan",
-   "source": "The Daily Iowan",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3VqTHdUTDh2MGJ1V2NwTGJzblVPN3JwVzFaX3E1WC1mRjgzN0hXMTBDaHp3bVpFNTZQYzBJX3VmbWVCWGZEZjkxZ3ZQUVdLeUFVeFJNTlJ0LVJjTGxCLWJEOWlRRENXTXhIZ3hVdnJBUFFYeEJ4WjRyNFBLejNLaHFUZ1lVN1F0Y3Y1STh6U0FaY1p4RFl3cUhUNmlMTFpqX2diVGdjUFhnTGgtX09sbTdzdHZWZGxHUkE?oc=5",
+   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
+   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpconfirmsstrikesoniranastehranwarnsagainstreturntowarafp",
+   "title": "Trump confirms strikes on Iran as Tehran warns against return to war - AFP.com",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRNMk9XMXBCU3hrZFo3Z1NKcFVKYlF3Q251cXZnZ0U3eFI5TmFUaU1SUWV6VFFNWUh2YjRZOGhIanBPb1lzLUp6NHhFY1JqWUprdDNEczhjSEI1MG4yMnRNbWVCSkdrTnE4MEVMMlNEMFVYTHhZYnZ2TWl5dTJybllGZXB0OUQxelE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -197,6 +221,18 @@
    "pts": 22
   },
   {
+   "key": "fdagreenlights1stnewsunscreeningredientinyearsabcnewsbreakin",
+   "title": "FDA green-lights 1st new sunscreen ingredient in years - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZpRHdKYUR6UGJUZ0dvazR3d1dQZlFhaXB5bFBVU3hGcHYtdm42LUFfNXdqM29mOHhCYUlnYnRzU2wzTFpsX3lkSTNsZlpWcTZLUGxVSDJKSUgyQThlWktqUGd5ZldiLUhRSVcweEFfMVpMX0dHSXNNOVFHRjdTaFVuVGF2cmpJNFdDMU52MVoxY0tlRW44bE16RWZGby1JZW5yZlN30gGrAUFVX3lxTE1tWVdjamUzZkVBUlVuVEFqT3ZiVHZXQXFiTWRzaFJyRkRZcDIxWU42Z3d0MVZodmVtcDk0OU5ha1VKX1VkMWJqN2k3bkxad2VLcWp3cGtRenYyUFRSdW50NE1Kdno2UHRmNjVDcjZnY214akx6cGh3cEVkdG51d0RNYUE0X1B0MjFUWTZ1a0hYNl94SFJqdXZyWTVtMXJ5bnFLY1pIdm5BREVIbw?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "merckgetsusfdaemergencyusenodfortreatmentofscrewwormindogsre",
    "title": "Merck gets US FDA emergency use nod for treatment of screwworm in dogs - Reuters",
    "source": "Reuters",
@@ -207,128 +243,57 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "whatshappeningtoukinterestratesandwhatdoesitmeanformortgages",
-   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "interestrateshighestsince2008asinflationforecasttostayhighab",
-   "title": "Interest rates highest since 2008 as inflation forecast to stay high - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmNCLTQ3TGpocmdBa1lKSjFFLVozOGE1ZXpvWHlkclF5TEV3SmhyX3pBU21kYkxKZHNWQkNOZTNWQnplUnR0TmJ6R2RnTjFybzFBQUNNSks3aDJVV01QN0UzejRvYkZRNXFNY041djFXR3V6MXB3bTk3WFFPZkswbFpWbHBrTVRIRnMtWFM0NG9VbUlzUUxIUlNwOGhpeFZOZ0FzWVlRVkFreWxuRUtHQWl3?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "exclusiveskhynixsnewyorkchipplanshitsnagoverusrestrictionson",
-   "title": "EXCLUSIVE: SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdlpsRXVkdXRtR00xTmR6NndmaHV0RE55OEVwcHQ2YzhwdXIxQlo0Z2dOYnpBeHZhRjhSQXlRcUt2TURXbUZZczlQaVlNc2EtWWhtODU2enpxaVM4ZXk3d0FJT0g3VHRMN1VfRlB0MThZU21UNFBYQXhKMWlXcUwwa0hlajJQb1c2Q1ZHczNRX1Y0dTNveE4zV0Jpb0JhQjhOVzNGU3RwU1gyTU56b29OeEFyT2tuenlBb2RfcnZIVW5Pa00?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 70
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 80
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 70
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 55
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 380 min old)",
-   "score": 70
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 380 min old)",
-   "score": 69
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 37
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 380 min old)",
-   "score": 70
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 380 min old)",
-   "score": 55
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 380 min old)",
-   "score": 53
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 380 min old)",
-   "score": 70
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 380 min old)",
+   "why": "stale quote / market closed (last price 443 min old)",
    "score": 62
   }
  ],
@@ -343,7 +308,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 02:19 PM AEDT",
+  "last_scan": "Wed 04 Nov 2026 03:23 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
