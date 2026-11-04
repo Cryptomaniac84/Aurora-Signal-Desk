@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 07:29 AM AEDT",
+ "generated": "Thu 05 Nov 2026 08:20 AM AEDT",
  "fx_audusd": 0.701,
  "signals": [],
  "events": [
@@ -17,22 +17,22 @@
    "pts": 30
   },
   {
-   "key": "trumpadministrationpaysoutmilestone100billionintariffrefunds",
-   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "candemocratsstopiranwarreversetrumpstariffsaftermidtermswina",
    "title": "Can Democrats stop Iran war, reverse Trump\u2019s tariffs after midterms win? - Al Jazeera",
    "source": "Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjd5aWdVVzA1ZThHeGRqck9pSjhRMjd3R1YyVTRsQlY5MG0wR28yUUJtc0VwTVVYdmJZeWl0VEE0YnhxMXMtQWlWT2lsWHpiQVFXa1dLRHV6ekE4c3lkeWhYOUxSNlRkTXQ3ZG5QRnNNTGd5bnZORWdpVEF3WHBUVU9hQzh3Y0d6QmpYT1M4RGczckx0WWZhTTlGRXhzdktIVFM1ZUxMa1FDNzYxNkpaQURPUdIBuAFBVV95cUxPX1BUN1ZpOUxnM3Izb2s0aU1qQVBHZlZJRVpGbVRnUkVxX3J4QmZ1NDJBenRUXzhNcUJUc1UzM1lyY3dpM1lJaldYS1JrQ2V6emFKYXhOS1BQRm1GR0dLeXdISENVaVQxX09YNFFnSTdEUC14SVFUQy1CRDlEazN1VGRoY0ExVlFreXhfNmNMcjFESW5sV3A1a3hwNk9YVHUyTWxxRDh4V1lmS1RjeFgybHFGNXdOMlpt?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whytrumpwontletupontariffsevenwithdemocratsincontrolbarrons",
+   "title": "Why Trump Won\u2019t Let Up on Tariffs, Even With Democrats in Control - Barron's",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlZHSHQwSFV5aXhyblNEekJaTnJHZnpZUjdSQWpuTDFrb1IxLWRtdko5S1A5MlhSNTVGRDR4OEk5SHdpLTd6UEd1NnpmYlhNTURYd1lVX1lmTTdPaTZBcWM3RVM2bTc0b3NDb08wSkhkZ0Nfai03aDdnT1NkOHM2eVBDTmtZSTFlZkd6Qk5fQUhlNHhG?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,23 +77,10 @@
    "pts": 22
   },
   {
-   "key": "americansandamericanfarmersvotedagainsttariffstradewarsandin",
-   "title": "Americans and American farmers voted against tariffs, trade wars and inflation. Will Trump listen to them? - The Western Producer",
-   "source": "The Western Producer",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmtCa1JmU1l2d21UdjRURHJkQVczbEtRMTJISTNDWHZaS3N0ZzI0ekhpbUY3TlJSQVhVa3FncTlkdmxYeDQ2UG9PSXk1cFoxXzhnRE1pWGNzdGlhbHJhRTE0d1h2cWRPTTBDaXV6dTNZQnBwdmNDQWVCWFBkNkpiVTJ3?oc=5",
-   "themes": [
-    "rates",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "daysbeforeelectiontrumpdeclinestariffsintwosignificantinvest",
-   "title": "Days Before Election, Trump Declines Tariffs in Two Significant Investigations - American Composites Manufacturers Association",
-   "source": "American Composites Manufacturers Association",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYk1Rb3hfZ3ZPOEo4OENpUUNzWjBZY3pEX0FYT2xNLWx6UEJJc1JadXRJNnQwNHJCa0lkejB3LUIwMFptSUxnOXNabEVIaG41eUxvazU0Zlo2MG9YaThvTXNKYlBxNW55dUFFY3BrbDRKdVpOYV83SFM2QW9TWjNPUlNfZUx3VmxHVWJRcGlEdTZzeEJLSDQwMzB2RVg5bDg?oc=5",
+   "key": "quicksparkdowjonesindexeyesbestrallysincetrumpstarifftrucetr",
+   "title": "QUICK SPARK: Dow Jones Index Eyes Best Rally Since Trump's Tariff Truce - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV1R4VTBrX0N3SGdDR1REdUVMY1Q1OTFTakpmVVBaZmRESEVKX2RlZTlZUkFEVTMzNk01ejdFWlhra2JKNnpGVGV4eTU1WlZ5OEJXWmc1Q0NLbkFIZWpxdnpCODFpckR2cTZkQlQ3Q1FFU3NyNEdKLUVfM1hrdU5waWRmU1FZSU15YWUzMmhwa1I1VlZOdEotR21SR2E2NEN1NnpZb2FvbmotRnBQQUstY2Zrb0hFX0hQRDgtTktlN2lJbW1xcFRMeQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -160,6 +147,18 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "anneokruegertarifffiascomaysavefreetradethekoreaherald",
+   "title": "[Anne O. Krueger] Tariff fiasco may save free trade - The Korea Herald",
+   "source": "The Korea Herald",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qSGd5Mkh1M3Utd3EtOE8tbHJJRk5PNU1xMmtDMlBldThxTURlNnljQklTcmpqanhoUmp6OG1USTdGQ2dpQXF3WWZyM25sOFdXVi1pcW96VQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "housedemocraticleaderjeffriessayswillpassbilltostoptariffsan",
@@ -249,77 +248,77 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 81
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 87
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 48
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 79
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 69
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
-  },
-  {
-   "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 66
-  },
-  {
-   "sym": "QQQ",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 37
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 918 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 74
   },
   {
    "sym": "COIN",
-   "why": "already moved too far today (chasing)",
-   "score": 74
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 40
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 57
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 74
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 75
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 58
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 66
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 90
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 50
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 36
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 969 min old)",
+   "score": 55
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 37
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 70
+   "why": "stale quote / market closed (last price 21 min old)",
+   "score": 82
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.3x normal)",
+   "why": "stale quote / market closed (last price 21 min old)",
    "score": 44
   }
  ],
@@ -334,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 07:29 AM AEDT",
+  "last_scan": "Thu 05 Nov 2026 08:20 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
