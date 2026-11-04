@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 03:23 PM AEDT",
- "fx_audusd": 0.6961,
+ "generated": "Wed 04 Nov 2026 04:25 PM AEDT",
+ "fx_audusd": 0.6979,
  "signals": [],
  "events": [
   {
@@ -17,10 +17,34 @@
    "pts": 30
   },
   {
+   "key": "commentaryasiahopesdemocratscanproviderelieffromtrumpsiranwa",
+   "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
    "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
    "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "bullyfeuderuptsbetweentrumpandontariosdougfordoveruscanadatr",
+   "title": "'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORng2eU5QQWk1a21qSHlmMjZGR1ExSDh6NXAyNW1HZkd3ZE9HWl81SFRyT0xEcjJQTVg4bFBoT3ZMekNwN3pHd1cxZXBvSndhRkpseFZOM2hpalJidkd4VUl6bUpuTHN6cFgzUkszSVdzeFdLYlZ4NTJ5TFozNWYxdG5sWVhYaVJSN1hydWk3RzlERE1HNHVGUNIBngFBVV95cUxNWmljYjB6Vms3NUV3Qzg0MWxQcUo5VFI2RzFTTzNmSmhYM0VMODlDTjhfT19uaXhaOVM5azhnNXlJTEV3aFk5M3NWdnFxaEZsRVV6VzdGbGdpeEF6UG84cS1kNFVNT01oN21SODg3ajZ1SzdYZVozd2RuczViT3VGeUtTYjY5TmpqVV9YLWFtZTBJd3JpVENwVGM4c21WUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -57,6 +81,18 @@
    "title": "A Democratic Congress could curb the Iran war but not Trump's tariffs, former ambassador says - Fortune",
    "source": "Fortune",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYZXl4MWdyZG1sdUV2VV96cFIycVlnaUxHU1d5dW9rQjlEdnVaWThZb3VGZ3FTOWg1cHBqUzR3VWJNcjRtekV3QnBZOEhVbE1rVlhoX0h3YXBLbmY2ZWl1bnRTa2ZhZ0diaWNQZF9IRmdCV0U?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysusclosetocanadatradedealfertilizertariffsamongkeyis",
+   "title": "Trump says U.S. close to Canada trade deal, fertilizer tariffs among key issues - Investing.com Australia",
+   "source": "Investing.com Australia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQk5SQUhFOVY2ckZublpYZlJBSnlRdXRoLXVYOWdBXzh6eExCZkVBZG85V3NCeThidkg0UUw5Zl9GUVJVcFFPSEZ0UHlFWjgwSFdvMTJDRUJ0Mk9oeWp5ZlE0TFN3ZFdYNUFIY3cxenpfQ2s1a2gzNHI2MWd6Q3FtOUZhRFJJNEJINTBTdWlrX3hhX3E4NjB6M0xUM3BPS3B0QkJvLXFpYmJ5aloyaFg2Ry1fZnlNcW1RaTRnMEhmRHpMUklaVFE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -117,54 +153,6 @@
    "title": "Trump tariffs will cause auto industry more pain than SA's Agoa removal, says pundit - EWN",
    "source": "EWN",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzFZd0pFVk9BbElpajBPdVFIYkMtcTBESlVhR0UxZVI1SG8taTN5Z09KSGszM0daeFFZaHJVTWxoTGRpbHNDYmdJNmNYaWZLQm9VbWdJZ0Exc2tVN0tFU2RPNm9rZXFqYWw5Qk45cEdsdk1SOXBBWG5pYTNUdnV0MjRvVkF0aHlramItd3JyQWZMcHBjX0xLSjZLSmFxUXM4U01uQXY4ckl5V215ZXI2ZVdmY25HZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffsforcedbumblebeetoleavepafcokamikamicathefijitim",
-   "title": "Trump\u2019s tariffs forced Bumble Bee to leave PAFCO \u2013 Kamikamica - The Fiji Times",
-   "source": "The Fiji Times",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPakROeUVHLXdqRGtaaGZucmZlTUMwckdjUlNZejJfMHM3ODBySmRSaVltWUg1dWM3dXptQTB5ajhPZ2RxQ3gwYWJoWHlwWXp1aGk4dEEtbW1ZNUJNcVBtWTE0eUxKUndEUUlYZElUcWwyazM2d2NTeDMtUXB0Mmdna0RORTZfTWswWms2NnEtS2tCUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumptariffreversalcouldcutcostsforusenergyfirmsbutwilllikel",
-   "title": "Trump Tariff Reversal Could Cut Costs for US Energy Firms But Will Likely Leave Broader Flows Unchanged - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWVpWU1aazVlMlhNczhWQjVXajY0U00zdU5WZzZwMFFNdkxDZEgwQnhjRVFaLUNYc0czY3h5QzdkOXdMajkyVVByaURNOFQ4dVEwTk9yaWtIQ2ZFTkpCNTA5OWxvQTVxcEluMzU5T0ZRZElRay11eC1LWmY3ZllYQUFFTGplQ2hDanVJZ3NSTEFJbnhMTDAybkQ5SnFQZTZlbS1pR1B3VXFCb2RqNkJUXzI5WGxxVmdWSU1HTEwtZTJlbXhwR3l2YWdOOUd4dw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpcarneyfloatadealtoendtheautotariffwarthetruthaboutcarsc",
-   "title": "Trump, Carney Float a Deal to End the Auto-Tariff War - thetruthaboutcars.com",
-   "source": "thetruthaboutcars.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUh4S3R1T0xpX2Q1bzZuWEl2TWp1dl93M0FUVjcwRU9zY3ZWVjEzdnZWYWltSnk0RDhLOFV2VFhQOUdUYV9MRGpvcGdZc3EyYUNlbV92MUN0aUFfWERUYjdHN2NhOUE0Vmc4akIxV3RGNk1XZmpCa18zUmMyTU1YbUFPYW82cTlOM1hDSWd5ZVZiUzJTTXVhNktERzdrYi1UbVBkSjBkbGcyX1FRWXdj?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
-   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -243,57 +231,69 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "seisgadgetsupportsociusbluebottleverificationforjapanaustral",
+   "title": "Seisgadget supports Ocius Bluebottle verification for Japan - Australian Defence Magazine",
+   "source": "Australian Defence Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDNhUXo4NlZjQWNrUkpaei1uOHZrYXRTT3g2ckNuek5UWVJOX09wb3ZfR0pIaG9pek9BakdjOVlSanpfVjE3a1dVdE0yd0s2RU84Um5uQktTYWY0WUoyYTIwQ01pdy12T01jTHFTWHRCalFxbVJNaFlfc3BhSmRKSGNFdGFVUTRlLTkta1JfV2ZiaGEwY1p4SDF5T1l6WEpMN19TazJPZ2dmQQ?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 70
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 80
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 70
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 443 min old)",
+   "why": "stale quote / market closed (last price 505 min old)",
    "score": 62
   }
  ],
@@ -308,7 +308,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 03:23 PM AEDT",
+  "last_scan": "Wed 04 Nov 2026 04:25 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
