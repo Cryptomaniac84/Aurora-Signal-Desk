@@ -1,14 +1,14 @@
 {
  "mode": "LIVE",
- "generated": "Wed 04 Nov 2026 06:45 PM AEDT",
- "fx_audusd": 0.7,
+ "generated": "Wed 04 Nov 2026 07:46 PM AEDT",
+ "fx_audusd": 0.7004,
  "signals": [],
  "events": [
   {
-   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
-   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+   "key": "trumpadministrationpaysoutmilestone100billionintariffrefunds",
+   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -29,10 +29,22 @@
    "pts": 30
   },
   {
-   "key": "trumpslapsadditional50tariffoncertaincanadiangoodsabcnewsbre",
-   "title": "Trump slaps additional 50% tariff on certain Canadian goods - ABC News - Breaking News, Latest News and Videos",
+   "key": "majorityofamericansdisapproveofhowtrumpishandlingtariffsabcp",
+   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
+   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,6 +89,18 @@
    "pts": 22
   },
   {
+   "key": "trumpsaysusclosetocanadatradedealfertilizertariffsamongkeyis",
+   "title": "Trump says U.S. close to Canada trade deal, fertilizer tariffs among key issues - Investing.com Australia",
+   "source": "Investing.com Australia",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQk5SQUhFOVY2ckZublpYZlJBSnlRdXRoLXVYOWdBXzh6eExCZkVBZG85V3NCeThidkg0UUw5Zl9GUVJVcFFPSEZ0UHlFWjgwSFdvMTJDRUJ0Mk9oeWp5ZlE0TFN3ZFdYNUFIY3cxenpfQ2s1a2gzNHI2MWd6Q3FtOUZhRFJJNEJINTBTdWlrX3hhX3E4NjB6M0xUM3BPS3B0QkJvLXFpYmJ5aloyaFg2Ry1fZnlNcW1RaTRnMEhmRHpMUklaVFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "dncchairsaysdemocratsshouldrepealtrumptariffsendiranwarifthe",
    "title": "DNC chair says Democrats should repeal Trump tariffs, end Iran war if they win power - The Hill",
    "source": "The Hill",
@@ -89,46 +113,22 @@
    "pts": 22
   },
   {
+   "key": "itsusmidtermdaycouldademocraticwavebreaktrumpstariffsoncanad",
+   "title": "It's U.S. midterm day. Could a Democratic wave break Trump's tariffs on Canada? - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjSHRTb0hzT3lSU3Rqbm0zU3lDTHAyVmpkQkQ1UTB3NWNXeUhEQ255N2Q0cDlFcUVWLW5KXzFFQUJZNU9zLS0yQ2lZd29XVnplTExhSnNVRWlzQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumptounveilmoretariffsaftermidtermsas40trilliondebtandwarc",
    "title": "Trump to Unveil More Tariffs After Midterms as $40 Trillion Debt and War Costs Raise Revenue Pressure, Say Top Economists - TradingView",
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQck02RUdYV0NFaWdxd1dtXzFKd1dabk5veEwtNDVpWkdhUG5xejNLRUhKVTJ6RWpDTjZjNGpPSS1WRDdHZENsV0VfUjBsWmc0NnFmTFBXUWlJVmhKY1BDWTFOa19wR3JEU0Y4b09rR2JKckt2NzhOYkYtdDU3c285OFllMzA1UUJhUG5Ra2RtdkhiT0xvMHBSbGQyU0xsRHd2dkIyelZrOTNIYTBMZlluOFlxWmd0T2dPdUpYaHJTX0lob0I5R2V4N0MtZG1EX21lM3FwcGdoZlVUdHoyanNmM2NiTm5FZFhrYUZ5OVN3amgwQjg3eEdzZzJtOUZzaDJJZ2l5MDFMQ1FsUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpchangeswhichcanadiangoodsface50percenttariffslegis1",
-   "title": "Trump Changes Which Canadian Goods Face 50 Percent Tariffs - Legis1",
-   "source": "Legis1",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KU21UbUNMbWFlNlJwSlBKd0JyNXhwcHpFVnBrUmxDaHE0S1Z4TlZJVndZeE4wQVIzaHZWM2RCR0NxRG1oZmdxUGxoS3dkQkFBSXJWTjc0RFZod3haZ0RNazZyWUx0RzNvaG5vY1NjNWJDZmFuSlBMMnJTQTdDZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsmywayapproachdeepenssouthkoreastradedefenseuncertainti",
-   "title": "Trump's 'My Way' Approach Deepens South Korea's Trade, Defense Uncertainties - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVkVaYmxoc2pQeGtyYldNR0dzTlJlQXBaUEVVMjFoTUstZmtvTGJyeWpzNk93Uk55RnRDTko0a2x2MHlKX2k1bDkyT0V5dTVzVmpvTmZGV3dUZmxyYXJJbzVhZTFFaFJTa1FvNFo3MVA3eWNqblVvc3RPaUJwME1rZFJRQWk?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
-   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -185,6 +185,18 @@
    "pts": 22
   },
   {
+   "key": "fdaapprovesmodernasmrnaseasonalfluvaccineabcnewsbreakingnews",
+   "title": "FDA approves Moderna's mRNA seasonal flu vaccine - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BQaW1BVDVnZmczM0Z2LVJBR0RuZEFxc25uSW10QTIzSlhBX0VGQ282YU5EMWI2M3FoTnJmTGU0WGY2RVdFXzNoanREejdsUHVDWUZXMWdJUldzUHB0R1ZWYjUydHU1YTRfYnVqdnlZU0VsTXNjS203TG8zWDI4OHgtOFBqcXgxYUIzanBDU1h3WjFmdlhiUtIBngFBVV95cUxQbVdvZXgyUFJhSlVYU2c2UzlnTzJGY25ubnBHSlVLTGNWcnBzZm1rbktweEpjTURzRGIyQURmd2p4Q3V6eUthX3FBZnFRYmc0Mjk0NUlKaUZhRld1aVIyS01fNmJ1VVN3eE1PeS0wQmQtUnZ5LUJoMF9YZGt5TmV3MGc5UFJDQmRuRE42MkJ0TnhRUmZVYjJqbW5tM3RUdw?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "whatshappeningtoukinterestratesandwhatdoesitmeanformortgages",
    "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
    "source": "BBC",
@@ -195,6 +207,18 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "wallstreetisbracingforafreshwaveoftariffsiranactionandpotent",
+   "title": "Wall Street is bracing for a fresh wave of tariffs, Iran action (and potentially a government shutdown) after the midterms - Fortune",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3BjSDBOMTBSTE04RjhSc0RYSWJic25sS2duRTRocGJvT3RHYmtaWDYxVnMtTWM5ejNCdmEwWi1vdFkyeTZmR0lzZ2duM2V2blhMTEVzSnRIMVc2ajc1SUplUzVEMGo0N202T1pLU0FtX2VCbGEwdUZIZ0RfMkQzaWpWT3R0UUpCUTBLZFBIWQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "seisgadgetsupportsociusbluebottleverificationforjapanaustral",
@@ -209,34 +233,10 @@
    "pts": 12
   },
   {
-   "key": "innovaerotechnologiesasxinnbuildsdefencedroneambitionsaftera",
-   "title": "Innovaero Technologies (ASX:INN) Builds Defence Drone Ambitions After ASX Listing - Kalkine",
-   "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWRqbFhHaUFJdGxoSEljSFhfenhIY3lSSERaQ2ppSnVvMEc5dkNoY0FNSTBqZUlFVEZMRUtiVDFsUmV4bk95QmszdXlXQ2N0eVhBbDhfSzNIb25nMlRZUmJTTEJJSW5uMElYMmRsN0dNNTZTM2JIa0tDNXpTZWQ1Ymo4dFBQTkMtbjNHUnpnWDg5a01Mczk5dmFhMVBwSl9weEJDY2lKaTB2Wm5YLXUyQWxMUkNPZWQ1anc?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "elbitwinsidfdealforartillerytrainingsimulationasiapacificdef",
-   "title": "Elbit wins IDF deal for artillery training, simulation - Asia Pacific Defence Reporter",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWx0VEw4bllMMEtDeTNwSUVjN2tNLUE3QTAwTUZvZ0VTc0hyTmdzWmgxVkRHUkxWak9JazBqZEpjZGNPREpoNXZETUEzb3Z3Q1NqYWx3SDlROGUxWHlCT1VET1g2Qjc0dl9BZmIyMDBsYkFsSjhQNXV0bms5VWZaTVY3ODhRUFk0SllNYnBocjhqVFBZeEExWGU1R0lkRjg?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "spaintomodernizearmedforceswith4billionindefenseprocurementd",
-   "title": "Spain to modernize armed forces with \u20ac4 billion in defense procurement - Defensehere",
-   "source": "Defensehere",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjJRb1pxLXIzMWlKMDN5OTZKLUhFcFlpRkVJUVJTd05yc0FGYW0xY2h6WmpVY2t2UDh4VFRubEdVaDBLY1FhY1VUdmRvVUZ2MUpiRXNCMXVXV2tQZ0tvZm9EbmtMSy0xOEJOcEJYM0NoTWRFbGhBbWYtSGEyN3pxSFhFZ2pwanc0b1FULUpEdFd5NUJSUzhVWERGcENXLW8?oc=5",
+   "key": "aselsansaysnewairdefenceexportdealworthupto11billionaddstogr",
+   "title": "ASELSAN says new air defence export deal worth up to $1.1 billion adds to growing orders - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGJ2aUJZVFRQZnA5bW5uWHljSXpVSzdxOGZVbml5TDNMWFVQUVJQTExrYmNwN1lZYnctRWN6SXpHODlzckV5NE80SkFma2drakRfT3hOeDZodF9QRHFIVEt4cURGMkE5TTdhLUo4UUI3S1F0VkxBcDlrRHVNVWhzQ2M5NmlmSVgycFlfaDlWTVpjWVZ4UnVUaHhyLVdzdHl4aWNOajVwcjRORlZLd2UybnM2NjgwcWM?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,53 +248,68 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 645 min old)",
+   "why": "stale quote / market closed (last price 707 min old)",
    "score": 70
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 645 min old)",
+   "why": "stale quote / market closed (last price 707 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 645 min old)",
+   "why": "stale quote / market closed (last price 707 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 645 min old)",
+   "why": "stale quote / market closed (last price 707 min old)",
    "score": 80
   },
   {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 645 min old)",
-   "score": 57
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 707 min old)",
+   "score": 70
   },
   {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 645 min old)",
-   "score": 57
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 707 min old)",
+   "score": 55
   },
   {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 645 min old)",
-   "score": 72
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 707 min old)",
+   "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 645 min old)",
+   "why": "stale quote / market closed (last price 707 min old)",
    "score": 70
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 645 min old)",
+   "why": "stale quote / market closed (last price 707 min old)",
    "score": 69
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 153 min old)",
+   "why": "stale quote / market closed (last price 215 min old)",
    "score": 55
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 707 min old)",
+   "score": 47
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 707 min old)",
+   "score": 47
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 707 min old)",
+   "score": 62
   }
  ],
  "paper": {
@@ -308,7 +323,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 04 Nov 2026 06:45 PM AEDT",
+  "last_scan": "Wed 04 Nov 2026 07:46 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
