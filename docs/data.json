@@ -1,14 +1,14 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 06:01 AM AEDT",
- "fx_audusd": 0.6947,
+ "generated": "Fri 06 Nov 2026 06:58 AM AEDT",
+ "fx_audusd": 0.6948,
  "signals": [],
  "events": [
   {
-   "key": "ustariffssqueezecanadiancabinetmakersfacingdoublingoftrumpdu",
-   "title": "US tariffs squeeze Canadian cabinet makers facing doubling of Trump duty - Reuters",
+   "key": "democratsgaininfluenceovertradeagendabuttariffrepealstohittr",
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDZqSmY2dXBwbDVXbTJHQ0RQVTVKNXM4WXViM0JQMEUteTJ5TzdBd0Z0UDRVVlhiaGpyWXBUdmNLak1YUkdpRkZZZVY1RG1NMUN1MG5JSTlRS0h6TU1ONWtqTk1XRjExYm5qdHBHYlVWaDlsb3pYZFFOYVNmTEF3aG84dE1ST0huN3ZPUTRZRGlTNGZyekVlMllOR1lRRFhfT19sbnRJWnZDaVQ1MTMwZklXd2pkM0E4Q1NUZA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -23,6 +23,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
+   "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+   "themes": [
+    "pharma"
    ],
    "trump": true,
    "trusted": true,
@@ -65,9 +77,9 @@
    "pts": 22
   },
   {
-   "key": "democratswillwanttorepealtrumpstariffsitwontbeeasywwwmarketp",
-   "title": "Democrats will want to repeal Trump's tariffs. It won't be easy. - www.marketplace.org",
-   "source": "www.marketplace.org",
+   "key": "democratswillwanttorepealtrumpstariffsitwontbeeasymarketplac",
+   "title": "Democrats will want to repeal Trump's tariffs. It won't be easy. - Marketplace.org",
+   "source": "Marketplace.org",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTl2bm5DTmdlNl93eTk5eDdMYWJiRDd1OUF1dFo5TVJuVTIzV0JVV2FWRjQtTU1HTWQzSk04MWxjNDNDVVhXZFV2aVc4b1dIQV9LSDR6WnA1UzJhWVRBbE5qeW1HTm5DOElScjNSYmxIcUlLX0JVR0hnOWk5RFJib1hYSlNZaEJoYUE?oc=5",
    "themes": [
     "geopolitics"
@@ -119,6 +131,18 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "bitcoinbrewsastrumpordersandsectokenizationviewssendhypepric",
+   "title": "Bitcoin Brews as Trump Orders and SEC Tokenization Views Send HYPE Price to New Highs - CoinMarketCap",
+   "source": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFAxZmRpVUFtOHBsdlVCaXI4b1VkVmlRbUp2ZlZ1cFo1WEVNcGhTeEd0T09fSDZ3OHpRZTd2eTJxb0VMZGhpQUhqaUp0QllrbEROVWtJN242b0xSRTIzNS1EWlZWS2ViUEtCTEVKYzl4dFNac3UxNDB4ZWxUSU1ickd0QzR2WHdBYU12QXJvNngzbGJfWVFvVg?oc=5",
+   "themes": [
+    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -185,6 +209,18 @@
    "pts": 20
   },
   {
+   "key": "boeleavesdooropentofurtherraterisesamidfearsofentrenchedinfl",
+   "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlZ5T3EzQ016ckR4WjBiOEp1Zk1keVBrV3ExeUR1V0dkZWRGaEVjU1VEVUh5OEMtYjhSSVNBZ2h5dmNQUmtNTEQ0aUc1VlBZV21sSnpIcmdlZ1d4dnNFTjJHSjdoXzc1bUhYUlIycUFxWVY4TkNkc1FiUjRZYmdmdk5oUE8?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "fedshammacksaysrestrictiveratesneededtocoolinflationbloomber",
    "title": "Fed\u2019s Hammack Says Restrictive Rates Needed to Cool Inflation - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -207,78 +243,67 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "housedemocratweregoingtohaveonehellofadonnybrookoverendingth",
-   "title": "House Democrat: \u2018We\u2019re going to have one hell of a donnybrook over ending these tariffs\u2019 - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "redwiresecures20millionusdefencecontractforvleospacecrafttes",
-   "title": "Redwire secures $20 million US defence contract for VLEO spacecraft testing - FlightGlobal",
-   "source": "FlightGlobal",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWp2RU90VDdqSVhxdUxVMm02Nk5EeUJaTHBUTDEtNGNxNUlJazNidTlUNGFIVUFublk1UHhQakZqeXFCa2RlcGh3T1hNTDVJUVU2TUxRWUZEZTBYcEY3WUFxUlFzNllNSldCaXFQS1RBYVBMSlQ2WFpzc1FSUHVGRVUzRWdsUWtwQ081Z3ZXdFNKQjdvWDNVNmRwOXlmRnlNWm9qdno5LTFBX0g0eWV0dGJid0xtZmVRVnhFVg?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "rheinmetallsharestankaftersecondguidancecutasdefencecontract",
-   "title": "Rheinmetall shares tank after second guidance cut as defence contract delays bite - Sharecast.com",
-   "source": "Sharecast.com",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM1hGTUhnZnc2QTV5RnJoRkt5UE5FeGk1UW4xeWFyMEJLelNwZXNuUnFQdHpGRTA0VEhqeU9IaHpSRTlpYmdkYkNWWExOcW1xM2NPT3d1c2hpcjE2Nk5mdUh3QWNpcE1LLVVySEYyd1ZadzFhQ1lVZ3FxZURZeGVHM1dwV2ZwbjlMdXpJQXpqUG5ibnJudHJlQjFaVGFjM1RNcGZDaEhUTzhPejhmUVN0YTVxcWk4TlVQcndwM3lZV3Q4WkxlOXBvWllTVXpPMTJnY1pxdENPeUl0SXNpanJ2aWhoUmFjR0dmeUE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 81
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 47
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 57
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 46
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
+  },
+  {
+   "sym": "XBI",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 62
+  },
+  {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 53
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 49
+  },
+  {
+   "sym": "COIN",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 59
+  },
+  {
+   "sym": "MSTR",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 55
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 43
+   "score": 51
   },
   {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 42
+   "score": 70
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 831 min old)",
+   "why": "stale quote / market closed (last price 889 min old)",
    "score": 53
   },
   {
@@ -289,32 +314,32 @@
   {
    "sym": "AMD",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 51
+   "score": 62
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 51
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 51
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 36
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 29
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 30
   },
   {
    "sym": "NOC",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "score": 35
   }
  ],
  "paper": {
@@ -328,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 06:01 AM AEDT",
+  "last_scan": "Fri 06 Nov 2026 06:58 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
