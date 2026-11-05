@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 10:46 PM AEDT",
- "fx_audusd": 0.7017,
+ "generated": "Thu 05 Nov 2026 11:50 PM AEDT",
+ "fx_audusd": 0.7002,
  "signals": [],
  "events": [
   {
@@ -125,18 +125,6 @@
    "pts": 22
   },
   {
-   "key": "usmidtermstrumpsnexttradewarcouldbewithcongressforeignpolicy",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "source": "Foreign Policy",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "zelenskyawardsmelaniatrumpukraineshighesthonorforwomenafterb",
    "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire - The Jerusalem Post",
    "source": "The Jerusalem Post",
@@ -221,16 +209,16 @@
    "pts": 20
   },
   {
-   "key": "czechssetforsecondratehikethisyearaspriceriskspersistbloombe",
-   "title": "Czechs Set for Second Rate Hike This Year as Price Risks Persist - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnJ0bEdVYUVTTnBiQjNib2ZNa3I3S0h3Sk90a3BQMkF4ZUNsem81TkhOZUI1N2p4NVcwTUdUcEgwcEZ6WklWUTIzNFAxN3M0aVlJSWk1RXBFV2NfR2FYR1luRjVHaktFWTJyVW1vdUlvSE5HMG5CSmt1a201X0RvRlc0WDhRaHB3S2ltb0VIdVpQZkJSNlhYaFhqcDJ0cEJpYm4ycVYzQnVaQ040TVZFNUlXdUo0UQ?oc=5",
+   "key": "repealthetariffsnationalreview",
+   "title": "Repeal the Tariffs - National Review",
+   "source": "National Review",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PSzR5a0VsdUUza3pGTFI4bEJpX1J4aFlXUk43d19TZm9iU0hCa3FPN2tYbEVMZG5DOGpSLWxNZVlMNTVGd1dtSkd6Y1pKaEdJdUg5aDBldEhvTzlDVldFa3NWVEpIbnJfUnfSAW9BVV95cUxQdmotUlhlREFuMEhRQVc3WURrcXBIWml6emdhSEtodklVRGw4dE1VT1ljNDBrRkdyczc1bHRzYXpNUjFhTGdLYkQ2ZG4td2kzakl3WHY2QjFSWUszUXBlZ29OUmg1RVVXVFIzWVF3Mmc?oc=5",
    "themes": [
-    "rates"
+    "geopolitics"
    ],
    "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "redwiresecures20millionusdefencecontractforvleospacecrafttes",
@@ -243,77 +231,89 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "rheinmetallsharestankaftersecondguidancecutasdefencecontract",
+   "title": "Rheinmetall shares tank after second guidance cut as defence contract delays bite - Sharecast.com",
+   "source": "Sharecast.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM1hGTUhnZnc2QTV5RnJoRkt5UE5FeGk1UW4xeWFyMEJLelNwZXNuUnFQdHpGRTA0VEhqeU9IaHpSRTlpYmdkYkNWWExOcW1xM2NPT3d1c2hpcjE2Nk5mdUh3QWNpcE1LLVVySEYyd1ZadzFhQ1lVZ3FxZURZeGVHM1dwV2ZwbjlMdXpJQXpqUG5ibnJudHJlQjFaVGFjM1RNcGZDaEhUTzhPejhmUVN0YTVxcWk4TlVQcndwM3lZV3Q4WkxlOXBvWllTVXpPMTJnY1pxdENPeUl0SXNpanJ2aWhoUmFjR0dmeUE?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 80
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 395 min old)",
+   "why": "stale quote / market closed (last price 458 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 395 min old)",
+   "why": "stale quote / market closed (last price 458 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 397 min old)",
+   "why": "stale quote / market closed (last price 460 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 887 min old)",
+   "why": "stale quote / market closed (last price 950 min old)",
    "score": 47
   }
  ],
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 10:46 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 11:50 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
