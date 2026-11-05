@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 12:40 PM AEDT",
- "fx_audusd": 0.7019,
+ "generated": "Thu 05 Nov 2026 01:36 PM AEDT",
+ "fx_audusd": 0.7021,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "democratsgaininfluenceovertradeagendabuttariffrepealstohittr",
+   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "seniordemocraticcongressmansayspartygoingtoputanendtotrumpst",
-   "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
+   "key": "candemocratsendiranwarandundotrumpstariffsmodernghana",
+   "title": "Can Democrats end Iran war and undo Trump\u2019s tariffs? - Modern Ghana",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NVml5SmlMdnBDcXRQSXRXeDJEZXZhSlZRbWdTQ21QSFdUamd6X3VCU1NqaUt6X2VBUnMwSnlydEtOdzR0czJtQnNpVG01eTZIVC1wb3FzcDJEQ1VxM0EtbtIBXEFVX3lxTE5MQmxlbi1nclhydi0yNDdPSFFyN3NaVHJFTDk5UkpfSUJrc0ZBRXRnN0I4alRhSGlTSTQySGdjRHZvUXBQSno4ZnpXT01LN2ZGTVFhdTZGRVV4M3hU?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "candemocratsendiranwarandundotrumpstariffsmodernghana",
-   "title": "Can Democrats end Iran war and undo Trump\u2019s tariffs? - Modern Ghana",
-   "source": "Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NVml5SmlMdnBDcXRQSXRXeDJEZXZhSlZRbWdTQ21QSFdUamd6X3VCU1NqaUt6X2VBUnMwSnlydEtOdzR0czJtQnNpVG01eTZIVC1wb3FzcDJEQ1VxM0EtbtIBXEFVX3lxTE5MQmxlbi1nclhydi0yNDdPSFFyN3NaVHJFTDk5UkpfSUJrc0ZBRXRnN0I4alRhSGlTSTQySGdjRHZvUXBQSno4ZnpXT01LN2ZGTVFhdTZGRVV4M3hU?oc=5",
+   "key": "seniordemocraticcongressmansayspartygoingtoputanendtotrumpst",
+   "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,6 +161,18 @@
    "pts": 20
   },
   {
+   "key": "usdemocraticwinunlikelytoeasefirmscosttariffwoesinneartermex",
+   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFREOVI1am9RMmxtb1dOZTc2dFNqaDZLMENlSFQwZEg3SWthaFdPVVV3QXEyMjlKTE5zZHI3Nk1RclhjZWt3SmZuQjNyMVM3c2RLZFo4Z0JEOEZCdXNPZFBPLVpCZnlmUkFBNWE5Zk0zcWFyTTNBZHlMR1FtaFFRVnNXWS04LTlocmtSTEFscG9GTlh6aGd3SC0tVHRmSWtYdnhKWnRqVmNHa0NhaEhkTENiRnJEaWJOREtuOEN1dVRrQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
    "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
@@ -185,18 +209,6 @@
    "pts": 12
   },
   {
-   "key": "vanceblamesiranwarforgopsmidtermlossestimemagazine",
-   "title": "Vance Blames Iran War for GOP\u2019s Midterm Losses - Time Magazine",
-   "source": "Time Magazine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFE2MnhLMmZSZVptb3p4TlhDQzBUMEpZWERVaHN2dG1YbTJZWGRKZWZvM1laTzRubG5WLXdkMW93bW80VEhOcjhFRm92TTdJNlQtSGF5bWFkZWZDak54ZVdCYmdrS3dEQ2hvT0dpaGtJQ0tVbnNENFNtRHpDQWhfN3dFZlpaY2NucHBaSFN1NU4xWGpLdXBhMkxBU0tMSDluQ3NET0FQcDdabExT?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "redwiresecures20millionusdefencecontractforvleospacecrafttes",
    "title": "Redwire secures $20 million US defence contract for VLEO spacecraft testing - FlightGlobal",
    "source": "FlightGlobal",
@@ -212,7 +224,7 @@
    "key": "whatventiaservicesgroupsasxvntfirsthalfresultshowsaboutitssh",
    "title": "What Ventia Services Group's (ASX:VNT) First-Half Result Shows About Its Shift Away From Defence Base Services - Kalkine",
    "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOHJnRWJnM3pFdkg3dk5yQnhtVlczSml5MWhBeW5kWFR0NHA3eG5ST3B6M20yU2FHSXpQbnZlZW1tWjhlZjNQVEV2NlBTOWNEbS1udkZ1U0o5czA1dGNPU2ZJYkJTblJCRFZCOGh0dEFzUlVYNHhfTGdiQTMyMTFvVWlWRGFXTEV5MHJud2NpWDlQTDFYVzlUck1XN0tXY1l6dnhkRmJKUUVPN0tfSVlONnctNWoyOVpVcnBKN3Rhc3RfSHQ0SVRIa1JWd1hTc3FzUE94QjVvdHJEUmNYRHBZUzJBRFlNZjUwM250SA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXBvZ2hRN2w1ZzRYYTVaTmoxU0FzOUZkYjRPamZLOW0wUmF4TXF3dUV0SG9lclZkRkctWmNLS0pPanNTNHZFYWZwZ1MzVjhQMExpQnc0dlVvSERqall2d2dDXzkxZ3NVUFRMWWh6Rms3MFc2UG9yV2I1SXMwQURqeFhQVkFPOC1xR3E1cXZZWHJPaEJLR1liaXJ3SlVEZU9VakpORWhPd0hFM0JkQnhvWDdmR3dpMUlkTHRpS29sZW9BbDhjeGVFYmdYbGtCX1FQSlhQVHhFcXlkeld0ZmRj?oc=5",
    "themes": [
     "defence"
    ],
@@ -231,95 +243,83 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "euronaval2026msidefencesystemsdetailsnewds30mgunordersjanesd",
-   "title": "Euronaval 2026: MSI-Defence Systems details new DS30M gun orders - Janes Defence Intelligence",
-   "source": "Janes Defence Intelligence",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWRSckZaN0MwMGNGeloweTBISGJLamltV040YkRsZ0hXdUo4OFB2T3V2ai11dDlaNjFWWkFFMF9OUDVGWEI5YTRKbm9JTkwwbmNjR0ROdHNlS241cHBJR3Z6RmtQOE9jX1VuRG9vWkFLdklaYUVxUHJ0anJvNUJ4ZDFNTkRIY1h3eldrYXh1b1Q3bExEdlRfYk0ySzY3S1puRlJ5YktJNHd3anBqSzRlZkJxV2Y0S3I0dVNMVmJwQ3JnbW5yN3BxdUlPSEQ0M1dnQUE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 281 min old)",
-   "score": 88
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 281 min old)",
-   "score": 78
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 281 min old)",
-   "score": 67
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 281 min old)",
-   "score": 69
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 80
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 281 min old)",
+   "why": "stale quote / market closed (last price 336 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 281 min old)",
+   "why": "stale quote / market closed (last price 336 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 281 min old)",
+   "why": "stale quote / market closed (last price 336 min old)",
    "score": 75
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 281 min old)",
-   "score": 51
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 62
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 281 min old)",
+   "why": "stale quote / market closed (last price 336 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 281 min old)",
-   "score": 51
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 281 min old)",
+   "why": "stale quote / market closed (last price 336 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 39
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 281 min old)",
    "score": 36
   },
   {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 47
+  },
+  {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 281 min old)",
+   "why": "stale quote / market closed (last price 336 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 281 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 336 min old)",
+   "score": 47
   }
  ],
  "paper": {
@@ -333,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 12:40 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 01:36 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
