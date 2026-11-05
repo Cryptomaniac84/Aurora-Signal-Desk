@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 11:22 AM AEDT",
- "fx_audusd": 0.7013,
+ "generated": "Thu 05 Nov 2026 12:40 PM AEDT",
+ "fx_audusd": 0.7019,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "somerepublicanlawmakersskewertrumpsbeefimportsslamcanadatrad",
+   "title": "Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGs?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,10 +77,22 @@
    "pts": 22
   },
   {
-   "key": "trumptariffstostaydespitedemocraticlandslideinusmidtermsrais",
-   "title": "Trump Tariffs to Stay Despite Democratic Landslide in U.S. Midterms, Raising Fears of Added Burden on South Korea - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQlNqUU1oNnExRHRQclNTY3c3N1JBNjZ4MGV2bXNvYzhwcEJWY3A4WnFrb1QzZ1QwZlh3ZkoxU04tQnNjdXJvbGtFM292TGxJSUVUNG9ibVQxNHdJbWU0OHdNeTk2d1ZhV2w2YVh1RGxUSEZXMlE?oc=5",
+   "key": "candemocratsendiranwarandundotrumpstariffsmodernghana",
+   "title": "Can Democrats end Iran war and undo Trump\u2019s tariffs? - Modern Ghana",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NVml5SmlMdnBDcXRQSXRXeDJEZXZhSlZRbWdTQ21QSFdUamd6X3VCU1NqaUt6X2VBUnMwSnlydEtOdzR0czJtQnNpVG01eTZIVC1wb3FzcDJEQ1VxM0EtbtIBXEFVX3lxTE5MQmxlbi1nclhydi0yNDdPSFFyN3NaVHJFTDk5UkpfSUJrc0ZBRXRnN0I4alRhSGlTSTQySGdjRHZvUXBQSno4ZnpXT01LN2ZGTVFhdTZGRVV4M3hU?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "zelenskyawardsmelaniatrumpukraineshighesthonorforwomenafterb",
+   "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,31 +185,6 @@
    "pts": 12
   },
   {
-   "key": "americansfarmersvotedagainsttariffstradewarsandinflationthew",
-   "title": "Americans, farmers voted against tariffs, trade wars and inflation - The Western Producer",
-   "source": "The Western Producer",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmtCa1JmU1l2d21UdjRURHJkQVczbEtRMTJISTNDWHZaS3N0ZzI0ekhpbUY3TlJSQVhVa3FncTlkdmxYeDQ2UG9PSXk1cFoxXzhnRE1pWGNzdGlhbHJhRTE0d1h2cWRPTTBDaXV6dTNZQnBwdmNDQWVCWFBkNkpiVTJ3?oc=5",
-   "themes": [
-    "rates",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "housedemocraticleaderjeffriessayswillpassbilltostoptariffsan",
-   "title": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War - investingLive",
-   "source": "investingLive",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkQ5NTdpMWVoV3hub3haaTRESHZwbnR4OVFpRW5sR2t6Y2Q0UDBDNjNSb2ppZnlTTU5tM2NuTk5NbXlZZzJOM0oxWnExSkotUXN3dTFVRVJuY3owSVluRGhaT1VYaVFlN3B6QjE0V0VxSTAxbzl1aE1wbWhFbzF3SWRZZGlHQWJZWUdYWEtuX084ZmJhdHZQN3FNZlpBZ19hSkxJLXpadnBIY2ZhQjlCYTU4OGd1RU1LdUdMeDNycVRjUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "vanceblamesiranwarforgopsmidtermlossestimemagazine",
    "title": "Vance Blames Iran War for GOP\u2019s Midterm Losses - Time Magazine",
    "source": "Time Magazine",
@@ -198,10 +197,22 @@
    "pts": 12
   },
   {
+   "key": "redwiresecures20millionusdefencecontractforvleospacecrafttes",
+   "title": "Redwire secures $20 million US defence contract for VLEO spacecraft testing - FlightGlobal",
+   "source": "FlightGlobal",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWp2RU90VDdqSVhxdUxVMm02Nk5EeUJaTHBUTDEtNGNxNUlJazNidTlUNGFIVUFublk1UHhQakZqeXFCa2RlcGh3T1hNTDVJUVU2TUxRWUZEZTBYcEY3WUFxUlFzNllNSldCaXFQS1RBYVBMSlQ2WFpzc1FSUHVGRVUzRWdsUWtwQ081Z3ZXdFNKQjdvWDNVNmRwOXlmRnlNWm9qdno5LTFBX0g0eWV0dGJid0xtZmVRVnhFVg?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "whatventiaservicesgroupsasxvntfirsthalfresultshowsaboutitssh",
    "title": "What Ventia Services Group's (ASX:VNT) First-Half Result Shows About Its Shift Away From Defence Base Services - Kalkine",
    "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXBvZ2hRN2w1ZzRYYTVaTmoxU0FzOUZkYjRPamZLOW0wUmF4TXF3dUV0SG9lclZkRkctWmNLS0pPanNTNHZFYWZwZ1MzVjhQMExpQnc0dlVvSERqall2d2dDXzkxZ3NVUFRMWWh6Rms3MFc2UG9yV2I1SXMwQURqeFhQVkFPOC1xR3E1cXZZWHJPaEJLR1liaXJ3SlVEZU9VakpORWhPd0hFM0JkQnhvWDdmR3dpMUlkTHRpS29sZW9BbDhjeGVFYmdYbGtCX1FQSlhQVHhFcXlkeld0ZmRj?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOHJnRWJnM3pFdkg3dk5yQnhtVlczSml5MWhBeW5kWFR0NHA3eG5ST3B6M20yU2FHSXpQbnZlZW1tWjhlZjNQVEV2NlBTOWNEbS1udkZ1U0o5czA1dGNPU2ZJYkJTblJCRFZCOGh0dEFzUlVYNHhfTGdiQTMyMTFvVWlWRGFXTEV5MHJud2NpWDlQTDFYVzlUck1XN0tXY1l6dnhkRmJKUUVPN0tfSVlONnctNWoyOVpVcnBKN3Rhc3RfSHQ0SVRIa1JWd1hTc3FzUE94QjVvdHJEUmNYRHBZUzJBRFlNZjUwM250SA?oc=5",
    "themes": [
     "defence"
    ],
@@ -232,94 +243,82 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "seisgadgetsupportsociusbluebottleverificationforjapanaustral",
-   "title": "Seisgadget supports Ocius Bluebottle verification for Japan - Australian Defence Magazine",
-   "source": "Australian Defence Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDNhUXo4NlZjQWNrUkpaei1uOHZrYXRTT3g2ckNuek5UWVJOX09wb3ZfR0pIaG9pek9BakdjOVlSanpfVjE3a1dVdE0yd0s2RU84Um5uQktTYWY0WUoyYTIwQ01pdy12T01jTHFTWHRCalFxbVJNaFlfc3BhSmRKSGNFdGFVUTRlLTkta1JfV2ZiaGEwY1p4SDF5T1l6WEpMN19TazJPZ2dmQQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 88
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 78
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 67
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 69
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 75
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 51
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 51
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 37
+   "score": 39
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 36
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 203 min old)",
+   "why": "stale quote / market closed (last price 281 min old)",
    "score": 40
   }
  ],
@@ -334,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 11:22 AM AEDT",
+  "last_scan": "Thu 05 Nov 2026 12:40 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
