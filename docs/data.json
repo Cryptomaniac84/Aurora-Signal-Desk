@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 07:51 PM AEDT",
- "fx_audusd": 0.702,
+ "generated": "Thu 05 Nov 2026 08:49 PM AEDT",
+ "fx_audusd": 0.7014,
  "signals": [],
  "events": [
   {
@@ -41,22 +41,22 @@
    "pts": 30
   },
   {
-   "key": "debtlimittariffstoplistoflikelydealsintrumpsnewerabloombergc",
-   "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "votershavesentamessagetotrumpontariffsbutthewhitehousestillh",
    "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
    "source": "The Conversation",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpthrashingvindicatesaustraliasstanceontariffsfarrellafr",
+   "title": "Trump thrashing vindicates Australia\u2019s stance on tariffs: Farrell - AFR",
+   "source": "AFR",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRURQYUdpSndxU0NDRDhxYnVrZlpySWVPQmxxRGJxaE81SHY5ajZrSzRDUWtrdW41aWZsN2VLR2lLb2Y3Qy1nSGY5dWpuSGdUT196bGJyVWxVVGFfUVkteGFnQzRpcVpqRkVrUFEyc3BfQ2NtaG5ONkdKdHVSYjhjQlg4QWQ3RmcxWHE1TkhUYTJzdmQ0RzFWMGttSXlwbTc5bXluQzJqcmp4RU5SQTBXUHhPTXRyQ2pW?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,18 +101,6 @@
    "pts": 22
   },
   {
-   "key": "candemocratsstopiranwarreversetrumpstariffsaftermidtermswina",
-   "title": "Can Democrats stop Iran war, reverse Trump\u2019s tariffs after midterms win? - Al Jazeera",
-   "source": "Al Jazeera",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjd5aWdVVzA1ZThHeGRqck9pSjhRMjd3R1YyVTRsQlY5MG0wR28yUUJtc0VwTVVYdmJZeWl0VEE0YnhxMXMtQWlWT2lsWHpiQVFXa1dLRHV6ekE4c3lkeWhYOUxSNlRkTXQ3ZG5QRnNNTGd5bnZORWdpVEF3WHBUVU9hQzh3Y0d6QmpYT1M4RGczckx0WWZhTTlGRXhzdktIVFM1ZUxMa1FDNzYxNkpaQURPUdIBuAFBVV95cUxPX1BUN1ZpOUxnM3Izb2s0aU1qQVBHZlZJRVpGbVRnUkVxX3J4QmZ1NDJBenRUXzhNcUJUc1UzM1lyY3dpM1lJaldYS1JrQ2V6emFKYXhOS1BQRm1GR0dLeXdISENVaVQxX09YNFFnSTdEUC14SVFUQy1CRDlEazN1VGRoY0ExVlFreXhfNmNMcjFESW5sV3A1a3hwNk9YVHUyTWxxRDh4V1lmS1RjeFgybHFGNXdOMlpt?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "usmidtermstrumpsnexttradewarcouldbewithcongressforeignpolicy",
    "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
    "source": "Foreign Policy",
@@ -125,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "whytrumpwontletupontariffsevenwithdemocratsincontrolbarrons",
-   "title": "Why Trump Won\u2019t Let Up on Tariffs, Even With Democrats in Control - Barron's",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlZHSHQwSFV5aXhyblNEekJaTnJHZnpZUjdSQWpuTDFrb1IxLWRtdko5S1A5MlhSNTVGRDR4OEk5SHdpLTd6UEd1NnpmYlhNTURYd1lVX1lmTTdPaTZBcWM3RVM2bTc0b3NDb08wSkhkZ0Nfai03aDdnT1NkOHM2eVBDTmtZSTFlZkd6Qk5fQUhlNHhG?oc=5",
+   "key": "candemocratsstopiranwarreversetrumpstariffsaftermidtermswina",
+   "title": "Can Democrats stop Iran war, reverse Trump\u2019s tariffs after midterms win? - Al Jazeera",
+   "source": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjd5aWdVVzA1ZThHeGRqck9pSjhRMjd3R1YyVTRsQlY5MG0wR28yUUJtc0VwTVVYdmJZeWl0VEE0YnhxMXMtQWlWT2lsWHpiQVFXa1dLRHV6ekE4c3lkeWhYOUxSNlRkTXQ3ZG5QRnNNTGd5bnZORWdpVEF3WHBUVU9hQzh3Y0d6QmpYT1M4RGczckx0WWZhTTlGRXhzdktIVFM1ZUxMa1FDNzYxNkpaQURPUdIBuAFBVV95cUxPX1BUN1ZpOUxnM3Izb2s0aU1qQVBHZlZJRVpGbVRnUkVxX3J4QmZ1NDJBenRUXzhNcUJUc1UzM1lyY3dpM1lJaldYS1JrQ2V6emFKYXhOS1BQRm1GR0dLeXdISENVaVQxX09YNFFnSTdEUC14SVFUQy1CRDlEazN1VGRoY0ExVlFreXhfNmNMcjFESW5sV3A1a3hwNk9YVHUyTWxxRDh4V1lmS1RjeFgybHFGNXdOMlpt?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -234,12 +222,24 @@
    "pts": 20
   },
   {
-   "key": "howtariffsbecamethemillstonethatsankthegopthedispatch",
-   "title": "How Tariffs Became the Millstone That Sank the GOP - The Dispatch",
-   "source": "The Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUm9tb1JxeHpUYVpUckUzeVp2cnI5X1Q3MUFOaGEtWm41cHNmS2VOcUw4d2hVNGlTNmh2NDdxTlJISXpfSHNuTVhZX2xIdnA1X1RiTG8yRHdfLUV4MDhoY2VsUEVRWDI1dVZqQjV0WkxzTmx1cmpJZUpBOVdpQ1QwOHFUS2tVM3ZQTmF1TA?oc=5",
+   "key": "redwiresecures20millionusdefencecontractforvleospacecrafttes",
+   "title": "Redwire secures $20 million US defence contract for VLEO spacecraft testing - FlightGlobal",
+   "source": "FlightGlobal",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWp2RU90VDdqSVhxdUxVMm02Nk5EeUJaTHBUTDEtNGNxNUlJazNidTlUNGFIVUFublk1UHhQakZqeXFCa2RlcGh3T1hNTDVJUVU2TUxRWUZEZTBYcEY3WUFxUlFzNllNSldCaXFQS1RBYVBMSlQ2WFpzc1FSUHVGRVUzRWdsUWtwQ081Z3ZXdFNKQjdvWDNVNmRwOXlmRnlNWm9qdno5LTFBX0g0eWV0dGJid0xtZmVRVnhFVg?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "whatventiaservicesgroupsasxvntfirsthalfresultshowsaboutitssh",
+   "title": "What Ventia Services Group's (ASX:VNT) First-Half Result Shows About Its Shift Away From Defence Base Services - Kalkine",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXBvZ2hRN2w1ZzRYYTVaTmoxU0FzOUZkYjRPamZLOW0wUmF4TXF3dUV0SG9lclZkRkctWmNLS0pPanNTNHZFYWZwZ1MzVjhQMExpQnc0dlVvSERqall2d2dDXzkxZ3NVUFRMWWh6Rms3MFc2UG9yV2I1SXMwQURqeFhQVkFPOC1xR3E1cXZZWHJPaEJLR1liaXJ3SlVEZU9VakpORWhPd0hFM0JkQnhvWDdmR3dpMUlkTHRpS29sZW9BbDhjeGVFYmdYbGtCX1FQSlhQVHhFcXlkeld0ZmRj?oc=5",
+   "themes": [
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -249,82 +249,82 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 80
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 219 min old)",
+   "why": "stale quote / market closed (last price 277 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 219 min old)",
+   "why": "stale quote / market closed (last price 277 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 711 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 222 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 712 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 712 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 712 min old)",
+   "why": "stale quote / market closed (last price 769 min old)",
    "score": 47
   }
  ],
@@ -339,7 +339,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 07:51 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 08:49 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
