@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 09:51 PM AEDT",
- "fx_audusd": 0.7014,
+ "generated": "Thu 05 Nov 2026 10:46 PM AEDT",
+ "fx_audusd": 0.7017,
  "signals": [],
  "events": [
   {
@@ -17,10 +17,10 @@
    "pts": 30
   },
   {
-   "key": "somerepublicanlawmakersskewertrumpsbeefimportsslamcanadatrad",
-   "title": "Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war - ABC News - Breaking News, Latest News and Videos",
+   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGs?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -45,6 +45,18 @@
    "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "somerepublicanlawmakersskewertrumpsbeefimportsslamcanadatrad",
+   "title": "Some Republican lawmakers skewer Trump's beef imports, slam Canada trade war - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUYyS05relNIU1VLMUdYajFkcHROQTh3Q3hudTF6S0VNeDJ6bGpqRWxlckpPYmRVUXQtVC1GaEdUOWItZk9XY0ZkbFQyZm9LbklPaXh0U2hYb0xCa3hVNFYtbE5jYUIwX3M1dEpEd2ZVYllIekw3eGFrR3Z5ZnZGOU1zV3FLS09IbC11YUdjUG15UXhobkR6Nm12c19tMjd2aHF3WXpMVXBReGs?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -81,6 +93,18 @@
    "title": "Democrats Take Congress, Eye Reversal of Trump Tariffs; Taiwan's Economy Minister Says Two-Thirds Threshold Hard to Clear - BigGo Finance",
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcWRRd3Bwd2VyVGJCSkJzNzJCQldjeTQzWFd6aXh0a2FYRnFlUW9vczhjSFJhbGRDbExCRkk5bUVxUjZOLXZqclR2Q0VNTkdYeUpEZkJUOFdiNTBOdjdSLXpEeTQwbEZycjBXMWtmcElhM05BVFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "macproductstransmittingelectricalpowerdespitetrumptariffsber",
+   "title": "MAC Products transmitting electrical power despite Trump tariffs - Bergen Record",
+   "source": "Bergen Record",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjh6YXlPQktsaEszcEhDRTl3QlR0WWdsVnZBQUZFa0pXMWxiWXduMjdYS1A4S0ZhUlpPSVpFdXhzU3JoSWxzRVpIY3BoS2Q2SG45V2ROdnhvRzgtRFozR3o4SHIwdnFZd2hXeWV1enF2NG9sS1pZSGpjMkI4RWwzRUlSbkNVQ3lEXzFXdVRJcFFQQ3d4dTE5SFkzaGVzR2NNTUFuQ3J4dkZMWm9pbno3dnVHU0NvNWZkdjU4ZHhwbF9ESmlMcFJHcHJpLXl1QUFvSW1tejI5VQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,6 +161,30 @@
    "pts": 22
   },
   {
+   "key": "trumpblameslossesongopcandidatesoilpricesandhisabsencefromba",
+   "title": "Trump blames losses on GOP candidates, oil prices and his absence from ballot - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm8yRDN0ODJJUUd4WVlJTjk0Y0Z3ZWM2SFNOZ0pfUTJaUjd1QThhTDRveDdxV0hoZW12WUZKeFp0aUVZQnpucVRHZjZzcHZRVk1NRmRibXdjdW1WSk5VTmc1dGRVOW1CeDNLMzFmVFlUcklENUhGMC00OHdEUHlhZ1dpOWs0SFQzWEx2ZmpwMlJiTGxxVWozaVJWcHBleWU5S0pyU012VzRUcnNLcWFNV19rbzdLbDBpbkdzRUNTU3JZZw?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "usfirstladytoaddressukraineceasefireatwhitehousemacaubusines",
+   "title": "US first lady to address Ukraine ceasefire at White House - Macau Business",
+   "source": "Macau Business",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzBGTEFlWTExSjJjTlphc2NlTXF4RmJUeEZlblJLS2ZydG0yWnZaelA3TE9MckFCX1R5Mk9HM2FOTjdCNnJ2SmhKUkNyb2RzNkpXcW9wUnBHZmx4NEsxZG96V2J4NXQtWmJRNEZYSGo3WEFFbEZGV01uME4zWjhWdkMxY0o4M0RtNlJVTA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
    "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -173,19 +221,6 @@
    "pts": 20
   },
   {
-   "key": "bankofenglandsettohikeinterestratestotacklehigherinflationca",
-   "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONkJ6UWpqWkZlU3VHWFplbktNdm1BcXh1azhkdGw1b3FScXF6a004X2JMVUNfX2thUHZoeDlva2djREFjWUQ3QW95U1V6eGRXX1ROT0ZkQ3c1TWVGdFBORDdUNUhUQWowZ2RqOWRqeVMzQkV2dWtJeFlpaWNhVW1LbG9vY1VmcXloM3BQeTR6WjVtcEtickFpS0FOLWxJckJZejJYSWFOMNIBrAFBVV95cUxPc3VibDQyb1YwYWNNNjNBR2tzelZoX2g2U3hieFJhekJ4U0Y0QzFlMU1fY0pUNFc4TmRIZktFaF9wTG5EdTRfSFMxZjZRLTNqRTZNamwzaWVZRWdoNWVPb3FsNkZSZUpKd0l3djA2Q1BsWmtNN3pSLTdvM2dvRDFYbkFUQVVVUEdZTTZHOG5RVFNFWnJ1SUhiSlZWZjFVSUNVa3dUSDJnSERtbzQ0?oc=5",
-   "themes": [
-    "rates",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "czechssetforsecondratehikethisyearaspriceriskspersistbloombe",
    "title": "Czechs Set for Second Rate Hike This Year as Price Risks Persist - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -208,113 +243,77 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "defendtexdeclinestocommentondrone40saleaustraliandefencemaga",
-   "title": "DefendTex declines to comment on Drone40 sale - Australian Defence Magazine",
-   "source": "Australian Defence Magazine",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkZyMlFsYjJmVVdmZTNkWDQ3NlI4T1pJY1l2bGVWcGpRYUk5X2FseDNwN0NBSmlBLXV1d1BFaXR1MEVHR2tTbk9kaDhjQ3J0T1o2Q1pqM0RWd0ZGT1FrOHAtUEsyZ0VoSWkzMER3eTdVYXpvQ3hnZDUtOXc2ZG9OdlNmdmpKLUI1bEFhT1pKREVLRDVQc2lka1BJWQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "whatventiaservicesgroupsasxvntfirsthalfresultshowsaboutitssh",
-   "title": "What Ventia Services Group's (ASX:VNT) First-Half Result Shows About Its Shift Away From Defence Base Services - Kalkine",
-   "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXBvZ2hRN2w1ZzRYYTVaTmoxU0FzOUZkYjRPamZLOW0wUmF4TXF3dUV0SG9lclZkRkctWmNLS0pPanNTNHZFYWZwZ1MzVjhQMExpQnc0dlVvSERqall2d2dDXzkxZ3NVUFRMWWh6Rms3MFc2UG9yV2I1SXMwQURqeFhQVkFPOC1xR3E1cXZZWHJPaEJLR1liaXJ3SlVEZU9VakpORWhPd0hFM0JkQnhvWDdmR3dpMUlkTHRpS29sZW9BbDhjeGVFYmdYbGtCX1FQSlhQVHhFcXlkeld0ZmRj?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "euronaval2026msidefencesystemsdetailsnewds30mgunordersjanesd",
-   "title": "Euronaval 2026: MSI-Defence Systems details new DS30M gun orders - Janes Defence Intelligence",
-   "source": "Janes Defence Intelligence",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWRSckZaN0MwMGNGeloweTBISGJLamltV040YkRsZ0hXdUo4OFB2T3V2ai11dDlaNjFWWkFFMF9OUDVGWEI5YTRKbm9JTkwwbmNjR0ROdHNlS241cHBJR3Z6RmtQOE9jX1VuRG9vWkFLdklaYUVxUHJ0anJvNUJ4ZDFNTkRIY1h3eldrYXh1b1Q3bExEdlRfYk0ySzY3S1puRlJ5YktJNHd3anBqSzRlZkJxV2Y0S3I0dVNMVmJwQ3JnbW5yN3BxdUlPSEQ0M1dnQUE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 80
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 395 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 340 min old)",
+   "why": "stale quote / market closed (last price 395 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 342 min old)",
+   "why": "stale quote / market closed (last price 397 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 887 min old)",
    "score": 47
   }
  ],
@@ -329,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 09:51 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 10:46 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
