@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 08:26 AM AEDT",
- "fx_audusd": 0.693,
+ "generated": "Fri 06 Nov 2026 09:15 AM AEDT",
+ "fx_audusd": 0.6936,
  "signals": [],
  "events": [
   {
@@ -11,6 +11,18 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDZqSmY2dXBwbDVXbTJHQ0RQVTVKNXM4WXViM0JQMEUteTJ5TzdBd0Z0UDRVVlhiaGpyWXBUdmNLak1YUkdpRkZZZVY1RG1NMUN1MG5JSTlRS0h6TU1ONWtqTk1XRjExYm5qdHBHYlVWaDlsb3pYZFFOYVNmTEF3aG84dE1ST0huN3ZPUTRZRGlTNGZyekVlMllOR1lRRFhfT19sbnRJWnZDaVQ1MTMwZklXd2pkM0E4Q1NUZA?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
+   "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+   "themes": [
+    "pharma"
    ],
    "trump": true,
    "trusted": true,
@@ -45,6 +57,18 @@
    "title": "Trump thrashing vindicates Australia\u2019s stance on tariffs: Farrell - AFR",
    "source": "AFR",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRURQYUdpSndxU0NDRDhxYnVrZlpySWVPQmxxRGJxaE81SHY5ajZrSzRDUWtrdW41aWZsN2VLR2lLb2Y3Qy1nSGY5dWpuSGdUT196bGJyVWxVVGFfUVkteGFnQzRpcVpqRkVrUFEyc3BfQ2NtaG5ONkdKdHVSYjhjQlg4QWQ3RmcxWHE1TkhUYTJzdmQ0RzFWMGttSXlwbTc5bXluQzJqcmp4RU5SQTBXUHhPTXRyQ2pW?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptariffstosurvivemidtermgridlockfarmersweekly",
+   "title": "Trump tariffs to survive mid-term gridlock - Farmers Weekly",
+   "source": "Farmers Weekly",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ1JPNVNtMTFnZ1FGaDBxVGlZYmpZVUxyMXFsYTRfTGRDbUpUZzhGdTN4ejlXN0FCQ1JZMm1zcGxlQTM5ZWMybDVnYl9UTllXSml5VHpta3NNWEF2TGJleDZRTmZrWG5LWjM2dWUyS0VlQjVZeElLbWItcDhRSTZzREIxRVljcEZKVHZr?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -114,24 +138,12 @@
    "pts": 22
   },
   {
-   "key": "democratstakecongresseyereversaloftrumptariffstaiwanseconomy",
-   "title": "Democrats Take Congress, Eye Reversal of Trump Tariffs; Taiwan's Economy Minister Says Two-Thirds Threshold Hard to Clear - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcWRRd3Bwd2VyVGJCSkJzNzJCQldjeTQzWFd6aXh0a2FYRnFlUW9vczhjSFJhbGRDbExCRkk5bUVxUjZOLXZqclR2Q0VNTkdYeUpEZkJUOFdiNTBOdjdSLXpEeTQwbEZycjBXMWtmcElhM05BVFE?oc=5",
+   "key": "trumptriestopreventanyonefromchanginghisgoldcoveredovaloffic",
+   "title": "Trump tries to prevent anyone from changing his gold-covered Oval Office by declaring it a landmark - The Independent",
+   "source": "The Independent",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmFzd3ZCbk9sS0dLUm83V1hrUkZOVExJSVlBLUdLTk4yRS1feXRtMWdiZEtWYzNIRzVpYU10dWxGb2o0THVVUUo5VEZVb2YxUWZOZDhGNjJpLVV5UjZBMXJNTXZhNnl3YUpSSjhfS3h0c3c2LVUwYWpNWVB1T1V4UFFZcktQSnFNa0xYZ3duWEhKQ2VmbFpObEJtbHAzbXVKeEtsZHVOcC1rX1RXcWFwdnYyQ0kwTGc?oc=5",
    "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "americanspaidfortrumpstariffsonindiathentheymaderepublicansp",
-   "title": "Americans paid for Trump's tariffs on India. Then they made Republicans pay in polls - India Today",
-   "source": "India Today",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbEtMelU2M0ZReHFRbjV3VUF5Q1ptUy1uUkpwbE81OC0yTjRhYkt1STlnaVk3TS1WUWdyRFhYdFFrdEdjUHVlXzZ6ek5yMDFnZ29OWGc5LVZ5UjJXQ2YyV0ZDUjA3eGdyaVlZeUF2ZGhUbHg1akdfakZLOEUwb1RlWmI1ZC1JNXVHdUcxeUVwTTNsbGRIY2dkUmxDRFFRRlpRZGMwV2NraDVXYTNNY21Db0xVS0hZSTdrRmsxcDVLRUpHVVpHdnd2NVBJeVctT0hFVTRXNEF2dzhsc3pQaWlQR0hteXJvY1pNRDlXMS1XakbSAfYBQVVfeXFMUFZYNUxJZENDbTlsYTkxU191NmpiR3Q1WUV1SnM5VWhYdHo0Z2laLUw3QlR3V3MzNWs0bG9kZ3h4Yl93Y2NjNVpfTDlvTEZEbW43Wk1FZTU0T3lPbDZBTFlQYnBIYWljMmtTa1VGc0c0OWJkc3NfcU5VRV8wYVNLNUVaeWtLclVGalZ4Zm04a3U1Unk5RFl5N05hMVk5dTA3Z2R1VUlCVmhTa09nVnhSd0tzZUlSZWNHc0N4TGVSMG51alZZSEhEU0hoMko3dlhDelNJSmhIY3dIa3hzVzY4LVJpTGsyUEpSX3EtNzBjb2UwalFObWRB?oc=5",
-   "themes": [
-    "geopolitics"
+    "mining"
    ],
    "trump": true,
    "trusted": false,
@@ -162,10 +174,10 @@
    "pts": 22
   },
   {
-   "key": "putinenvoyspeaksatwhitehouseeventonoleshkyceasefirebrokeredb",
-   "title": "Putin Envoy Speaks at White House Event on Oleshky Ceasefire Brokered by Melania Trump - U.S. News & World Report",
-   "source": "U.S. News & World Report",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjF2dHZXbTcyRG1LamFGMXZDVTBHZWFrQzdTSTBuZk1rVm50cnk5a1VXS3pvY3AxeVhpclNycFBtMGFDTGFqZElkbWIyVmFpcEN4ZWw4MTBSdlA0TGxQSTNsLVhnLXF2UHNlT21VbzhwckQyZ3JwMEdPYjl2dTZtTFlJb0dUdkZkVXl2eDVmZTdEalk5aFZWbzBqR05BbnhqdG50aFBXUE1JRHFLV2JMU1BEczhCR3RhemlTRm11bHhLbl9VRGs1cEl2VzZRV0dwdUtCS20weTJTc0k4V2tvbzhB?oc=5",
+   "key": "melaniatrumpjoinsrussiaukraineofficialsatwhitehouseeventtoma",
+   "title": "Melania Trump joins Russia, Ukraine officials at White House event to mark Oleshky ceasefire - The Globe and Mail",
+   "source": "The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWRKVXNHY2ZTTmhXTEwzcTIweUlJX095V3dNTWUtd2ZOZFlXNElnaFRzaU1HVUE3cXdWa2poN005eEFJTEd6bW9JVlBhbXJUYTlGX2VDOGxtaFRMLW94Wm5mSlFtbW5aNUNUZV9ZLW4xcjNCTUJEY2RHY1ViZF84Zy0yWkU2bzdiYk5pM1hPMjY0TkNs?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -232,89 +244,117 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "housedemocratweregoingtohaveonehellofadonnybrookoverendingth",
-   "title": "House Democrat: \u2018We\u2019re going to have one hell of a donnybrook over ending these tariffs\u2019 - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 51
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 56
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 77
   },
   {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 76 min old)",
+   "score": 65
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 76 min old)",
+   "score": 64
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 76 min old)",
+   "score": 65
+  },
+  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 40
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 43
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 49
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 57
   },
   {
+   "sym": "BHP.AX",
+   "why": "stale quote / market closed (last price 1024 min old)",
+   "score": 92
+  },
+  {
+   "sym": "RIO.AX",
+   "why": "stale quote / market closed (last price 1026 min old)",
+   "score": 57
+  },
+  {
+   "sym": "FMG.AX",
+   "why": "stale quote / market closed (last price 1024 min old)",
+   "score": 84
+  },
+  {
+   "sym": "PLS.AX",
+   "why": "stale quote / market closed (last price 1026 min old)",
+   "score": 57
+  },
+  {
+   "sym": "GDX",
+   "why": "stale quote / market closed (last price 76 min old)",
+   "score": 82
+  },
+  {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 40
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 976 min old)",
+   "why": "stale quote / market closed (last price 1026 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 26 min old)",
+   "why": "stale quote / market closed (last price 76 min old)",
    "score": 62
   }
  ],
@@ -329,7 +369,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 08:26 AM AEDT",
+  "last_scan": "Fri 06 Nov 2026 09:15 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
