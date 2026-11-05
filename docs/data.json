@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 01:07 AM AEDT",
- "fx_audusd": 0.7007,
+ "generated": "Fri 06 Nov 2026 02:03 AM AEDT",
+ "fx_audusd": 0.6981,
  "signals": [],
  "events": [
   {
@@ -125,18 +125,6 @@
    "pts": 22
   },
   {
-   "key": "anutinplanstrumptalksasusmidtermsleavetariffdealontrackwithr",
-   "title": "Anutin plans Trump talks as US midterms leave tariff deal on track, with rate expected at 19% or lower - Nation Thailand",
-   "source": "Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YU3R1WmJDLUZWX1JZa1ZVRkp6cUdPN3FzUDFxUE1VcWQtZTZ2U0tpMjlHNEhnSXN5UGxnR0xpTnVsbEFxRHV0VGg3NHAxVXRqeDEtRmpndkZDV0RqUnBrMmFGVG4?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "whytrumpwontletupontariffsevenwithdemocratsincontrolbarrons",
    "title": "Why Trump Won\u2019t Let Up on Tariffs, Even With Democrats in Control - Barron's",
    "source": "Barron's",
@@ -185,37 +173,24 @@
    "pts": 22
   },
   {
-   "key": "crudeoilpricesslumpaspresidenttrumpdownplaysescalationofusir",
-   "title": "Crude Oil Prices Slump as President Trump Downplays Escalation of US-Iran War - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzVFRGJKOWQ0TThCM0kxRWNfTkFxOUpFS1pZRVZVeVlPbGRZb3Rkc2NPYklBWEpzSVpiaS01UkxHVFltaWtVREI4OVBGN2FrS3pmYlgtc29qMHo5NDRNLUtueEhqbTJLQ3g4dlU0OWx5N3V0UDk1S01rV1ZoUHkwZm1TejAzekVBT0FFY1BqU0RabnpkclFxTUJBdVR1bklhNmVzdHM0STUyMXFrQTBsdXFQSTNRMUVqNjAydVlKb1Y0MWd1b043SU16RDljMDFaRFE?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "carneysustradeministerwarnsbluewavedidntwipeouttariffwarbloo",
    "title": "Carney\u2019s US Trade Minister Warns Blue Wave Didn\u2019t Wipe Out Tariff War - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOclhLOHZZd1dNZG1nY3Npd0RRN0QxS3dvOWxYX1V0SXd2Y1dNVEY0MTYtMjlYRTVJUTBveVRWNVZfbjlxNDlILV95Wi1OdTFDdlJxZ1VHVno5T01fWUZDanNRT29sX0ZaOGlOZGxzX2UwS1otZUkwVnZtQy1vd3hSemh2NTJPdkxIVUJ4cml2ZFpJX3FoNVdpTGd0RVZvdzRzU3dTUFlWZXVKMVBOWk85UEJHMGtrWlpLdktkNzUtSFRuRnFJc28xd09LYlFUQQ?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "boejoinstheratehikeclubaustraliamaybedonealreadyreuters",
+   "title": "BoE joins the rate hike club, Australia may be done already - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXFXYWhzdHpRY3JzRGtmbUUzUjJreHZPWEpia1B2aDc0ZVo5cUVUcUFQMXNMdWlETWpGNHo0ZE00UzhBN1Q5YWxaeUVMLTdnOU9JQjlCSGdMUVJQcnJkUkxuVEpibVA3emtVTlNGclBWbERaR1ZTRzBDOWJISU9hQlhtSGVHRldjRV90eTVFMUNFYWdNUnc?oc=5",
+   "themes": [
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -234,6 +209,18 @@
    "pts": 20
   },
   {
+   "key": "fedshammacksaysrestrictiveratesneededtocoolinflationbloomber",
+   "title": "Fed\u2019s Hammack Says Restrictive Rates Needed to Cool Inflation - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2c2UERBM24tYnJsM3UxR3pvTG9mYmZNZ0dDN3k4OHp6SUl3aUxKRXZkNlJVeFU4dTFoS1NtSHBZN0xIVG1GRnBNNmxxWU9MWUNWNmhkZXZPT1A5ZHN2RHZRWS1tMmtZV1BzSDJLLWpERnFoZTVLNDFsdWVlaENTdE5UZVZDanpTbTFtNDQ5WHJJYWt1Y0hGNnd5eEhXaVplZWJNcXFXVHpIMXVqa0c5Z2tn?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "chineseailabmoonshotturnedtoeuropefornvidiablackwellaccessam",
    "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
    "source": "CNBC",
@@ -244,113 +231,105 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "housedemocratweregoingtohaveonehellofadonnybrookoverendingth",
+   "title": "House Democrat: \u2018We\u2019re going to have one hell of a donnybrook over ending these tariffs\u2019 - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 96
+   "why": "price not above VWAP and 20-bar average",
+   "score": 71
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 72
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 52
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 77
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 72
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 80
+   "why": "volume not confirmed (1.2x normal)",
+   "score": 60
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 85
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 72
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 100
-  },
-  {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 72
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 72
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 536 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 536 min old)",
-   "score": 57
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 55
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1028 min old)",
+   "why": "volume not confirmed (0.8x normal)",
    "score": 50
   },
   {
+   "sym": "LLY",
+   "why": "position size under 1 share",
+   "score": 77
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 74
+  },
+  {
+   "sym": "SPY",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 46
+  },
+  {
+   "sym": "QQQ",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 48
+  },
+  {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 538 min old)",
+   "why": "stale quote / market closed (last price 594 min old)",
    "score": 53
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 50
+   "why": "price not above VWAP and 20-bar average",
+   "score": 55
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 68
+   "why": "price not above VWAP and 20-bar average",
+   "score": 46
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 56
+   "why": "price not above VWAP and 20-bar average",
+   "score": 55
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 70
+   "why": "price not above VWAP and 20-bar average",
+   "score": 52
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 47
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 67
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 72
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 45
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 47
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 64
   }
  ],
  "paper": {
@@ -364,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 01:07 AM AEDT",
+  "last_scan": "Fri 06 Nov 2026 02:03 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
