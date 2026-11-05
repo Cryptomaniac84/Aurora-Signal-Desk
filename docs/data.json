@@ -1,14 +1,14 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 05:05 AM AEDT",
- "fx_audusd": 0.6949,
+ "generated": "Fri 06 Nov 2026 06:01 AM AEDT",
+ "fx_audusd": 0.6947,
  "signals": [],
  "events": [
   {
-   "key": "democratsgaininfluenceovertradeagendabuttariffrepealstohittr",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
+   "key": "ustariffssqueezecanadiancabinetmakersfacingdoublingoftrumpdu",
+   "title": "US tariffs squeeze Canadian cabinet makers facing doubling of Trump duty - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDZqSmY2dXBwbDVXbTJHQ0RQVTVKNXM4WXViM0JQMEUteTJ5TzdBd0Z0UDRVVlhiaGpyWXBUdmNLak1YUkdpRkZZZVY1RG1NMUN1MG5JSTlRS0h6TU1ONWtqTk1XRjExYm5qdHBHYlVWaDlsb3pYZFFOYVNmTEF3aG84dE1ST0huN3ZPUTRZRGlTNGZyekVlMllOR1lRRFhfT19sbnRJWnZDaVQ1MTMwZklXd2pkM0E4Q1NUZA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -29,22 +29,34 @@
    "pts": 30
   },
   {
-   "key": "commentaryasiahopesdemocratscanproviderelieffromtrumpsiranwa",
-   "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "votershavesentamessagetotrumpontariffsbutthewhitehousestillh",
    "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
    "source": "The Conversation",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffsaftertheusmidtermswhatchangesforaustraliaandauk",
+   "title": "Trump\u2019s tariffs after the US midterms: What changes for Australia and AUKUS? - The Times Australia",
+   "source": "The Times Australia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzlWTGNpRWZzb2d3QmZZM0dWeFg3X1NDd2xBV3pzR3FfWlJUZ0kybG8tb3pjRE9GcmJLV3Uzd251VG9XMUhSTG9ROVNUUGZBYnNFRGpSQXF1VWpKMk5Qalc2cFB2S1d4bXd0Q2NmTUhrWjhHWkpPZXJGRTZPa0NHVi1udlM4dF9FdFhnN1VvN2c1Qmh1Q3VrcWp3SzFycE9ZU1BGVDlaNng4UkpZZkE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpthrashingvindicatesaustraliasstanceontariffsfarrellafr",
+   "title": "Trump thrashing vindicates Australia\u2019s stance on tariffs: Farrell - AFR",
+   "source": "AFR",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRURQYUdpSndxU0NDRDhxYnVrZlpySWVPQmxxRGJxaE81SHY5ajZrSzRDUWtrdW41aWZsN2VLR2lLb2Y3Qy1nSGY5dWpuSGdUT196bGJyVWxVVGFfUVkteGFnQzRpcVpqRkVrUFEyc3BfQ2NtaG5ONkdKdHVSYjhjQlg4QWQ3RmcxWHE1TkhUYTJzdmQ0RzFWMGttSXlwbTc5bXluQzJqcmp4RU5SQTBXUHhPTXRyQ2pW?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,36 +113,12 @@
    "pts": 22
   },
   {
-   "key": "macproductstransmittingelectricalpowerdespitetrumptariffsber",
-   "title": "MAC Products transmitting electrical power despite Trump tariffs - Bergen Record",
-   "source": "Bergen Record",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjh6YXlPQktsaEszcEhDRTl3QlR0WWdsVnZBQUZFa0pXMWxiWXduMjdYS1A4S0ZhUlpPSVpFdXhzU3JoSWxzRVpIY3BoS2Q2SG45V2ROdnhvRzgtRFozR3o4SHIwdnFZd2hXeWV1enF2NG9sS1pZSGpjMkI4RWwzRUlSbkNVQ3lEXzFXdVRJcFFQQ3d4dTE5SFkzaGVzR2NNTUFuQ3J4dkZMWm9pbno3dnVHU0NvNWZkdjU4ZHhwbF9ESmlMcFJHcHJpLXl1QUFvSW1tejI5VQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "zelenskyawardsmelaniatrumpukraineshighesthonorforwomenafterb",
    "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "bitcoinbrewsastrumpordersandsectokenizationviewssendhypepric",
-   "title": "Bitcoin Brews as Trump Orders and SEC Tokenization Views Send HYPE Price to New Highs - CoinMarketCap",
-   "source": "CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFAxZmRpVUFtOHBsdlVCaXI4b1VkVmlRbUp2ZlZ1cFo1WEVNcGhTeEd0T09fSDZ3OHpRZTd2eTJxb0VMZGhpQUhqaUp0QllrbEROVWtJN242b0xSRTIzNS1EWlZWS2ViUEtCTEVKYzl4dFNac3UxNDB4ZWxUSU1ickd0QzR2WHdBYU12QXJvNngzbGJfWVFvVg?oc=5",
-   "themes": [
-    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -153,6 +141,18 @@
    "title": "Putin special envoy speaks at White House event on Oleshky ceasefire brokered by Melania Trump - Los Angeles Times",
    "source": "Los Angeles Times",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONW0wT2daNWJEU1VLQmttYnhLN2FGeVFpQVNRLXpxY0lpQW1BN3UwQU9vTmNVbDVUZVVGTXR1SFFOd3p6TmhhenVZVlQ2VkJGNkJKcGlUcURlbWdmOFNLb3puZV9WdFJzUjNfX1RWV3RIQm1WWTZCOE1weGpUVFN5WFp3MXFTTVRjUDFJaXg0ak81b0VSdDNJM1N3U3BaOER4ZnpZRXVaeUtUS0hKNlpKVnRYcVR6bWJVVGZOeGFEYThDVDU5ZkU2TXRBdTRfcU53SmxHSWIxcHh3SzloM2RQUUFn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "putinspecialenvoyspeaksatwhitehouseonceasefirebrokeredbymela",
+   "title": "Putin special envoy speaks at White House on ceasefire brokered by Melania Trump - Somerset County Gazette",
+   "source": "Somerset County Gazette",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNWVuSWJaeFZMNlJSQUNzMXp0S3dCMDdTN2Q0bnFab1RvYzdsUF9zRnNGSk1CX0tfcXFJZDAzQXRVWjlWbFZiVzVnU24xMzJ4ZUFGUGNxTTNsc2kwLV9KX0VoRzk3ZGhDd3dEM2RhT1IzNXhnLW95Z0FYV1U4MjBTVlJiQ3ByUnNOTUtNeThfMzRld0VHbDZaTENrcWgyUlJ4dWxKbTFBcW4wQXdYSDZYTFI0LVA0VXNpLWh1R202aGJHZkk?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,83 +248,73 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 52
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 49
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 47
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 46
   },
   {
    "sym": "FXI",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 46
-  },
-  {
-   "sym": "COIN",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
-  },
-  {
-   "sym": "MSTR",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "score": 53
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 43
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 42
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 776 min old)",
+   "why": "stale quote / market closed (last price 831 min old)",
    "score": 53
   },
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 35
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 50
   },
   {
    "sym": "AMD",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 55
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 51
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 51
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 51
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 29
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 28
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 30
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 29
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 29
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 28
   }
  ],
  "paper": {
@@ -338,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 05:05 AM AEDT",
+  "last_scan": "Fri 06 Nov 2026 06:01 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
