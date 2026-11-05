@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 02:30 PM AEDT",
- "fx_audusd": 0.702,
+ "generated": "Thu 05 Nov 2026 03:39 PM AEDT",
+ "fx_audusd": 0.7017,
  "signals": [],
  "events": [
   {
@@ -41,18 +41,6 @@
    "pts": 30
   },
   {
-   "key": "fitlabblamesbankruptcyonlossofnikepartnershiptrumptariffsblo",
-   "title": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczlOdTByTHY0VkhOcmp4UUtzUGgzWERrTHpuSDZ2VmNfRHZ0NjJ1aGxFSUJ5NEpDSkkxbUR3QzRZQ1l0bUlHMjJIOUduRWNiRXoyUm5oRFBaaWtnS0labkVoazNHelktWGRoYUFrbjZrNDlqejgwdml3OFdyNXNsX2tXU3FHSTBLSW1qcUx1VnBlTy15NnpoZWZYQWRZbU83VlIwYzRsZDRqa00yMmM3QUlYdHhJZlMx?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
    "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
@@ -63,6 +51,18 @@
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "votershavesentamessagetotrumpontariffsbutthewhitehousestillh",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "source": "The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "democratsretakecongressbuttrumpstillholdsvetoonwoodtariffswo",
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "usmidtermstrumpsnexttradewarcouldbewithcongressforeignpolicy",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "source": "Foreign Policy",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
+   "key": "seniordemocraticcongressmansayspartygoingtoputanendtotrumpst",
+   "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "seniordemocraticcongressmansayspartygoingtoputanendtotrumpst",
-   "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
+   "key": "usmidtermstrumpsnexttradewarcouldbewithcongressforeignpolicy",
+   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+   "source": "Foreign Policy",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,12 +125,12 @@
    "pts": 22
   },
   {
-   "key": "candemocratsendiranwarandundotrumpstariffsmodernghana",
-   "title": "Can Democrats end Iran war and undo Trump\u2019s tariffs? - Modern Ghana",
-   "source": "Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NVml5SmlMdnBDcXRQSXRXeDJEZXZhSlZRbWdTQ21QSFdUamd6X3VCU1NqaUt6X2VBUnMwSnlydEtOdzR0czJtQnNpVG01eTZIVC1wb3FzcDJEQ1VxM0EtbtIBXEFVX3lxTE5MQmxlbi1nclhydi0yNDdPSFFyN3NaVHJFTDk5UkpfSUJrc0ZBRXRnN0I4alRhSGlTSTQySGdjRHZvUXBQSno4ZnpXT01LN2ZGTVFhdTZGRVV4M3hU?oc=5",
+   "key": "bitcoinbrewsastrumpordersandsectokenizationviewssendhypepric",
+   "title": "Bitcoin Brews as Trump Orders and SEC Tokenization Views Send HYPE Price to New Highs - CoinMarketCap",
+   "source": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFAxZmRpVUFtOHBsdlVCaXI4b1VkVmlRbUp2ZlZ1cFo1WEVNcGhTeEd0T09fSDZ3OHpRZTd2eTJxb0VMZGhpQUhqaUp0QllrbEROVWtJN242b0xSRTIzNS1EWlZWS2ViUEtCTEVKYzl4dFNac3UxNDB4ZWxUSU1ickd0QzR2WHdBYU12QXJvNngzbGJfWVFvVg?oc=5",
    "themes": [
-    "geopolitics"
+    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -149,12 +149,24 @@
    "pts": 22
   },
   {
-   "key": "trumpsignsquantumordersamidbitcoinriskcoinmarketcap",
-   "title": "Trump Signs Quantum Orders Amid Bitcoin Risk - CoinMarketCap",
-   "source": "CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1l1TVlyYnRlRU1SYWF1YWxpMkI5NV96aWFCM2QyQ0pjdllMZU53NzVYTmEwM1VWcUFIdEpkaVBNcDFsSi10QUh1N2RFRFBsQkprWXpOWXVXX1VULWRXdktaNHFhbVpGSU1hLU0yankzcXYyXy1fS3l6UHRyaGR1T1VmU1VlaTFZTHlPVWlGWQ?oc=5",
+   "key": "trackingtrumptrumpshirksmidtermblamevanceblamesiranwarforgop",
+   "title": "Tracking Trump: Trump shirks midterm blame; Vance blames Iran war for GOP losses; Trump says he\u2019ll accept midterm results; and more - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMDJjU1MyTUNhYnVGUGQxZnRDVU8wOTFKbFFMX3FhdzgwMTZ5ME1WTGFvdThSUHhQbW9RUnlEMmhXNHlyRWgyZnZELXhCSkFkZGZDMkc1NlJPMXZORmZseDJGcWdRWURiNW9OS0psRS1OTDh5ci05UUZHaVZOWTJnS0VaZ1FMUHY5NEtXdzV3RURyeDVhMDFIYkUzOUlqNUhhQ0VKdEVyd21oOUNHckk0MkR1Ym8wbUYycndPeThTQ1VSTnl0V2xWZTNjUElDRXJwZDA0WW84dU5OaThiY0V5Mk9sZU9LT1AzXy1OVm1fOTRqYUFEZm1vQXZ6WE9mZ0FEU2s3cnhkLUQ?oc=5",
    "themes": [
-    "crypto"
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpcongratulatesdemocratsonmidtermssaysiranwarplayedroleaf",
+   "title": "Trump congratulates Democrats on midterms, says Iran war played role - AFP.com",
+   "source": "AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDc5LWZtSXF6TEZ2SXFrVU1LTG1zS1dUTFlJZjN1RmZ5d3VxWHZGaUtCQm9LOGJkR21NTjBqeTFZbVZOV1p6eGVSY1U1X3JNcUNNdFhTckZwOFNxcEdMWDYyaDhGWHZNSk5oVF84REpwUTkwdnQwbk9PVlRjVVhmVjNreGt5VS0wcm1pQlhickg?oc=5",
+   "themes": [
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -232,114 +244,102 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "whatshappeningtoukinterestratesandwhatdoesitmeanformortgages",
-   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 80
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 85
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 72
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 39
+   "score": 67
   },
   {
    "sym": "STO.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 58
+   "score": 75
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 50
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 43
+   "score": 38
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 391 min old)",
+   "why": "stale quote / market closed (last price 459 min old)",
    "score": 47
   }
  ],
@@ -354,7 +354,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 02:30 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 03:39 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
