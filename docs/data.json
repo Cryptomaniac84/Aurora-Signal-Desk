@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 10:37 AM AEDT",
- "fx_audusd": 0.7006,
+ "generated": "Thu 05 Nov 2026 11:22 AM AEDT",
+ "fx_audusd": 0.7013,
  "signals": [],
  "events": [
   {
@@ -69,18 +69,6 @@
    "title": "Trump Tariffs to Stay Despite Democratic Landslide in U.S. Midterms, Raising Fears of Added Burden on South Korea - BigGo Finance",
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQlNqUU1oNnExRHRQclNTY3c3N1JBNjZ4MGV2bXNvYzhwcEJWY3A4WnFrb1QzZ1QwZlh3ZkoxU04tQnNjdXJvbGtFM292TGxJSUVUNG9ibVQxNHdJbWU0OHdNeTk2d1ZhV2w2YVh1RGxUSEZXMlE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "democratsissueultimatumtotrumptariffsmustbeabolishedwarmuste",
-   "title": "Democrats issue ultimatum to Trump: Tariffs must be abolished, war must end! - TodayPress.tv",
-   "source": "TodayPress.tv",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVBKREM5cGJZVXh1dkRjVWl5X2VIZXVOMm9jWDZicDhaV1VCUVVReU9ZcHBVZFZ5UnlobFNpV2I4NE1BVllNaE45clZyNXJyRnFQQ1NxcTB6S2ZiX3NKdEFpZVRkOUlsQXhqZHViLXhucGdlQTdrZDVuYmxicVFxRDJJUzBsQjQtOU1iWVh1MmpqRkVUSG1TNGNZMzFkR0VtOXFjUXd1QQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -173,6 +161,19 @@
    "pts": 12
   },
   {
+   "key": "americansfarmersvotedagainsttariffstradewarsandinflationthew",
+   "title": "Americans, farmers voted against tariffs, trade wars and inflation - The Western Producer",
+   "source": "The Western Producer",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmtCa1JmU1l2d21UdjRURHJkQVczbEtRMTJISTNDWHZaS3N0ZzI0ekhpbUY3TlJSQVhVa3FncTlkdmxYeDQ2UG9PSXk1cFoxXzhnRE1pWGNzdGlhbHJhRTE0d1h2cWRPTTBDaXV6dTNZQnBwdmNDQWVCWFBkNkpiVTJ3?oc=5",
+   "themes": [
+    "rates",
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "housedemocraticleaderjeffriessayswillpassbilltostoptariffsan",
    "title": "House Democratic leader Jeffries says will pass bill to stop tariffs and to end the Iran War - investingLive",
    "source": "investingLive",
@@ -200,7 +201,7 @@
    "key": "whatventiaservicesgroupsasxvntfirsthalfresultshowsaboutitssh",
    "title": "What Ventia Services Group's (ASX:VNT) First-Half Result Shows About Its Shift Away From Defence Base Services - Kalkine",
    "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOHJnRWJnM3pFdkg3dk5yQnhtVlczSml5MWhBeW5kWFR0NHA3eG5ST3B6M20yU2FHSXpQbnZlZW1tWjhlZjNQVEV2NlBTOWNEbS1udkZ1U0o5czA1dGNPU2ZJYkJTblJCRFZCOGh0dEFzUlVYNHhfTGdiQTMyMTFvVWlWRGFXTEV5MHJud2NpWDlQTDFYVzlUck1XN0tXY1l6dnhkRmJKUUVPN0tfSVlONnctNWoyOVpVcnBKN3Rhc3RfSHQ0SVRIa1JWd1hTc3FzUE94QjVvdHJEUmNYRHBZUzJBRFlNZjUwM250SA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXBvZ2hRN2w1ZzRYYTVaTmoxU0FzOUZkYjRPamZLOW0wUmF4TXF3dUV0SG9lclZkRkctWmNLS0pPanNTNHZFYWZwZ1MzVjhQMExpQnc0dlVvSERqall2d2dDXzkxZ3NVUFRMWWh6Rms3MFc2UG9yV2I1SXMwQURqeFhQVkFPOC1xR3E1cXZZWHJPaEJLR1liaXJ3SlVEZU9VakpORWhPd0hFM0JkQnhvWDdmR3dpMUlkTHRpS29sZW9BbDhjeGVFYmdYbGtCX1FQSlhQVHhFcXlkeld0ZmRj?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,77 +249,77 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 88
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 78
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 67
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 69
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 75
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 51
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 51
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 55
+   "score": 37
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 36
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 158 min old)",
+   "why": "stale quote / market closed (last price 203 min old)",
    "score": 40
   }
  ],
@@ -333,7 +334,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 10:37 AM AEDT",
+  "last_scan": "Thu 05 Nov 2026 11:22 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
