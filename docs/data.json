@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 03:39 PM AEDT",
- "fx_audusd": 0.7017,
+ "generated": "Thu 05 Nov 2026 04:40 PM AEDT",
+ "fx_audusd": 0.7015,
  "signals": [],
  "events": [
   {
@@ -41,12 +41,12 @@
    "pts": 30
   },
   {
-   "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
-   "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+   "key": "trumpslaps100tariffonsomepharmaceuticaldrugsviaexecutiveorde",
+   "title": "Trump slaps 100% tariff on some pharmaceutical drugs via executive order - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHNjYmZWRzV1Rno1QnBJdlAxR1Jjd1dGLTdTRHlUQnRUQmpCOUFJSDc0cFdCSy1heGE1SUc5R1k3WWJkZGFKZ01vYUQyaTM0bzgxSWJ5R2RVYjdQNjU2NjhVZ2lUZGtUM1Ffa0RQRjFPb2tvOFFCVXN1M1pPUnN1UTYwZVlWdXZWSkppX014QkJPQ0U4VDAzMzJGYnlKRURCemFWMVd6SVZTVGfSAbABQVVfeXFMT3pWWlhKeVJ4NHJNZ3Y4TWNzT0RTYi1UajFQcnJlVDUxLWpOY0N4bTFNWVlRaDVnRjYxaS1tMVVMNkZUYlhmTFJlT1BvSmpEMWVvelhIRXhIeUQtS0d2V2NlZ3ZLTXFpYXlDT0VPQkRLRjA5eXNKZnlzSGRrajJUeEtUUWRYNnhlRHVXYldaU3NBdG1VTVBqcXRtY3ViMHQ1MjJzVlhIRzNFNHhUeVI3dWI?oc=5",
    "themes": [
-    "pharma"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": true,
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "seniordemocraticcongressmansayspartygoingtoputanendtotrumpst",
-   "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
+   "key": "usmidtermstrumpsnexttradewarcouldbewithcongressforeignpolicy",
+   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+   "source": "Foreign Policy",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,36 +113,24 @@
    "pts": 22
   },
   {
-   "key": "usmidtermstrumpsnexttradewarcouldbewithcongressforeignpolicy",
-   "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
-   "source": "Foreign Policy",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "bitcoinbrewsastrumpordersandsectokenizationviewssendhypepric",
-   "title": "Bitcoin Brews as Trump Orders and SEC Tokenization Views Send HYPE Price to New Highs - CoinMarketCap",
-   "source": "CoinMarketCap",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFAxZmRpVUFtOHBsdlVCaXI4b1VkVmlRbUp2ZlZ1cFo1WEVNcGhTeEd0T09fSDZ3OHpRZTd2eTJxb0VMZGhpQUhqaUp0QllrbEROVWtJN242b0xSRTIzNS1EWlZWS2ViUEtCTEVKYzl4dFNac3UxNDB4ZWxUSU1ickd0QzR2WHdBYU12QXJvNngzbGJfWVFvVg?oc=5",
-   "themes": [
-    "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "zelenskyawardsmelaniatrumpukraineshighesthonorforwomenafterb",
    "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire - The Jerusalem Post",
    "source": "The Jerusalem Post",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsignsquantumordersamidbitcoinriskcoinmarketcap",
+   "title": "Trump Signs Quantum Orders Amid Bitcoin Risk - CoinMarketCap",
+   "source": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1l1TVlyYnRlRU1SYWF1YWxpMkI5NV96aWFCM2QyQ0pjdllMZU53NzVYTmEwM1VWcUFIdEpkaVBNcDFsSi10QUh1N2RFRFBsQkprWXpOWXVXX1VULWRXdktaNHFhbVpGSU1hLU0yankzcXYyXy1fS3l6UHRyaGR1T1VmU1VlaTFZTHlPVWlGWQ?oc=5",
+   "themes": [
+    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -167,18 +155,6 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDc5LWZtSXF6TEZ2SXFrVU1LTG1zS1dUTFlJZjN1RmZ5d3VxWHZGaUtCQm9LOGJkR21NTjBqeTFZbVZOV1p6eGVSY1U1X3JNcUNNdFhTckZwOFNxcEdMWDYyaDhGWHZNSk5oVF84REpwUTkwdnQwbk9PVlRjVVhmVjNreGt5VS0wcm1pQlhickg?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpblameslossesongopcandidatesoilpricesandhisabsencefromba",
-   "title": "Trump blames losses on GOP candidates, oil prices and his absence from ballot - The Washington Post",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm8yRDN0ODJJUUd4WVlJTjk0Y0Z3ZWM2SFNOZ0pfUTJaUjd1QThhTDRveDdxV0hoZW12WUZKeFp0aUVZQnpucVRHZjZzcHZRVk1NRmRibXdjdW1WSk5VTmc1dGRVOW1CeDNLMzFmVFlUcklENUhGMC00OHdEUHlhZ1dpOWs0SFQzWEx2ZmpwMlJiTGxxVWozaVJWcHBleWU5S0pyU012VzRUcnNLcWFNV19rbzdLbDBpbkdzRUNTU3JZZw?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -234,12 +210,37 @@
    "pts": 20
   },
   {
-   "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
-   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
+   "key": "bankofenglandsettohikeinterestratestotacklehigherinflationca",
+   "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONkJ6UWpqWkZlU3VHWFplbktNdm1BcXh1azhkdGw1b3FScXF6a004X2JMVUNfX2thUHZoeDlva2djREFjWUQ3QW95U1V6eGRXX1ROT0ZkQ3c1TWVGdFBORDdUNUhUQWowZ2RqOWRqeVMzQkV2dWtJeFlpaWNhVW1LbG9vY1VmcXloM3BQeTR6WjVtcEtickFpS0FOLWxJckJZejJYSWFOMNIBrAFBVV95cUxPc3VibDQyb1YwYWNNNjNBR2tzelZoX2g2U3hieFJhekJ4U0Y0QzFlMU1fY0pUNFc4TmRIZktFaF9wTG5EdTRfSFMxZjZRLTNqRTZNamwzaWVZRWdoNWVPb3FsNkZSZUpKd0l3djA2Q1BsWmtNN3pSLTdvM2dvRDFYbkFUQVVVUEdZTTZHOG5RVFNFWnJ1SUhiSlZWZjFVSUNVa3dUSDJnSERtbzQ0?oc=5",
    "themes": [
-    "pharma"
+    "rates",
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "czechssetforsecondratehikethisyearaspriceriskspersistbloombe",
+   "title": "Czechs Set for Second Rate Hike This Year as Price Risks Persist - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnJ0bEdVYUVTTnBiQjNib2ZNa3I3S0h3Sk90a3BQMkF4ZUNsem81TkhOZUI1N2p4NVcwTUdUcEgwcEZ6WklWUTIzNFAxN3M0aVlJSWk1RXBFV2NfR2FYR1luRjVHaktFWTJyVW1vdUlvSE5HMG5CSmt1a201X0RvRlc0WDhRaHB3S2ltb0VIdVpQZkJSNlhYaFhqcDJ0cEJpYm4ycVYzQnVaQ040TVZFNUlXdUo0UQ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "interestratesexpectedtoriseforfirsttimeinoverthreeyearsbbc",
+   "title": "Interest rates expected to rise for first time in over three years - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jT1Z0bWhyd0xuUUt4WmhxUl9vdjZfaEo4WVJpZm5tMTRhTUpvQUZxaTVGQXozT1pyQXppckZ2RlFkV05nMTg1WnFSSkZtbXk3SGZieXhVcTc0akE?oc=5",
+   "themes": [
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -249,97 +250,82 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 80
   },
   {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 459 min old)",
-   "score": 85
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 459 min old)",
-   "score": 72
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 459 min old)",
-   "score": 100
-  },
-  {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 67
+   "why": "stale quote / market closed (last price 28 min old)",
+   "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 75
+   "why": "stale quote / market closed (last price 28 min old)",
+   "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 45 min old)",
+   "score": 39
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 47
   }
  ],
@@ -354,7 +340,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 03:39 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 04:40 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
