@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 11:50 PM AEDT",
- "fx_audusd": 0.7002,
+ "generated": "Fri 06 Nov 2026 01:07 AM AEDT",
+ "fx_audusd": 0.7007,
  "signals": [],
  "events": [
   {
@@ -47,6 +47,18 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "armylaysgroundworkfordeathrowexecutionsiftrumpgivesapprovala",
+   "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+   "themes": [
+    "pharma"
    ],
    "trump": true,
    "trusted": true,
@@ -125,6 +137,18 @@
    "pts": 22
   },
   {
+   "key": "whytrumpwontletupontariffsevenwithdemocratsincontrolbarrons",
+   "title": "Why Trump Won\u2019t Let Up on Tariffs, Even With Democrats in Control - Barron's",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlZHSHQwSFV5aXhyblNEekJaTnJHZnpZUjdSQWpuTDFrb1IxLWRtdko5S1A5MlhSNTVGRDR4OEk5SHdpLTd6UEd1NnpmYlhNTURYd1lVX1lmTTdPaTZBcWM3RVM2bTc0b3NDb08wSkhkZ0Nfai03aDdnT1NkOHM2eVBDTmtZSTFlZkd6Qk5fQUhlNHhG?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "zelenskyawardsmelaniatrumpukraineshighesthonorforwomenafterb",
    "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire - The Jerusalem Post",
    "source": "The Jerusalem Post",
@@ -149,23 +173,24 @@
    "pts": 22
   },
   {
-   "key": "trumpblameslossesongopcandidatesoilpricesandhisabsencefromba",
-   "title": "Trump blames losses on GOP candidates, oil prices and his absence from ballot - The Washington Post",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm8yRDN0ODJJUUd4WVlJTjk0Y0Z3ZWM2SFNOZ0pfUTJaUjd1QThhTDRveDdxV0hoZW12WUZKeFp0aUVZQnpucVRHZjZzcHZRVk1NRmRibXdjdW1WSk5VTmc1dGRVOW1CeDNLMzFmVFlUcklENUhGMC00OHdEUHlhZ1dpOWs0SFQzWEx2ZmpwMlJiTGxxVWozaVJWcHBleWU5S0pyU012VzRUcnNLcWFNV19rbzdLbDBpbkdzRUNTU3JZZw?oc=5",
+   "key": "usfirstladytoaddressukraineceasefireatwhitehousemacaubusines",
+   "title": "US first lady to address Ukraine ceasefire at White House - Macau Business",
+   "source": "Macau Business",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzBGTEFlWTExSjJjTlphc2NlTXF4RmJUeEZlblJLS2ZydG0yWnZaelA3TE9MckFCX1R5Mk9HM2FOTjdCNnJ2SmhKUkNyb2RzNkpXcW9wUnBHZmx4NEsxZG96V2J4NXQtWmJRNEZYSGo3WEFFbEZGV01uME4zWjhWdkMxY0o4M0RtNlJVTA?oc=5",
    "themes": [
-    "energy"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "usfirstladytoaddressukraineceasefireatwhitehousemacaubusines",
-   "title": "US first lady to address Ukraine ceasefire at White House - Macau Business",
-   "source": "Macau Business",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzBGTEFlWTExSjJjTlphc2NlTXF4RmJUeEZlblJLS2ZydG0yWnZaelA3TE9MckFCX1R5Mk9HM2FOTjdCNnJ2SmhKUkNyb2RzNkpXcW9wUnBHZmx4NEsxZG96V2J4NXQtWmJRNEZYSGo3WEFFbEZGV01uME4zWjhWdkMxY0o4M0RtNlJVTA?oc=5",
+   "key": "crudeoilpricesslumpaspresidenttrumpdownplaysescalationofusir",
+   "title": "Crude Oil Prices Slump as President Trump Downplays Escalation of US-Iran War - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzVFRGJKOWQ0TThCM0kxRWNfTkFxOUpFS1pZRVZVeVlPbGRZb3Rkc2NPYklBWEpzSVpiaS01UkxHVFltaWtVREI4OVBGN2FrS3pmYlgtc29qMHo5NDRNLUtueEhqbTJLQ3g4dlU0OWx5N3V0UDk1S01rV1ZoUHkwZm1TejAzekVBT0FFY1BqU0RabnpkclFxTUJBdVR1bklhNmVzdHM0STUyMXFrQTBsdXFQSTNRMUVqNjAydVlKb1Y0MWd1b043SU16RDljMDFaRFE?oc=5",
    "themes": [
+    "energy",
     "geopolitics"
    ],
    "trump": true,
@@ -197,10 +222,10 @@
    "pts": 20
   },
   {
-   "key": "malaysiaholdsratesvowsvigilanceasinflationpressuresgrowbloom",
-   "title": "Malaysia Holds Rates, Vows Vigilance as Inflation Pressures Grow - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUVzNHNfcXF5REhKbnI1Sm5mMVdFWENQQWtNQ05QVk5oZDN5MDA4UWdtdEtYdngwd1k4Z0VTalBHOXpoS2cyMGhqRmM2OHY1ZFhJVmM1RlZfLUlSNXlBM3p1VjJWaFRmZk81bDhnYVU5TEZ2VTNURWNHMy0xb3FuWUdVaE1KZTNBSnZsRnI1WjhJRi0yWjVjeWpUbGREZ0JYN0xVUFBRVmZnRmtwMWdob0ZjaXc?oc=5",
+   "key": "interestrateshikedto4infirstincreaseinoverthreeyearsbbc",
+   "title": "Interest rates hiked to 4% in first increase in over three years - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jT1Z0bWhyd0xuUUt4WmhxUl9vdjZfaEo4WVJpZm5tMTRhTUpvQUZxaTVGQXozT1pyQXppckZ2RlFkV05nMTg1WnFSSkZtbXk3SGZieXhVcTc0akE?oc=5",
    "themes": [
     "rates"
    ],
@@ -209,111 +234,122 @@
    "pts": 20
   },
   {
-   "key": "repealthetariffsnationalreview",
-   "title": "Repeal the Tariffs - National Review",
-   "source": "National Review",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PSzR5a0VsdUUza3pGTFI4bEJpX1J4aFlXUk43d19TZm9iU0hCa3FPN2tYbEVMZG5DOGpSLWxNZVlMNTVGd1dtSkd6Y1pKaEdJdUg5aDBldEhvTzlDVldFa3NWVEpIbnJfUnfSAW9BVV95cUxQdmotUlhlREFuMEhRQVc3WURrcXBIWml6emdhSEtodklVRGw4dE1VT1ljNDBrRkdyczc1bHRzYXpNUjFhTGdLYkQ2ZG4td2kzakl3WHY2QjFSWUszUXBlZ29OUmg1RVVXVFIzWVF3Mmc?oc=5",
+   "key": "chineseailabmoonshotturnedtoeuropefornvidiablackwellaccessam",
+   "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYUR5bm45MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q?oc=5",
    "themes": [
-    "geopolitics"
+    "semiconductors"
    ],
    "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "redwiresecures20millionusdefencecontractforvleospacecrafttes",
-   "title": "Redwire secures $20 million US defence contract for VLEO spacecraft testing - FlightGlobal",
-   "source": "FlightGlobal",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWp2RU90VDdqSVhxdUxVMm02Nk5EeUJaTHBUTDEtNGNxNUlJazNidTlUNGFIVUFublk1UHhQakZqeXFCa2RlcGh3T1hNTDVJUVU2TUxRWUZEZTBYcEY3WUFxUlFzNllNSldCaXFQS1RBYVBMSlQ2WFpzc1FSUHVGRVUzRWdsUWtwQ081Z3ZXdFNKQjdvWDNVNmRwOXlmRnlNWm9qdno5LTFBX0g0eWV0dGJid0xtZmVRVnhFVg?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "rheinmetallsharestankaftersecondguidancecutasdefencecontract",
-   "title": "Rheinmetall shares tank after second guidance cut as defence contract delays bite - Sharecast.com",
-   "source": "Sharecast.com",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM1hGTUhnZnc2QTV5RnJoRkt5UE5FeGk1UW4xeWFyMEJLelNwZXNuUnFQdHpGRTA0VEhqeU9IaHpSRTlpYmdkYkNWWExOcW1xM2NPT3d1c2hpcjE2Nk5mdUh3QWNpcE1LLVVySEYyd1ZadzFhQ1lVZ3FxZURZeGVHM1dwV2ZwbjlMdXpJQXpqUG5ibnJudHJlQjFaVGFjM1RNcGZDaEhUTzhPejhmUVN0YTVxcWk4TlVQcndwM3lZV3Q4WkxlOXBvWllTVXpPMTJnY1pxdENPeUl0SXNpanJ2aWhoUmFjR0dmeUE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 80
   },
   {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 1028 min old)",
+   "score": 85
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 1028 min old)",
+   "score": 72
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 1028 min old)",
+   "score": 100
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 536 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 536 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 460 min old)",
+   "why": "stale quote / market closed (last price 538 min old)",
    "score": 53
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 1028 min old)",
+   "score": 50
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 1028 min old)",
+   "score": 68
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 1028 min old)",
+   "score": 56
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 1028 min old)",
+   "score": 70
+  },
+  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 950 min old)",
+   "why": "stale quote / market closed (last price 1028 min old)",
    "score": 47
   }
  ],
@@ -328,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 11:50 PM AEDT",
+  "last_scan": "Fri 06 Nov 2026 01:07 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
