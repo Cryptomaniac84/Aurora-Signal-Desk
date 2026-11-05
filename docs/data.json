@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 04:21 AM AEDT",
- "fx_audusd": 0.6957,
+ "generated": "Fri 06 Nov 2026 05:05 AM AEDT",
+ "fx_audusd": 0.6949,
  "signals": [],
  "events": [
   {
@@ -45,6 +45,18 @@
    "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
    "source": "The Conversation",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratswillwanttorepealtrumpstariffsitwontbeeasywwwmarketp",
+   "title": "Democrats will want to repeal Trump's tariffs. It won't be easy. - www.marketplace.org",
+   "source": "www.marketplace.org",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTl2bm5DTmdlNl93eTk5eDdMYWJiRDd1OUF1dFo5TVJuVTIzV0JVV2FWRjQtTU1HTWQzSk04MWxjNDNDVVhXZFV2aVc4b1dIQV9LSDR6WnA1UzJhWVRBbE5qeW1HTm5DOElScjNSYmxIcUlLX0JVR0hnOWk5RFJib1hYSlNZaEJoYUE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,6 +125,18 @@
    "pts": 22
   },
   {
+   "key": "bitcoinbrewsastrumpordersandsectokenizationviewssendhypepric",
+   "title": "Bitcoin Brews as Trump Orders and SEC Tokenization Views Send HYPE Price to New Highs - CoinMarketCap",
+   "source": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFAxZmRpVUFtOHBsdlVCaXI4b1VkVmlRbUp2ZlZ1cFo1WEVNcGhTeEd0T09fSDZ3OHpRZTd2eTJxb0VMZGhpQUhqaUp0QllrbEROVWtJN242b0xSRTIzNS1EWlZWS2ViUEtCTEVKYzl4dFNac3UxNDB4ZWxUSU1ickd0QzR2WHdBYU12QXJvNngzbGJfWVFvVg?oc=5",
+   "themes": [
+    "crypto"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trackingtrumptrumpshirksmidtermblamevanceblamesiranwarforgop",
    "title": "Tracking Trump: Trump shirks midterm blame; Vance blames Iran war for GOP losses; Trump says he\u2019ll accept midterm results; and more - The Washington Post",
    "source": "The Washington Post",
@@ -149,18 +173,6 @@
    "pts": 20
   },
   {
-   "key": "usmidtermresultsavictoryforcanadianshopefuloftariffreliefbbc",
-   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbVZEZnp6WGZLRnNHMUdHNTQxNzB3dUUweTBqcEZJV2tIaUYxNTBseHRnZjU0QmdmZFl6M0lwQVhUSVAxUHY3WkpxQUhGZ25LUjFOeWVzb05RLW8?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "boejoinstheratehikeclubaustraliamaybedonealreadyreuters",
    "title": "BoE joins the rate hike club, Australia may be done already - Reuters",
    "source": "Reuters",
@@ -173,10 +185,10 @@
    "pts": 20
   },
   {
-   "key": "interestrateshikedto4infirstincreaseinoverthreeyearsbbc",
-   "title": "Interest rates hiked to 4% in first increase in over three years - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jT1Z0bWhyd0xuUUt4WmhxUl9vdjZfaEo4WVJpZm5tMTRhTUpvQUZxaTVGQXozT1pyQXppckZ2RlFkV05nMTg1WnFSSkZtbXk3SGZieXhVcTc0akE?oc=5",
+   "key": "fedshammacksaysrestrictiveratesneededtocoolinflationbloomber",
+   "title": "Fed\u2019s Hammack Says Restrictive Rates Needed to Cool Inflation - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2c2UERBM24tYnJsM3UxR3pvTG9mYmZNZ0dDN3k4OHp6SUl3aUxKRXZkNlJVeFU4dTFoS1NtSHBZN0xIVG1GRnBNNmxxWU9MWUNWNmhkZXZPT1A5ZHN2RHZRWS1tMmtZV1BzSDJLLWpERnFoZTVLNDFsdWVlaENTdE5UZVZDanpTbTFtNDQ5WHJJYWt1Y0hGNnd5eEhXaVplZWJNcXFXVHpIMXVqa0c5Z2tn?oc=5",
    "themes": [
     "rates"
    ],
@@ -201,18 +213,6 @@
    "title": "House Democrat: \u2018We\u2019re going to have one hell of a donnybrook over ending these tariffs\u2019 - The Hill",
    "source": "The Hill",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "repealthetariffsnationalreview",
-   "title": "Repeal the Tariffs - National Review",
-   "source": "National Review",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PSzR5a0VsdUUza3pGTFI4bEJpX1J4aFlXUk43d19TZm9iU0hCa3FPN2tYbEVMZG5DOGpSLWxNZVlMNTVGd1dtSkd6Y1pKaEdJdUg5aDBldEhvTzlDVldFa3NWVEpIbnJfUnfSAW9BVV95cUxQdmotUlhlREFuMEhRQVc3WURrcXBIWml6emdhSEtodklVRGw4dE1VT1ljNDBrRkdyczc1bHRzYXpNUjFhTGdLYkQ2ZG4td2kzakl3WHY2QjFSWUszUXBlZ29OUmg1RVVXVFIzWVF3Mmc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,43 +248,53 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 81
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 47
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 49
   },
   {
    "sym": "XLE",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 54
+  },
+  {
+   "sym": "FXI",
    "why": "volume not confirmed (0.1x normal)",
    "score": 46
   },
   {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 60
+   "sym": "COIN",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
+  },
+  {
+   "sym": "MSTR",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 35
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "QQQ",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 35
+   "score": 36
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 732 min old)",
+   "why": "stale quote / market closed (last price 776 min old)",
    "score": 53
   },
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 42
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 35
   },
   {
    "sym": "AMD",
@@ -293,8 +303,8 @@
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 38
   },
   {
    "sym": "TSM",
@@ -303,18 +313,18 @@
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 29
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 30
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 27
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 29
   }
  ],
  "paper": {
@@ -328,7 +338,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 04:21 AM AEDT",
+  "last_scan": "Fri 06 Nov 2026 05:05 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
