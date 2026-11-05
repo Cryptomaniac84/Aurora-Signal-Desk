@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 05 Nov 2026 06:56 PM AEDT",
- "fx_audusd": 0.7016,
+ "generated": "Thu 05 Nov 2026 07:51 PM AEDT",
+ "fx_audusd": 0.702,
  "signals": [],
  "events": [
   {
@@ -9,18 +9,6 @@
    "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "debtlimittariffstoplistoflikelydealsintrumpsnewerabloombergc",
-   "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,6 +41,18 @@
    "pts": 30
   },
   {
+   "key": "debtlimittariffstoplistoflikelydealsintrumpsnewerabloombergc",
+   "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump\u2019s New Era - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
    "key": "votershavesentamessagetotrumpontariffsbutthewhitehousestillh",
    "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
    "source": "The Conversation",
@@ -69,6 +69,18 @@
    "title": "Democrats Retake Congress but Trump Still Holds Veto on Wood Tariffs - Wood Central",
    "source": "Wood Central",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0em1CTFdtcENWVS1XczFUTTFJeXdjbVhtUlVwZ2h0YVBkWDIzRzRyS0ZoZDVmUmE3dDhnU3ROLXNXMGZRbGVnemZfd1hFSFc5Mk5HeDlsTThjQlcyVnVLZlBISm5iSDgyNU5hLUEtTQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratstakecongresseyereversaloftrumptariffstaiwanseconomy",
+   "title": "Democrats Take Congress, Eye Reversal of Trump Tariffs; Taiwan's Economy Minister Says Two-Thirds Threshold Hard to Clear - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NcWRRd3Bwd2VyVGJCSkJzNzJCQldjeTQzWFd6aXh0a2FYRnFlUW9vczhjSFJhbGRDbExCRkk5bUVxUjZOLXZqclR2Q0VNTkdYeUpEZkJUOFdiNTBOdjdSLXpEeTQwbEZycjBXMWtmcElhM05BVFE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,10 +137,10 @@
    "pts": 22
   },
   {
-   "key": "democratswincongressbuttrumpstariffpowerssurvivethevetowallb",
-   "title": "Democrats Win Congress, but Trump's Tariff Powers Survive the Veto Wall - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WaFExZWMxenpHWjNUQWpBZXpnaGk0aGozUEJoMlRyTXVqb1llRVlva2hmODlWaDlBRnlseGhLRXJfdTY3bXRPX3liU3hfNWVqTE5hTGlGSmFrZW1jcVRzT3F3dTlFV3ZfM1J4S2FYZS1GaDhFM2c?oc=5",
+   "key": "zelenskyawardsmelaniatrumpukraineshighesthonorforwomenafterb",
+   "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -143,18 +155,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1l1TVlyYnRlRU1SYWF1YWxpMkI5NV96aWFCM2QyQ0pjdllMZU53NzVYTmEwM1VWcUFIdEpkaVBNcDFsSi10QUh1N2RFRFBsQkprWXpOWXVXX1VULWRXdktaNHFhbVpGSU1hLU0yankzcXYyXy1fS3l6UHRyaGR1T1VmU1VlaTFZTHlPVWlGWQ?oc=5",
    "themes": [
     "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "zelenskyawardsmelaniatrumpukraineshighesthonorforwomenafterb",
-   "title": "Zelensky awards Melania Trump Ukraine's highest honor for women after brokering Oleshky ceasefire - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdFotNkNza2pjeEJZQVU0M01GempGbzZEYTF0QTk0NXFoUm1KMHdOdXVEXzh3Sk9ZR3dDbGhSVUNqbGxnb2xUZG1iMjhjenh4alktSndnVmM1ZndBN2Fz?oc=5",
-   "themes": [
-    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -197,10 +197,10 @@
    "pts": 20
   },
   {
-   "key": "czechssetforsecondratehikethisyearaspriceriskspersistbloombe",
-   "title": "Czechs Set for Second Rate Hike This Year as Price Risks Persist - Bloomberg.com",
+   "key": "rbashausersayssolidpublictrustsurprisingamidratepainbloomber",
+   "title": "RBA\u2019s Hauser Says Solid Public Trust \u2018Surprising\u2019 Amid Rate Pain - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnJ0bEdVYUVTTnBiQjNib2ZNa3I3S0h3Sk90a3BQMkF4ZUNsem81TkhOZUI1N2p4NVcwTUdUcEgwcEZ6WklWUTIzNFAxN3M0aVlJSWk1RXBFV2NfR2FYR1luRjVHaktFWTJyVW1vdUlvSE5HMG5CSmt1a201X0RvRlc0WDhRaHB3S2ltb0VIdVpQZkJSNlhYaFhqcDJ0cEJpYm4ycVYzQnVaQ040TVZFNUlXdUo0UQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUFSXzZiU2F1ZG5CMlNJd0VfMnVzV2ZEWFIwUklqTE11TG5YYjZFRUY1NE9ZbW1xdlBSenVZYXhfWVhiUVRBLVZBSk1ocjJmeTVxVTVzeUtGRFFyb2J4Um5XSzljWExvZ2x6QWU1d1UyNy1SUkRYcWh2MWVsV2FKM2c2Mm1iUHZKMmhad2tDdlo5blRoTGFzYXhIWnFiMWpVZlNHUl95SUl0QWFSQXdEQlJwYw?oc=5",
    "themes": [
     "rates"
    ],
@@ -222,6 +222,18 @@
    "pts": 20
   },
   {
+   "key": "malaysiaholdsratesvowsvigilanceasinflationpressuresgrowbloom",
+   "title": "Malaysia Holds Rates, Vows Vigilance as Inflation Pressures Grow - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUVzNHNfcXF5REhKbnI1Sm5mMVdFWENQQWtNQ05QVk5oZDN5MDA4UWdtdEtYdngwd1k4Z0VTalBHOXpoS2cyMGhqRmM2OHY1ZFhJVmM1RlZfLUlSNXlBM3p1VjJWaFRmZk81bDhnYVU5TEZ2VTNURWNHMy0xb3FuWUdVaE1KZTNBSnZsRnI1WjhJRi0yWjVjeWpUbGREZ0JYN0xVUFBRVmZnRmtwMWdob0ZjaXc?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "howtariffsbecamethemillstonethatsankthegopthedispatch",
    "title": "How Tariffs Became the Millstone That Sank the GOP - The Dispatch",
    "source": "The Dispatch",
@@ -232,99 +244,87 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "redwiresecures20millionusdefencecontractforvleospacecrafttes",
-   "title": "Redwire secures $20 million US defence contract for VLEO spacecraft testing - FlightGlobal",
-   "source": "FlightGlobal",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWp2RU90VDdqSVhxdUxVMm02Nk5EeUJaTHBUTDEtNGNxNUlJazNidTlUNGFIVUFublk1UHhQakZqeXFCa2RlcGh3T1hNTDVJUVU2TUxRWUZEZTBYcEY3WUFxUlFzNllNSldCaXFQS1RBYVBMSlQ2WFpzc1FSUHVGRVUzRWdsUWtwQ081Z3ZXdFNKQjdvWDNVNmRwOXlmRnlNWm9qdno5LTFBX0g0eWV0dGJid0xtZmVRVnhFVg?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 96
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 72
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 80
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 72
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 165 min old)",
+   "why": "stale quote / market closed (last price 219 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 165 min old)",
+   "why": "stale quote / market closed (last price 219 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 711 min old)",
    "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 167 min old)",
+   "why": "stale quote / market closed (last price 222 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 712 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 712 min old)",
    "score": 72
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 657 min old)",
+   "why": "stale quote / market closed (last price 712 min old)",
    "score": 47
   }
  ],
@@ -339,7 +339,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 05 Nov 2026 06:56 PM AEDT",
+  "last_scan": "Thu 05 Nov 2026 07:51 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
