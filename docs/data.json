@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 08:51 PM AEDT",
- "fx_audusd": 0.6878,
+ "generated": "Fri 06 Nov 2026 09:51 PM AEDT",
+ "fx_audusd": 0.687,
  "signals": [],
  "events": [
   {
@@ -41,10 +41,22 @@
    "pts": 22
   },
   {
-   "key": "blockingeudealakintotrumptariffscoalitionwarnedthenightly",
-   "title": "Blocking EU deal akin to Trump tariffs, Coalition warned - The Nightly",
-   "source": "The Nightly",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlFucWhyRUdZSmNHaW04S3E0aUpDYmtER1FYQ2lha2tqUFRGOGx2em82Z3NOc3pMX1BDVVJVNGtmcE8tcHIwZ19IX1JoSGl1dHJNNWtEeXdfckdLbDFFSzkwWkZqaEE4WVpJNHpiV3JiSGVCcDZ6ek9Ed0cxbzduRWpvZHV2QUF4ZXgwWDQ1Mk5Da01wNWFHZFgyWjU2Rm1IY05XRUViblF6Y0RYWHFtWksxYzB2MHdwdExMa29teDRlbTU1SElZV0k5ay1wUEFyYnY0a3VqcGt2dXFpQnZ6OXlNSQ?oc=5",
+   "key": "thecountriesfightingbackagainsttrumpstarifftiradedwcom",
+   "title": "The countries fighting back against Trump's tariff tirade - DW.com",
+   "source": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "opiniontrumpstariffshavefailedbringbackreaganomicsthenewyork",
+   "title": "Opinion | Trump\u2019s Tariffs Have Failed. Bring Back Reaganomics. - The New York Times",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,30 +101,6 @@
    "pts": 22
   },
   {
-   "key": "newtiradedatabaselogseverytariffratetrumphasannouncedbrownda",
-   "title": "New TiRADE database logs every tariff rate Trump has announced - Brown Daily Herald",
-   "source": "Brown Daily Herald",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkVlTC1KNG9jbWh2Y2o0WGtKRWNzaHZlb1FjVEd2Z0M5X1NFMXFqWUlDZm9MU09GWEVwYkdXQkQyY0xtV3FCSE16R3p6YS1pdktNampiRW4wcjc2OHZCYkNRaFVhd01VaUg3REZPdzRNclAxXzZPb2R0SEZha0QwM0ZmUzNzbUJzaHc3Tk9fMkJmUkxsTU5ONExJUjhtWUhiQ3VZUlVJcEJzOXVVc1JKa1RB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "whydemocratswinwontstoptrumpstariffsintrafish",
-   "title": "Why Democrats' win won't stop Trump's tariffs - IntraFish",
-   "source": "IntraFish",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDV0aXRtMFE4QWI2eG9wbVdGeW93eUFBOGxUUTlvM2xDUzFnQy0yU2oxSXQ5b2ducThxd1RLRE8yWEhIaGQ1cGJ1MVBlS2lpWWVBSVBLRUZXaGNaV1plVF9mRzhtUkwycVFHZE0xVTB5NUQ3ZnhHcW5JZVA1cXcwNjB2aGFfNEpFc016N2NsYw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "usaskstokeepcollectingtrumpstariffsaftercourtlossenergynowco",
    "title": "U.S. Asks to Keep Collecting Trump\u2019s Tariffs After Court Loss - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -137,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "whathappenstotrumpstariffsafterrepublicanmidtermdefeattempoc",
-   "title": "What Happens to Trump's Tariffs After Republican Midterm Defeat? - Tempo.co English",
-   "source": "Tempo.co English",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHQ5N1FheWV5czdIc0I2MjU3OHBFTUFBcEIyZGlTbHp5RkdRUnB6anJIaXplZlBxd2V3QUhHSnFvUEc3QnhxSnlXS3pYejd5MEJ5WGhLQ3pxZzllZEVPNS1fUzFaY2R5cTB0LXFZY3FNOHpIVXVfUEJ6R2NjOFJ0dXBNZGNveWhvSEZaTnc3Mm9BbWRFUzJld1Y5UQ?oc=5",
+   "key": "republicansranawayfromtrumpscanadiantariffsbutnotfarenoughcb",
+   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -233,12 +221,24 @@
    "pts": 20
   },
   {
-   "key": "chineseailabmoonshotturnedtoeuropefornvidiablackwellaccessam",
-   "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
+   "key": "democratsweepgivesmarketsareasontorethinkpathofinterestrates",
+   "title": "Democrat sweep gives markets a reason to rethink path of interest rates - CNBC",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYUR5bm45MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3RHgxZlF1ZldtN0lvM29RYTlsbllhX2JzSGxaQXFneWRUY0FjZzhUaUl4SjBBOGhrdmMtcnYzVVRQSGZzNUxGYm9OaG9lMEJ0OGk5bE1xS2VYOUNZOFFTNWhiVW5mcWdWQ3dDbFdfSWpkS2MxMkZqUVgyMNIBgAFBVV95cUxNRjNCcERobUpSbDExQlEtQUlfUDQyT2ZCSi15NTFKbnJWNnptZEJkWDV3NjJLQVVaejdEcDJpTF8tSzZ1Q2NhbmNBX2RkUVdCRlJ1VUUxUUZtZkFWN2VPNlU5V25nS0JfTWRnTnRMZXBkMWV0RXR2ODl6czNxcnRheA?oc=5",
    "themes": [
-    "semiconductors"
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "angolascentralbankexpectssingledigitinflationtolastbloomberg",
+   "title": "Angola\u2019s Central Bank Expects Single-Digit Inflation to Last - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXNNSDdNcEVZMXhQTlNkajZFSmJwX3JNbFktYnZhZnB2WmJMTkhydEJ2bng2YXcyMGY2SG5IM3dzR1hlLVlaZWRNMkt1TldVLUVuUFk3RVYxZlI3ZlNfUzB2QUdkSV9nUnJzVG9LdU42QU1QcUtDXzVfTFY5WndlaE9XVk5XUGRnLXkzVHdnWWlPTTNYODBIZkdNVmY1WVZaOVRyQzROZWIxT0dldENpMw?oc=5",
+   "themes": [
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -248,112 +248,112 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 85
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 280 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 77
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 280 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 77
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 282 min old)",
+   "why": "stale quote / market closed (last price 342 min old)",
    "score": 57
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 280 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 84
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 82
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 53
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 54
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 772 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 832 min old)",
+   "score": 41
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 280 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 772 min old)",
+   "why": "stale quote / market closed (last price 832 min old)",
    "score": 62
   }
  ],
@@ -368,7 +368,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 08:51 PM AEDT",
+  "last_scan": "Fri 06 Nov 2026 09:51 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
