@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 10:50 AM AEDT",
- "fx_audusd": 0.6931,
+ "generated": "Fri 06 Nov 2026 11:39 AM AEDT",
+ "fx_audusd": 0.6943,
  "signals": [],
  "events": [
   {
@@ -17,22 +17,10 @@
    "pts": 30
   },
   {
-   "key": "democratsgaininfluenceovertradeagendabuttariffrepealstohittr",
-   "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumpstariffsaftertheusmidtermswhatchangesforaustraliaandauk",
-   "title": "Trump\u2019s tariffs after the US midterms: What changes for Australia and AUKUS? - The Times Australia",
-   "source": "The Times Australia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzlWTGNpRWZzb2d3QmZZM0dWeFg3X1NDd2xBV3pzR3FfWlJUZ0kybG8tb3pjRE9GcmJLV3Uzd251VG9XMUhSTG9ROVNUUGZBYnNFRGpSQXF1VWpKMk5Qalc2cFB2S1d4bXd0Q2NmTUhrWjhHWkpPZXJGRTZPa0NHVi1udlM4dF9FdFhnN1VvN2c1Qmh1Q3VrcWp3SzFycE9ZU1BGVDlaNng4UkpZZkE?oc=5",
+   "key": "votershavesentamessagetotrumpontariffsbutthewhitehousestillh",
+   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+   "source": "The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,10 +29,10 @@
    "pts": 22
   },
   {
-   "key": "votershavesentamessagetotrumpontariffsbutthewhitehousestillh",
-   "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
-   "source": "The Conversation",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+   "key": "trumpstariffsaftertheusmidtermswhatchangesforaustraliaandauk",
+   "title": "Trump\u2019s tariffs after the US midterms: What changes for Australia and AUKUS? - The Times Australia",
+   "source": "The Times Australia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzlWTGNpRWZzb2d3QmZZM0dWeFg3X1NDd2xBV3pzR3FfWlJUZ0kybG8tb3pjRE9GcmJLV3Uzd251VG9XMUhSTG9ROVNUUGZBYnNFRGpSQXF1VWpKMk5Qalc2cFB2S1d4bXd0Q2NmTUhrWjhHWkpPZXJGRTZPa0NHVi1udlM4dF9FdFhnN1VvN2c1Qmh1Q3VrcWp3SzFycE9ZU1BGVDlaNng4UkpZZkE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +89,34 @@
    "pts": 22
   },
   {
+   "key": "candemocratschallengetrumpstariffsonchinamodernghana",
+   "title": "Can Democrats challenge Trump\u2019s tariffs on China? - Modern Ghana",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ER3RmWmhFc0NPV2U5XzhoaUlSREV1RDMyd3FiVV9zeGZQeHNuMnhUSFEwUk5KSTk4THRPTzN5LVRxODhkLUY2S2VxQlFjTTRORTVzaF9UUXluOXRmSThYOdIBXEFVX3lxTFBoVHl3OXhNSFp4TF9LME5oMWJxTi01WGFpS0hsbmJDdi1hZzRmbWo4RGlBN0R4WC0ydC12dVhoRkMwRGdlWGJHd192clI3TWw2Ni1RT0NGQU1xLVRv?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "elsayedwillingtoworkwithtrumptoendstupidtariffsoncanadacbc",
    "title": "El-Sayed willing to work with Trump to end 'stupid tariffs' on Canada - CBC",
    "source": "CBC",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5TEdxWkduSTgzTl9QaTk1MGw5YnhGaTdsajIyRFduanhIT1diVlR4TVgxMHRsSUlfdG9uRXUyWnNaVXpfMFJzelBVR2thQ1RPS0RkelFiTWRfdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "jamesmooretrumpandtariffshadabadnightatariffdealmakeslittles",
+   "title": "James Moore: Trump and tariffs had a bad night. A tariff deal makes little sense now - CTV News",
+   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEsyQ2UzbVdPVWVWS0szZXZXb09UWHJJWkVBUy1FbkhoXzdGZ2g1U1JKYjRuX0xkRTVvOVNfQWdCdV9na2JmSDQwWWNzZVVrWjFKTmZxMV9ZVDZnakFfbnlfUkpHM2pEWHRpVFVKajh2R0hwcHBqeS04QkJCZ3N6MWJUaV80S2Z6bHBXUVJIZnFGV0hiTEdPbGVkMjdnZ1ZiWVdLUndxbGZYWnFPX3pySUdOdUlpcDhCdVFkMzNvdWhERHVtYU96M0RCbUUyWEZR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,6 +173,18 @@
    "pts": 22
   },
   {
+   "key": "trumpsmidtermlossmayhardenchinapolicyontaiwanchipsasiatimes",
+   "title": "Trump\u2019s midterm loss may harden China policy on Taiwan, chips - Asia Times",
+   "source": "Asia Times",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHdLczgwVTVTWTBzWWoxVEZ4UXUwakItZVVSYWtHcjBLWXl0ZUFsVVhPSklqakl1YzlDMlkza2xIZU5hQldmOE0yUThKRHhuUDZacDlmb0FyU0pmRW5GY2ctRlc0NVk5Wjd3NWxuMFZ6Mnh1Q3RucUFmN0RXeF9BelVxTTlvMkgycHZmM2drSEtGc0R4?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "carneysustradeministerwarnsbluewavedidntwipeouttariffwarbloo",
    "title": "Carney\u2019s US Trade Minister Warns Blue Wave Didn\u2019t Wipe Out Tariff War - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -197,30 +221,6 @@
    "pts": 20
   },
   {
-   "key": "fedshammacksaysrestrictiveratesneededtocoolpricesbloombergco",
-   "title": "Fed\u2019s Hammack Says Restrictive Rates Needed to Cool Prices - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2c2UERBM24tYnJsM3UxR3pvTG9mYmZNZ0dDN3k4OHp6SUl3aUxKRXZkNlJVeFU4dTFoS1NtSHBZN0xIVG1GRnBNNmxxWU9MWUNWNmhkZXZPT1A5ZHN2RHZRWS1tMmtZV1BzSDJLLWpERnFoZTVLNDFsdWVlaENTdE5UZVZDanpTbTFtNDQ5WHJJYWt1Y0hGNnd5eEhXaVplZWJNcXFXVHpIMXVqa0c5Z2tn?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "boeleavesdooropentofurtherraterisesamidfearsofentrenchedinfl",
-   "title": "BoE leaves door open to further rate rises amid fears of entrenched inflation - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlZ5T3EzQ016ckR4WjBiOEp1Zk1keVBrV3ExeUR1V0dkZWRGaEVjU1VEVUh5OEMtYjhSSVNBZ2h5dmNQUmtNTEQ0aUc1VlBZV21sSnpIcmdlZ1d4dnNFTjJHSjdoXzc1bUhYUlIycUFxWVY4TkNkc1FiUjRZYmdmdk5oUE8?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "chineseailabmoonshotturnedtoeuropefornvidiablackwellaccessam",
    "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
    "source": "CNBC",
@@ -248,132 +248,132 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 51
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 56
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 77
   },
   {
    "sym": "BHP.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 45
+   "score": 67
   },
   {
    "sym": "RIO.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 39
+   "score": 65
   },
   {
    "sym": "FMG.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 39
+   "score": 84
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 21 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 54
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 82
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 46
+   "score": 39
   },
   {
    "sym": "STO.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 38
+   "score": 39
+  },
+  {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 220 min old)",
+   "score": 40
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 220 min old)",
+   "score": 43
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 220 min old)",
+   "score": 49
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 220 min old)",
+   "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 54
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 40
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
    "why": "stale quote / market closed (last price 20 min old)",
-   "score": 55
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 171 min old)",
-   "score": 38
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 171 min old)",
-   "score": 41
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 171 min old)",
-   "score": 47
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 171 min old)",
-   "score": 55
+   "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 171 min old)",
+   "why": "stale quote / market closed (last price 220 min old)",
    "score": 62
   }
  ],
@@ -388,7 +388,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 10:50 AM AEDT",
+  "last_scan": "Fri 06 Nov 2026 11:39 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
