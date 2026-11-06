@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 04:22 AM AEDT",
- "fx_audusd": 0.6869,
+ "generated": "Sat 07 Nov 2026 05:10 AM AEDT",
+ "fx_audusd": 0.6864,
  "signals": [],
  "events": [
   {
@@ -41,10 +41,10 @@
    "pts": 22
   },
   {
-   "key": "democratsarehatchingplantoreversetrumpscanadatariffstheaustr",
-   "title": "Democrats are hatching plan to reverse Trump\u2019s Canada tariffs - The Australian",
+   "key": "pmtolobbytrumpoverirantariffstheaustralian",
+   "title": "PM to lobby Trump over Iran, tariffs - The Australian",
    "source": "The Australian",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSDBfX0lWUVNhczV1bEN0NEtrYXJXUWNSWER2UldDTkFrSTNSLTN6elpLRk9GQXllbWVpNmJFYzVxWFBmT1V2S1NJUm9YQ3pvd3dKVnd4SzN6VVJHS0JhMHVpVmtoVlVMNGJOdTBmNnNNczAzcWVsaXVPTXh6LXUtVXBKZEVtc2VaUmdUelNSTjFPS3NwUFYzWGdpY1ZkNFdoMlYtX2FDRVJ0NTY5N0RBMGFYRjZpc1EyU0lHc3pYaThETV95MF8zTzVyZFQtSDVwTV9HbjhNSldfOTdjNXRydl8xMkplYjg3dTZhTUVVakp2MUxjYTNyS09XZ1BHSTA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWXhCTTlqaU1TdmtYblhJd1FHODFCNjVBWFliWlpqTVpNMENFMzZYeFVoN2tJc19PQ3BCZjJZT3dSRHJibEhVcWtnb1BIaVBNR0VXRTRNdGxnS3ktWFJBQ0tGOGdNS3B5czg0cUk1d01uanVtekQ4ZzBjQkc4QWRVcjVKbjItMzJycjFVZG9ENFdoQlczNUZBQ3ZUNVJXMHYtMHJKMF90NlJPSC1hX3Vmd2JQeXRZZkNqdGlRemM5SHJSVUlzbU0yLUZWMkZuMHVEb1RjU0wwQkZpX0RvN2s2M2c5eERUdUhQMmd0VUFjdVFrRF96MDROYWwxdXBldkQ1TGFLamR1QTZWMWtYSjN3a3RlV09sai1W?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,10 +65,22 @@
    "pts": 22
   },
   {
-   "key": "opiniontrumpstariffshavefailedbringbackreaganomicsthenewyork",
-   "title": "Opinion | Trump\u2019s Tariffs Have Failed. Bring Back Reaganomics. - The New York Times",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
+   "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
+   "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LODFKYXBaaFVGZV9fWWtTSXVNSGYxaHFxTFU3RjlUOU1zLXZMcXM2cURwbzh5QVlnTTlDY3Nmcjg3WlZOcWdUdXVMQVFyV0ZudG13RXF2UVdkZXpFbTVF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thecountriesfightingbackagainsttrumpstarifftiradedwcom",
+   "title": "The countries fighting back against Trump's tariff tirade - DW.com",
+   "source": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,22 +113,10 @@
    "pts": 22
   },
   {
-   "key": "thecountriesfightingbackagainsttrumpstarifftiradedwcom",
-   "title": "The countries fighting back against Trump's tariff tirade - DW.com",
-   "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
-   "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LODFKYXBaaFVGZV9fWWtTSXVNSGYxaHFxTFU3RjlUOU1zLXZMcXM2cURwbzh5QVlnTTlDY3Nmcjg3WlZOcWdUdXVMQVFyV0ZudG13RXF2UVdkZXpFbTVF?oc=5",
+   "key": "tedcruzslamstrumpstariffsandsaysiranwarneedstoendhoustonchro",
+   "title": "Ted Cruz slams Trump's tariffs and says Iran war needs to end - Houston Chronicle",
+   "source": "Houston Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2F5bE9YaU8ySnpNaUhMOXhIaU54VDJjZVdxYXFPSVI4SVliZTdxZzFETkJGN2piTHFqUnFnSHRIM3dDWjBXZTVQdy1WZ3BLcXZOOG5NQkZ0dk1tdE85LThSWTE4VXlGZFFGTG1QU2lCQzR2Y2dWakdMTTNHYTJFdXM3RThyN3B6TFdvQVdoUlBzb3dmOVUzS3FyUjJCUjZNbV8xQlhsYWdXamJhUEw0Qk9iWWFTR2N6OXc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -141,18 +141,6 @@
    "title": "Democrats pledge to repeal Trump's tariffs on Canada, but lack the votes to override his veto - Yahoo! Finance Canada",
    "source": "Yahoo! Finance Canada",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGtQUHA2V3hxc05QV1JZdkFROV9lZDU0SklXUlNiV2c0LS1kYWUxQmNyVU1CVVpfWk9GZmpzSHhjYjJMY3hCZnl6MEpMWS1zRXNQeUJKS0N3Mms4TzRyUXRsY1FSdGxHQ2Z1VjVfNmxBUFRZT3MwU2Y0Q2lUc1VSMGtpckkxR2VBeVh2S0JqUkw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffsaftertheusmidtermswhatchangesforaustraliaandauk",
-   "title": "Trump\u2019s tariffs after the US midterms: What changes for Australia and AUKUS? - The Times Australia",
-   "source": "The Times Australia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzlWTGNpRWZzb2d3QmZZM0dWeFg3X1NDd2xBV3pzR3FfWlJUZ0kybG8tb3pjRE9GcmJLV3Uzd251VG9XMUhSTG9ROVNUUGZBYnNFRGpSQXF1VWpKMk5Qalc2cFB2S1d4bXd0Q2NmTUhrWjhHWkpPZXJGRTZPa0NHVi1udlM4dF9FdFhnN1VvN2c1Qmh1Q3VrcWp3SzFycE9ZU1BGVDlaNng4UkpZZkE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -244,98 +232,110 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "bojsuedasaysunclearhowlong2inflationratewillremainbloombergc",
+   "title": "BOJ\u2019s Ueda Says Unclear How Long 2% Inflation Rate Will Remain - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGtUcFRNdmZqZ2VBWW9FQ3c1R043Yk9JY1JiMHU3ZzdNMVZrVVZsLWxMZE5fM1B1VDRPbGpmdkhLUEN6MEtHb1VrNUEtUWVEcE9EOWxZT3ZXMWJ3WFdwUmk5LUg5eEVpa0tvSmZKcnhRc09uTGZCbDVfZDBFY3BXMEFCR1JSZkVzdE16eXVMU3NDbHpRdVFfSzlPVUR0dkVSbVNSQk51TkNjRWxNOFEwSEF3?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "score": 61
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 82
-  },
-  {
-   "sym": "XLE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 81
-  },
-  {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
-  },
-  {
-   "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 731 min old)",
-   "score": 77
-  },
-  {
-   "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 731 min old)",
-   "score": 77
-  },
-  {
-   "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 733 min old)",
-   "score": 57
-  },
-  {
-   "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 731 min old)",
-   "score": 84
-  },
-  {
-   "sym": "GDX",
    "why": "volume not confirmed (0.2x normal)",
    "score": 73
   },
   {
+   "sym": "XLE",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 46
+  },
+  {
+   "sym": "FXI",
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 45
+  },
+  {
+   "sym": "BHP.AX",
+   "why": "stale quote / market closed (last price 779 min old)",
+   "score": 77
+  },
+  {
+   "sym": "RIO.AX",
+   "why": "stale quote / market closed (last price 779 min old)",
+   "score": 77
+  },
+  {
+   "sym": "FMG.AX",
+   "why": "stale quote / market closed (last price 781 min old)",
+   "score": 57
+  },
+  {
+   "sym": "PLS.AX",
+   "why": "stale quote / market closed (last price 779 min old)",
+   "score": 84
+  },
+  {
+   "sym": "GDX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
+  },
+  {
    "sym": "NVDA",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 52
+   "score": 37
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 37
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 71
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 51
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 53
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 731 min old)",
+   "why": "stale quote / market closed (last price 779 min old)",
    "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 731 min old)",
+   "why": "stale quote / market closed (last price 779 min old)",
    "score": 82
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 71
   },
   {
    "sym": "LLY",
@@ -345,37 +345,22 @@
   {
    "sym": "PFE",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 51
+   "score": 36
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 71
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 35
   },
   {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 70
+   "score": 35
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 731 min old)",
+   "why": "stale quote / market closed (last price 779 min old)",
    "score": 43
-  },
-  {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 67
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
   }
  ],
  "paper": {
@@ -389,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 04:22 AM AEDT",
+  "last_scan": "Sat 07 Nov 2026 05:10 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
