@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 03:38 PM AEDT",
- "fx_audusd": 0.6903,
+ "generated": "Fri 06 Nov 2026 04:38 PM AEDT",
+ "fx_audusd": 0.6891,
  "signals": [],
  "events": [
   {
@@ -45,6 +45,18 @@
    "title": "Blocking EU deal akin to Trump tariffs, Coalition warned - The Nightly",
    "source": "The Nightly",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlFucWhyRUdZSmNHaW04S3E0aUpDYmtER1FYQ2lha2tqUFRGOGx2em82Z3NOc3pMX1BDVVJVNGtmcE8tcHIwZ19IX1JoSGl1dHJNNWtEeXdfckdLbDFFSzkwWkZqaEE4WVpJNHpiV3JiSGVCcDZ6ek9Ed0cxbzduRWpvZHV2QUF4ZXgwWDQ1Mk5Da01wNWFHZFgyWjU2Rm1IY05XRUViblF6Y0RYWHFtWksxYzB2MHdwdExMa29teDRlbTU1SElZV0k5ay1wUEFyYnY0a3VqcGt2dXFpQnZ6OXlNSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratsarehatchingplantoreversetrumpscanadatariffstheaustr",
+   "title": "Democrats are hatching plan to reverse Trump\u2019s Canada tariffs - The Australian",
+   "source": "The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSDBfX0lWUVNhczV1bEN0NEtrYXJXUWNSWER2UldDTkFrSTNSLTN6elpLRk9GQXllbWVpNmJFYzVxWFBmT1V2S1NJUm9YQ3pvd3dKVnd4SzN6VVJHS0JhMHVpVmtoVlVMNGJOdTBmNnNNczAzcWVsaXVPTXh6LXUtVXBKZEVtc2VaUmdUelNSTjFPS3NwUFYzWGdpY1ZkNFdoMlYtX2FDRVJ0NTY5N0RBMGFYRjZpc1EyU0lHc3pYaThETV95MF8zTzVyZFQtSDVwTV9HbjhNSldfOTdjNXRydl8xMkplYjg3dTZhTUVVakp2MUxjYTNyS09XZ1BHSTA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "whathappenstotrumpstariffsafterrepublicanmidtermdefeattempoc",
-   "title": "What Happens to Trump's Tariffs After Republican Midterm Defeat? - Tempo.co English",
-   "source": "Tempo.co English",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHQ5N1FheWV5czdIc0I2MjU3OHBFTUFBcEIyZGlTbHp5RkdRUnB6anJIaXplZlBxd2V3QUhHSnFvUEc3QnhxSnlXS3pYejd5MEJ5WGhLQ3pxZzllZEVPNS1fUzFaY2R5cTB0LXFZY3FNOHpIVXVfUEJ6R2NjOFJ0dXBNZGNveWhvSEZaTnc3Mm9BbWRFUzJld1Y5UQ?oc=5",
+   "key": "newtiradedatabaselogseverytariffratetrumphasannouncedbrownda",
+   "title": "New TiRADE database logs every tariff rate Trump has announced - Brown Daily Herald",
+   "source": "Brown Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkVlTC1KNG9jbWh2Y2o0WGtKRWNzaHZlb1FjVEd2Z0M5X1NFMXFqWUlDZm9MU09GWEVwYkdXQkQyY0xtV3FCSE16R3p6YS1pdktNampiRW4wcjc2OHZCYkNRaFVhd01VaUg3REZPdzRNclAxXzZPb2R0SEZha0QwM0ZmUzNzbUJzaHc3Tk9fMkJmUkxsTU5ONExJUjhtWUhiQ3VZUlVJcEJzOXVVc1JKa1RB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,22 +149,10 @@
    "pts": 22
   },
   {
-   "key": "trumpmediajustmoved342millioninbitcoinsparkingfreshspeculati",
-   "title": "Trump Media just moved $342 million in Bitcoin, sparking fresh speculation - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3U3YzVvbW1Vcy1uN1A0RUpCUm05NE5YZl9lSGxkQ094Qms5WUs2VnNKU3BfOXQ2ZktXNW9BZmtKWkVlUEw2LVlqcXFxNVVrQWJBYzhOXzM4OEs4djNhZ2t6VFNjTWgyXzQ4QlY2WHFQYkV5dm9xRzdUNHBuSTdsMFFETTFHNUxPaEJMVDFtVW9SalVpTGc?oc=5",
-   "themes": [
-    "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "melaniatrumpjoinsrussiaukraineofficialsatwhitehouseeventtoma",
-   "title": "Melania Trump joins Russia, Ukraine officials at White House event to mark Oleshky ceasefire - The Globe and Mail",
-   "source": "The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWRKVXNHY2ZTTmhXTEwzcTIweUlJX095V3dNTWUtd2ZOZFlXNElnaFRzaU1HVUE3cXdWa2poN005eEFJTEd6bW9JVlBhbXJUYTlGX2VDOGxtaFRMLW94Wm5mSlFtbW5aNUNUZV9ZLW4xcjNCTUJEY2RHY1ViZF84Zy0yWkU2bzdiYk5pM1hPMjY0TkNs?oc=5",
+   "key": "putinspecialenvoyspeaksatwhitehouseeventonoleshkyceasefireme",
+   "title": "Putin special envoy speaks at White House event on Oleshky ceasefire Melania Trump helped broker - Sun Sentinel",
+   "source": "Sun Sentinel",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWThON0o1SnhsMVFmQlprWHZmNklHYmtabk5MSC1PNlNCbmZfRjNfQUJyRW81d2JtVEV2Sk1RbWprb3NRRkNBd1pQNzVza1BzdHRmMjFhWjdRZEF1ZHJHclg5MWJ5Y3VVbWdXOGMzb1FsTzM1OVBwNlhTaWRIT3psamNMY21XMnduSDB2TG5BVQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -197,6 +197,18 @@
    "pts": 20
   },
   {
+   "key": "australiascentralbankwarnspublicconfidenceininflationfightis",
+   "title": "Australia's central bank warns public confidence in inflation fight is slipping - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGoxb0Zyc2VyS0cyNU1KRlFjM2tzZGtoaGNHTHhpYkpFN1M2Y0w5TGhkUDAtUWwwcDVKem9PNG5Lb2p4N2Q0dk5mMThnNVlCcy15RDMwOWMySTRVQzd2TnBNTzFiZFpQWW5PRkpXYUE0Y01jaDRPbmRsLXh6X1hJRm9EY2RxTjRsa2lCSXI5Q241a0l5T2E4UFpWejZjZnZNRWZHaHB3VHAtWFFOek1fTVpSOFBYQjJwVlNyUmRNOVdBeWFGRDZLVVhB?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "chineseailabmoonshotturnedtoeuropefornvidiablackwellaccessam",
    "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
    "source": "CNBC",
@@ -207,18 +219,6 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "housedemocratweregoingtohaveonehellofadonnybrookoverendingth",
-   "title": "House Democrat: \u2018We\u2019re going to have one hell of a donnybrook over ending these tariffs\u2019 - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   },
   {
    "key": "howisraeltariffsandimmigrationimpacted3usmidtermracesforeign",
@@ -233,10 +233,10 @@
    "pts": 12
   },
   {
-   "key": "arekoreanantitrustactionsretaliatorytariffsindisguisecompeti",
-   "title": "Are Korean antitrust actions retaliatory tariffs in disguise? - Competitive Enterprise Institute",
-   "source": "Competitive Enterprise Institute",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHd5WE1FR0VwS3JFSjNTTUVPVlNYVzhrcVhtNDc4c2pCYnJGekdCWVphV3FxcG16RXg1TDd4SmY4NG0wcVdTN19BRU5UeE9XZ01TUFNxa2V1aDMzbDF4ZlFRamhSYWs4Zi1VaEFzYUZmSTFXSkVpTDVQWENBMXUyakp5dG1LLVFFUFE?oc=5",
+   "key": "housedemocratweregoingtohaveonehellofadonnybrookoverendingth",
+   "title": "House Democrat: \u2018We\u2019re going to have one hell of a donnybrook over ending these tariffs\u2019 - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,122 +248,112 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 85
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 27 min old)",
+   "score": 77
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 73
+   "why": "stale quote / market closed (last price 27 min old)",
+   "score": 77
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 75
+   "why": "stale quote / market closed (last price 44 min old)",
+   "score": 54
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 76
+   "why": "stale quote / market closed (last price 27 min old)",
+   "score": 84
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 82
   },
   {
-   "sym": "COIN",
-   "why": "stale quote / market closed (last price 458 min old)",
-   "score": 57
-  },
-  {
-   "sym": "MSTR",
-   "why": "stale quote / market closed (last price 458 min old)",
-   "score": 55
-  },
-  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 53
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 54
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 458 min old)",
-   "score": 41
+   "why": "stale quote / market closed (last price 519 min old)",
+   "score": 49
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 63
+   "why": "stale quote / market closed (last price 27 min old)",
+   "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 458 min old)",
+   "why": "stale quote / market closed (last price 519 min old)",
    "score": 62
   }
  ],
@@ -378,7 +368,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 03:38 PM AEDT",
+  "last_scan": "Fri 06 Nov 2026 04:38 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
