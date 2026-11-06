@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 07:45 PM AEDT",
+ "generated": "Fri 06 Nov 2026 08:51 PM AEDT",
  "fx_audusd": 0.6878,
  "signals": [],
  "events": [
@@ -9,18 +9,6 @@
    "title": "US tariffs squeeze Canadian cabinet makers facing doubling of Trump duty - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDZqSmY2dXBwbDVXbTJHQ0RQVTVKNXM4WXViM0JQMEUteTJ5TzdBd0Z0UDRVVlhiaGpyWXBUdmNLak1YUkdpRkZZZVY1RG1NMUN1MG5JSTlRS0h6TU1ONWtqTk1XRjExYm5qdHBHYlVWaDlsb3pYZFFOYVNmTEF3aG84dE1ST0huN3ZPUTRZRGlTNGZyekVlMllOR1lRRFhfT19sbnRJWnZDaVQ1MTMwZklXd2pkM0E4Q1NUZA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "liveqahowtrumpsmidtermsdefeataffectsasiafrommarketsrouttotar",
-   "title": "Live Q&A: How Trump\u2019s Midterms Defeat Affects Asia, From Markets Rout to Tariffs - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTlNZzdPcThZUFFkRDE4NkZTMUEzTTd6SEI2N0I5LUZpTEFDU1pqS3NuYUpsa1lBdVNZenp0bmVjQ3VnTWp4Ymsxb2ZWTS1lYmpldW9LaXZWMElReVA3ZGNBYXR5LXRjTWlEOUhxMnlPTURyQi03ZjJXTjFka01sMHptZGRhSTYwVU01V2lsbVNBQ0dsYUo3a2laNUVEMUFzWDlCUnN0SEF6d2dSTVhYaG5GdFBZVmF3M1EyZVU5MUx2UVBsWHdJ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,6 +89,42 @@
    "pts": 22
   },
   {
+   "key": "newtiradedatabaselogseverytariffratetrumphasannouncedbrownda",
+   "title": "New TiRADE database logs every tariff rate Trump has announced - Brown Daily Herald",
+   "source": "Brown Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkVlTC1KNG9jbWh2Y2o0WGtKRWNzaHZlb1FjVEd2Z0M5X1NFMXFqWUlDZm9MU09GWEVwYkdXQkQyY0xtV3FCSE16R3p6YS1pdktNampiRW4wcjc2OHZCYkNRaFVhd01VaUg3REZPdzRNclAxXzZPb2R0SEZha0QwM0ZmUzNzbUJzaHc3Tk9fMkJmUkxsTU5ONExJUjhtWUhiQ3VZUlVJcEJzOXVVc1JKa1RB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whydemocratswinwontstoptrumpstariffsintrafish",
+   "title": "Why Democrats' win won't stop Trump's tariffs - IntraFish",
+   "source": "IntraFish",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDV0aXRtMFE4QWI2eG9wbVdGeW93eUFBOGxUUTlvM2xDUzFnQy0yU2oxSXQ5b2ducThxd1RLRE8yWEhIaGQ1cGJ1MVBlS2lpWWVBSVBLRUZXaGNaV1plVF9mRzhtUkwycVFHZE0xVTB5NUQ3ZnhHcW5JZVA1cXcwNjB2aGFfNEpFc016N2NsYw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "usaskstokeepcollectingtrumpstariffsaftercourtlossenergynowco",
+   "title": "U.S. Asks to Keep Collecting Trump\u2019s Tariffs After Court Loss - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9JN2Vlb2FpV0NGUnlXTklZb1V0RHdWVnB6TWk1NEdqa3dYMGs0WXAwQkpmWk1NTi1nRHJwWHE4Y0RUYm1rVHJkNGpoWjBQRVQ0NEFtRzByTWFzTjlzQ1pLUExmX0NlSXNkNVA5YWxZX0FDbWhzTDhWcDZTSTY2U2p3Y25FbUcyVVdwc1dWRlpobnhn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpreissues300tariffwarningkeepshardlineafterelectionroutb",
    "title": "Trump Reissues 300% Tariff Warning, Keeps Hard Line After Election Rout - BigGo Finance",
    "source": "BigGo Finance",
@@ -117,18 +141,6 @@
    "title": "What Happens to Trump's Tariffs After Republican Midterm Defeat? - Tempo.co English",
    "source": "Tempo.co English",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHQ5N1FheWV5czdIc0I2MjU3OHBFTUFBcEIyZGlTbHp5RkdRUnB6anJIaXplZlBxd2V3QUhHSnFvUEc3QnhxSnlXS3pYejd5MEJ5WGhLQ3pxZzllZEVPNS1fUzFaY2R5cTB0LXFZY3FNOHpIVXVfUEJ6R2NjOFJ0dXBNZGNveWhvSEZaTnc3Mm9BbWRFUzJld1Y5UQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "democratswillwanttorepealtrumpstariffsitwontbeeasymarketplac",
-   "title": "Democrats will want to repeal Trump's tariffs. It won't be easy. - Marketplace.org",
-   "source": "Marketplace.org",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTl2bm5DTmdlNl93eTk5eDdMYWJiRDd1OUF1dFo5TVJuVTIzV0JVV2FWRjQtTU1HTWQzSk04MWxjNDNDVVhXZFV2aVc4b1dIQV9LSDR6WnA1UzJhWVRBbE5qeW1HTm5DOElScjNSYmxIcUlLX0JVR0hnOWk5RFJib1hYSlNZaEJoYUE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -165,6 +177,18 @@
    "title": "Putin special envoy speaks at White House event on Oleshky ceasefire Melania Trump helped broker - Sun Sentinel",
    "source": "Sun Sentinel",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWThON0o1SnhsMVFmQlprWHZmNklHYmtabk5MSC1PNlNCbmZfRjNfQUJyRW81d2JtVEV2Sk1RbWprb3NRRkNBd1pQNzVza1BzdHRmMjFhWjdRZEF1ZHJHclg5MWJ5Y3VVbWdXOGMzb1FsTzM1OVBwNlhTaWRIT3psamNMY21XMnduSDB2TG5BVQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumppromisesmajoreuropeansecuritydealfollowingwhitehousecea",
+   "title": "Trump Promises Major European Security Deal Following White House Ceasefire Talks - Head Topics",
+   "source": "Head Topics",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHZ4c0FDYkxrTlNTdUFZSldTN1lxNGxJNFdTY3Y0ZXU0eXZFZHRVdVliRHNzd3Mtdk5wb0h1MmlEdmsxM1k5MGxLV1JoRnV4SV9ueHNKUm9QUlpFWndjT1RmWGJ4QWRQX0YwY0VDZ2hLY1JCOXZHRXFHMjk0emNVc3dTWXhEZ1FHNmxZR254ZG92d2ZZMnJDVUZLeUY4aTV6?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -219,141 +243,117 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "howisraeltariffsandimmigrationimpacted3usmidtermracesforeign",
-   "title": "How Israel, Tariffs, and Immigration Impacted 3 U.S. Midterm Races - Foreign Policy",
-   "source": "Foreign Policy",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnQ1SWd2R3lzd0pSS2FZZjVZelNhZGNrdlpEMDRLQ3M5UUpqV3UtTkdKRVNfVkhIOHRjaTR6aVV3TFNENUMyY3lESkpSOWlVXzc2dkJFVDhPZVF4NVNLVnJ2QlNiMVQtRS1XZmVLZlA4cnNZR2tQc21SREswU3lsenV2bDRqcmJWZkxSSjRBVkNaS0ZUN3NSQVlmTnowb2s?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "housedemocratweregoingtohaveonehellofadonnybrookoverendingth",
-   "title": "House Democrat: \u2018We\u2019re going to have one hell of a donnybrook over ending these tariffs\u2019 - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BX0JIb0NjWDhoYW9yMXFmWTFqWVp5VUF6cWYzYmdWNUg0TTJxX2xST0h3bG1SVzJBd1lGUE15enozSm05YVFqUGZZRVhhcXRtcHkxR3lYcUYzS0RFc0NXdTZwYVNZcWw3QnBBdmtna0J1MjjSAXhBVV95cUxQYUhic05SQklxSXRaSHZNQ2JEcHlrY0pnWGloTEtGdXdJY3lOMVFGUkFHWGUxNTc5TGY3SVloOHRSeWI2NjBGWUU4MUF3enJZUGZlaHRHeUZVZ0ljTFh5UVlqSkdyNGZYbnhGcWM4bHlSSTQza1NSeU8?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 85
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 213 min old)",
+   "why": "stale quote / market closed (last price 280 min old)",
    "score": 77
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 213 min old)",
+   "why": "stale quote / market closed (last price 280 min old)",
    "score": 77
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 215 min old)",
+   "why": "stale quote / market closed (last price 282 min old)",
    "score": 57
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 213 min old)",
+   "why": "stale quote / market closed (last price 280 min old)",
    "score": 84
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 82
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 53
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 54
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 49
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 213 min old)",
+   "why": "stale quote / market closed (last price 280 min old)",
    "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 62
   }
  ],
@@ -368,7 +368,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 07:45 PM AEDT",
+  "last_scan": "Fri 06 Nov 2026 08:51 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
