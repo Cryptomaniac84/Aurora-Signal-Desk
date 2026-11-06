@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 02:38 AM AEDT",
- "fx_audusd": 0.6879,
+ "generated": "Sat 07 Nov 2026 03:29 AM AEDT",
+ "fx_audusd": 0.6878,
  "signals": [],
  "events": [
   {
@@ -45,6 +45,18 @@
    "title": "Democrats are hatching plan to reverse Trump\u2019s Canada tariffs - The Australian",
    "source": "The Australian",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSDBfX0lWUVNhczV1bEN0NEtrYXJXUWNSWER2UldDTkFrSTNSLTN6elpLRk9GQXllbWVpNmJFYzVxWFBmT1V2S1NJUm9YQ3pvd3dKVnd4SzN6VVJHS0JhMHVpVmtoVlVMNGJOdTBmNnNNczAzcWVsaXVPTXh6LXUtVXBKZEVtc2VaUmdUelNSTjFPS3NwUFYzWGdpY1ZkNFdoMlYtX2FDRVJ0NTY5N0RBMGFYRjZpc1EyU0lHc3pYaThETV95MF8zTzVyZFQtSDVwTV9HbjhNSldfOTdjNXRydl8xMkplYjg3dTZhTUVVakp2MUxjYTNyS09XZ1BHSTA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "blockingeudealakintotrumptariffscoalitionwarnedthenightly",
+   "title": "Blocking EU deal akin to Trump tariffs, Coalition warned - The Nightly",
+   "source": "The Nightly",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlFucWhyRUdZSmNHaW04S3E0aUpDYmtER1FYQ2lha2tqUFRGOGx2em82Z3NOc3pMX1BDVVJVNGtmcE8tcHIwZ19IX1JoSGl1dHJNNWtEeXdfckdLbDFFSzkwWkZqaEE4WVpJNHpiV3JiSGVCcDZ6ek9Ed0cxbzduRWpvZHV2QUF4ZXgwWDQ1Mk5Da01wNWFHZFgyWjU2Rm1IY05XRUViblF6Y0RYWHFtWksxYzB2MHdwdExMa29teDRlbTU1SElZV0k5ay1wUEFyYnY0a3VqcGt2dXFpQnZ6OXlNSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,6 +113,18 @@
    "pts": 22
   },
   {
+   "key": "opinionwhydemocratsshouldusetheirnewpowertoembracetrumpstari",
+   "title": "Opinion: Why Democrats should use their new power to embrace Trump\u2019s tariffs - MarketWatch",
+   "source": "MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGFEbGRmRDB0Y0xNRE0taVBaRlM3Sy1HSE1FN0FjekZhSUY5aFJ4N2oySXM4TW1IaVp0NGNBUTNqdEwxOFExOXZNVG9LdGRIdll0aXhsYllGM1ZVR1Rka3BsTW5EU2ZDR2wtX1EyWFNHck0xeV96NEh2UW01aGY0SndJdXBNZkFFZzR2UGxxXzZIdkpPZDIwclF4Mm5GNzhOQWViRDJEMjNkTUlaVXc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "exclusivedemocratsarehatchingaplantoreversetrumpscanadatarif",
    "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump\u2019s Canada Tariffs - WSJ",
    "source": "WSJ",
@@ -125,34 +149,10 @@
    "pts": 22
   },
   {
-   "key": "opinionwhydemocratsshouldusetheirnewpowertoembracetrumpstari",
-   "title": "Opinion: Why Democrats should use their new power to embrace Trump\u2019s tariffs - MarketWatch",
-   "source": "MarketWatch",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGFEbGRmRDB0Y0xNRE0taVBaRlM3Sy1HSE1FN0FjekZhSUY5aFJ4N2oySXM4TW1IaVp0NGNBUTNqdEwxOFExOXZNVG9LdGRIdll0aXhsYllGM1ZVR1Rka3BsTW5EU2ZDR2wtX1EyWFNHck0xeV96NEh2UW01aGY0SndJdXBNZkFFZzR2UGxxXzZIdkpPZDIwclF4Mm5GNzhOQWViRDJEMjNkTUlaVXc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "asiahopesdemocratscanproviderelieffromtrumpsiranwartariffsru",
    "title": "Asia Hopes Democrats Can Provide Relief From Trump\u2019s Iran War, Tariffs: Russell - EnergyNow.com",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkxtUVNlU2Y5TzBYNEhtRjlQMmUwVXloNTBSOG1td0QwZnRvWkI4N2lTa0VKYk1Oc2lfMDdVekhmWTNHcmxwVFZoemJLUV9ONnZjXzNhczBDM0pzSFNmRWtqbTRoOW04M2JTNHJ2b3JGWnExRnpTbzI0am1Zb3ROTnlBV1NUa0REME9fSE40b3l5cTRzRXkyNEZGSlZndXF5S3ZVWlpMaXB0clE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "republicansranawayfromtrumpscanadiantariffsbutnotfarenoughcb",
-   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -173,10 +173,10 @@
    "pts": 22
   },
   {
-   "key": "trumptriestopreventanyonefromchanginghisgoldcoveredovaloffic",
-   "title": "Trump tries to prevent anyone from changing his gold-covered Oval Office by declaring it a landmark - The Independent",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmFzd3ZCbk9sS0dLUm83V1hrUkZOVExJSVlBLUdLTk4yRS1feXRtMWdiZEtWYzNIRzVpYU10dWxGb2o0THVVUUo5VEZVb2YxUWZOZDhGNjJpLVV5UjZBMXJNTXZhNnl3YUpSSjhfS3h0c3c2LVUwYWpNWVB1T1V4UFFZcktQSnFNa0xYZ3duWEhKQ2VmbFpObEJtbHAzbXVKeEtsZHVOcC1rX1RXcWFwdnYyQ0kwTGc?oc=5",
+   "key": "trumpsignsordertoprotectgoldcoveredovalofficethetelegraph",
+   "title": "Trump signs order to protect gold-covered Oval Office - The Telegraph",
+   "source": "The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3RSNVh3dzE3YkN6MXhMbDI1YXFzVTQyZEU0SHJpS0FmSGpFYXZ6ZjV0WkJ6VjR6UkRLVnM2Z3ZXcW9ucHpFYXN2SFB6WHJVdHhTNEQ1RVFhcTdia010Ny1VLTIxUnlpaU9Ed2JLaS1vTk1LX0stOER1MFg0SmF1M2p6YmJiN0g0ZVdhbko2cHY?oc=5",
    "themes": [
     "mining"
    ],
@@ -249,133 +249,118 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 61
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 82
   },
   {
    "sym": "ITA",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "score": 47
   },
   {
    "sym": "XLE",
    "why": "volume not confirmed (0.4x normal)",
-   "score": 63
+   "score": 68
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 75
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 68
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 627 min old)",
+   "why": "stale quote / market closed (last price 678 min old)",
    "score": 77
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 627 min old)",
+   "why": "stale quote / market closed (last price 678 min old)",
    "score": 77
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 629 min old)",
+   "why": "stale quote / market closed (last price 680 min old)",
    "score": 57
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 627 min old)",
+   "why": "stale quote / market closed (last price 678 min old)",
    "score": 84
   },
   {
    "sym": "GDX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 75
   },
   {
    "sym": "NVDA",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 57
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 55
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 46
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 47
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 72
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 58
   },
   {
    "sym": "CVX",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 64
+   "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 627 min old)",
+   "why": "stale quote / market closed (last price 678 min old)",
    "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 627 min old)",
+   "why": "stale quote / market closed (last price 678 min old)",
    "score": 82
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 75
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 66
   },
   {
    "sym": "LLY",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 52
+   "score": 37
   },
   {
    "sym": "PFE",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 52
+   "score": 72
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 63
   },
   {
    "sym": "QQQ",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 67
+   "why": "position size under 1 share",
+   "score": 81
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 627 min old)",
+   "why": "stale quote / market closed (last price 678 min old)",
    "score": 43
-  },
-  {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 45
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 56
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 49
   }
  ],
  "paper": {
@@ -389,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 02:38 AM AEDT",
+  "last_scan": "Sat 07 Nov 2026 03:29 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
