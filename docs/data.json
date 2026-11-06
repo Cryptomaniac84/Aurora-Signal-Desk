@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 05:59 AM AEDT",
- "fx_audusd": 0.687,
+ "generated": "Sat 07 Nov 2026 06:49 AM AEDT",
+ "fx_audusd": 0.6867,
  "signals": [],
  "events": [
   {
@@ -29,6 +29,18 @@
    "pts": 30
   },
   {
+   "key": "afterthemidtermroutcantrumpchangecoursewithoutgivinguptariff",
+   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
+   "source": "Carnegie Endowment for International Peace",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "pmtolobbytrumpoverirantariffstheaustralian",
    "title": "PM to lobby Trump over Iran, tariffs - The Australian",
    "source": "The Australian",
@@ -53,18 +65,6 @@
    "pts": 22
   },
   {
-   "key": "blockingeudealakintotrumptariffscoalitionwarnedthenightly",
-   "title": "Blocking EU deal akin to Trump tariffs, Coalition warned - The Nightly",
-   "source": "The Nightly",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlFucWhyRUdZSmNHaW04S3E0aUpDYmtER1FYQ2lha2tqUFRGOGx2em82Z3NOc3pMX1BDVVJVNGtmcE8tcHIwZ19IX1JoSGl1dHJNNWtEeXdfckdLbDFFSzkwWkZqaEE4WVpJNHpiV3JiSGVCcDZ6ek9Ed0cxbzduRWpvZHV2QUF4ZXgwWDQ1Mk5Da01wNWFHZFgyWjU2Rm1IY05XRUViblF6Y0RYWHFtWksxYzB2MHdwdExMa29teDRlbTU1SElZV0k5ay1wUEFyYnY0a3VqcGt2dXFpQnZ6OXlNSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
    "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
    "source": "The Jerusalem Post",
@@ -77,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "exclusivedemocratsarehatchingaplantoreversetrumpscanadatarif",
-   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump\u2019s Canada Tariffs - WSJ",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+   "key": "opiniontrumpstariffshavefailedbringbackreaganomicsthenewyork",
+   "title": "Opinion | Trump\u2019s Tariffs Have Failed. Bring Back Reaganomics. - The New York Times",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "canadasretaliatorytariffshitusproductsastrumpwarnsofescalati",
-   "title": "Canada's retaliatory tariffs hit US products as Trump warns of escalation - ABC7 Bay Area",
-   "source": "ABC7 Bay Area",
-   "link": "https://news.google.com/rss/articles/CBMi5BNBVV95cUxQSV9zbVFBc0taMWtyLTVKYUtyNWhEUXZ6WDMwQS1jNVpvM2pFbUo2bi13T3dhQXl2dklxMzBkY2szTnZJTTFuWUhrZHRwbmdDdlpTUUJtTkRZSWNSWkZxZ2JGVzVWczdRNUdzLTBaVGNvdlduNEpjRk5vR0djVndRUDZlZW5KMXBnODhCVERtOG54b2FjU3o2eVlLVlVoRE5ncFBrZ0ZhUWNyYXVyMkZKNGpyZGtCUGtZWHFWdGQ3SmZrcW1KLVo3bHdQUFpfYjhxTWtEUVRoVHdhYzlLM2ZRVlppSFk3OV9pQ05GeXBmeFZxRHhLUVpKOVNhdDZ6dmRRMWszUUpqdC03M3Q4Wko1Tkw4NDlJZDFJQUpENkQzbkRxQ3VKV0RYSEN1ZEQ1YXVUd09rRHpmbVZMbEZObHRFeDdkNXltWWU0Y3B0NnFIR1dtbHJWYWZLRUpSX09uRmYzMEpiZUZRNkdxS2d6bURSUy0xdlFmQVZCd1l5YXJLcFRKcW5SRG9RV3JYMzRiVUJhUGgxN2YyajJwNGVtd3ZDVG05bTF0OFl3WTBCbXNQcWkzaEVOd3NvNFZKejVEY1JYS2o3Y2lTa2hudlpiSXdJY3o0UTVCN25hZmZEaW5xMVhHUTZpdXBVZmpPb09BVzVIWmdjdzIyd3ZpWEpTbndVbTIxSjcyQmpSaEtKQWJvMExrQWxHSjN2b0hlSThkaUtQREd6M0RBYnhELUlJa3VYczdlNm1IR3JJamg4aFJ4M1Z1ejAyUHVDdEh1MVpvd3BzaEEtYkN6ZXZJalctaGFPZndfTS1LaXNGV21CU1FvcHRQdTV5d0kxWlRWNDJtMTNGbHg0T1RCZXExVjR2Vk9LeTRzRF9WZ2owblIyQXR3VUpDSWFJS05KSlhpWW1NQ3dGZGZtUTNkMi1EYmFla1RPS2hTX0Vpakt0dTdiQzBsNGptUkh0WHlmcW9IRTVBOS11S3R6ak4wSS1OTDdPbm1IclBCa2VaN0hQVWJwQmU2NGxfQmI2MTR2U3VCTVJZay1qcnFlOHR5R3A5NVU5aEpiWkNmOW91ai1hNDJzMmFmMmtZSWEydTlQVE1qeFFOS1hxM2hqZXdINXU1N1FHMHJtaGl4NGdkajI3c2xROEUwWlZYTmE3TlI0dXdSOWZUZ2cyZGFVU01xZExnXzBVUV9jaE1JSUY3Z2FtRzl1bkZTLTRMYk9SZjE2UzlhRkFBTlR0VkgybDNJdDZkTENSQ2tCMU4zdGswRVBHblNheW02bU5nRnFrRHhpTTFOWHV4bGJCMzNkYWN6VVY1Z2tFMTgxS2xGU1hMeTVTd0NZS0ZlenFobWo1T080X29HalZMTXU4Unl5ajd0WVk5dENicHNFeXRJRG1WcXoxNDFIbWk2TEVZSWxwT09la3RrZXljRmFVdWQwaUg5aTN2OGxQYjdMbmViX3BBZzNyS0lqZVJUZWViSjlud2RRZWxLbjhjWUU2MkJ3OGFqREN2TU5nNzljek5yaVkwaWE2T2t0V2pNckxqSHNqQjFtanNYMm9oSlE0UlRrWWtUaVFkb3kzcUJnY2VxLWNvV3ZXVE9vTVR4bjU2M3ExNWxDQ1d3YWM1TmhJc29oaVpWdmQ5d1lXYlNGUUY4X0sxYnY4YkZiSU9FWUVCN2ZzdjE1Wk4tUHhiUVVvbEVCaW9VS1NLcW03OEFqZ0xPbEVwRlhZamlYNkZTTDFIRVZLaEhleUlVazhkTlJjT0pPR0xVZDR3NUtEaEN1eXQ1aDEwZkVyN2laVHg0M0NfWVYxaU9DQ0pHV19EbmVzc2t0SktyOXB4R2paSjRMekJ4NERqTDlISURjTFZfX0VGYTVUN0ZKNkl2blNKT2xSeE9VMDFQMFFWa1ptN1NWMFk4QmlLdldoWnZHS3p3ZTlKWFN1UzQzbHFwT0l2SkVIaEZsck9QcXhNQjZNVFZKTlNzb005UUdPYXRneTRELXNHYUEwSWktNF85a1hKcDNBNjRqU2ZOOXJBQUJHZElDV25KNENkanpncjVLckktWjN3b2NtT1BmdldjWWVPZm9vbFJRb0tZaC1SeTBWdEptZDUzRVdyMmtkalVsWnlFNTZhVEFucGFUQkMwNG9HcjhwTzl6Q3R6Y0wtZlhQZ1lWV29QY0dTakNtVmVab3JDS21VdnNCcHFEX2xNTkt1b3BXSjFJWEdDTEFjTzc2UENwZGx3VFBOQlpyeEZ5UFhsMkl4UUxRMnl1dFVfeTNsRk9wbE9MN3d5aWdFV0xsZkVvX2NUV0R3WV9ZRGQ0YUQ2V1ZYQkpoZlp3WFNKeVZCR3Iydk1BQ0JtenJGWm9SYVhhcXYwbVVONlEzR0VrZXhkX1hWODc1MVFxLS1HRU90OWl0MTVzelJZU3RELXFoWUF0NXpoSC1sY0dHWFUtUFl3NXhwQXlsWFJFd2VkcUFEMHlKX1JidzdMb3FtYVZrSS1sMDBhM3JaNkdXd2Y1QjlpNWtVVWRjd2N5UTlNN01mUlBHbzJtbWxpTjk2cUtaTGpkX2ZlQmptbWJMNDljX0tGbGVqY0lfUk9VVDBjNlVTRXFWUWpzY2JSWWp0VGxhOXFKcG0yaExlV3BJQkFGY3NsU3FiOWJRWTVpd09WdDFJS3RIZXhWOFQ0RGc1bjRwVndEbDNxLV9rcVZYTFRXLWpaSWtDZ21zQ2hLb2RlUjBiNmRwdE01Skp2WXhaRDFfM3VwbEp1TUd6UFNHRDluV2FYdmMzNlAwRGJaLTRfSWp0bE1KdlhuZlp2RElkR2lQSF9wNldXQ3lVdHhZWUtOS2FMcXVSUkwtbHdBNl9qNjRRNm0ybWcxUzdYMnVwLUViUzhPZUU3Qm1hZWJTRF9hM2luX2c4aTduSW5LT3FVbm54aFJ5c29FZ2ZqMk5WY3RrV2ZQRTJOOXNkTUJ1TDBMNGx1MndtTGh6VlktdVA2Y1lyUmswSXE2SEtpMG12MHhCYkhYa3lVV2VXSFN0ZE83UDkxOWE4aGh1MWx6RW80S0tMYXp2WEI3T3BQRlE4eXZNSXV2ZHMyY3BlUDVvQjB5NkNCU2tzRFVGV2p3SW0wQy1mVDZaU3ByRGFKVko0ZThidFBJUTYzbWp0aXhDUE44N3A4LXZUZnlyMkN1QVctZ0RmbEZOQ1lzRTQ4Zmw4RzdLNUJ4N29jcEFMdTNtZmE3SmdaUWdoRkVhZm1qc1V1X3c1VE9FQkpjWFFCWUpxU3RhTUtzcktJeFFRY201aWR3ZklCOUVJWGRFZ1dtR2FnWGZlNmp4UmZqSjE2M0xUak1HTUEtN1FWMVF5WEVwLVUzWEpJYkRjWjNuTnhOR2Zza3BLeE9xNjBBbUNXR1NpOGlIZzNNbFBxV3M?oc=5",
+   "key": "blockingeudealakintotrumptariffscoalitionwarnedthenightly",
+   "title": "Blocking EU deal akin to Trump tariffs, Coalition warned - The Nightly",
+   "source": "The Nightly",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlFucWhyRUdZSmNHaW04S3E0aUpDYmtER1FYQ2lha2tqUFRGOGx2em82Z3NOc3pMX1BDVVJVNGtmcE8tcHIwZ19IX1JoSGl1dHJNNWtEeXdfckdLbDFFSzkwWkZqaEE4WVpJNHpiV3JiSGVCcDZ6ek9Ed0cxbzduRWpvZHV2QUF4ZXgwWDQ1Mk5Da01wNWFHZFgyWjU2Rm1IY05XRUViblF6Y0RYWHFtWksxYzB2MHdwdExMa29teDRlbTU1SElZV0k5ay1wUEFyYnY0a3VqcGt2dXFpQnZ6OXlNSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,10 +113,46 @@
    "pts": 22
   },
   {
+   "key": "carneywelcomesdemocratspushtoendtrumpstariffsoncanadaaftermi",
+   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - New Haven Register",
+   "source": "New Haven Register",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnFkc3c4YkpKN0hSRXVhc1VGYXJ6d0NlZUVfRzNvZExXS3lmRENNNjBSU3NLMG90dmdPMXFIYXNpTHF2N1BpVzBveGpkcjM5MlJWU2FyMzM4VGZ0ZGN1QXVFZThGYVVBQUFacjhOblJ6NVlxckdaYW9QdTRtX2RzdUZCejNNMEhDbFUtYTJ0YjRVUUl6d203SHJDOGN6dW1uQzJPbGU0QQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "opinionwhydemocratsshouldusetheirnewpowertoembracetrumpstari",
    "title": "Opinion: Why Democrats should use their new power to embrace Trump\u2019s tariffs - MarketWatch",
    "source": "MarketWatch",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGFEbGRmRDB0Y0xNRE0taVBaRlM3Sy1HSE1FN0FjekZhSUY5aFJ4N2oySXM4TW1IaVp0NGNBUTNqdEwxOFExOXZNVG9LdGRIdll0aXhsYllGM1ZVR1Rka3BsTW5EU2ZDR2wtX1EyWFNHck0xeV96NEh2UW01aGY0SndJdXBNZkFFZzR2UGxxXzZIdkpPZDIwclF4Mm5GNzhOQWViRDJEMjNkTUlaVXc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "canadasretaliatorytariffshitusproductsastrumpwarnsofescalati",
+   "title": "Canada's retaliatory tariffs hit US products as Trump warns of escalation - ABC7 Bay Area",
+   "source": "ABC7 Bay Area",
+   "link": "https://news.google.com/rss/articles/CBMi5BNBVV95cUxQSV9zbVFBc0taMWtyLTVKYUtyNWhEUXZ6WDMwQS1jNVpvM2pFbUo2bi13T3dhQXl2dklxMzBkY2szTnZJTTFuWUhrZHRwbmdDdlpTUUJtTkRZSWNSWkZxZ2JGVzVWczdRNUdzLTBaVGNvdlduNEpjRk5vR0djVndRUDZlZW5KMXBnODhCVERtOG54b2FjU3o2eVlLVlVoRE5ncFBrZ0ZhUWNyYXVyMkZKNGpyZGtCUGtZWHFWdGQ3SmZrcW1KLVo3bHdQUFpfYjhxTWtEUVRoVHdhYzlLM2ZRVlppSFk3OV9pQ05GeXBmeFZxRHhLUVpKOVNhdDZ6dmRRMWszUUpqdC03M3Q4Wko1Tkw4NDlJZDFJQUpENkQzbkRxQ3VKV0RYSEN1ZEQ1YXVUd09rRHpmbVZMbEZObHRFeDdkNXltWWU0Y3B0NnFIR1dtbHJWYWZLRUpSX09uRmYzMEpiZUZRNkdxS2d6bURSUy0xdlFmQVZCd1l5YXJLcFRKcW5SRG9RV3JYMzRiVUJhUGgxN2YyajJwNGVtd3ZDVG05bTF0OFl3WTBCbXNQcWkzaEVOd3NvNFZKejVEY1JYS2o3Y2lTa2hudlpiSXdJY3o0UTVCN25hZmZEaW5xMVhHUTZpdXBVZmpPb09BVzVIWmdjdzIyd3ZpWEpTbndVbTIxSjcyQmpSaEtKQWJvMExrQWxHSjN2b0hlSThkaUtQREd6M0RBYnhELUlJa3VYczdlNm1IR3JJamg4aFJ4M1Z1ejAyUHVDdEh1MVpvd3BzaEEtYkN6ZXZJalctaGFPZndfTS1LaXNGV21CU1FvcHRQdTV5d0kxWlRWNDJtMTNGbHg0T1RCZXExVjR2Vk9LeTRzRF9WZ2owblIyQXR3VUpDSWFJS05KSlhpWW1NQ3dGZGZtUTNkMi1EYmFla1RPS2hTX0Vpakt0dTdiQzBsNGptUkh0WHlmcW9IRTVBOS11S3R6ak4wSS1OTDdPbm1IclBCa2VaN0hQVWJwQmU2NGxfQmI2MTR2U3VCTVJZay1qcnFlOHR5R3A5NVU5aEpiWkNmOW91ai1hNDJzMmFmMmtZSWEydTlQVE1qeFFOS1hxM2hqZXdINXU1N1FHMHJtaGl4NGdkajI3c2xROEUwWlZYTmE3TlI0dXdSOWZUZ2cyZGFVU01xZExnXzBVUV9jaE1JSUY3Z2FtRzl1bkZTLTRMYk9SZjE2UzlhRkFBTlR0VkgybDNJdDZkTENSQ2tCMU4zdGswRVBHblNheW02bU5nRnFrRHhpTTFOWHV4bGJCMzNkYWN6VVY1Z2tFMTgxS2xGU1hMeTVTd0NZS0ZlenFobWo1T080X29HalZMTXU4Unl5ajd0WVk5dENicHNFeXRJRG1WcXoxNDFIbWk2TEVZSWxwT09la3RrZXljRmFVdWQwaUg5aTN2OGxQYjdMbmViX3BBZzNyS0lqZVJUZWViSjlud2RRZWxLbjhjWUU2MkJ3OGFqREN2TU5nNzljek5yaVkwaWE2T2t0V2pNckxqSHNqQjFtanNYMm9oSlE0UlRrWWtUaVFkb3kzcUJnY2VxLWNvV3ZXVE9vTVR4bjU2M3ExNWxDQ1d3YWM1TmhJc29oaVpWdmQ5d1lXYlNGUUY4X0sxYnY4YkZiSU9FWUVCN2ZzdjE1Wk4tUHhiUVVvbEVCaW9VS1NLcW03OEFqZ0xPbEVwRlhZamlYNkZTTDFIRVZLaEhleUlVazhkTlJjT0pPR0xVZDR3NUtEaEN1eXQ1aDEwZkVyN2laVHg0M0NfWVYxaU9DQ0pHV19EbmVzc2t0SktyOXB4R2paSjRMekJ4NERqTDlISURjTFZfX0VGYTVUN0ZKNkl2blNKT2xSeE9VMDFQMFFWa1ptN1NWMFk4QmlLdldoWnZHS3p3ZTlKWFN1UzQzbHFwT0l2SkVIaEZsck9QcXhNQjZNVFZKTlNzb005UUdPYXRneTRELXNHYUEwSWktNF85a1hKcDNBNjRqU2ZOOXJBQUJHZElDV25KNENkanpncjVLckktWjN3b2NtT1BmdldjWWVPZm9vbFJRb0tZaC1SeTBWdEptZDUzRVdyMmtkalVsWnlFNTZhVEFucGFUQkMwNG9HcjhwTzl6Q3R6Y0wtZlhQZ1lWV29QY0dTakNtVmVab3JDS21VdnNCcHFEX2xNTkt1b3BXSjFJWEdDTEFjTzc2UENwZGx3VFBOQlpyeEZ5UFhsMkl4UUxRMnl1dFVfeTNsRk9wbE9MN3d5aWdFV0xsZkVvX2NUV0R3WV9ZRGQ0YUQ2V1ZYQkpoZlp3WFNKeVZCR3Iydk1BQ0JtenJGWm9SYVhhcXYwbVVONlEzR0VrZXhkX1hWODc1MVFxLS1HRU90OWl0MTVzelJZU3RELXFoWUF0NXpoSC1sY0dHWFUtUFl3NXhwQXlsWFJFd2VkcUFEMHlKX1JidzdMb3FtYVZrSS1sMDBhM3JaNkdXd2Y1QjlpNWtVVWRjd2N5UTlNN01mUlBHbzJtbWxpTjk2cUtaTGpkX2ZlQmptbWJMNDljX0tGbGVqY0lfUk9VVDBjNlVTRXFWUWpzY2JSWWp0VGxhOXFKcG0yaExlV3BJQkFGY3NsU3FiOWJRWTVpd09WdDFJS3RIZXhWOFQ0RGc1bjRwVndEbDNxLV9rcVZYTFRXLWpaSWtDZ21zQ2hLb2RlUjBiNmRwdE01Skp2WXhaRDFfM3VwbEp1TUd6UFNHRDluV2FYdmMzNlAwRGJaLTRfSWp0bE1KdlhuZlp2RElkR2lQSF9wNldXQ3lVdHhZWUtOS2FMcXVSUkwtbHdBNl9qNjRRNm0ybWcxUzdYMnVwLUViUzhPZUU3Qm1hZWJTRF9hM2luX2c4aTduSW5LT3FVbm54aFJ5c29FZ2ZqMk5WY3RrV2ZQRTJOOXNkTUJ1TDBMNGx1MndtTGh6VlktdVA2Y1lyUmswSXE2SEtpMG12MHhCYkhYa3lVV2VXSFN0ZE83UDkxOWE4aGh1MWx6RW80S0tMYXp2WEI3T3BQRlE4eXZNSXV2ZHMyY3BlUDVvQjB5NkNCU2tzRFVGV2p3SW0wQy1mVDZaU3ByRGFKVko0ZThidFBJUTYzbWp0aXhDUE44N3A4LXZUZnlyMkN1QVctZ0RmbEZOQ1lzRTQ4Zmw4RzdLNUJ4N29jcEFMdTNtZmE3SmdaUWdoRkVhZm1qc1V1X3c1VE9FQkpjWFFCWUpxU3RhTUtzcktJeFFRY201aWR3ZklCOUVJWGRFZ1dtR2FnWGZlNmp4UmZqSjE2M0xUak1HTUEtN1FWMVF5WEVwLVUzWEpJYkRjWjNuTnhOR2Zza3BLeE9xNjBBbUNXR1NpOGlIZzNNbFBxV3M?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "chuckschumerseeksrepublicanhelptotakedowntrumpstariffsthetim",
+   "title": "Chuck Schumer seeks Republican help to take down Trump\u2019s tariffs - The Times",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDM5SlFJb2VsMkZHZWg5cWdVQnRDVHZwYkxsMDNmZW9uS3BtQWNOcXJWNEwycWVIbHhZMjd0Z2l0M0RhNzVuMVpMVDhmSzN6NHBpQnFncHNza1ctQ1AxMEpLQjVfNDF4R1pOeDRNTF94RTdHNHNlV3RrOGM2RGlvY2JSNGlrLTIwbFdMaGlkbGNyb002LUR1TU5GS05uc0pUejMzTDFYQ2VCQ3AybnRfSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,34 +173,10 @@
    "pts": 22
   },
   {
-   "key": "whydemocratswinwontstoptrumpstariffsintrafish",
-   "title": "Why Democrats' win won't stop Trump's tariffs - IntraFish",
-   "source": "IntraFish",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDV0aXRtMFE4QWI2eG9wbVdGeW93eUFBOGxUUTlvM2xDUzFnQy0yU2oxSXQ5b2ducThxd1RLRE8yWEhIaGQ1cGJ1MVBlS2lpWWVBSVBLRUZXaGNaV1plVF9mRzhtUkwycVFHZE0xVTB5NUQ3ZnhHcW5JZVA1cXcwNjB2aGFfNEpFc016N2NsYw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "tedcruzslamstrumpstariffsandsaysiranwarneedstoendhoustonchro",
-   "title": "Ted Cruz slams Trump's tariffs and says Iran war needs to end - Houston Chronicle",
-   "source": "Houston Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2F5bE9YaU8ySnpNaUhMOXhIaU54VDJjZVdxYXFPSVI4SVliZTdxZzFETkJGN2piTHFqUnFnSHRIM3dDWjBXZTVQdy1WZ3BLcXZOOG5NQkZ0dk1tdE85LThSWTE4VXlGZFFGTG1QU2lCQzR2Y2dWakdMTTNHYTJFdXM3RThyN3B6TFdvQVdoUlBzb3dmOVUzS3FyUjJCUjZNbV8xQlhsYWdXamJhUEw0Qk9iWWFTR2N6OXc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsignsproclamationtotrytopreventchangestogoldcoveredoval",
-   "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office - The Guardian",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNem85Z3hoQWN4SjhHUDViMzU4cFJsdU5ZT1U0OHBVVW1fb2hqQWRSaVc2SlJDZlB4OVVfWDJ6OVBmdTlBLUVqZkw1Z0dscndiajBET0RUUmh5c2VjVlk2V1dUSUNWOFhIVzdsTy00c012SjgyRWtPZjRqMVF1dng5dS0tUlNsM3ZITTZ1OFRn?oc=5",
+   "key": "trumpsignsordertoprotectgoldcoveredovalofficethetelegraph",
+   "title": "Trump signs order to protect gold-covered Oval Office - The Telegraph",
+   "source": "The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3RSNVh3dzE3YkN6MXhMbDI1YXFzVTQyZEU0SHJpS0FmSGpFYXZ6ZjV0WkJ6VjR6UkRLVnM2Z3ZXcW9ucHpFYXN2SFB6WHJVdHhTNEQ1RVFhcTdia010Ny1VLTIxUnlpaU9Ed2JLaS1vTk1LX0stOER1MFg0SmF1M2p6YmJiN0g0ZVdhbko2cHY?oc=5",
    "themes": [
     "mining"
    ],
@@ -177,18 +189,6 @@
    "title": "Report: Trump Weighs Options for Resuming War With Iran, as Soon as November 9 - Haaretz",
    "source": "Haaretz",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQY3ZzTnIydHp3SHBINm90cXZfeS1tNUxGblk3eW5KaTFJcGVtQ012a2xiSXN0aTRielROemVJUnJaWmRyLVJXeGdPNl9qZ01qWU9DZjlLSnc3ekFsUGZUcmVISUEzeTlucFVJNkF2enZlVzZQNjVGV0d0UGw0RHhpVzVHU2x2Yjk4eVp0QVdzRXJTTGFnS1lyTzE1OE1MRmNXckItbWhuQXBqRkRvLUQyU0FqUi14M0ItRWhpU0RqRG1ucVg2eXY3N3l1REt5UU11VUo5dEQ5RVZkLXFiakdtX1VPbVVWeG9OT3oxalVORmNxc2ZhcWdVZUhjQ3k1UWU4M0syRm5YVk5KbG5wa0E?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppromisesmajoreuropeansecuritydealfollowingwhitehousecea",
-   "title": "Trump Promises Major European Security Deal Following White House Ceasefire Talks - Head Topics",
-   "source": "Head Topics",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHZ4c0FDYkxrTlNTdUFZSldTN1lxNGxJNFdTY3Y0ZXU0eXZFZHRVdVliRHNzd3Mtdk5wb0h1MmlEdmsxM1k5MGxLV1JoRnV4SV9ueHNKUm9QUlpFWndjT1RmWGJ4QWRQX0YwY0VDZ2hLY1JCOXZHRXFHMjk0emNVc3dTWXhEZ1FHNmxZR254ZG92d2ZZMnJDVUZLeUY4aTV6?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -222,8 +222,8 @@
    "pts": 20
   },
   {
-   "key": "sanfranciscofedpresidentdalysayshigherratesarelikelytobeneed",
-   "title": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight - CNBC",
+   "key": "americansareonatreadmillofhighinflationandmoreratehikesareli",
+   "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says - CNBC",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83d09fT01uTmdIZ09Wb0pDYWg4VU5rRTF3MWstQ25hU2dDM011N3k3cVBzRFFOeGtuTjVSMHJVcy1zb25qY0Q4NERLSUIxN3JUN2tUbEZoZ2FLbVBDajRHUFktYVEtOTZ2cWxlX21NbF8xd1JxN25GNkNn0gF_QVVfeXFMUFM0YzVQazV4YXplRlQzdkpaM3ZtTGNVdlU3OG83N1o1ZmhtVFVGaEdvOC1WckhzNEQwNXdLb0hBQWptVjJuOVdNV2hrM0lCbmQzWk1veVdQTnJjbEZJRXJuZXByelRRWHJoakE1UktiTV90Zl90R1M1OHBBTXYxZw?oc=5",
    "themes": [
@@ -249,118 +249,118 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 66
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 84
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 66
+   "why": "price not above VWAP and 20-bar average",
+   "score": 61
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 878 min old)",
    "score": 77
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 878 min old)",
    "score": 77
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 830 min old)",
+   "why": "stale quote / market closed (last price 880 min old)",
    "score": 57
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 878 min old)",
    "score": 84
   },
   {
    "sym": "GDX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 59
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
   },
   {
    "sym": "NVDA",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 44
+   "score": 52
   },
   {
    "sym": "AMD",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 59
+   "score": 65
   },
   {
    "sym": "SOXX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 64
+   "score": 53
   },
   {
    "sym": "TSM",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 57
+   "score": 73
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 72
   },
   {
    "sym": "CVX",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 44
+   "score": 37
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 878 min old)",
    "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 878 min old)",
    "score": 82
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 42
   },
   {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 42
+   "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 878 min old)",
    "score": 43
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 44
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 66
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 65
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 48
+   "why": "volume not confirmed (1.1x normal)",
+   "score": 41
   }
  ],
  "paper": {
@@ -374,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 05:59 AM AEDT",
+  "last_scan": "Sat 07 Nov 2026 06:49 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
