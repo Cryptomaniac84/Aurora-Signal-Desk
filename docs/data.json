@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 06 Nov 2026 10:42 PM AEDT",
- "fx_audusd": 0.6878,
+ "generated": "Fri 06 Nov 2026 11:37 PM AEDT",
+ "fx_audusd": 0.6879,
  "signals": [],
  "events": [
   {
@@ -9,18 +9,6 @@
    "title": "Donald Trump has taught the world that tariffs are useless - Financial Times",
    "source": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWFlc2hsSmNCM1NvTHB0U1ZvYmY3TnI1TFJSd3J2RDZLYmhKang5cV9Mb205czlGdVJNaEtHSUppcllUWXdUX3lLYTc4Zlpua0puRldIczJtcHkwbXZCUlFpU1hyNXNOcmg3Y1owaTlIdXJrcEF0c0lySE8tQzVZTlUwa3g?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "ustariffssqueezecanadiancabinetmakersfacingdoublingoftrumpdu",
-   "title": "US tariffs squeeze Canadian cabinet makers facing doubling of Trump duty - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaDZqSmY2dXBwbDVXbTJHQ0RQVTVKNXM4WXViM0JQMEUteTJ5TzdBd0Z0UDRVVlhiaGpyWXBUdmNLak1YUkdpRkZZZVY1RG1NMUN1MG5JSTlRS0h6TU1ONWtqTk1XRjExYm5qdHBHYlVWaDlsb3pYZFFOYVNmTEF3aG84dE1ST0huN3ZPUTRZRGlTNGZyekVlMllOR1lRRFhfT19sbnRJWnZDaVQ1MTMwZklXd2pkM0E4Q1NUZA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,10 +29,22 @@
    "pts": 22
   },
   {
-   "key": "pmtolobbytrumpoverirantariffstheaustralian",
-   "title": "PM to lobby Trump over Iran, tariffs - The Australian",
+   "key": "exclusivedemocratsarehatchingaplantoreversetrumpscanadatarif",
+   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump\u2019s Canada Tariffs - WSJ",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratsarehatchingplantoreversetrumpscanadatariffstheaustr",
+   "title": "Democrats are hatching plan to reverse Trump\u2019s Canada tariffs - The Australian",
    "source": "The Australian",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWXhCTTlqaU1TdmtYblhJd1FHODFCNjVBWFliWlpqTVpNMENFMzZYeFVoN2tJc19PQ3BCZjJZT3dSRHJibEhVcWtnb1BIaVBNR0VXRTRNdGxnS3ktWFJBQ0tGOGdNS3B5czg0cUk1d01uanVtekQ4ZzBjQkc4QWRVcjVKbjItMzJycjFVZG9ENFdoQlczNUZBQ3ZUNVJXMHYtMHJKMF90NlJPSC1hX3Vmd2JQeXRZZkNqdGlRemM5SHJSVUlzbU0yLUZWMkZuMHVEb1RjU0wwQkZpX0RvN2s2M2c5eERUdUhQMmd0VUFjdVFrRF96MDROYWwxdXBldkQ1TGFLamR1QTZWMWtYSjN3a3RlV09sai1W?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSDBfX0lWUVNhczV1bEN0NEtrYXJXUWNSWER2UldDTkFrSTNSLTN6elpLRk9GQXllbWVpNmJFYzVxWFBmT1V2S1NJUm9YQ3pvd3dKVnd4SzN6VVJHS0JhMHVpVmtoVlVMNGJOdTBmNnNNczAzcWVsaXVPTXh6LXUtVXBKZEVtc2VaUmdUelNSTjFPS3NwUFYzWGdpY1ZkNFdoMlYtX2FDRVJ0NTY5N0RBMGFYRjZpc1EyU0lHc3pYaThETV95MF8zTzVyZFQtSDVwTV9HbjhNSldfOTdjNXRydl8xMkplYjg3dTZhTUVVakp2MUxjYTNyS09XZ1BHSTA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,34 +89,10 @@
    "pts": 22
   },
   {
-   "key": "exclusivedemocratsarehatchingaplantoreversetrumpscanadatarif",
-   "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump\u2019s Canada Tariffs - WSJ",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "democratsarehatchingplantoreversetrumpscanadatariffstheaustr",
-   "title": "Democrats are hatching plan to reverse Trump\u2019s Canada tariffs - The Australian",
-   "source": "The Australian",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSDBfX0lWUVNhczV1bEN0NEtrYXJXUWNSWER2UldDTkFrSTNSLTN6elpLRk9GQXllbWVpNmJFYzVxWFBmT1V2S1NJUm9YQ3pvd3dKVnd4SzN6VVJHS0JhMHVpVmtoVlVMNGJOdTBmNnNNczAzcWVsaXVPTXh6LXUtVXBKZEVtc2VaUmdUelNSTjFPS3NwUFYzWGdpY1ZkNFdoMlYtX2FDRVJ0NTY5N0RBMGFYRjZpc1EyU0lHc3pYaThETV95MF8zTzVyZFQtSDVwTV9HbjhNSldfOTdjNXRydl8xMkplYjg3dTZhTUVVakp2MUxjYTNyS09XZ1BHSTA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumptariffstosurvivemidtermgridlockfarmersweekly",
-   "title": "Trump tariffs to survive mid-term gridlock - Farmers Weekly",
-   "source": "Farmers Weekly",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ1JPNVNtMTFnZ1FGaDBxVGlZYmpZVUxyMXFsYTRfTGRDbUpUZzhGdTN4ejlXN0FCQ1JZMm1zcGxlQTM5ZWMybDVnYl9UTllXSml5VHpta3NNWEF2TGJleDZRTmZrWG5LWjM2dWUyS0VlQjVZeElLbWItcDhRSTZzREIxRVljcEZKVHZr?oc=5",
+   "key": "tedcruzslamstrumpstariffsandsaysiranwarneedstoendhoustonchro",
+   "title": "Ted Cruz slams Trump's tariffs and says Iran war needs to end - Houston Chronicle",
+   "source": "Houston Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2F5bE9YaU8ySnpNaUhMOXhIaU54VDJjZVdxYXFPSVI4SVliZTdxZzFETkJGN2piTHFqUnFnSHRIM3dDWjBXZTVQdy1WZ3BLcXZOOG5NQkZ0dk1tdE85LThSWTE4VXlGZFFGTG1QU2lCQzR2Y2dWakdMTTNHYTJFdXM3RThyN3B6TFdvQVdoUlBzb3dmOVUzS3FyUjJCUjZNbV8xQlhsYWdXamJhUEw0Qk9iWWFTR2N6OXc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,10 +113,46 @@
    "pts": 22
   },
   {
-   "key": "newtiradedatabaselogseverytariffratetrumphasannouncedbrownda",
-   "title": "New TiRADE database logs every tariff rate Trump has announced - Brown Daily Herald",
-   "source": "Brown Daily Herald",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkVlTC1KNG9jbWh2Y2o0WGtKRWNzaHZlb1FjVEd2Z0M5X1NFMXFqWUlDZm9MU09GWEVwYkdXQkQyY0xtV3FCSE16R3p6YS1pdktNampiRW4wcjc2OHZCYkNRaFVhd01VaUg3REZPdzRNclAxXzZPb2R0SEZha0QwM0ZmUzNzbUJzaHc3Tk9fMkJmUkxsTU5ONExJUjhtWUhiQ3VZUlVJcEJzOXVVc1JKa1RB?oc=5",
+   "key": "usdemocratsseektorepealtrumpstariffsoncanadiangoods1newsaz",
+   "title": "U.S. Democrats seek to repeal Trump's tariffs on Canadian goods - 1News.az",
+   "source": "1News.az",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON05ldWJxZFZQd0JXOUZSNnFhTXJSM19CSDA3d1dyR3lPMUZhdll3akhsMlh6SUtfbWwxMEQ0X1ItSENBU0F6WmZQQnpLcFNLcnBWZU1SRS1NNTVfWWU4blVwNEJLWGR1blRjY1hydWk5a1lSVDBKX214OXRHdG85bFg2cTVzTWtRMXBEcWJ3YkZNbWpNUGhIbUtWLXNmcWNHcDkxNDZpVEs?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "pmtolobbytrumpoverirantariffstheaustralian",
+   "title": "PM to lobby Trump over Iran, tariffs - The Australian",
+   "source": "The Australian",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWXhCTTlqaU1TdmtYblhJd1FHODFCNjVBWFliWlpqTVpNMENFMzZYeFVoN2tJc19PQ3BCZjJZT3dSRHJibEhVcWtnb1BIaVBNR0VXRTRNdGxnS3ktWFJBQ0tGOGdNS3B5czg0cUk1d01uanVtekQ4ZzBjQkc4QWRVcjVKbjItMzJycjFVZG9ENFdoQlczNUZBQ3ZUNVJXMHYtMHJKMF90NlJPSC1hX3Vmd2JQeXRZZkNqdGlRemM5SHJSVUlzbU0yLUZWMkZuMHVEb1RjU0wwQkZpX0RvN2s2M2c5eERUdUhQMmd0VUFjdVFrRF96MDROYWwxdXBldkQ1TGFLamR1QTZWMWtYSjN3a3RlV09sai1W?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "republicansranawayfromtrumpscanadiantariffsbutnotfarenoughcb",
+   "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "michigansnewsenatorcallstrumpscanadatariffsstupidas23billion",
+   "title": "Michigan's new senator calls Trump's Canada tariffs 'stupid' as $23 billion in costs hammer the state's economy - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVJNMFRNcGRDVWZKbk9aS05SWVhlQm00UE1sYWs0M3NhQmhWLXNyMTNRSEZrcmw5TUMtV25KMHpTVVpjaGROdnhnNlp2aG5ORVM3SHRtV2lobjRKdzdFdlRiXzJFYVMzVS1yUVlJcHR1SXc3bXJhOEVYM2p0dl9HOG9uekVMNE9mM0dqbng2aUdBcXdZNHVOUHNHZGFNM3ZickR0Yw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -167,6 +179,18 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmFzd3ZCbk9sS0dLUm83V1hrUkZOVExJSVlBLUdLTk4yRS1feXRtMWdiZEtWYzNIRzVpYU10dWxGb2o0THVVUUo5VEZVb2YxUWZOZDhGNjJpLVV5UjZBMXJNTXZhNnl3YUpSSjhfS3h0c3c2LVUwYWpNWVB1T1V4UFFZcktQSnFNa0xYZ3duWEhKQ2VmbFpObEJtbHAzbXVKeEtsZHVOcC1rX1RXcWFwdnYyQ0kwTGc?oc=5",
    "themes": [
     "mining"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "reporttrumpweighsoptionsforresumingwarwithiranassoonasnovemb",
+   "title": "Report: Trump Weighs Options for Resuming War With Iran, as Soon as November 9 - Haaretz",
+   "source": "Haaretz",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQY3ZzTnIydHp3SHBINm90cXZfeS1tNUxGblk3eW5KaTFJcGVtQ012a2xiSXN0aTRielROemVJUnJaWmRyLVJXeGdPNl9qZ01qWU9DZjlLSnc3ekFsUGZUcmVISUEzeTlucFVJNkF2enZlVzZQNjVGV0d0UGw0RHhpVzVHU2x2Yjk4eVp0QVdzRXJTTGFnS1lyTzE1OE1MRmNXckItbWhuQXBqRkRvLUQyU0FqUi14M0ItRWhpU0RqRG1ucVg2eXY3N3l1REt5UU11VUo5dEQ5RVZkLXFiakdtX1VPbVVWeG9OT3oxalVORmNxc2ZhcWdVZUhjQ3k1UWU4M0syRm5YVk5KbG5wa0E?oc=5",
+   "themes": [
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -219,141 +243,117 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "boejoinstheratehikeclubaustraliamaybedonealreadyreuters",
-   "title": "BoE joins the rate hike club, Australia may be done already - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXFXYWhzdHpRY3JzRGtmbUUzUjJreHZPWEpia1B2aDc0ZVo5cUVUcUFQMXNMdWlETWpGNHo0ZE00UzhBN1Q5YWxaeUVMLTdnOU9JQjlCSGdMUVJQcnJkUkxuVEpibVA3emtVTlNGclBWbERaR1ZTRzBDOWJISU9hQlhtSGVHRldjRV90eTVFMUNFYWdNUnc?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "democratsweepgivesmarketsareasontorethinkpathofinterestrates",
-   "title": "Democrat sweep gives markets a reason to rethink path of interest rates - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3RHgxZlF1ZldtN0lvM29RYTlsbllhX2JzSGxaQXFneWRUY0FjZzhUaUl4SjBBOGhrdmMtcnYzVVRQSGZzNUxGYm9OaG9lMEJ0OGk5bE1xS2VYOUNZOFFTNWhiVW5mcWdWQ3dDbFdfSWpkS2MxMkZqUVgyMNIBgAFBVV95cUxNRjNCcERobUpSbDExQlEtQUlfUDQyT2ZCSi15NTFKbnJWNnptZEJkWDV3NjJLQVVaejdEcDJpTF8tSzZ1Q2NhbmNBX2RkUVdCRlJ1VUUxUUZtZkFWN2VPNlU5V25nS0JfTWRnTnRMZXBkMWV0RXR2ODl6czNxcnRheA?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 85
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 390 min old)",
+   "why": "stale quote / market closed (last price 445 min old)",
    "score": 77
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 390 min old)",
+   "why": "stale quote / market closed (last price 445 min old)",
    "score": 77
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 392 min old)",
+   "why": "stale quote / market closed (last price 447 min old)",
    "score": 57
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 390 min old)",
+   "why": "stale quote / market closed (last price 445 min old)",
    "score": 84
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 82
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 53
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 54
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 882 min old)",
-   "score": 41
+   "why": "stale quote / market closed (last price 937 min old)",
+   "score": 49
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 390 min old)",
+   "why": "stale quote / market closed (last price 445 min old)",
    "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 883 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 883 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 883 min old)",
+   "why": "stale quote / market closed (last price 937 min old)",
    "score": 62
   }
  ],
@@ -368,7 +368,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 06 Nov 2026 10:42 PM AEDT",
+  "last_scan": "Fri 06 Nov 2026 11:37 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
