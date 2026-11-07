@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 09:51 PM AEDT",
+ "generated": "Sat 07 Nov 2026 10:25 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -9,18 +9,6 @@
    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "donaldtrumphastaughttheworldthattariffsareuselessfinancialti",
-   "title": "Donald Trump has taught the world that tariffs are useless - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWFlc2hsSmNCM1NvTHB0U1ZvYmY3TnI1TFJSd3J2RDZLYmhKang5cV9Mb205czlGdVJNaEtHSUppcllUWXdUX3lLYTc4Zlpua0puRldIczJtcHkwbXZCUlFpU1hyNXNOcmg3Y1owaTlIdXJrcEF0c0lySE8tQzVZTlUwa3g?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,18 +137,6 @@
    "pts": 22
   },
   {
-   "key": "democratseyechallengetotrumpstariffregimeenergyintelligence",
-   "title": "Democrats Eye Challenge to Trump\u2019s Tariff Regime - Energy Intelligence",
-   "source": "Energy Intelligence",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WdUhkVHVyZmNkdXA0U0RfZTBxdVBYdFd4bnZIUEhaQ1hmS0twd1VxMy1zdldueUVqZlRyaFZCWU51T0hwNFk0Y3YzbzJFM0djMDVnQ3UyU3QzaGQ4VWVmVmRKYTlxb095ekROT1NjQVRYdw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "factchecktrumpdidnotpostontruthsocialtheclarityactiscanceled",
    "title": "Fact Check: Trump Did NOT Post On Truth Social The 'CLARITY Act' Is Canceled Alongside The Strategic Bitcoin Reserve - Yahoo",
    "source": "Yahoo",
@@ -244,107 +220,131 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "supplychainresilienceacompetitiveadvantagefordefencebusiness",
+   "title": "Supply chain resilience: a competitive advantage for defence businesses - William Buck Australia",
+   "source": "William Buck Australia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjlfcmxYS3d6YmJ1VFY0YWJ5eVJqOE80ZXUwWW5fUkRNVFplOWQ3WmxvTDU4VzA2LWxoVDJGb1Bud0pfZnRFTm5waXVxZlFiLWdoa0lXX0VPM3h2TTBFZS1HQ1NmZmRVc09jYllqUlZhdE9CeG9idmFFMUQ0REhIbWNqS0lxQkNZNGJDb3FUb3FoODFrdzZ5UnZRajd0WHVjZVBYRXB5bGVWN2ROSTN0blNHeVBWXzBL?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "alzaiditargetsintermediarycompaniesindefenseindustrycontract",
+   "title": "Al-Zaidi Targets 'Intermediary Companies' in Defense Industry Contracts - ASHARQ AL-AWSAT English",
+   "source": "ASHARQ AL-AWSAT English",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW1zdjh6S1poa1dvTGRYekk0QlVVT1J4bHpsQWhnRW0wdzJnQmxzc3pWVExObVFmUVdnZWJudHdZakk5VTdrS1BrbHg2TEpSdFdjc2ZWRjJaT3haV0JFVVRraEh0TFF6NGhVWHU1VzdhMVRkZ1R4NDZ1cUlYTEdlbTBQeEZxV2RBanhMWnJlcUhwSHRXd2Z0YWhtUkNEU09xekUyZ1dwMUtob1VWLTR5QnNn?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 832 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 832 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 42
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1780 min old)",
+   "why": "stale quote / market closed (last price 1813 min old)",
    "score": 45
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 89
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 55
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 55
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1780 min old)",
+   "why": "stale quote / market closed (last price 1813 min old)",
    "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1780 min old)",
+   "why": "stale quote / market closed (last price 1813 min old)",
    "score": 82
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 832 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 45
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 89
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 70
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 59
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 832 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 47
   }
  ],
@@ -359,7 +359,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 09:51 PM AEDT",
+  "last_scan": "Sat 07 Nov 2026 10:25 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
