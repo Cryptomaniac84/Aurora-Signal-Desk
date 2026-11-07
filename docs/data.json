@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 04:42 AM AEDT",
+ "generated": "Sun 08 Nov 2026 05:15 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -33,18 +33,6 @@
    "title": "Trump and U.S. Congress set to clash over economic costs of tariffs - The Japan Times",
    "source": "The Japan Times",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2h1UWRiWll1OUFPMG55Y0lyU05xNjdhSGd0WERvZDBXM2czLXAyM2x4LWxDN05KQ0ZxbFZ0MlN5R3ZjOVRuN2IyNXU5VDEwTXVlZWtocUdfWjV5RVkwUWs2OFR6T3doT1BEelRNU1RIUUNqMmE0eFVBd2hIdC1tUGVUOE1hY3ZHdTUxOFhkQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "afterthemidtermroutcantrumpchangecoursewithoutgivinguptariff",
-   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
-   "source": "Carnegie Endowment for International Peace",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -243,102 +231,114 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "alzaiditargetsintermediarycompaniesindefenseindustrycontract",
+   "title": "Al-Zaidi Targets 'Intermediary Companies' in Defense Industry Contracts - ASHARQ AL-AWSAT English",
+   "source": "ASHARQ AL-AWSAT English",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW1zdjh6S1poa1dvTGRYekk0QlVVT1J4bHpsQWhnRW0wdzJnQmxzc3pWVExObVFmUVdnZWJudHdZakk5VTdrS1BrbHg2TEpSdFdjc2ZWRjJaT3haV0JFVVRraEh0TFF6NGhVWHU1VzdhMVRkZ1R4NDZ1cUlYTEdlbTBQeEZxV2RBanhMWnJlcUhwSHRXd2Z0YWhtUkNEU09xekUyZ1dwMUtob1VWLTR5QnNn?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 92
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 2191 min old)",
+   "why": "stale quote / market closed (last price 2224 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 2191 min old)",
+   "why": "stale quote / market closed (last price 2224 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1243 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 1276 min old)",
+   "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1243 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 1276 min old)",
+   "score": 42
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2191 min old)",
+   "why": "stale quote / market closed (last price 2224 min old)",
    "score": 45
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 89
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 90
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1243 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 47
   }
  ],
@@ -353,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 04:42 AM AEDT",
+  "last_scan": "Sun 08 Nov 2026 05:15 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
