@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 03:30 PM AEDT",
+ "generated": "Sat 07 Nov 2026 04:28 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -17,10 +17,10 @@
    "pts": 30
   },
   {
-   "key": "trumpcongresssettoclashonpoliticallytoxictariffblitzbloomber",
-   "title": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGNzcGItR1hEcEVGTTl2MTBubWZUWnpOVTdKdUNEQUFDbjdiV0ZtbU1xRXhHM3NpRGl0Q1diOWM1a3dUNVJsQ2NXeFZoM2lsZnVjZ0hDWUs2SmJBaEQxWGlTZmUtV1d0N0tPUWRIcU1HRjRKNTVKdFNLZGtsWHJfODY1V2pkdXZIYzZhT2ZWVTVxSEp4dGk1RnpqV3hzWUpfVVZQSVlKR2FFWkY2SzVCSG93?oc=5",
+   "key": "carneywelcomesdemocratspushtoendtrumpstariffsoncanadaaftermi",
+   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,10 +53,10 @@
    "pts": 22
   },
   {
-   "key": "carneywelcomesdemocratspushtoendtrumpstariffsoncanadaaftermi",
-   "title": "Carney welcomes Democrats\u2019 push to end Trump\u2019s tariffs on Canada after midterm victory - Arab News",
-   "source": "Arab News",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0hyVHZCOGs0bGRWMF9sZ3V6bzlBeUNMZHl4M0wydERxOEVRY0d6UWV3LTJScUR2OTh5RTZaZVJvenlDUVRuRERuRkRoamdEbzQxelV0aHNsTzdUS0VaTk96NmFyQWpva3p6cHpjVmh6eWtqNXZzT1pFYzV6LUhXVmRlOUhmR05aM1hfVmViUjZJR0NuNXdLbTU1cWRuamw5TmMxTGYtVl9FTEFaQnAzblUwNndVSVVWdGt5TkF4WHI?oc=5",
+   "key": "trumpanduscongresssettoclashovereconomiccostsoftariffsthejap",
+   "title": "Trump and U.S. Congress set to clash over economic costs of tariffs - The Japan Times",
+   "source": "The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2h1UWRiWll1OUFPMG55Y0lyU05xNjdhSGd0WERvZDBXM2czLXAyM2x4LWxDN05KQ0ZxbFZ0MlN5R3ZjOVRuN2IyNXU5VDEwTXVlZWtocUdfWjV5RVkwUWs2OFR6T3doT1BEelRNU1RIUUNqMmE0eFVBd2hIdC1tUGVUOE1hY3ZHdTUxOFhkQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,6 +101,18 @@
    "pts": 22
   },
   {
+   "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
+   "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LODFKYXBaaFVGZV9fWWtTSXVNSGYxaHFxTFU3RjlUOU1zLXZMcXM2cURwbzh5QVlnTTlDY3Nmcjg3WlZOcWdUdXVMQVFyV0ZudG13RXF2UVdkZXpFbTVF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "uslawmakerssignalchallengetotrumptariffsamidpriceconcernsmez",
    "title": "US lawmakers signal challenge to Trump tariffs amid price concerns - Mezha.net",
    "source": "Mezha.net",
@@ -113,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
-   "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LODFKYXBaaFVGZV9fWWtTSXVNSGYxaHFxTFU3RjlUOU1zLXZMcXM2cURwbzh5QVlnTTlDY3Nmcjg3WlZOcWdUdXVMQVFyV0ZudG13RXF2UVdkZXpFbTVF?oc=5",
+   "key": "trumpcongresssettoclashovereconomiccostsoftariffscpapractice",
+   "title": "Trump, Congress Set to Clash Over Economic Costs of Tariffs - CPA Practice Advisor",
+   "source": "CPA Practice Advisor",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamczS3lmQWhIM00zcUgtd3pxSHd3RjVxc1lwM1BmUDlIbU10cXVBaGZ0YTZoUlkwNXFDUjNnRVROc0NUOFpNbkhldWRtUzFGWmIxMlVjSVdvOGtWY1h4Qms0bVREVGI2eTRPQW1qV3NqM1N6YTE2UkNnOE1YWTdjV19mblA1M0NqZjU3NHJseG5Hdk41Z25mbUZSbFJzQ0U5cVNsTVRHakRKZFRBWmtDZFRB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,22 +149,10 @@
    "pts": 22
   },
   {
-   "key": "democratsplantofighttrumpscanadatariffsoncetheyrebackincontr",
-   "title": "Democrats plan to fight Trump's Canada tariffs once they're back in control of Congress: report - New York Post",
-   "source": "New York Post",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTgzTlY3NzZJQk9LMmZnbW9STGFBRzZpVUhONm5EbEpMV0hkVFhNeFdDcFJxb3VjbEtfeUwwTlBOMkFjNkU2UXgtWkRDNTBQY3duU3huWkVqV0hPbXplVy0tZGYyYkp6Mi16Q3FmTUdvN0tMT3JYQlhmZjV3alBnSnM0MGRuS2tQQTUzcjFFLU5sMlpoT0hMdjBiQy1iYVl3LTY1djBScnVmTGpYXzdIN2FiOTl6cS1vV2tqdW5oYldYSnRjazFuV3NsVDU?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "democratspledgetorepealtrumpstariffsoncanadabutlackthevotest",
-   "title": "Democrats pledge to repeal Trump's tariffs on Canada, but lack the votes to override his veto - Yahoo! Finance Canada",
-   "source": "Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGtQUHA2V3hxc05QV1JZdkFROV9lZDU0SklXUlNiV2c0LS1kYWUxQmNyVU1CVVpfWk9GZmpzSHhjYjJMY3hCZnl6MEpMWS1zRXNQeUJKS0N3Mms4TzRyUXRsY1FSdGxHQ2Z1VjVfNmxBUFRZT3MwU2Y0Q2lUc1VSMGtpckkxR2VBeVh2S0JqUkw?oc=5",
+   "key": "democratseyechallengetotrumpstariffregimeenergyintelligence",
+   "title": "Democrats Eye Challenge to Trump\u2019s Tariff Regime - Energy Intelligence",
+   "source": "Energy Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WdUhkVHVyZmNkdXA0U0RfZTBxdVBYdFd4bnZIUEhaQ1hmS0twd1VxMy1zdldueUVqZlRyaFZCWU51T0hwNFk0Y3YzbzJFM0djMDVnQ3UyU3QzaGQ4VWVmVmRKYTlxb095ekROT1NjQVRYdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -249,92 +249,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 100
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1398 min old)",
+   "why": "stale quote / market closed (last price 1456 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1398 min old)",
+   "why": "stale quote / market closed (last price 1456 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 40
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1398 min old)",
+   "why": "stale quote / market closed (last price 1456 min old)",
    "score": 43
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 45
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 89
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 70
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 59
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 450 min old)",
+   "why": "stale quote / market closed (last price 508 min old)",
    "score": 47
   }
  ],
@@ -349,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 03:30 PM AEDT",
+  "last_scan": "Sat 07 Nov 2026 04:28 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
