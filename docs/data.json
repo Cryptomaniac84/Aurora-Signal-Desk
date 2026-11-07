@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 04:28 PM AEDT",
+ "generated": "Sat 07 Nov 2026 05:16 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -65,6 +65,18 @@
    "pts": 22
   },
   {
+   "key": "usdemocratsmovetooverturntrumpstariffsagainstcanadareportthe",
+   "title": "US Democrats move to overturn Trump\u2019s tariffs against Canada: Report - thecradle.co",
+   "source": "thecradle.co",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHJsN3JqcE8yZUt4U0tOMmpyQnFmZUsxQ3ZKQU84MC1Pdzl5SkQ5OGN0WUVZamZpN2tQWnNUck8wbVRrS2ptWEpKeG9oZk5yOTdXV0VRQ0dIRThCOUxUN0RycV9RcEllV1R2NV9MYllKNzRiSUZRUEZ2UHNudmx2OG9jOE9BUEJGdEVYdm1oV21YamdjTEVWcnJTSzQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "democratsarehatchingplantoreversetrumpscanadatariffstheaustr",
    "title": "Democrats are hatching plan to reverse Trump\u2019s Canada tariffs - The Australian",
    "source": "The Australian",
@@ -117,18 +129,6 @@
    "title": "US lawmakers signal challenge to Trump tariffs amid price concerns - Mezha.net",
    "source": "Mezha.net",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGZtRDZqRWs3Y0xybExZOXZtN2g2cG9CNVV1WXJWUGp1Sy1pSHNKQkFGa1N4WmxqQzh3bmJiSWlhMXBrbzhJZ0NWY2hJYmIxTkJiajBYb0RGSTZMQzUwMEppd1dOWVhvX2tiVXlUT05vOGtRdzE2dzA0cnlPeW45cTFYOWM?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpcongresssettoclashovereconomiccostsoftariffscpapractice",
-   "title": "Trump, Congress Set to Clash Over Economic Costs of Tariffs - CPA Practice Advisor",
-   "source": "CPA Practice Advisor",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamczS3lmQWhIM00zcUgtd3pxSHd3RjVxc1lwM1BmUDlIbU10cXVBaGZ0YTZoUlkwNXFDUjNnRVROc0NUOFpNbkhldWRtUzFGWmIxMlVjSVdvOGtWY1h4Qms0bVREVGI2eTRPQW1qV3NqM1N6YTE2UkNnOE1YWTdjV19mblA1M0NqZjU3NHJseG5Hdk41Z25mbUZSbFJzQ0U5cVNsTVRHakRKZFRBWmtDZFRB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -249,92 +249,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 100
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1456 min old)",
+   "why": "stale quote / market closed (last price 1504 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1456 min old)",
+   "why": "stale quote / market closed (last price 1504 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 40
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1456 min old)",
+   "why": "stale quote / market closed (last price 1504 min old)",
    "score": 43
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 45
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 89
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 70
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 556 min old)",
    "score": 59
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 557 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 557 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 508 min old)",
+   "why": "stale quote / market closed (last price 557 min old)",
    "score": 47
   }
  ],
@@ -349,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 04:28 PM AEDT",
+  "last_scan": "Sat 07 Nov 2026 05:16 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
