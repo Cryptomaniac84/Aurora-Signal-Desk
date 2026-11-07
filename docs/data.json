@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 02:38 PM AEDT",
+ "generated": "Sat 07 Nov 2026 03:30 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -17,28 +17,16 @@
    "pts": 30
   },
   {
-   "key": "afterthemidtermroutcantrumpchangecoursewithoutgivinguptariff",
-   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
-   "source": "Carnegie Endowment for International Peace",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
+   "key": "trumpcongresssettoclashonpoliticallytoxictariffblitzbloomber",
+   "title": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGNzcGItR1hEcEVGTTl2MTBubWZUWnpOVTdKdUNEQUFDbjdiV0ZtbU1xRXhHM3NpRGl0Q1diOWM1a3dUNVJsQ2NXeFZoM2lsZnVjZ0hDWUs2SmJBaEQxWGlTZmUtV1d0N0tPUWRIcU1HRjRKNTVKdFNLZGtsWHJfODY1V2pkdXZIYzZhT2ZWVTVxSEp4dGk1RnpqV3hzWUpfVVZQSVlKR2FFWkY2SzVCSG93?oc=5",
    "themes": [
     "geopolitics"
    ],
    "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "pmtolobbytrumpoverirantariffstheaustralian",
-   "title": "PM to lobby Trump over Iran, tariffs - The Australian",
-   "source": "The Australian",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWXhCTTlqaU1TdmtYblhJd1FHODFCNjVBWFliWlpqTVpNMENFMzZYeFVoN2tJc19PQ3BCZjJZT3dSRHJibEhVcWtnb1BIaVBNR0VXRTRNdGxnS3ktWFJBQ0tGOGdNS3B5czg0cUk1d01uanVtekQ4ZzBjQkc4QWRVcjVKbjItMzJycjFVZG9ENFdoQlczNUZBQ3ZUNVJXMHYtMHJKMF90NlJPSC1hX3Vmd2JQeXRZZkNqdGlRemM5SHJSVUlzbU0yLUZWMkZuMHVEb1RjU0wwQkZpX0RvN2s2M2c5eERUdUhQMmd0VUFjdVFrRF96MDROYWwxdXBldkQ1TGFLamR1QTZWMWtYSjN3a3RlV09sai1W?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
+   "trusted": true,
+   "pts": 30
   },
   {
    "key": "howdemocratscouldimpacttrumpstariffsincongressandpossiblyund",
@@ -53,10 +41,34 @@
    "pts": 22
   },
   {
+   "key": "afterthemidtermroutcantrumpchangecoursewithoutgivinguptariff",
+   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
+   "source": "Carnegie Endowment for International Peace",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "carneywelcomesdemocratspushtoendtrumpstariffsoncanadaaftermi",
    "title": "Carney welcomes Democrats\u2019 push to end Trump\u2019s tariffs on Canada after midterm victory - Arab News",
    "source": "Arab News",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0hyVHZCOGs0bGRWMF9sZ3V6bzlBeUNMZHl4M0wydERxOEVRY0d6UWV3LTJScUR2OTh5RTZaZVJvenlDUVRuRERuRkRoamdEbzQxelV0aHNsTzdUS0VaTk96NmFyQWpva3p6cHpjVmh6eWtqNXZzT1pFYzV6LUhXVmRlOUhmR05aM1hfVmViUjZJR0NuNXdLbTU1cWRuamw5TmMxTGYtVl9FTEFaQnAzblUwNndVSVVWdGt5TkF4WHI?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratsarehatchingplantoreversetrumpscanadatariffstheaustr",
+   "title": "Democrats are hatching plan to reverse Trump\u2019s Canada tariffs - The Australian",
+   "source": "The Australian",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSDBfX0lWUVNhczV1bEN0NEtrYXJXUWNSWER2UldDTkFrSTNSLTN6elpLRk9GQXllbWVpNmJFYzVxWFBmT1V2S1NJUm9YQ3pvd3dKVnd4SzN6VVJHS0JhMHVpVmtoVlVMNGJOdTBmNnNNczAzcWVsaXVPTXh6LXUtVXBKZEVtc2VaUmdUelNSTjFPS3NwUFYzWGdpY1ZkNFdoMlYtX2FDRVJ0NTY5N0RBMGFYRjZpc1EyU0lHc3pYaThETV95MF8zTzVyZFQtSDVwTV9HbjhNSldfOTdjNXRydl8xMkplYjg3dTZhTUVVakp2MUxjYTNyS09XZ1BHSTA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,18 +113,6 @@
    "pts": 22
   },
   {
-   "key": "trumpdoublesdownontariffsdespiteelectionloss",
-   "title": "Trump doubles down on tariffs despite election loss - \ub3d9\uc544\uc77c\ubcf4",
-   "source": "\ub3d9\uc544\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3YW80cWVwV3UyeWdXYXNySENhQTVKZy1zNnp6WWVzQTlWOWpRSEo2UUl5VjF1Q2N6VEJOSDhpR1c5YVdOV3h0dnhDSkhlekw3dVdUaW5Renc1bWE0SnJTSUhNejhPQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
    "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
    "source": "The Jerusalem Post",
@@ -149,10 +149,10 @@
    "pts": 22
   },
   {
-   "key": "trumpdefendstariffsdespiterepublicanmidtermlossesvovworld",
-   "title": "Trump defends tariffs despite Republican midterm losses - VOV World",
-   "source": "VOV World",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnlGQ0ZZcXZkUjlpc2txQ3dtNzV4bnN4ZHdtd1JkQWRwczEyWUVpcl9ZWEZlNlRUbW1ldUZHdTFPRURsdjBmNWVBekc3MTdKczQyVTVGTnBwbXNLTjZfbUFNSHBwN1phQnhKOUFaNGFlb0ZHampFMkNTeEprSll6RjJtS2txSzJERWF4Uy1DeVZsYVo5cWtndQ?oc=5",
+   "key": "democratspledgetorepealtrumpstariffsoncanadabutlackthevotest",
+   "title": "Democrats pledge to repeal Trump's tariffs on Canada, but lack the votes to override his veto - Yahoo! Finance Canada",
+   "source": "Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGtQUHA2V3hxc05QV1JZdkFROV9lZDU0SklXUlNiV2c0LS1kYWUxQmNyVU1CVVpfWk9GZmpzSHhjYjJMY3hCZnl6MEpMWS1zRXNQeUJKS0N3Mms4TzRyUXRsY1FSdGxHQ2Z1VjVfNmxBUFRZT3MwU2Y0Q2lUc1VSMGtpckkxR2VBeVh2S0JqUkw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -249,92 +249,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 100
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1347 min old)",
+   "why": "stale quote / market closed (last price 1398 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1347 min old)",
+   "why": "stale quote / market closed (last price 1398 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 40
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1347 min old)",
+   "why": "stale quote / market closed (last price 1398 min old)",
    "score": 43
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 45
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 89
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 70
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 59
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 399 min old)",
+   "why": "stale quote / market closed (last price 450 min old)",
    "score": 47
   }
  ],
@@ -349,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 02:38 PM AEDT",
+  "last_scan": "Sat 07 Nov 2026 03:30 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
