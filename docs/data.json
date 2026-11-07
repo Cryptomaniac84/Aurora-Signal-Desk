@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 04:08 AM AEDT",
+ "generated": "Sun 08 Nov 2026 04:42 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -53,18 +53,6 @@
    "pts": 22
   },
   {
-   "key": "lorneguntertrumpstariffsabigreasonforusmidtermshellackingedm",
-   "title": "Lorne Gunter: Trump\u2019s tariffs a big reason for U.S. midterm shellacking - Edmonton Journal",
-   "source": "Edmonton Journal",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ19kVXpiamlwUVNoSVR1c1FoeWl4SkpxV0hoUFJNX1EtM0NXQ1hqUVJELU56MWo1LUZ0S0FuczJWb0F6QkZNM181dVlUcTFodklQUUpwcDNEaEpLTGl6clMzSmVhQWhYVHpOaUxOb0NDOW5VZVVJV3M3Mk5QaGlMZGN3RUwzcktBeFJzNHE3T0tSejZ0NGc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
    "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
    "source": "EnergyNow",
@@ -77,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "usdemocratsmovetooverturntrumpstariffsagainstcanadareportthe",
-   "title": "US Democrats move to overturn Trump\u2019s tariffs against Canada: Report - thecradle.co",
-   "source": "thecradle.co",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHJsN3JqcE8yZUt4U0tOMmpyQnFmZUsxQ3ZKQU84MC1Pdzl5SkQ5OGN0WUVZamZpN2tQWnNUck8wbVRrS2ptWEpKeG9oZk5yOTdXV0VRQ0dIRThCOUxUN0RycV9RcEllV1R2NV9MYllKNzRiSUZRUEZ2UHNudmx2OG9jOE9BUEJGdEVYdm1oV21YamdjTEVWcnJTSzQ?oc=5",
+   "key": "lorneguntertrumpstariffsabigreasonforusmidtermshellackingedm",
+   "title": "Lorne Gunter: Trump\u2019s tariffs a big reason for U.S. midterm shellacking - Edmonton Journal",
+   "source": "Edmonton Journal",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ19kVXpiamlwUVNoSVR1c1FoeWl4SkpxV0hoUFJNX1EtM0NXQ1hqUVJELU56MWo1LUZ0S0FuczJWb0F6QkZNM181dVlUcTFodklQUUpwcDNEaEpLTGl6clMzSmVhQWhYVHpOaUxOb0NDOW5VZVVJV3M3Mk5QaGlMZGN3RUwzcktBeFJzNHE3T0tSejZ0NGc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "lorneguntertrumpstariffsabigreasonforusmidtermshellackingyah",
-   "title": "Lorne Gunter: Trump\u2019s tariffs a big reason for U.S. midterm shellacking - Yahoo News Canada",
-   "source": "Yahoo News Canada",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzcnU0NlNkZXZTdEFPQXcxLWZuZFQtb0RGcVFNR05lSjBkLW9WMG5kaDdMWmhlaWk4WVlCS3hIR2l1MlgxNHBDNFFPUWRFWVJUa3I4R0dnWUZ3MXhhQWNXQVpnN3NFRmNsMWwtbTM5VEJXcllSRC1IeWpuUQ?oc=5",
+   "key": "usdemocratsmovetooverturntrumpstariffsagainstcanadareportthe",
+   "title": "US Democrats move to overturn Trump\u2019s tariffs against Canada: Report - thecradle.co",
+   "source": "thecradle.co",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHJsN3JqcE8yZUt4U0tOMmpyQnFmZUsxQ3ZKQU84MC1Pdzl5SkQ5OGN0WUVZamZpN2tQWnNUck8wbVRrS2ptWEpKeG9oZk5yOTdXV0VRQ0dIRThCOUxUN0RycV9RcEllV1R2NV9MYllKNzRiSUZRUEZ2UHNudmx2OG9jOE9BUEJGdEVYdm1oV21YamdjTEVWcnJTSzQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -153,6 +141,18 @@
    "title": "Trump, Congress Set to Clash Over Economic Costs of Tariffs - CPA Practice Advisor",
    "source": "CPA Practice Advisor",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamczS3lmQWhIM00zcUgtd3pxSHd3RjVxc1lwM1BmUDlIbU10cXVBaGZ0YTZoUlkwNXFDUjNnRVROc0NUOFpNbkhldWRtUzFGWmIxMlVjSVdvOGtWY1h4Qms0bVREVGI2eTRPQW1qV3NqM1N6YTE2UkNnOE1YWTdjV19mblA1M0NqZjU3NHJseG5Hdk41Z25mbUZSbFJzQ0U5cVNsTVRHakRKZFRBWmtDZFRB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "uslawmakerssignalchallengetotrumptariffsamidpriceconcernsmez",
+   "title": "US lawmakers signal challenge to Trump tariffs amid price concerns - Mezha.net",
+   "source": "Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGZtRDZqRWs3Y0xybExZOXZtN2g2cG9CNVV1WXJWUGp1Sy1pSHNKQkFGa1N4WmxqQzh3bmJiSWlhMXBrbzhJZ0NWY2hJYmIxTkJiajBYb0RGSTZMQzUwMEppd1dOWVhvX2tiVXlUT05vOGtRdzE2dzA0cnlPeW45cTFYOWM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,97 +248,97 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 92
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 2157 min old)",
+   "why": "stale quote / market closed (last price 2191 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 2157 min old)",
+   "why": "stale quote / market closed (last price 2191 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1209 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 1243 min old)",
+   "score": 49
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1209 min old)",
-   "score": 42
+   "why": "stale quote / market closed (last price 1243 min old)",
+   "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2157 min old)",
+   "why": "stale quote / market closed (last price 2191 min old)",
    "score": 45
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 89
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 90
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1209 min old)",
+   "why": "stale quote / market closed (last price 1243 min old)",
    "score": 47
   }
  ],
@@ -353,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 04:08 AM AEDT",
+  "last_scan": "Sun 08 Nov 2026 04:42 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
