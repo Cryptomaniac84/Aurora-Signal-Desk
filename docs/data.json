@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 06:30 PM AEDT",
+ "generated": "Sat 07 Nov 2026 07:27 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -29,10 +29,10 @@
    "pts": 30
   },
   {
-   "key": "afterthemidtermroutcantrumpchangecoursewithoutgivinguptariff",
-   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
-   "source": "Carnegie Endowment for International Peace",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
+   "key": "trumpanduscongresssettoclashovereconomiccostsoftariffsthejap",
+   "title": "Trump and U.S. Congress set to clash over economic costs of tariffs - The Japan Times",
+   "source": "The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2h1UWRiWll1OUFPMG55Y0lyU05xNjdhSGd0WERvZDBXM2czLXAyM2x4LWxDN05KQ0ZxbFZ0MlN5R3ZjOVRuN2IyNXU5VDEwTXVlZWtocUdfWjV5RVkwUWs2OFR6T3doT1BEelRNU1RIUUNqMmE0eFVBd2hIdC1tUGVUOE1hY3ZHdTUxOFhkQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,10 +53,10 @@
    "pts": 22
   },
   {
-   "key": "trumpanduscongresssettoclashovereconomiccostsoftariffsthejap",
-   "title": "Trump and U.S. Congress set to clash over economic costs of tariffs - The Japan Times",
-   "source": "The Japan Times",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2h1UWRiWll1OUFPMG55Y0lyU05xNjdhSGd0WERvZDBXM2czLXAyM2x4LWxDN05KQ0ZxbFZ0MlN5R3ZjOVRuN2IyNXU5VDEwTXVlZWtocUdfWjV5RVkwUWs2OFR6T3doT1BEelRNU1RIUUNqMmE0eFVBd2hIdC1tUGVUOE1hY3ZHdTUxOFhkQQ?oc=5",
+   "key": "afterthemidtermroutcantrumpchangecoursewithoutgivinguptariff",
+   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
+   "source": "Carnegie Endowment for International Peace",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,12 +161,24 @@
    "pts": 22
   },
   {
-   "key": "trumpdefendstariffsdespiterepublicanmidtermlossesvovworld",
-   "title": "Trump defends tariffs despite Republican midterm losses - VOV World",
-   "source": "VOV World",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnlGQ0ZZcXZkUjlpc2txQ3dtNzV4bnN4ZHdtd1JkQWRwczEyWUVpcl9ZWEZlNlRUbW1ldUZHdTFPRURsdjBmNWVBekc3MTdKczQyVTVGTnBwbXNLTjZfbUFNSHBwN1phQnhKOUFaNGFlb0ZHampFMkNTeEprSll6RjJtS2txSzJERWF4Uy1DeVZsYVo5cWtndQ?oc=5",
+   "key": "democratseyechallengetotrumpstariffregimeenergyintelligence",
+   "title": "Democrats Eye Challenge to Trump\u2019s Tariff Regime - Energy Intelligence",
+   "source": "Energy Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WdUhkVHVyZmNkdXA0U0RfZTBxdVBYdFd4bnZIUEhaQ1hmS0twd1VxMy1zdldueUVqZlRyaFZCWU51T0hwNFk0Y3YzbzJFM0djMDVnQ3UyU3QzaGQ4VWVmVmRKYTlxb095ekROT1NjQVRYdw?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "factchecktrumpdidnotpostontruthsocialtheclarityactiscanceled",
+   "title": "Fact Check: Trump Did NOT Post On Truth Social The 'CLARITY Act' Is Canceled Alongside The Strategic Bitcoin Reserve - Yahoo",
+   "source": "Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU14bEtBLXBRd3NnYnp1TUNHVHVUam9YOWJEVjBkSWdtSDhzVkJsYjdlbDg2dlpPRnlfZlNzOXVvQnpKZ2RpcmhJNGhGdUdaU04wbkdEWC1pRTNvT0NlTjlaNmlEbjJmQTk0QUd0N3NjRTVoRldaakh1Z2otX2NsMmFiMTNxUG1ScWh0dw?oc=5",
+   "themes": [
+    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -198,6 +210,18 @@
    "pts": 20
   },
   {
+   "key": "czechpremierblastscentralbankratehikeasscandalousbloombergco",
+   "title": "Czech Premier Blasts Central Bank Rate Hike as \u2018Scandalous\u2019 - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZGYm10VWZ4YVdFUWRKTDJxLWdwZ0JTSEVyQTZIcDZGU0dXWDNQMlJrU056TUo3QVRnX3hsSkNjbS01Y192R3FMd29PZDF6VTE1ZWpkdlJjdkhHa2VkUjZWNXZfdUFYaGV1QUFuZk5OZU9qR0N4THA5bnFwZ2IzZWFtM0UzVTdBUTZqZmRaQ1RiWHRkb0xDUjdDdWFBdl9qZ1ZYZDZqZHFHRGF3?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "bojchiefuedaseessomeupsideriskstoinflationreuters",
    "title": "BOJ chief Ueda sees 'some upside risks' to inflation - Reuters",
    "source": "Reuters",
@@ -220,121 +244,107 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "bojsuedasaysunclearhowlong2inflationratewillremainbloombergc",
-   "title": "BOJ\u2019s Ueda Says Unclear How Long 2% Inflation Rate Will Remain - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGtUcFRNdmZqZ2VBWW9FQ3c1R043Yk9JY1JiMHU3ZzdNMVZrVVZsLWxMZE5fM1B1VDRPbGpmdkhLUEN6MEtHb1VrNUEtUWVEcE9EOWxZT3ZXMWJ3WFdwUmk5LUg5eEVpa0tvSmZKcnhRc09uTGZCbDVfZDBFY3BXMEFCR1JSZkVzdE16eXVMU3NDbHpRdVFfSzlPVUR0dkVSbVNSQk51TkNjRWxNOFEwSEF3?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "nvidiasaichipexportsemergeastargetindemocraticcongressbloomb",
-   "title": "Nvidia\u2019s AI Chip Exports Emerge as Target in Democratic Congress - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1hFMFZLZ3NScUN5R1drUjBFWFZGSXA5a1JjYW9TTkp0UE5nYWNxekFRNlBQcG00X3NpRmZHVVJ4X25HM3pnaHYtMVgxSENsT0RrTmg4OURDNk12dmhyVDFZbHN6V2g3Y0hWY05HaWxKaVdoMXFxVlBEdUwteWEtVjB5YTdyNTBORnQ1azRXQnFFeVFWcFZfRzFpQTVVSkI3dXFUcFJYWjIwT3JRckcwRzVmdklOdw?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 100
   },
   {
+   "sym": "COIN",
+   "why": "stale quote / market closed (last price 688 min old)",
+   "score": 89
+  },
+  {
+   "sym": "MSTR",
+   "why": "stale quote / market closed (last price 688 min old)",
+   "score": 92
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1579 min old)",
+   "why": "stale quote / market closed (last price 1636 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1579 min old)",
+   "why": "stale quote / market closed (last price 1636 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 40
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1579 min old)",
+   "why": "stale quote / market closed (last price 1636 min old)",
    "score": 43
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 45
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 89
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 70
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 59
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 631 min old)",
+   "why": "stale quote / market closed (last price 688 min old)",
    "score": 47
   }
  ],
@@ -349,7 +359,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 06:30 PM AEDT",
+  "last_scan": "Sat 07 Nov 2026 07:27 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
