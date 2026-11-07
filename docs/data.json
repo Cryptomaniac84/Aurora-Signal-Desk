@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 08:43 AM AEDT",
+ "generated": "Sun 08 Nov 2026 09:17 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -21,6 +21,18 @@
    "title": "Trump\u2019s tariffs and vanity projects will survive midterm meltdown - The Times",
    "source": "The Times",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcm1ydUJRRWR0QWNOU0JUUHdIUUZtN28tZHUzcWxDUjhYT182eXJKdlgwRHU1RmxEWWhsdmZhZTQ5YjZVSmxTU2tvbmpjYVAyOVBRb2ZnRS1LZjF1Zy1WeTBSc1JJYUw3NmlIWjhseXl0ZmREbnhNSmppZ1YzQTVJNDdFTkZMQXh3RUgtVDI1eks?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
+   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,24 +113,24 @@
    "pts": 22
   },
   {
-   "key": "presidentdonaldtrumpjustproclaimedthatinflationiswaydownbutf",
-   "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take - The Motley Fool",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "abdulelsayedslamstrumpstariffwarwithcanadaajshortsmodernghan",
    "title": "Abdul El-Sayed slams Trump\u2019s tariff war with Canada | AJ #shorts - Modern Ghana",
    "source": "Modern Ghana",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVeGg4Umh4WnFuaTBlNWdBa0tUeVoyUmJxOV9SU1dxdnlDODgySEJNc3VhejZOU0xnVFFwRzF4bTNuei1CdkRjdFRvaEVpVEFnNDBoOS1OWUFIU21QeFB6VjlMMFpWUFXSAVxBVV95cUxNN3M0U1ExYm1YbDBZcmoyVWl6WDU2NHNxUG1uTDhaN0lYUGNIVlpKNHBVOVRWUHE2NkYxcmhsSlRrWERqNDBKQmNuUG8zdkdxamdHdWxZNWY4aW43aw?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "presidentdonaldtrumpjustproclaimedthatinflationiswaydownbutf",
+   "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take - The Motley Fool",
+   "source": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5",
+   "themes": [
+    "rates"
    ],
    "trump": true,
    "trusted": false,
@@ -137,42 +149,6 @@
    "pts": 22
   },
   {
-   "key": "democratsplantorollbacksometrumptariffsstartingwithcanada",
-   "title": "Democrats plan to roll back some Trump tariffs, starting with Canada - \u8054\u5408\u65e9\u62a5",
-   "source": "\u8054\u5408\u65e9\u62a5",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnVjYWNZZTY1WkN6ckNPY3BRNERFLVA4ZUFyd3hBbV9MSHFHdi1oSTJKMVpBc3QydmEzREROalpUYUdwLTdRNDdMY2U5YkdMcGhkWGxxbXlTQzNvVkJPb3ktYmx5RHBlaG1vS2Z4WVJZUE5MandZR25nWXQyTGM4UW9uVDRSZkFadHJ6NXhyXzJpVmRRVi1WT25nUDkwRTFJ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpcongresssettoclashovereconomiccostsoftariffstheguamdail",
-   "title": "Trump, Congress set to clash over economic costs of tariffs - The Guam Daily Post",
-   "source": "The Guam Daily Post",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcm5MeEhBNi1jMHBKd3F6bThseTlIVXMtUnJmX19QQ0pPWUpaUVlUeFlBZ0ZtNFVlMG5ubjFSaC1TYWFMa21GWXNGYkh4em16OXlaMkhnUjQ0ampxNTJhY0dTRDdXbmdjQ1cwM2FtM2J6LVk5alNHdmw0Z092a0dEdnBGQ1dUeFRZQjdOU1JrdldWOW5RdkMzZDlkYmluSWJsNkZoaFM5dXhhenN5b1I5dWdXTEFXWlpvZjg1YnZIZEtrMEJta0ZxTDBJZUpBbGh6MU9CMmdVNnpkYVFmUlVqd0NR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "racetotameinflationmoretrickythanonethatstopsthenationabcnew",
-   "title": "Race to tame inflation more tricky than one that stops the nation - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkJOVXZKRnZ5OEtQLU9mbmUxNEN1QTM3Z0pmdmhjdEVTd3JycFlsenNTdTR3MXZQck9QT3drTTFIblk5TmJjRzhzdHplWktKUnpURVNCZFoxSHUwMmdKR3VBM1AzdHRCbEpjZGlmWFYxbS1HSlNqbE45VndPMUpzSGJzRFQxZENleHNZTXJLSHRoSFZsOE5Gdnp6TTJmbFl3UlFOZEVtODBudkk?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "czechpremierblastscentralbankratehikeasscandalousbloombergco",
    "title": "Czech Premier Blasts Central Bank Rate Hike as \u2018Scandalous\u2019 - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -183,6 +159,18 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "usdemocraticwinunlikelytoeasefirmscosttariffwoesinneartermex",
+   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dE52eEItNXJwbWNKOTJMNDU3UXpxei1xLW95bU1XNEZCNDBUZHFiSU1UU09ITjJfS0FkendFcU5YdWZOa0Z1OHE3UldNV2JU?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "supplychainresilienceacompetitiveadvantagefordefencebusiness",
@@ -244,92 +232,104 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "atleast350russianconscriptshavebeenkilledinthewarwithukraine",
+   "title": "At least 350 Russian conscripts have been killed in the war with Ukraine. Here is the list of their names - Mediazona",
+   "source": "Mediazona",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oMk1DSXhWVF9wQzluMm40R3pJSEw2OTNRS3l4WW1ySkNYcnY2TzRBVVZ4OUh0RzVMeXdFaUp0QlFqMGlBMHZQc25aTzFneUZ6NkhWVTJ1WDVIS0RQZkVlSU1Id1ZxU0kzaUQwZnRkcFNEVWpTLVBFaA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 92
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 49
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2432 min old)",
+   "why": "stale quote / market closed (last price 2465 min old)",
    "score": 45
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 2432 min old)",
+   "why": "stale quote / market closed (last price 2465 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 2432 min old)",
+   "why": "stale quote / market closed (last price 2465 min old)",
    "score": 84
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 47
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 82
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 47
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1484 min old)",
+   "why": "stale quote / market closed (last price 1517 min old)",
    "score": 82
   }
  ],
@@ -344,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 08:43 AM AEDT",
+  "last_scan": "Sun 08 Nov 2026 09:17 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
