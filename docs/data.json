@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 07 Nov 2026 12:05 PM AEDT",
+ "generated": "Sat 07 Nov 2026 01:01 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -77,10 +77,22 @@
    "pts": 22
   },
   {
-   "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
-   "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
-   "source": "The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LODFKYXBaaFVGZV9fWWtTSXVNSGYxaHFxTFU3RjlUOU1zLXZMcXM2cURwbzh5QVlnTTlDY3Nmcjg3WlZOcWdUdXVMQVFyV0ZudG13RXF2UVdkZXpFbTVF?oc=5",
+   "key": "democratsplantorollbacksometrumptariffsstartingwithcanada",
+   "title": "Democrats plan to roll back some Trump tariffs, starting with Canada - \u8054\u5408\u65e9\u62a5",
+   "source": "\u8054\u5408\u65e9\u62a5",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnVjYWNZZTY1WkN6ckNPY3BRNERFLVA4ZUFyd3hBbV9MSHFHdi1oSTJKMVpBc3QydmEzREROalpUYUdwLTdRNDdMY2U5YkdMcGhkWGxxbXlTQzNvVkJPb3ktYmx5RHBlaG1vS2Z4WVJZUE5MandZR25nWXQyTGM4UW9uVDRSZkFadHJ6NXhyXzJpVmRRVi1WT25nUDkwRTFJ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "opiniontrumpstariffshavefailedbringbackreaganomicsthenewyork",
+   "title": "Opinion | Trump\u2019s Tariffs Have Failed. Bring Back Reaganomics. - The New York Times",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -93,6 +105,18 @@
    "title": "Newly Emboldened Dems Gear Up for a Fight Against Trump\u2019s Canada Tariffs, PM Carney Welcomes Effort - WWD",
    "source": "WWD",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTW1jc1pRc0ctcWcxNXEydE52ZVk1aVBmX0Z2SU1hb3B1Y0J6b3pLYzhHd2FLWHp5V2hnZVMzVlNhNjhpMDZ5RGtyWmJ4c2xBbkdja1F5VWlsZ3U0c3Rjd1RBSHdJOWFRcTIteTh0ZGp3dy1fMGQ3cGh1dG1DUWJQOHB4emIzTjY0aXEtanhCTldvVGs0N0loT3QyZnNxTU9ibC1MQnNlWTBoeTJFM0V6Yg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "usdemocratsplanningtocombattrumpscanadatariffsthejerusalempo",
+   "title": "US Democrats planning to combat Trump's Canada tariffs - The Jerusalem Post",
+   "source": "The Jerusalem Post",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LODFKYXBaaFVGZV9fWWtTSXVNSGYxaHFxTFU3RjlUOU1zLXZMcXM2cURwbzh5QVlnTTlDY3Nmcjg3WlZOcWdUdXVMQVFyV0ZudG13RXF2UVdkZXpFbTVF?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,18 +149,6 @@
    "pts": 22
   },
   {
-   "key": "blockingeudealakintotrumptariffscoalitionwarnedthenightly",
-   "title": "Blocking EU deal akin to Trump tariffs, Coalition warned - The Nightly",
-   "source": "The Nightly",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQlFucWhyRUdZSmNHaW04S3E0aUpDYmtER1FYQ2lha2tqUFRGOGx2em82Z3NOc3pMX1BDVVJVNGtmcE8tcHIwZ19IX1JoSGl1dHJNNWtEeXdfckdLbDFFSzkwWkZqaEE4WVpJNHpiV3JiSGVCcDZ6ek9Ed0cxbzduRWpvZHV2QUF4ZXgwWDQ1Mk5Da01wNWFHZFgyWjU2Rm1IY05XRUViblF6Y0RYWHFtWksxYzB2MHdwdExMa29teDRlbTU1SElZV0k5ay1wUEFyYnY0a3VqcGt2dXFpQnZ6OXlNSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "democratseyechallengetotrumpstariffregimeenergyintelligence",
    "title": "Democrats Eye Challenge to Trump\u2019s Tariff Regime - Energy Intelligence",
    "source": "Energy Intelligence",
@@ -149,10 +161,10 @@
    "pts": 22
   },
   {
-   "key": "mtawantsincomingdemocraticcongressionalmajoritiestoboosttran",
-   "title": "MTA wants incoming Democratic Congressional majorities to boost transit funding, insulate it from Trump tariffs - amNewYork",
-   "source": "amNewYork",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RFTTFubGhlS0c5NWNpNm9KMjZYTHd0U2ZaWjYyT0VBY1NBRVpwN2JTRDlJUU5DU3J3R2tOV013Ri1iXzZRWUtJc1U4amhacVR2RFhZTFRMVC16dDYteWF4RTRCY0VEOUxHZ0wzVEJ5eWt5NHFWX3hXamFiazlkeW5kVFBiTUk?oc=5",
+   "key": "democratscouldendtrumpstariffsbyjanuarythetimes",
+   "title": "Democrats could end Trump\u2019s tariffs by January - The Times",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDM5SlFJb2VsMkZHZWg5cWdVQnRDVHZwYkxsMDNmZW9uS3BtQWNOcXJWNEwycWVIbHhZMjd0Z2l0M0RhNzVuMVpMVDhmSzN6NHBpQnFncHNza1ctQ1AxMEpLQjVfNDF4R1pOeDRNTF94RTdHNHNlV3RrOGM2RGlvY2JSNGlrLTIwbFdMaGlkbGNyb002LUR1TU5GS05uc0pUejMzTDFYQ2VCQ3AybnRfSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -189,7 +201,7 @@
    "key": "americansareonatreadmillofhighinflationandmoreratehikesareli",
    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says - CNBC",
    "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83d09fT01uTmdIZ09Wb0pDYWg4VU5rRTF3MWstQ25hU2dDM011N3k3cVBzRFFOeGtuTjVSMHJVcy1zb25qY0Q4NERLSUIxN3JUN2tUbEZoZ2FLbVBDajRHUFktYVEtOTZ2cWxlX21NbF8xd1JxN25GNkNn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83d09fT01uTmdIZ09Wb0pDYWg4VU5rRTF3MWstQ25hU2dDM011N3k3cVBzRFFOeGtuTjVSMHJVcy1zb25qY0Q4NERLSUIxN3JUN2tUbEZoZ2FLbVBDajRHUFktYVEtOTZ2cWxlX21NbF8xd1JxN25GNkNn0gF_QVVfeXFMUFM0YzVQazV4YXplRlQzdkpaM3ZtTGNVdlU3OG83N1o1ZmhtVFVGaEdvOC1WckhzNEQwNXdLb0hBQWptVjJuOVdNV2hrM0lCbmQzWk1veVdQTnJjbEZJRXJuZXByelRRWHJoakE1UktiTV90Zl90R1M1OHBBTXYxZw?oc=5",
    "themes": [
     "rates"
    ],
@@ -222,18 +234,6 @@
    "pts": 20
   },
   {
-   "key": "opinionthetariffswereamistakethenewyorktimes",
-   "title": "Opinion | The Tariffs Were a Mistake - The New York Times",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GNXpOaE1ibmZOenc2aHdzZFNSM1hvYUUwTnJtdlRzZlJ0ZGx3LUhjTG1fcDRDRWZHWHF6M0tuVm1MbkFybFpCVnRHNGlxT3dNX09WSGZHbXlybm9hQU1rWlJERi1RZ0NoMFdiTHR5cnRXVXdjOE1XNg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "denmarkdirectlyawardssaabbillionkronorcontractnordicdefences",
    "title": "Denmark directly awards Saab billion-kronor contract - Nordic Defence Sector",
    "source": "Nordic Defence Sector",
@@ -249,92 +249,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 87
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 56
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 86
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 55
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 48
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1194 min old)",
+   "why": "stale quote / market closed (last price 1250 min old)",
    "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1194 min old)",
+   "why": "stale quote / market closed (last price 1250 min old)",
    "score": 82
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 39
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 36
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1194 min old)",
+   "why": "stale quote / market closed (last price 1250 min old)",
    "score": 43
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 37
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 89
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 75
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 74
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 246 min old)",
+   "why": "stale quote / market closed (last price 302 min old)",
    "score": 47
   }
  ],
@@ -349,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 07 Nov 2026 12:05 PM AEDT",
+  "last_scan": "Sat 07 Nov 2026 01:01 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
