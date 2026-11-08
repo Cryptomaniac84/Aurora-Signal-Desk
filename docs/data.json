@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 05:16 AM AEDT",
+ "generated": "Mon 09 Nov 2026 06:14 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -29,18 +29,6 @@
    "pts": 22
   },
   {
-   "key": "usdemocratspreparelegislativelimitsontrumptariffsthehilluane",
-   "title": "US Democrats prepare legislative limits on Trump tariffs \u2014 The Hill - UA.NEWS",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZEFKeVJjRGhncC01WTA4QmFJZW1wZHVCeGJhSWxfc252MFVJMlFKNFVwMXlLeldVTDlYVWg1QmYyME12Si00bXlvdVNOS1V6WFNIRzlOQWliYzJuU1NiNE13QTl1dUVuejQ2TURBSzcyUUZ6QlpkVnZWd0ZSUHdxWFZWMDBZb2Jjakw5cmRucWxnU3M0VEY3eU42M2JnM1dLWU1mU0ZQNA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "democratswoncongresscantheyactuallystoptrumpstariffsthehill",
    "title": "Democrats won Congress. Can they actually stop Trump\u2019s tariffs? - The Hill",
    "source": "The Hill",
@@ -56,7 +44,19 @@
    "key": "democratscantendtrumpstariffswithoutrepublicansthecentersqua",
    "title": "Democrats can\u2019t end Trump's tariffs without Republicans - The Center Square",
    "source": "The Center Square",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVg1OUhRRGotLWp5X2ZUV2dZcG1GV2VpN0ZHOXktaUFhVnQ5TlBaYS1VR3FqVWpDaHJOeEhTdk9tSUdub01HQmlGZVh1SXlGWGVOb2xGLWlmUVc4QWdsMHRleFF1Q1JTRHFuNG90cERod2FITURQd0JHREZIX3BtS0JrWWhvekZoYUl5bFcxaC1ZYURKQkxja19R0gGaAUFVX3lxTFBpWDU5SFFEai0tanlfZlRXZ1lwbUZXZWk3Rkc5eS1pQWFWdDlOUFphLVVHcWpVakNock54SFN2T21JR25vTUdCaUZlWHVJeUZYZU5vbEYtaWZRVzhBZ2wwdGV4UXVDUlNEcW40b3RwRGh3YUhNRFB3QkdERkhfcG1LQmtZaG96RmhhSXlsVzFoLVlhREpCTGNrX1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzk2ODh6ODNyU21RS2dLckpCQ3d1UFhHQlFHRWE3ektsTlVhejUzc29BekhNMlpmXzZEUmc3SDBpc25TTC0tVjFuVG9RNm9WeGhlcmRWV2lRbG84b29EMzkwUEltY1NTRndPUnREam53ZHE3MjJpRUxiRjlod05wTE5ieFRzcVVUYXdQV3g5QjgwQ3hv0gGaAUFVX3lxTFBpWDU5SFFEai0tanlfZlRXZ1lwbUZXZWk3Rkc5eS1pQWFWdDlOUFphLVVHcWpVakNock54SFN2T21JR25vTUdCaUZlWHVJeUZYZU5vbEYtaWZRVzhBZ2wwdGV4UXVDUlNEcW40b3RwRGh3YUhNRFB3QkdERkhfcG1LQmtZaG96RmhhSXlsVzFoLVlhREpCTGNrX1E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "usdemocratspreparelegislativelimitsontrumptariffsthehilluane",
+   "title": "US Democrats prepare legislative limits on Trump tariffs \u2014 The Hill - UA.NEWS",
+   "source": "UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZEFKeVJjRGhncC01WTA4QmFJZW1wZHVCeGJhSWxfc252MFVJMlFKNFVwMXlLeldVTDlYVWg1QmYyME12Si00bXlvdVNOS1V6WFNIRzlOQWliYzJuU1NiNE13QTl1dUVuejQ2TURBSzcyUUZ6QlpkVnZWd0ZSUHdxWFZWMDBZb2Jjakw5cmRucWxnU3M0VEY3eU42M2JnM1dLWU1mU0ZQNA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "trumplosescongressaseuropepressesfortariffcutsandukraineaide",
-   "title": "Trump loses Congress as Europe presses for tariff cuts and Ukraine aid - EU Perspectives",
-   "source": "EU Perspectives",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paWFhcmU0bVlQekZ1MHRmQ3Y4SG9YaDZmZVBEajBKYjEyYjFEcTZLU0ZRQ1ZNaWtYNGhrSGVXbXc2NXNMM0oxM0Vzdi1sQVlaQl9LTlF6RFMyZ0xwN1lUWWV1THRIdWstWHFBZGJkcmVJd2M?oc=5",
+   "key": "whatthedemocraticsweepmeansfortrumpstariffsandainikkeiasia",
+   "title": "What the Democratic sweep means for Trump's tariffs and AI - Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkdNUHVFN1FiQmJRczhMWWJtZlpFVDJvcF82eHphNmxhekEwQU1ranhPQnhmUWx2SC1SRFF1aUpWTmo4ZWtLZUR4Q1JKM2tmbkN0QWxCVXNEbndtZlRzNVJjY0FQd2R5QUhnZC1PSjNRYjRWa0ZQdDk0cFAyUkdmNVRFYVZaNWl6N0ZwMmRJdk4xUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "whatthedemocraticsweepmeansfortrumpstariffsandainikkeiasia",
-   "title": "What the Democratic sweep means for Trump's tariffs and AI - Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkdNUHVFN1FiQmJRczhMWWJtZlpFVDJvcF82eHphNmxhekEwQU1ranhPQnhmUWx2SC1SRFF1aUpWTmo4ZWtLZUR4Q1JKM2tmbkN0QWxCVXNEbndtZlRzNVJjY0FQd2R5QUhnZC1PSjNRYjRWa0ZQdDk0cFAyUkdmNVRFYVZaNWl6N0ZwMmRJdk4xUQ?oc=5",
+   "key": "howdemocratswilltrytoendtrumpstariffsspotmediaro",
+   "title": "How Democrats will try to end Trump\u2019s tariffs - Spotmedia.ro",
+   "source": "Spotmedia.ro",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQnJEc3R2dktSLXlxMHZkb3pFQUVoMWJ5cUN5aTl4LUk3VnpRUTIxUGJaMDdQdU9sd2VaT2ZEcXVCQzAzNTFVU3Z2RXFOeU5rQjEtUUd6OVR4eDkzY0JLVVkzMXNxRTY3eDZTT2ZFRmNrbUxaVmxHcTRGTm9CWngxd09zcG0?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,10 +137,10 @@
    "pts": 12
   },
   {
-   "key": "rtxrampsuptomahawkamraamandstandardmissileproductionunderfou",
-   "title": "RTX ramps up Tomahawk, AMRAAM and Standard Missile production under four Pentagon contracts - Defence Industry Europe",
+   "key": "airogroupreceivesfirstusdroneorderforskywatchsrq35andrq70fro",
+   "title": "AIRO Group receives first U.S. drone order for Sky-Watch\u2019s RQ-35 and RQ-70 from government buyer - Defence Industry Europe",
    "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTR2dm5GNjBlcjBBd3NPQ1Y0U3JPN3RkZ2NBbEVlZWVVandSOGk5cllkV3JYb0VreTBqSkdLVXV6d0JQaGttVW45YnQyVm1LSE9fczBxcDI2cUhLUlNSMy0tS2lXMjEwN0dzcV9faWxpdjROS0NQZk5xSkFUbE5YbGdFcmhMZTV6RXQ5S1BQTXNMQmxkaWtobDRRcElmUDZIbjVNVzJ4ajlLYTVfM0g2WjZhN1JFSXhnQ0E4?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVV2U2MwRzdXV3ZwN2tjelJzcjlsTHJ4ckVMbnVFVW1leV9xWks0UFhUWkVsVWVRa0YxQUxFdmFCUmpNOVhBdWxuNUN1bVppR19tYU9wam41WE5QSVJVZzZ3aU1TM1Bua3M1N1BaTTJub3Y0bUF5b3RrQjRnOVdwd2NVdW1pYmVZYWxPVFBDRVQ0Wmk3YkFfMGpWOG1LZkdxZGxYODVzbGpKQ2VvYnhpYUViWS1ubm5yczRHb01PQ3g?oc=5",
    "themes": [
     "defence"
    ],
@@ -161,35 +161,10 @@
    "pts": 12
   },
   {
-   "key": "belinitiatespreparationsforqrsamfirstofproductionmodelantici",
-   "title": "BEL Initiates Preparations for QRSAM First of Production Model Anticipating Imminent CCS Approval - Defence.in",
-   "source": "Defence.in",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE5fYlNacElTTXRLR2JBOUVSY1VpdFVjYzBlM183WlhwV0N0dkh4LXJpUjZGVzhSdG0zZTZNVXdkSFhaYVJRbi1CTWVxcU82X2JtM0pqNjhJNVhweHF5bHVlV1BSVFFGLUpCampXUENPWnF3Wk9sNUNJTlY0aXphY0lLemhHUGF6eGZpazhxSFR5RVptUzNsMldXU1ZyWXFRX20zOVJ2cW83Qk84VUVoanBWM0RSYmROVFR4Y2JENkJ5WE1mU3NnRHRIaw?oc=5",
-   "themes": [
-    "defence",
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "forestbettingoutlookafter343mdiomandedealstrengthensdefencep",
    "title": "Forest Betting Outlook After \u00a334.3m Diomande Deal Strengthens Defence - Pulse Uganda",
    "source": "Pulse Uganda",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzVDdGQ1UHBjVFRycXhMWG9zOU00VTdJYWJhV2t4Y0lCNWVvWVBSNjBzM04ycC1xUE5Wcld2S0tBQWpmTDd6VzFFUjgtV082em42bHppbWZIeGtIRGtNZ20xUGgtZVNUamdpV3ZueTU5SDQ4RWxhOGF0ckxkZk80VGRNbVBFVEVoZnFNZVRDYTdqSklzNi1DWU5IMkpvam5qMkxzU1NIZjRGSmdoUUc0Z1VLTk1WcmRJMEhr?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "airogroupreceivesfirstusdroneorderforskywatchsrq35andrq70fro",
-   "title": "AIRO Group receives first U.S. drone order for Sky-Watch\u2019s RQ-35 and RQ-70 from government buyer - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVV2U2MwRzdXV3ZwN2tjelJzcjlsTHJ4ckVMbnVFVW1leV9xWks0UFhUWkVsVWVRa0YxQUxFdmFCUmpNOVhBdWxuNUN1bVppR19tYU9wam41WE5QSVJVZzZ3aU1TM1Bua3M1N1BaTTJub3Y0bUF5b3RrQjRnOVdwd2NVdW1pYmVZYWxPVFBDRVQ0Wmk3YkFfMGpWOG1LZkdxZGxYODVzbGpKQ2VvYnhpYUViWS1ubm5yczRHb01PQ3g?oc=5",
    "themes": [
     "defence"
    ],
@@ -234,10 +209,34 @@
    "pts": 12
   },
   {
+   "key": "bangladeshsj10cefighterplancouldstretchindiasairdefencesdefe",
+   "title": "Bangladesh\u2019s J-10CE Fighter Plan Could Stretch India\u2019s Air Defences - Defence Security Asia",
+   "source": "Defence Security Asia",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEdiODJMYUYwWDVaS2JWcHI5MWJ6TDFBTlhmaEdSaURpNEttUDZxZ1RlYVgtTkNEdE1BQVMzQUV6MEhLX0hYSlNUM3A3RnhqZDJvNTVmVWtrMFVCYTRJaTZfRWxhbHJqU1NfU3l0a2ZRLXBSYV9VbVhiRTBBcTdLU2NORUhURVk?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "iraqtapsopectoincreaseoilproductionquotaegyptoilgas",
    "title": "Iraq Taps OPEC to Increase Oil Production Quota - Egypt Oil & Gas",
    "source": "Egypt Oil & Gas",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaV8wS2dXNmszYVF0clY3OERCak5NaDBZTTVwODdiSnNIV09NZi1SQTlPQk10OTZSZWdndEFFdk5ORkNMNng2cUNic2RZVWVCVGdIbDBxeDBDSDE2WkQ0M25nQTBlZkpQWU13TXp5dW9xZWV3d0NtY3V6b2RnYmUtdzdqZko?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "iraqweproducemorethan5millionbarrelsofoildailyandseektoincre",
+   "title": "Iraq: We Produce More Than 5 Million Barrels of Oil Daily and Seek to Increase Exports Through OPEC - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FYW5tM3VCaFNxZWJWYmE1MjdjN1ItTjVqYVI0Z0ZHVDVwQUhkQTJNc0FsSTBUd1FtOVJIOUF2b041OXYxNENfQi11MVR4TE5kem9qT1p3?oc=5",
    "themes": [
     "energy"
    ],
@@ -249,87 +248,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 100
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 90
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2716 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 2774 min old)",
+   "score": 47
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2716 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 2774 min old)",
+   "score": 52
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3664 min old)",
+   "why": "stale quote / market closed (last price 3722 min old)",
    "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 47
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2716 min old)",
+   "why": "stale quote / market closed (last price 2774 min old)",
    "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3664 min old)",
+   "why": "stale quote / market closed (last price 3722 min old)",
    "score": 47
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3664 min old)",
+   "why": "stale quote / market closed (last price 3722 min old)",
    "score": 74
   }
  ],
@@ -344,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 05:16 AM AEDT",
+  "last_scan": "Mon 09 Nov 2026 06:14 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
