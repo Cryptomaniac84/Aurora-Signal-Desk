@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 02:16 PM AEDT",
+ "generated": "Sun 08 Nov 2026 03:20 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
+  {
+   "key": "trumplosescongressaseuropepressesfortariffcutsandukraineaide",
+   "title": "Trump loses Congress as Europe presses for tariff cuts and Ukraine aid - EU Perspectives",
+   "source": "EU Perspectives",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paWFhcmU0bVlQekZ1MHRmQ3Y4SG9YaDZmZVBEajBKYjEyYjFEcTZLU0ZRQ1ZNaWtYNGhrSGVXbXc2NXNMM0oxM0Vzdi1sQVlaQl9LTlF6RFMyZ0xwN1lUWWV1THRIdWstWHFBZGJkcmVJd2M?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "abdulelsayedslamstrumpstariffwarwithcanadaaljazeera",
    "title": "Abdul El-Sayed slams Trump\u2019s tariff war with Canada - Al Jazeera",
@@ -125,48 +137,12 @@
    "pts": 22
   },
   {
-   "key": "epsteinirantariffsjamieraskineyestrumpprobesthatwillshakeup2",
-   "title": "\u2018Epstein, Iran & Tariffs\u2019: Jamie Raskin Eyes Trump Probes That Will Shake Up 2027 After Midterm Loss - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdDh0NTNhZmlNbE05ZzlBTWxfUVFtVWdYb3RNRWxtcHRVb0NCV1dPY21iMVEwaXQ2R2RFeEs1Yms4NjR0dDlfRENWdWdEZE80bXNFZFZtbUFzaVA5eUxHOHkxeDg1Yjl2N2dGQ1JnMFAxb2V6X2JzMnR4OTlvQ0xocnliWE9raVFNSmhKc0VabDh3bV8tajlzU2E1RTU3bE9mc00tcTk3dXNzbWdvRkE1Z1MtdjY4Tm92Ums2djVaWG1ydEl5ZWJFU1N6TE9heURNN0hHQ3VhNTFXTWVHVE9JM3JzaF80bEktejFsVHF3blhzX0ctR2NCeHNadV9nMklBdUpPRmFB0gGLAkFVX3lxTE80RThzdGZiR19oY1J3SU44MFRiOFk4U1hzT1VscXc2ODFVaDhPLTRjTEpmT2VHajEteGZnaEItRE1Fa2trUkFhRGxoZXphcnZ5NHFuYjJYWFJHVjROZHc5ZkZpZ1RYM1dKaExIX3NBN1FDU1NQTjRMUmFGdWpjNHNCU3RjY2Y1TmIwb1M4bHRZdmlxNEhHc010TkY4MG5NdExXdXBkcG9ka2JfU1JjUUNLeC03NS1xLTgwY3NMM0ZVc1g3akVxaG1QT3NWUGxmdGlQMTVMQVJDQmdVYVNKZncteHdFTlV5RHUxYlVqblJ2eUU4TWlKcXNnaDZLakhmNTU4OWtnNUZvQWNlOA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "michiganselsayedjoinsdemocraticpushtoscraptrumpstariffsoncan",
-   "title": "Michigan\u2019s El-Sayed joins Democratic push to scrap Trump\u2019s tariffs on Canada - MLive.com",
-   "source": "MLive.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0wzd29LT3YxRUY3YzFiS3ZQZ1cwYlpPWnk2WFhmalltNkdIMjAxMHNfRmFZTGw2dUx2UTFDc3dmSnFOTFJtU3FMUGt2Q1pSN09DOUx5dUZNOHhaN3F6b1RabWhwbi03LW5hN0cxc3RDdW9pbFFDRVZGU2FKQVNENFpqX1NMV0NXdXpuMGczVDJRaFc1aThhT1d0VENKdW5lYjdibXlBaC1lemNfbVlKODk5WWtBRFEyOGc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "democratstakecontrolofcongresstrumpsenergypolicyfacestwoyear",
    "title": "Democrats take control of Congress. Trump\u2019s energy policy faces two years under scrutiny - oEnergetice.cz",
    "source": "oEnergetice.cz",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2VobW8wSDFwVVhNV29LNkZrQ3JQVzF5SFVMV1pqQVJ3YmVRMko1bjhwZGVETV91Z1BJdHlJZXhuMVIzeGVkUmNXQnVSX0ZMc3kyelNHSUhHMmFlaWF1NEVDS1c4Wk1qZ2YzS1djNXZmd0hhWnpOU1RGOVVBSTFFa096OUJURS1BZzlqZnJHcUF2djVVaDRZMkFvSG5fSUFzVHJzOGpQLXZQX3J6MHI5T2lmZ01VLWpleEdERWdzTTBuTmxZeHFGRXRiUDZmQQ?oc=5",
    "themes": [
     "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpvowstoenact15globallevyaftersupremecourtstrikesdowntari",
-   "title": "Trump Vows to Enact 15% Global Levy After Supreme Court Strikes Down Tariffs - National Association of Wholesaler-Distributors",
-   "source": "National Association of Wholesaler-Distributors",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnVwMHVrRVBnejNFeUJib2RhczVxM052d0Q5a2M1Vm5LN1djS0g2S0xKbHNWZEYzQVFHYlA2LTJzZnlZMGxQVHkxSlh0cExYUWpycEtLZGJFRmx1NHFHM0dCMlNBRmtCV09sWVJmVUxJVlVBbFdaZ0VJWVdHRVhPMlRmY2hDUDJTNER5VmVfY0dNbDFVUVdIRHhQV3p6eFBPRHJNN2wwVHQ?oc=5",
-   "themes": [
-    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -209,10 +185,10 @@
    "pts": 12
   },
   {
-   "key": "supplychainresilienceacompetitiveadvantagefordefencebusiness",
-   "title": "Supply chain resilience: a competitive advantage for defence businesses - William Buck Australia",
-   "source": "William Buck Australia",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjlfcmxYS3d6YmJ1VFY0YWJ5eVJqOE80ZXUwWW5fUkRNVFplOWQ3WmxvTDU4VzA2LWxoVDJGb1Bud0pfZnRFTm5waXVxZlFiLWdoa0lXX0VPM3h2TTBFZS1HQ1NmZmRVc09jYllqUlZhdE9CeG9idmFFMUQ0REhIbWNqS0lxQkNZNGJDb3FUb3FoODFrdzZ5UnZRajd0WHVjZVBYRXB5bGVWN2ROSTN0blNHeVBWXzBL?oc=5",
+   "key": "dgaqualifiesairbusu010aliacadroneasiapacificdefencereporter",
+   "title": "DGA qualifies Airbus U010 Aliaca drone - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZk9oQVhJZm13N2pxaHc4YTczcEgwQVhBUENZX1QxOFdabWo3b0dCRTBVcGpCZzBsa2dWQmhrSWxkNFdTNWlGcGVJN184VTFNVER3UGJWSDZRb19VbE82Z2ptNEl0MnhwR0R0N0dBNlctRi1jUkthdlZDR2t2RUpwQkh2QmZNMXV5STI0?oc=5",
    "themes": [
     "defence"
    ],
@@ -227,6 +203,30 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTR2dm5GNjBlcjBBd3NPQ1Y0U3JPN3RkZ2NBbEVlZWVVandSOGk5cllkV3JYb0VreTBqSkdLVXV6d0JQaGttVW45YnQyVm1LSE9fczBxcDI2cUhLUlNSMy0tS2lXMjEwN0dzcV9faWxpdjROS0NQZk5xSkFUbE5YbGdFcmhMZTV6RXQ5S1BQTXNMQmxkaWtobDRRcElmUDZIbjVNVzJ4ajlLYTVfM0g2WjZhN1JFSXhnQ0E4?oc=5",
    "themes": [
     "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "frenchstartupaltaaresbeatsdefencegiantstowin6natocounterdron",
+   "title": "French startup Alta Ares beats defence giants to win 6 NATO counter-drone lots - Dealroom",
+   "source": "Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWW5BaHlWZUZDZEwyYVMzNFRwSHFUUTBmRWtsQU5jVmF1X0dvbktiQV9rVnFZd0ltWlI0bkljdy1CRXA5eGFoNlA2bHVlcHlvenVSSWRzem1iSVdmajBTMEZtT29OdnV1RWVfQjdheEtsS2xNc1dlZVktSDNiVXh4OWU5dThYOWg1VkZQcHZ5QjNmR0hIcVpyUU1jYTBWazZNVTh1NURXak1lWHJnclVHTnJ3?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "starlinkvsstarshieldwhocontrolssatelliteconnectivityinwarhtt",
+   "title": "Starlink vs Starshield: Who Controls Satellite Connectivity in War? - https://debuglies.com",
+   "source": "https://debuglies.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMWhETEFUcnFHbnBFVmdqRURsMmJWQWpMMnItZGRSVElCR25oNTFMOWNtN2swVUpIV25JV3N3QzRVRXFzZW5TRlM2V05rTTh1WmlzSjN6bWhIVnUwV0kxRWd5OG5NQkhVVk1Lc0NBTGc1Ym85SDBVUXBJUjMyN1Q0WjlCZmVOQkQ5TTRucnZfb0xTZlhnVzdfUlFENmlQN3Ez?oc=5",
+   "themes": [
+    "geopolitics"
    ],
    "trump": false,
    "trusted": false,
@@ -248,87 +248,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 92
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 2764 min old)",
+   "why": "stale quote / market closed (last price 2828 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 2764 min old)",
+   "why": "stale quote / market closed (last price 2828 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1816 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 1880 min old)",
+   "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1816 min old)",
-   "score": 52
+   "why": "stale quote / market closed (last price 1880 min old)",
+   "score": 40
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2764 min old)",
+   "why": "stale quote / market closed (last price 2828 min old)",
    "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1880 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1881 min old)",
    "score": 47
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1881 min old)",
    "score": 82
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1881 min old)",
    "score": 47
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1816 min old)",
+   "why": "stale quote / market closed (last price 1881 min old)",
    "score": 82
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 02:16 PM AEDT",
+  "last_scan": "Sun 08 Nov 2026 03:20 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
