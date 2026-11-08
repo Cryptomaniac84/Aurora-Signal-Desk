@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 11:57 PM AEDT",
+ "generated": "Mon 09 Nov 2026 12:43 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
+  {
+   "key": "howdemocratswilltrytoendtrumpstariffscnbc",
+   "title": "How Democrats will try to end Trump's tariffs - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWI0OVBzQ3FYTmpucWxZaDZkeWx4OTY2WDNHX0d1MXJOV0I1dF8tdHN5UkxUYmNTcmQzb1RIVlA2X1dhMU83Nm1uUDBGU0pRYkJQVElmaXV1b1NXMjZPaUs2OWJjd1FKX29aaGxIZXpZd1ZINjQ5Nl9zWDVhS0p2bTVn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "healthcaretariffsbutnottrumpimpeachmentdemocratschartnexttwo",
    "title": "Healthcare, tariffs \u2013 but not Trump impeachment: Democrats chart next two years of power - The Guardian",
@@ -77,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "trumpcongresssettoclashovereconomiccostsoftariffsjeffersonci",
-   "title": "Trump, Congress set to clash over economic costs of tariffs - Jefferson City News Tribune",
-   "source": "Jefferson City News Tribune",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZW5GSDZyNFNMRE1oTmF2c3NITkNaemV2bkpUMFR4MUJLMW53TkQybkpzeVlOTWEtNm82MnFTYVE4eXdpS2ZBN051UUhZdkhaZ0oweU1KaVRSZDd6Nkp0ZUtNanh2cTdxYm93cGg5NVlCOGhBYldNMlhMWU9CbGJRdzA3cVh6eDdmbUxESkRRRkJkWEJnTklZMA?oc=5",
+   "key": "democratswoncongresscantheyactuallystoptrumpstariffsthehill",
+   "title": "Democrats won Congress. Can they actually stop Trump\u2019s tariffs? - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82NmJBVmRKb3NfUXBrUnd4ZDU4UzYtc2FUSHRDdlZqUUUweVJQdGZXczcwV0sxQkVTcmdsZ2ozZW16WWQzNllzQ21WM1NpeXltQnhxMk5meGw4T2IxdngtZjZMWDFMUzM2eXhCZ2dXOXZzckpqNE5FVUFJalLSAXxBVV95cUxPNjZiQVZkSm9zX1Fwa1J3eGQ1OFM2LXNhVEh0Q3ZWalFFMHlSUHRmV3M3MFdLMUJFU3JnbGdqM2VtellkMzZZc0NtVjNTaXl5bUJ4cTJOZnhsOE9iMXZ4LWY2TFgxTFMzNnl4QmdnVzl2c3JKajRORVVBSWpS?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "democratswoncongresscantheyactuallystoptrumpstariffsthehill",
-   "title": "Democrats won Congress. Can they actually stop Trump\u2019s tariffs? - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82NmJBVmRKb3NfUXBrUnd4ZDU4UzYtc2FUSHRDdlZqUUUweVJQdGZXczcwV0sxQkVTcmdsZ2ozZW16WWQzNllzQ21WM1NpeXltQnhxMk5meGw4T2IxdngtZjZMWDFMUzM2eXhCZ2dXOXZzckpqNE5FVUFJalLSAXxBVV95cUxPNjZiQVZkSm9zX1Fwa1J3eGQ1OFM2LXNhVEh0Q3ZWalFFMHlSUHRmV3M3MFdLMUJFU3JnbGdqM2VtellkMzZZc0NtVjNTaXl5bUJ4cTJOZnhsOE9iMXZ4LWY2TFgxTFMzNnl4QmdnVzl2c3JKajRORVVBSWpS?oc=5",
+   "key": "trumpcongresssettoclashovereconomiccostsoftariffsjeffersonci",
+   "title": "Trump, Congress set to clash over economic costs of tariffs - Jefferson City News Tribune",
+   "source": "Jefferson City News Tribune",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZW5GSDZyNFNMRE1oTmF2c3NITkNaemV2bkpUMFR4MUJLMW53TkQybkpzeVlOTWEtNm82MnFTYVE4eXdpS2ZBN051UUhZdkhaZ0oweU1KaVRSZDd6Nkp0ZUtNanh2cTdxYm93cGg5NVlCOGhBYldNMlhMWU9CbGJRdzA3cVh6eDdmbUxESkRRRkJkWEJnTklZMA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,6 +137,18 @@
    "pts": 22
   },
   {
+   "key": "badenochsaystrumpdeservedmidtermdefeatfaultsiranwartradepoli",
+   "title": "Badenoch Says Trump Deserved Midterm Defeat, Faults Iran War, Trade Policies - Arise News",
+   "source": "Arise News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGJGbnZRQ1hXbTdrRUU1RERMczdWRnRiRG4zRDZkZjkwZDFGcGhVM2lkSDdYTTdpbTB0MjdWaWkxbGN5T2JtSTZvWGNZTnBFdDJEdmU0Y0tXT1VOc1hJbkxJb1V3VE9zMUQ5SlR0azFuRWZ5VFJEd1pIdUVnUTNibzFkLUJCZTliWEM3SDg5UWZralRUOGpUTVFDcDY?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
    "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
@@ -147,42 +171,6 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "arecanadiansnowbirdsflockingbackduringtheustradewarhereswhat",
-   "title": "Are Canadian snowbirds flocking back during the U.S. trade war? Here\u2019s what data says - CTV News",
-   "source": "CTV News",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1BTdXB6MnEzTEkwTEIwT2J0ZXQ0NllnRGVyQnpNZlFoSDl5MkplWVNxU3VMNFU3RHc1ZHBUR0NvQzAtZ2JnT3MxaWdsT01qa21zclBUeHBVcGt2N2oyU1hkMFVqaXF1YmNPaTQwUjFYeXNRMU1malh3emNucGNqTXozMFJMbXNDcjJkbjRadXBHUjl2WkM1cXJ1eDVnQUYyUnhNd1VfZnhhZGRqZThuNHExT1NhMFoyX1FmaHRMRHZWZ0FhaXlzVV9jZkV5Vm8?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "democratspreparesweepingaffordabilitypushaslegislativeandinf",
-   "title": "Democrats Prepare Sweeping Affordability Push As Legislative And Inflation Risks Mount - Forbes Middle East",
-   "source": "Forbes Middle East",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSjdkQVVVbjUwYkwxR1NXNFV0cEpuYlZJcjc4LXpSQjBQVC1pN2xmSGVtMTZfbFZaeVo2LTgzVFNLbFdIMFVqWVEzbDRxalZPQURsMHBUSnNPWG1DanRKOTdXVU1pNF81WDNZV3cxZndqTmtFUnN6WHpVUFJxUUtSNWVOY2pZWVF5ejZab3lFRU5OTlhCaU4yT0hQRlgyUjlFS0hka3lkMTB3enNFOE1md1hUcC1iejRBT25SMTNveXpqWWV0M05saU5fTzJ6QlVu?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "secretaryofstateannouncesfurthersanctionsonillicitcubanreven",
-   "title": "Secretary of State Announces Further Sanctions on Illicit Cuban Revenue Networks - The Presidential Prayer Team",
-   "source": "The Presidential Prayer Team",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDFmY0F0VGxQVjNHNGVFMU0zZ2hvNmlicFFJZUxJNm90WnpLczFtYVQ1WTBVR2x2WlEwUXhPNFpMRXNkNEdObUtQajdrWkFoRzJaYm02NWh2MEZubER0X3Z1RF9zbmZWc243VHlqbzFIZUFjTF9SZFdRVWduN3ZsVHY3UjljVENXZnQxZ2hRSmllTGxLbG9fVUpENFlhdHNnSFE5ekppS1JKU3pBbEVjUWhCeDlEODczTVg3bzlNSUpWLUx6cl9QSk5RTQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   },
   {
    "key": "admeyesonasiadefendtexdrone40winsjapanesecontractaustraliand",
@@ -243,73 +231,91 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "belinitiatespreparationsforqrsamfirstofproductionmodelantici",
+   "title": "BEL Initiates Preparations for QRSAM First of Production Model Anticipating Imminent CCS Approval - Defence.in",
+   "source": "Defence.in",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE5fYlNacElTTXRLR2JBOUVSY1VpdFVjYzBlM183WlhwV0N0dkh4LXJpUjZGVzhSdG0zZTZNVXdkSFhaYVJRbi1CTWVxcU82X2JtM0pqNjhJNVhweHF5bHVlV1BSVFFGLUpCampXUENPWnF3Wk9sNUNJTlY0aXphY0lLemhHUGF6eGZpazhxSFR5RVptUzNsMldXU1ZyWXFRX20zOVJ2cW83Qk84VUVoanBWM0RSYmROVFR4Y2JENkJ5WE1mU3NnRHRIaw?oc=5",
+   "themes": [
+    "defence",
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2398 min old)",
-   "score": 92
+   "why": "stale quote / market closed (last price 2444 min old)",
+   "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2398 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 2444 min old)",
+   "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2398 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 2444 min old)",
+   "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2398 min old)",
-   "score": 92
+   "why": "stale quote / market closed (last price 2444 min old)",
+   "score": 100
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2398 min old)",
+   "why": "stale quote / market closed (last price 2444 min old)",
    "score": 90
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2398 min old)",
+   "why": "stale quote / market closed (last price 2444 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2398 min old)",
+   "why": "stale quote / market closed (last price 2444 min old)",
    "score": 90
   },
   {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 2398 min old)",
-   "score": 39
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2398 min old)",
-   "score": 44
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3346 min old)",
-   "score": 35
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2398 min old)",
+   "why": "stale quote / market closed (last price 2444 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2398 min old)",
+   "why": "stale quote / market closed (last price 2444 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2398 min old)",
+   "why": "stale quote / market closed (last price 2444 min old)",
    "score": 47
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 2444 min old)",
+   "score": 47
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 2444 min old)",
+   "score": 47
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 3392 min old)",
+   "score": 47
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 3392 min old)",
+   "score": 74
   }
  ],
  "paper": {
@@ -323,7 +329,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 11:57 PM AEDT",
+  "last_scan": "Mon 09 Nov 2026 12:43 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
