@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 10:00 AM AEDT",
+ "generated": "Mon 09 Nov 2026 10:42 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -209,18 +209,6 @@
    "pts": 12
   },
   {
-   "key": "imedsiraisesalarmovernigerianskuredintorussiaswarseekspresid",
-   "title": "IMEDSI raises alarm over Nigerians kured into Russia\u2019s war, seeks President Tinubu\u2019s intervention - Apex News Exclusive",
-   "source": "Apex News Exclusive",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2Zvel9UX0VKaFgxMy1RcVlSTjRHQ190WEozVGprVWt2RG5yNmxLZHEyNEpTemtSd1pvcE01cHZJRmpNcW9qeTZGRmczVjVVYk9vc01GbHhINEFkZGZuOVBKTUROTmxrbmVwekpRa2lPLWdBNmdad0VTR0xyYUhhcFhUQUVOV3FMeXFnZTR4U3BWQW9vSUZtMmFQMFpqc1Jrekw5RkxVUk9jNGkyMy1tTkZ6QmgzeUFYamgxQk5BWUFNVDZUVVQ5Tnh4a3Z5dw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "bangladeshsj10cefighterplancouldstretchindiasairdefencesdefe",
    "title": "Bangladesh\u2019s J-10CE Fighter Plan Could Stretch India\u2019s Air Defences - Defence Security Asia",
    "source": "Defence Security Asia",
@@ -233,12 +221,24 @@
    "pts": 12
   },
   {
-   "key": "iraqtapsopectoincreaseoilproductionquotaegyptoilgas",
-   "title": "Iraq Taps OPEC to Increase Oil Production Quota - Egypt Oil & Gas",
-   "source": "Egypt Oil & Gas",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaV8wS2dXNmszYVF0clY3OERCak5NaDBZTTVwODdiSnNIV09NZi1SQTlPQk10OTZSZWdndEFFdk5ORkNMNng2cUNic2RZVWVCVGdIbDBxeDBDSDE2WkQ0M25nQTBlZkpQWU13TXp5dW9xZWV3d0NtY3V6b2RnYmUtdzdqZko?oc=5",
+   "key": "imedsiraisesalarmovernigerianskuredintorussiaswarseekspresid",
+   "title": "IMEDSI raises alarm over Nigerians kured into Russia\u2019s war, seeks President Tinubu\u2019s intervention - Apex News Exclusive",
+   "source": "Apex News Exclusive",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2Zvel9UX0VKaFgxMy1RcVlSTjRHQ190WEozVGprVWt2RG5yNmxLZHEyNEpTemtSd1pvcE01cHZJRmpNcW9qeTZGRmczVjVVYk9vc01GbHhINEFkZGZuOVBKTUROTmxrbmVwekpRa2lPLWdBNmdad0VTR0xyYUhhcFhUQUVOV3FMeXFnZTR4U3BWQW9vSUZtMmFQMFpqc1Jrekw5RkxVUk9jNGkyMy1tTkZ6QmgzeUFYamgxQk5BWUFNVDZUVVQ5Tnh4a3Z5dw?oc=5",
    "themes": [
-    "energy"
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "allisontransmissionsigns250mdefensecontractwithbaesystemssca",
+   "title": "Allison Transmission signs $250M defense contract with BAE Systems - scanx.trade",
+   "source": "scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmdfaFktNlBxRVZLZzJrWUFGZVJPNTY3amZLWXlKX2VGN05sekQzOHQ0VlBmVnFXTU15Rm4tUGxQSFZHRDhQQm1YeUtveHdyZC1KemZDcGJvbkJZQXR0ZkdENnFQVTZ1WHBMdjlYeEN3WEJmZVNHVGJ2V2RwQXQ2Mmp4QWJyc1pMS3g1cjhFeHcxSk83cHgycGgzdUJyLXFkM3BjT1U0VGZNRmhfMGgxUmE3MzczOVhfOENuOFgxQQ?oc=5",
+   "themes": [
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -248,88 +248,73 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3000 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 3043 min old)",
+   "score": 49
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3000 min old)",
-   "score": 42
+   "why": "stale quote / market closed (last price 3043 min old)",
+   "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3948 min old)",
-   "score": 45
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 61
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 47
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3000 min old)",
+   "why": "stale quote / market closed (last price 3043 min old)",
    "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3948 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 28
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3948 min old)",
-   "score": 74
-  },
-  {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 3000 min old)",
-   "score": 82
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 3000 min old)",
-   "score": 47
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 3000 min old)",
-   "score": 82
+   "why": "stale quote / market closed (last price 20 min old)",
+   "score": 62
   }
  ],
  "paper": {
@@ -343,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 10:00 AM AEDT",
+  "last_scan": "Mon 09 Nov 2026 10:42 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
