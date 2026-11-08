@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 08:15 PM AEDT",
+ "generated": "Sun 08 Nov 2026 09:12 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
+  {
+   "key": "howtrumpstariffsarethreateningtospoilthesuccessofcanadianche",
+   "title": "How Trump's tariffs are threatening to spoil the success of Canadian cheese - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3liMVg4YzN5NkpVb3doZkFZanI1VDJkUVV4clJMdGhZdnVxR05OTWhxYlh5dzltcGY2dnlDbmIyTG5lQUkwUUdqekpLSDhYbC1IZ3RkcUJKZnNtSnlDVzR2aEw0WXA5aTNBMWlsb2Z5dnBPU2lNV0hQWjAzWkJtUEx1QWNkcWZRQkNzb1VB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "trumplosescongressaseuropepressesfortariffcutsandukraineaide",
    "title": "Trump loses Congress as Europe presses for tariff cuts and Ukraine aid - EU Perspectives",
@@ -41,18 +53,6 @@
    "pts": 22
   },
   {
-   "key": "howtrumpstariffsarethreateningtospoilthesuccessofcanadianche",
-   "title": "How Trump's tariffs are threatening to spoil the success of Canadian cheese - Yahoo News Canada",
-   "source": "Yahoo News Canada",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlduR2RUTzRubkxlMUVfbS1HWUFRTTdJTUEyWnFqa1NJXzZqOEZxeTdYenBOQjZmSjFJWE5Zc2FGcjEyb0VWRmZvaDdSYkJXdDhlNURzb1pNa0g1eEpXc2lNcUR5bE5kbzJJbnlQZHJyc1REUGtGbzVvM0l6VTFZb1ZjWlJ3MHF3?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpstariffsandvanityprojectswillsurvivemidtermmeltdownthet",
    "title": "Trump\u2019s tariffs and vanity projects will survive midterm meltdown - The Times",
    "source": "The Times",
@@ -77,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
-   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
+   "key": "markcarneywelcomesdemocratpushtoendtrumptariffsoncanadadaily",
+   "title": "Mark Carney welcomes Democrat push to end Trump tariffs on Canada - Daily Pioneer",
+   "source": "Daily Pioneer",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSV9hbWxiWjlOSl9hSnZHTkg4b090d005X0hRaGlvS1ozYlBBbjRqZHQ1dUo5TG03WV9Qc3pwT0xiNEpqNHYyZGZaangzQ1hqMkpfN0JJdmk1V3BMcEZZd2wyLUczeDVvSk5RRzhkRDRoakFsZFFiNUVFTjBPWWhlWGZvVm5TTTk4WE5STERTTU9TQTdCS3piLXN5QTPSAaoBQVVfeXFMUHYwWEdGcVpGbG9aclk4eEdMd19HYUpqdWJXZFdoUm5VemtkVmF1WU5DeG10ZGNHTWo2NjE2SG5ybDU5NU56dnRpMEQxOW5qNzFUYk9VbExhTlJDeWpXcXVnMlZvZGJuX0JxWWx4WXFrY3ljcUpuX09ESWFIR3RzN21yZWxWOWt0akZfZ1hCQWVrVkNJQl8xNHZHaFhnTTdUSTJMakRfTFlFR0E?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "markcarneywelcomesdemocratpushtoendtrumptariffsoncanadadaily",
-   "title": "Mark Carney welcomes Democrat push to end Trump tariffs on Canada - Daily Pioneer",
-   "source": "Daily Pioneer",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSV9hbWxiWjlOSl9hSnZHTkg4b090d005X0hRaGlvS1ozYlBBbjRqZHQ1dUo5TG03WV9Qc3pwT0xiNEpqNHYyZGZaangzQ1hqMkpfN0JJdmk1V3BMcEZZd2wyLUczeDVvSk5RRzhkRDRoakFsZFFiNUVFTjBPWWhlWGZvVm5TTTk4WE5STERTTU9TQTdCS3piLXN5QTPSAaoBQVVfeXFMUHYwWEdGcVpGbG9aclk4eEdMd19HYUpqdWJXZFdoUm5VemtkVmF1WU5DeG10ZGNHTWo2NjE2SG5ybDU5NU56dnRpMEQxOW5qNzFUYk9VbExhTlJDeWpXcXVnMlZvZGJuX0JxWWx4WXFrY3ljcUpuX09ESWFIR3RzN21yZWxWOWt0akZfZ1hCQWVrVkNJQl8xNHZHaFhnTTdUSTJMakRfTFlFR0E?oc=5",
+   "key": "uscanadatradenegotiatorsmeetaftertrumpsetsnewtariffdeadlinee",
+   "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "key": "democratsseektoundotrumpseconomicpolicyandrepealtariffsmoder",
+   "title": "Democrats seek to undo Trump\u2019s economic policy and repeal tariffs - Modern Ghana",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SVctUHlvMWU1NlQzUVJOVmJ3T2pEUE85aTliRmtQS09LTHJ2MUp3YmVINjl2djhLZ0d4Q05PRVcwdEI4Z2toNHNvWFROMVBreVd1Z21ZNTdaTXkwcmU0NNIBXEFVX3lxTE5NTEZLTjZ6OHpnTm55U0Z2NVhTSjdZSzN0SWpnWGJCV21ncGxOQW9ZdVdFc2pVWlEzRnZGZWx4MnZSZmZFeVVNandJa0t5NWxDWFJLcVJqY1Q3bWxZ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,18 +149,6 @@
    "pts": 22
   },
   {
-   "key": "usinflationsettosimmerdownsomeafterrecentpickupbloomberg",
-   "title": "US Inflation Set to Simmer Down Some After Recent Pickup - Bloomberg",
-   "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHB3c0hUZDUwNkFjQmh3VW9PTGE3dmpzRkUwRWI2d25MZWhOcmRPOHhmaVdBNGp0YTF3WU9IaVQ0NVNtVG1nZDZTbXlYRVNWdmdpcUJ3cVdVcE5mMUltMWdwZE10Q3lmcFdHR2RINEtlcW54RW56ZkY1MnNsell5b3VLanVoTnh1Y0FKUVhZampkZ2xWUHJPOWxhSWVxa0VFRWhPbzdITTdjRzA?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "democratspreparesweepingaffordabilitypushaslegislativeandinf",
    "title": "Democrats Prepare Sweeping Affordability Push As Legislative And Inflation Risks Mount - Forbes Middle East",
    "source": "Forbes Middle East",
@@ -173,10 +161,10 @@
    "pts": 12
   },
   {
-   "key": "usdemocraticwinunlikelytoeasefirmscosttariffwoesinneartermex",
-   "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say - The Edge Malaysia",
-   "source": "The Edge Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dE52eEItNXJwbWNKOTJMNDU3UXpxei1xLW95bU1XNEZCNDBUZHFiSU1UU09ITjJfS0FkendFcU5YdWZOa0Z1OHE3UldNV2JU?oc=5",
+   "key": "applegota22billiontariffrefundthisquartermashable",
+   "title": "Apple got a $2.2 billion tariff refund this quarter - Mashable",
+   "source": "Mashable",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjJ1Z3lKTF95WWFBVTN4YkIwbWtoWkdrQXBBN08yMFhLUlVudFRRZG9CS09sZ3ZVVzFZNXhWOUNGbWE2dHVFT2d5dTN3M0p5Tkx0azVmMzhROE5VRG5SeDdLaXpLWFdGSXRJX2pOdWI4RVNtdzl2TVRmbzZ4NkRZNUhuZDlCSTdpVGxQc293?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -185,12 +173,12 @@
    "pts": 12
   },
   {
-   "key": "secretaryofstateannouncesfurthersanctionsonillicitcubanreven",
-   "title": "Secretary of State Announces Further Sanctions on Illicit Cuban Revenue Networks - The Presidential Prayer Team",
-   "source": "The Presidential Prayer Team",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDFmY0F0VGxQVjNHNGVFMU0zZ2hvNmlicFFJZUxJNm90WnpLczFtYVQ1WTBVR2x2WlEwUXhPNFpMRXNkNEdObUtQajdrWkFoRzJaYm02NWh2MEZubER0X3Z1RF9zbmZWc243VHlqbzFIZUFjTF9SZFdRVWduN3ZsVHY3UjljVENXZnQxZ2hRSmllTGxLbG9fVUpENFlhdHNnSFE5ekppS1JKU3pBbEVjUWhCeDlEODczTVg3bzlNSUpWLUx6cl9QSk5RTQ?oc=5",
+   "key": "admeyesonasiadefendtexdrone40winsjapanesecontractaustraliand",
+   "title": "ADM Eyes on Asia: DefendTex Drone40 wins Japanese contract - Australian Defence Magazine",
+   "source": "Australian Defence Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTRRbDRFUTZndTdMNDJ4WHk3djhOR1FyaTZVYXZkS0k5WUNmQUtpTFFmSXFadGFFLUhHc3VMYVBwZTVQUFo0RGpIank3bHVwLTlQYmV4LV9QS2ZRYk4zeUUxdGZXbjNWUEN6TUdnanVSbTl3X1JyX3RIZVRUN1loTE5YcDhjUHhsakd0UjV6WTBMeG0wVnVqai1ERjVOQXR6dTFYWTFXYlhMc3M?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -201,6 +189,18 @@
    "title": "RTX ramps up Tomahawk, AMRAAM and Standard Missile production under four Pentagon contracts - Defence Industry Europe",
    "source": "Defence Industry Europe",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTR2dm5GNjBlcjBBd3NPQ1Y0U3JPN3RkZ2NBbEVlZWVVandSOGk5cllkV3JYb0VreTBqSkdLVXV6d0JQaGttVW45YnQyVm1LSE9fczBxcDI2cUhLUlNSMy0tS2lXMjEwN0dzcV9faWxpdjROS0NQZk5xSkFUbE5YbGdFcmhMZTV6RXQ5S1BQTXNMQmxkaWtobDRRcElmUDZIbjVNVzJ4ajlLYTVfM0g2WjZhN1JFSXhnQ0E4?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "allisontransmissionsigns250mdefensecontractwithbaesystemssca",
+   "title": "Allison Transmission signs $250M defense contract with BAE Systems - scanx.trade",
+   "source": "scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmdfaFktNlBxRVZLZzJrWUFGZVJPNTY3amZLWXlKX2VGN05sekQzOHQ0VlBmVnFXTU15Rm4tUGxQSFZHRDhQQm1YeUtveHdyZC1KemZDcGJvbkJZQXR0ZkdENnFQVTZ1WHBMdjlYeEN3WEJmZVNHVGJ2V2RwQXQ2Mmp4QWJyc1pMS3g1cjhFeHcxSk83cHgycGgzdUJyLXFkM3BjT1U0VGZNRmhfMGgxUmE3MzczOVhfOENuOFgxQQ?oc=5",
    "themes": [
     "defence"
    ],
@@ -221,18 +221,6 @@
    "pts": 12
   },
   {
-   "key": "forcespensionerrorsprobedforpossiblecontractbreachesukdefenc",
-   "title": "Forces pension errors probed for possible contract breaches - UK Defence Journal",
-   "source": "UK Defence Journal",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHZfSk5KT0FjWTVLdmNGalIxUi1tdTFCS2o5V2dTVHNNX2xQYjVrNXliR0VoRDFLa2lJMFg5ZHViaUwzbnVSNjUwWmppY25QeGdNLUF4N3VKNmhZaFVKV3hkZGNicXRpUkU1enJQOHd5bVFtanp3Qzd6WWZQMUs2TXdVUlRZTE5XMGY0bXJuM0o0QTFuT0dn?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "belinitiatespreparationsforqrsamfirstofproductionmodelantici",
    "title": "BEL Initiates Preparations for QRSAM First of Production Model Anticipating Imminent CCS Approval - Defence.in",
    "source": "Defence.in",
@@ -244,92 +232,104 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "forcespensionerrorsprobedforpossiblecontractbreachesukdefenc",
+   "title": "Forces pension errors probed for possible contract breaches - UK Defence Journal",
+   "source": "UK Defence Journal",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHZfSk5KT0FjWTVLdmNGalIxUi1tdTFCS2o5V2dTVHNNX2xQYjVrNXliR0VoRDFLa2lJMFg5ZHViaUwzbnVSNjUwWmppY25QeGdNLUF4N3VKNmhZaFVKV3hkZGNicXRpUkU1enJQOHd5bVFtanp3Qzd6WWZQMUs2TXdVUlRZTE5XMGY0bXJuM0o0QTFuT0dn?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 92
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3123 min old)",
+   "why": "stale quote / market closed (last price 3180 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3123 min old)",
+   "why": "stale quote / market closed (last price 3180 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 47
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2175 min old)",
-   "score": 52
+   "why": "stale quote / market closed (last price 2232 min old)",
+   "score": 32
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3123 min old)",
-   "score": 43
+   "why": "stale quote / market closed (last price 3180 min old)",
+   "score": 35
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2175 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2176 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2176 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 47
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2176 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 82
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2176 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 47
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2176 min old)",
+   "why": "stale quote / market closed (last price 2232 min old)",
    "score": 82
   }
  ],
@@ -344,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 08:15 PM AEDT",
+  "last_scan": "Sun 08 Nov 2026 09:12 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
