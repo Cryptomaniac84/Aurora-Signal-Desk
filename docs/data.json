@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 07:18 PM AEDT",
+ "generated": "Sun 08 Nov 2026 08:15 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -33,6 +33,18 @@
    "title": "What the Democratic sweep means for Trump's tariffs and AI - Nikkei Asia",
    "source": "Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkdNUHVFN1FiQmJRczhMWWJtZlpFVDJvcF82eHphNmxhekEwQU1ranhPQnhmUWx2SC1SRFF1aUpWTmo4ZWtLZUR4Q1JKM2tmbkN0QWxCVXNEbndtZlRzNVJjY0FQd2R5QUhnZC1PSjNRYjRWa0ZQdDk0cFAyUkdmNVRFYVZaNWl6N0ZwMmRJdk4xUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "howtrumpstariffsarethreateningtospoilthesuccessofcanadianche",
+   "title": "How Trump's tariffs are threatening to spoil the success of Canadian cheese - Yahoo News Canada",
+   "source": "Yahoo News Canada",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlduR2RUTzRubkxlMUVfbS1HWUFRTTdJTUEyWnFqa1NJXzZqOEZxeTdYenBOQjZmSjFJWE5Zc2FGcjEyb0VWRmZvaDdSYkJXdDhlNURzb1pNa0g1eEpXc2lNcUR5bE5kbzJJbnlQZHJyc1REUGtGbzVvM0l6VTFZb1ZjWlJ3MHF3?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,18 +137,6 @@
    "pts": 22
   },
   {
-   "key": "democratsseektoundotrumpseconomicpolicyandrepealtariffsmoder",
-   "title": "Democrats seek to undo Trump\u2019s economic policy and repeal tariffs - Modern Ghana",
-   "source": "Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SVctUHlvMWU1NlQzUVJOVmJ3T2pEUE85aTliRmtQS09LTHJ2MUp3YmVINjl2djhLZ0d4Q05PRVcwdEI4Z2toNHNvWFROMVBreVd1Z21ZNTdaTXkwcmU0NNIBXEFVX3lxTE5NTEZLTjZ6OHpnTm55U0Z2NVhTSjdZSzN0SWpnWGJCV21ncGxOQW9ZdVdFc2pVWlEzRnZGZWx4MnZSZmZFeVVNandJa0t5NWxDWFJLcVJqY1Q3bWxZ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "democratstakecontrolofcongresstrumpsenergypolicyfacestwoyear",
    "title": "Democrats take control of Congress. Trump\u2019s energy policy faces two years under scrutiny - oEnergetice.cz",
    "source": "oEnergetice.cz",
@@ -147,6 +147,18 @@
    "trump": true,
    "trusted": false,
    "pts": 22
+  },
+  {
+   "key": "usinflationsettosimmerdownsomeafterrecentpickupbloomberg",
+   "title": "US Inflation Set to Simmer Down Some After Recent Pickup - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHB3c0hUZDUwNkFjQmh3VW9PTGE3dmpzRkUwRWI2d25MZWhOcmRPOHhmaVdBNGp0YTF3WU9IaVQ0NVNtVG1nZDZTbXlYRVNWdmdpcUJ3cVdVcE5mMUltMWdwZE10Q3lmcFdHR2RINEtlcW54RW56ZkY1MnNsell5b3VLanVoTnh1Y0FKUVhZampkZ2xWUHJPOWxhSWVxa0VFRWhPbzdITTdjRzA?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "democratspreparesweepingaffordabilitypushaslegislativeandinf",
@@ -165,6 +177,18 @@
    "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say - The Edge Malaysia",
    "source": "The Edge Malaysia",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dE52eEItNXJwbWNKOTJMNDU3UXpxei1xLW95bU1XNEZCNDBUZHFiSU1UU09ITjJfS0FkendFcU5YdWZOa0Z1OHE3UldNV2JU?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "secretaryofstateannouncesfurthersanctionsonillicitcubanreven",
+   "title": "Secretary of State Announces Further Sanctions on Illicit Cuban Revenue Networks - The Presidential Prayer Team",
+   "source": "The Presidential Prayer Team",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDFmY0F0VGxQVjNHNGVFMU0zZ2hvNmlicFFJZUxJNm90WnpLczFtYVQ1WTBVR2x2WlEwUXhPNFpMRXNkNEdObUtQajdrWkFoRzJaYm02NWh2MEZubER0X3Z1RF9zbmZWc243VHlqbzFIZUFjTF9SZFdRVWduN3ZsVHY3UjljVENXZnQxZ2hRSmllTGxLbG9fVUpENFlhdHNnSFE5ekppS1JKU3pBbEVjUWhCeDlEODczTVg3bzlNSUpWLUx6cl9QSk5RTQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -212,34 +236,10 @@
    "key": "belinitiatespreparationsforqrsamfirstofproductionmodelantici",
    "title": "BEL Initiates Preparations for QRSAM First of Production Model Anticipating Imminent CCS Approval - Defence.in",
    "source": "Defence.in",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQUJLSFFqdGRNelQzU1gwd2xFNWFGWVpHVXlTRzJyRUdGVk03TWVRM2UxQWhaY2U0RTFTUjBGVzdrSnVFUlpIb281dXFtZ3FMRjhVbnhKUVRHYnduTU95MzBuSG5LbWh5bDZLZnNhR1RVV3Iwb3R5aXY4eWdtSTBkLWNxcTRSOVJzbm1OT0JSOTZXTmVwQTRaUDVoUVdiQ1pOb0xNV1I4OW04ZXkyay01dzRRRDc0am12T2NVb1BYcjVaNHBtbHRjTnhpTlY4VW9QU1ZNNndTdzU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE5fYlNacElTTXRLR2JBOUVSY1VpdFVjYzBlM183WlhwV0N0dkh4LXJpUjZGVzhSdG0zZTZNVXdkSFhaYVJRbi1CTWVxcU82X2JtM0pqNjhJNVhweHF5bHVlV1BSVFFGLUpCampXUENPWnF3Wk9sNUNJTlY0aXphY0lLemhHUGF6eGZpazhxSFR5RVptUzNsMldXU1ZyWXFRX20zOVJ2cW83Qk84VUVoanBWM0RSYmROVFR4Y2JENkJ5WE1mU3NnRHRIaw?oc=5",
    "themes": [
     "defence",
     "pharma"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "airogroupreceivesfirstusdroneorderforskywatchsrq35andrq70fro",
-   "title": "AIRO Group receives first U.S. drone order for Sky-Watch\u2019s RQ-35 and RQ-70 from government buyer - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVV2U2MwRzdXV3ZwN2tjelJzcjlsTHJ4ckVMbnVFVW1leV9xWks0UFhUWkVsVWVRa0YxQUxFdmFCUmpNOVhBdWxuNUN1bVppR19tYU9wam41WE5QSVJVZzZ3aU1TM1Bua3M1N1BaTTJub3Y0bUF5b3RrQjRnOVdwd2NVdW1pYmVZYWxPVFBDRVQ0Wmk3YkFfMGpWOG1LZkdxZGxYODVzbGpKQ2VvYnhpYUViWS1ubm5yczRHb01PQ3g?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "businesseswillbeallowedtoshootdowndronesoverothercompaniesfa",
-   "title": "Businesses Will Be Allowed to Shoot Down Drones Over Other Companies\u2019 Factories and Warehouses: The Cabinet of Ministers Opens New Opportunities for Private Air Defense - \u0421\u0443\u0434\u043e\u0432\u043e-\u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0430 \u0433\u0430\u0437\u0435\u0442\u0430",
-   "source": "\u0421\u0443\u0434\u043e\u0432\u043e-\u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0430 \u0433\u0430\u0437\u0435\u0442\u0430",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWlkTWpUT1lNTzFacDdlYzJselBvVVRmN0FkNUVMaHR5WW8tUUhpTTAwbU8teWFaaS1CelpNbUhMTDNKaTdNcl9CUnhLY2RJOUNvbkFrVmNlTXljMEppLW5kZjNEODdjRHV0aFhHUklKVHNVTTM0cndfSEVrM1NWT0NaRHJWNlY4MnBxZFZKZkh6Wll3OVVEbEkxYURQSzlYVTBmWmIwb0pPa2NVbHBTaHZsaFNuREI4Y2g0NUNzeEp5T3hrMnlzd3lpV3g3OUF2elpOT2FqamJPZzVwY016UTByaWFtMHhMYTgtTjhwNA?oc=5",
-   "themes": [
-    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -249,87 +249,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2175 min old)",
    "score": 92
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2175 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2175 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2175 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2175 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2175 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3067 min old)",
+   "why": "stale quote / market closed (last price 3123 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3067 min old)",
+   "why": "stale quote / market closed (last price 3123 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2119 min old)",
-   "score": 39
+   "why": "stale quote / market closed (last price 2175 min old)",
+   "score": 47
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2119 min old)",
-   "score": 44
+   "why": "stale quote / market closed (last price 2175 min old)",
+   "score": 52
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3067 min old)",
-   "score": 35
+   "why": "stale quote / market closed (last price 3123 min old)",
+   "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2175 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2176 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2176 min old)",
    "score": 47
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2176 min old)",
    "score": 82
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2176 min old)",
    "score": 47
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2119 min old)",
+   "why": "stale quote / market closed (last price 2176 min old)",
    "score": 82
   }
  ],
@@ -344,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 07:18 PM AEDT",
+  "last_scan": "Sun 08 Nov 2026 08:15 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
