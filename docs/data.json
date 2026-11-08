@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 08 Nov 2026 12:23 PM AEDT",
+ "generated": "Sun 08 Nov 2026 01:20 PM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -9,6 +9,18 @@
    "title": "Abdul El-Sayed slams Trump\u2019s tariff war with Canada - Al Jazeera",
    "source": "Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnYwLWlzSG81XzlXRFFWRHdmWXU3OWljQnBHaU5FVThCWHlFVGU2Ynl5VUxtQkljeXoxX1hSTk1STmRkajFpa19OR2NxSkowcjlyakpjMEVzTjBDUmhCUkgzcTdHaE51UTdBTVBTak0tZ3VZMHNUWUdWaUxXaFRnekYxYzVEX1JtVWIzTW1VSkNWa3Bta1VJSlFiM1BJS3duZ2pv0gGoAUFVX3lxTE9RTXdZSDNoNGplSW1JaFFJOC1LMEVxbE9rSmphM0pfd0tuTXd0WVFCS1R1RFd0M3QyRjJjdFVYSnF6R3RWWTlhcVlqcTdQUmhYVWlPZktmRDZWS3gybG16MmVOcW53ZERGWHpVekN6Z2ZrNFNoM1Z4QWhtNXpaMVdNd1FMcGxTVkI5ek9UZTZOaUN3U3hxdFFzaTZZR24ycmxIUTd0S0o0Nw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whatthedemocraticsweepmeansfortrumpstariffsandainikkeiasia",
+   "title": "What the Democratic sweep means for Trump's tariffs and AI - Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkdNUHVFN1FiQmJRczhMWWJtZlpFVDJvcF82eHphNmxhekEwQU1ranhPQnhmUWx2SC1SRFF1aUpWTmo4ZWtLZUR4Q1JKM2tmbkN0QWxCVXNEbndtZlRzNVJjY0FQd2R5QUhnZC1PSjNRYjRWa0ZQdDk0cFAyUkdmNVRFYVZaNWl6N0ZwMmRJdk4xUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,18 +161,6 @@
    "pts": 22
   },
   {
-   "key": "trumpcongresssettoclashovereconomiccostsoftariffstheguamdail",
-   "title": "Trump, Congress set to clash over economic costs of tariffs - The Guam Daily Post",
-   "source": "The Guam Daily Post",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcm5MeEhBNi1jMHBKd3F6bThseTlIVXMtUnJmX19QQ0pPWUpaUVlUeFlBZ0ZtNFVlMG5ubjFSaC1TYWFMa21GWXNGYkh4em16OXlaMkhnUjQ0ampxNTJhY0dTRDdXbmdjQ1cwM2FtM2J6LVk5alNHdmw0Z092a0dEdnBGQ1dUeFRZQjdOU1JrdldWOW5RdkMzZDlkYmluSWJsNkZoaFM5dXhhenN5b1I5dWdXTEFXWlpvZjg1YnZIZEtrMEJta0ZxTDBJZUpBbGh6MU9CMmdVNnpkYVFmUlVqd0NR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "democratstakecontrolofcongresstrumpsenergypolicyfacestwoyear",
    "title": "Democrats take control of Congress. Trump\u2019s energy policy faces two years under scrutiny - oEnergetice.cz",
    "source": "oEnergetice.cz",
@@ -233,10 +233,10 @@
    "pts": 12
   },
   {
-   "key": "frenchstartupaltaaresbeatsdefencegiantstowin6natocounterdron",
-   "title": "French startup Alta Ares beats defence giants to win 6 NATO counter-drone lots - Dealroom",
-   "source": "Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWW5BaHlWZUZDZEwyYVMzNFRwSHFUUTBmRWtsQU5jVmF1X0dvbktiQV9rVnFZd0ltWlI0bkljdy1CRXA5eGFoNlA2bHVlcHlvenVSSWRzem1iSVdmajBTMEZtT29OdnV1RWVfQjdheEtsS2xNc1dlZVktSDNiVXh4OWU5dThYOWg1VkZQcHZ5QjNmR0hIcVpyUU1jYTBWazZNVTh1NURXak1lWHJnclVHTnJ3?oc=5",
+   "key": "dgaqualifiesairbusu010aliacadroneasiapacificdefencereporter",
+   "title": "DGA qualifies Airbus U010 Aliaca drone - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZk9oQVhJZm13N2pxaHc4YTczcEgwQVhBUENZX1QxOFdabWo3b0dCRTBVcGpCZzBsa2dWQmhrSWxkNFdTNWlGcGVJN184VTFNVER3UGJWSDZRb19VbE82Z2ptNEl0MnhwR0R0N0dBNlctRi1jUkthdlZDR2t2RUpwQkh2QmZNMXV5STI0?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,87 +248,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 92
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 2651 min old)",
+   "why": "stale quote / market closed (last price 2709 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 2651 min old)",
+   "why": "stale quote / market closed (last price 2709 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1703 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 1761 min old)",
+   "score": 47
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1703 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 1761 min old)",
+   "score": 52
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2651 min old)",
+   "why": "stale quote / market closed (last price 2709 min old)",
    "score": 43
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 47
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 82
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 47
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1703 min old)",
+   "why": "stale quote / market closed (last price 1761 min old)",
    "score": 82
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 08 Nov 2026 12:23 PM AEDT",
+  "last_scan": "Sun 08 Nov 2026 01:20 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
