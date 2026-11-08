@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 04:43 AM AEDT",
+ "generated": "Mon 09 Nov 2026 05:16 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -53,6 +53,18 @@
    "pts": 22
   },
   {
+   "key": "democratscantendtrumpstariffswithoutrepublicansthecentersqua",
+   "title": "Democrats can\u2019t end Trump's tariffs without Republicans - The Center Square",
+   "source": "The Center Square",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVg1OUhRRGotLWp5X2ZUV2dZcG1GV2VpN0ZHOXktaUFhVnQ5TlBaYS1VR3FqVWpDaHJOeEhTdk9tSUdub01HQmlGZVh1SXlGWGVOb2xGLWlmUVc4QWdsMHRleFF1Q1JTRHFuNG90cERod2FITURQd0JHREZIX3BtS0JrWWhvekZoYUl5bFcxaC1ZYURKQkxja19R0gGaAUFVX3lxTFBpWDU5SFFEai0tanlfZlRXZ1lwbUZXZWk3Rkc5eS1pQWFWdDlOUFphLVVHcWpVakNock54SFN2T21JR25vTUdCaUZlWHVJeUZYZU5vbEYtaWZRVzhBZ2wwdGV4UXVDUlNEcW40b3RwRGh3YUhNRFB3QkdERkhfcG1LQmtZaG96RmhhSXlsVzFoLVlhREpCTGNrX1E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "howtrumpstariffsarethreateningtospoilthesuccessofcanadianche",
    "title": "How Trump's tariffs are threatening to spoil the success of Canadian cheese - CBC",
    "source": "CBC",
@@ -89,18 +101,6 @@
    "pts": 22
   },
   {
-   "key": "abdulelsayedslamstrumpstariffwarwithcanadaaljazeera",
-   "title": "Abdul El-Sayed slams Trump\u2019s tariff war with Canada - Al Jazeera",
-   "source": "Al Jazeera",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnYwLWlzSG81XzlXRFFWRHdmWXU3OWljQnBHaU5FVThCWHlFVGU2Ynl5VUxtQkljeXoxX1hSTk1STmRkajFpa19OR2NxSkowcjlyakpjMEVzTjBDUmhCUkgzcTdHaE51UTdBTVBTak0tZ3VZMHNUWUdWaUxXaFRnekYxYzVEX1JtVWIzTW1VSkNWa3Bta1VJSlFiM1BJS3duZ2pv0gGoAUFVX3lxTE9RTXdZSDNoNGplSW1JaFFJOC1LMEVxbE9rSmphM0pfd0tuTXd0WVFCS1R1RFd0M3QyRjJjdFVYSnF6R3RWWTlhcVlqcTdQUmhYVWlPZktmRDZWS3gybG16MmVOcW53ZERGWHpVekN6Z2ZrNFNoM1Z4QWhtNXpaMVdNd1FMcGxTVkI5ek9UZTZOaUN3U3hxdFFzaTZZR24ycmxIUTd0S0o0Nw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
    "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
@@ -113,16 +113,16 @@
    "pts": 20
   },
   {
-   "key": "rheinmetallnioamunitionstomanufacturem795australiandefencema",
-   "title": "Rheinmetall Nioa Munitions to manufacture M795 - Australian Defence Magazine",
-   "source": "Australian Defence Magazine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnBNWVJhNGJWNG9SRm82alkxbi1VbzYzZkdld3FHV0hCSjNJNGswdkpRZUEtWTQtc1R2RF9aWVc5VWtYV1UxQ0VoR2tfc3kxWWZmbGluX1MyWjF4bTZDMjB2OTlVQnFyRmEyTzBMSkhpcGhaRWZVd3lydW5sdnNyZWZLVWNFT24zb2c3NVpqQjI1VkJqUER0THVDaTg?oc=5",
+   "key": "arethereanygoodalternativestointerestratehikestocoolinflatio",
+   "title": "Are there any (good) alternatives to interest rate hikes to cool inflation? - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEpSV1BDbXllN3FEVFk5dzFIcGJwSmNMUjFDNGJHQzRNNWFJbnpJVGhWQXhzYXVZbFd4Z0ExbXdvZWtxbk9ucjU5a0Jqc3puSElQXzlEOHl6MDM1bl9SdmRVY3MzY1RSd1VWV253WmxTblVZX1VsT09XdGtUTWZSTkFPYXdkRDREWVhvTDF0N2Q5cTlKbGV2NEZB?oc=5",
    "themes": [
-    "defence"
+    "rates"
    ],
    "trump": false,
-   "trusted": false,
-   "pts": 12
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "denmarkandlithuaniaprocureblockernavalminesfromfinlandisrael",
@@ -186,18 +186,6 @@
    "pts": 12
   },
   {
-   "key": "forcespensionerrorsprobedforpossiblecontractbreachesukdefenc",
-   "title": "Forces pension errors probed for possible contract breaches - UK Defence Journal",
-   "source": "UK Defence Journal",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHZfSk5KT0FjWTVLdmNGalIxUi1tdTFCS2o5V2dTVHNNX2xQYjVrNXliR0VoRDFLa2lJMFg5ZHViaUwzbnVSNjUwWmppY25QeGdNLUF4N3VKNmhZaFVKV3hkZGNicXRpUkU1enJQOHd5bVFtanp3Qzd6WWZQMUs2TXdVUlRZTE5XMGY0bXJuM0o0QTFuT0dn?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "airogroupreceivesfirstusdroneorderforskywatchsrq35andrq70fro",
    "title": "AIRO Group receives first U.S. drone order for Sky-Watch\u2019s RQ-35 and RQ-70 from government buyer - Defence Industry Europe",
    "source": "Defence Industry Europe",
@@ -244,77 +232,104 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "iraqtapsopectoincreaseoilproductionquotaegyptoilgas",
+   "title": "Iraq Taps OPEC to Increase Oil Production Quota - Egypt Oil & Gas",
+   "source": "Egypt Oil & Gas",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaV8wS2dXNmszYVF0clY3OERCak5NaDBZTTVwODdiSnNIV09NZi1SQTlPQk10OTZSZWdndEFFdk5ORkNMNng2cUNic2RZVWVCVGdIbDBxeDBDSDE2WkQ0M25nQTBlZkpQWU13TXp5dW9xZWV3d0NtY3V6b2RnYmUtdzdqZko?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 100
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 90
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 90
   },
   {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 2716 min old)",
+   "score": 55
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 2716 min old)",
+   "score": 40
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 3664 min old)",
+   "score": 43
+  },
+  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 47
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2683 min old)",
+   "why": "stale quote / market closed (last price 2716 min old)",
    "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3631 min old)",
+   "why": "stale quote / market closed (last price 3664 min old)",
    "score": 47
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3631 min old)",
+   "why": "stale quote / market closed (last price 3664 min old)",
    "score": 74
   }
  ],
@@ -329,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 04:43 AM AEDT",
+  "last_scan": "Mon 09 Nov 2026 05:16 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
