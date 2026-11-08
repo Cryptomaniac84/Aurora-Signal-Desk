@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 06:55 AM AEDT",
+ "generated": "Mon 09 Nov 2026 07:27 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -116,25 +116,13 @@
    "key": "therewillbenoicetexasbreakswithdcfedagentsexecutiveorderbyho",
    "title": "'There Will Be No ICE...': Texas \u2018BREAKS\u2019 With DC Fed Agents; Executive Order By Houston Jolts Trump - The Times of India",
    "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRjhqR0JLM2NaWmk1ekxDTm4xT0ZQcXVhU0hQOFI3c2VOeUxldnRrbENGeUxYRDVQVGpRaEk3cEVBcnhaRjBfT2k5ZUM5bHJ2QTR6bUZ4NmU2R3lwNUtRWmhpVHZvSkw2VDZxNEJoWTJtWGVEak93M19GRUppT3lfUVVBX0NWM0dQblI1M0FrNDd3OGVpYTdJRHJUc1gxMVo0ZUYwTlVtTTR5MHVXaWU0UXROVlhtUWp0VVhvR05NV0FGSXA5LXNDU3kzNGh3MEJoVnQ1U0otVEp3MFh3UmktZjJMWWE2bXhIWS1qLUxFcUt1UENOdlVDTmxISE1WdFVnRHpZ0gGIAkFVX3lxTE1vVHpKa194ZkFXelNwTkdzeF9BUXphS2I0ZTk2UEJZaTFwRW44ZVVwM0IySFNPa1NKcWstUFdyZDVpSVJINzJtVW8zZWdxcWtFNWpGcFk3ZlJNT09GLThnVEJ4LUN5NDhjQ1hSX2pObWFQWkp3ZWk3ZG04NzRsVUZDbnZjQkM0WmlQNW40bUNvMGJUb2JVNGh2ZFNLSmYxc3NuRThMU0YwUHJRV25SaWFUdGh0ZHV6ODZKRVFiZFA0T25ZVGR4VW03aWE2X0psSVhoenM1NXotN2x3LW15NTJ5VzdvempHQVdZXzBYeVdOZU5IYW9Pa2ctSDB4ZW82bWw4NzkzTHBPaA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRjhqR0JLM2NaWmk1ekxDTm4xT0ZQcXVhU0hQOFI3c2VOeUxldnRrbENGeUxYRDVQVGpRaEk3cEVBcnhaRjBfT2k5ZUM5bHJ2QTR6bUZ4NmU2R3lwNUtRWmhpVHZvSkw2VDZxNEJoWTJtWGVEak93M19GRUppT3lfUVVBX0NWM0dQblI1M0FrNDd3OGVpYTdJRHJUc1gxMVo0ZUYwTlVtTTR5MHVXaWU0UXROVlhtUWp0VVhvR05NV0FGSXA5LXNDU3kzNGh3MEJoVnQ1U0otVEp3MFh3UmktZjJMWWE2bXhIWS1qLUxFcUt1UENOdlVDTmxISE1WdFVnRHpZ?oc=5",
    "themes": [
     "rates"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
-   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   },
   {
    "key": "arethereanygoodalternativestointerestratehikestocoolinflatio",
@@ -243,92 +231,89 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "iraqweproducemorethan5millionbarrelsofoildailyandseektoincre",
+   "title": "Iraq: We Produce More Than 5 Million Barrels of Oil Daily and Seek to Increase Exports Through OPEC - \u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "source": "\u0648\u0643\u0627\u0644\u0629 \u0635\u062f\u0649 \u0646\u064a\u0648\u0632",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FYW5tM3VCaFNxZWJWYmE1MjdjN1ItTjVqYVI0Z0ZHVDVwQUhkQTJNc0FsSTBUd1FtOVJIOUF2b041OXYxNENfQi11MVR4TE5kem9qT1p3?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 42
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3764 min old)",
+   "why": "stale quote / market closed (last price 3795 min old)",
    "score": 45
   },
   {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 2816 min old)",
-   "score": 90
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 2816 min old)",
-   "score": 55
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 2816 min old)",
-   "score": 90
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 47
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2816 min old)",
+   "why": "stale quote / market closed (last price 2847 min old)",
    "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3764 min old)",
+   "why": "stale quote / market closed (last price 3795 min old)",
    "score": 47
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3764 min old)",
+   "why": "stale quote / market closed (last price 3795 min old)",
    "score": 74
   }
  ],
@@ -343,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 06:55 AM AEDT",
+  "last_scan": "Mon 09 Nov 2026 07:27 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
