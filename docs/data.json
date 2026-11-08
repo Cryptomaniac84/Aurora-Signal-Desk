@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 12:43 AM AEDT",
+ "generated": "Mon 09 Nov 2026 01:24 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -125,18 +125,6 @@
    "pts": 22
   },
   {
-   "key": "democratsmovetoendtrumpscanadatariffsaftermidtermvictory7out",
-   "title": "Democrats Move To End Trump\u2019s Canada Tariffs After Midterm Victory: 7 outlets compared - NewsCord",
-   "source": "NewsCord",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR05NOWRMQ2lyVy1FOG1NZlRrQVdYNklpVUhHUUpwRzlsZkhiTDdhUld1TWhuWWw5WDJOM1NkV2hyUjhzaHFuQkQ4TDJoaldsaFVYX1lXeWZGOEFNNU5TamJ4Tm5tM2pDQzJOWElHME0tQzlnMXZpUXBwcWJ3SGxGT0VGVkRtS3ZjbzNCdl9MakdBdkE0YUswZm1mblNzaDZmdFJ6bjYzR3Bxb3dsRExjVDdNQ1piaGE3R2c1RHN6WUZuaW84bkFJUHZqalJjMWROU25yZTRB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "badenochsaystrumpdeservedmidtermdefeatfaultsiranwartradepoli",
    "title": "Badenoch Says Trump Deserved Midterm Defeat, Faults Iran War, Trade Policies - Arise News",
    "source": "Arise News",
@@ -161,22 +149,10 @@
    "pts": 20
   },
   {
-   "key": "fdaadvisersnarrowlyvotetoadd6peptidestoadrugcompoundinglistw",
-   "title": "FDA advisers narrowly vote to add 6 peptides to a drug compounding list. What's next? - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0JqS2lhR293UDllbDRWTkpwNkdiSjN5MkpCeUtSME5oTUR5WmMzSnpmRmZTUG8wWVVxQlJidEd3ZU5fWUNBbmdYZ3lnbFJyOUUwZnNUUUNtUUhvZXphNGpMV2EwMElSSUEtNVVjRFNjQlpJYXV6bEswSGV6NWpoeTJTbkFYOFRNQ09FOHg4aHJXUm1qTzl30gGcAUFVX3lxTFA0dnZEd3pIbXJlZHVsRWlJVFVjMUk5U2N5NmFIQ1VvVzl3Qk45b0owZkJqUklqalF5cXJ5QUhoRlYwNzQ2bFkxVEc4dTR1VDNGY3YzbXJ6YV9YTmRLZDI5QWNkVld2aUx1QXNFTXBvQTdEMXpYVGJSY1daLW1VQ3JiSGdodkRCUHBBY0s2N2lHUXlJT1RaUE9oblp1Ug?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "admeyesonasiadefendtexdrone40winsjapanesecontractaustraliand",
-   "title": "ADM Eyes on Asia: DefendTex Drone40 wins Japanese contract - Australian Defence Magazine",
+   "key": "rheinmetallnioamunitionstomanufacturem795australiandefencema",
+   "title": "Rheinmetall Nioa Munitions to manufacture M795 - Australian Defence Magazine",
    "source": "Australian Defence Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTRRbDRFUTZndTdMNDJ4WHk3djhOR1FyaTZVYXZkS0k5WUNmQUtpTFFmSXFadGFFLUhHc3VMYVBwZTVQUFo0RGpIank3bHVwLTlQYmV4LV9QS2ZRYk4zeUUxdGZXbjNWUEN6TUdnanVSbTl3X1JyX3RIZVRUN1loTE5YcDhjUHhsakd0UjV6WTBMeG0wVnVqai1ERjVOQXR6dTFYWTFXYlhMc3M?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnBNWVJhNGJWNG9SRm82alkxbi1VbzYzZkdld3FHV0hCSjNJNGswdkpRZUEtWTQtc1R2RF9aWVc5VWtYV1UxQ0VoR2tfc3kxWWZmbGluX1MyWjF4bTZDMjB2OTlVQnFyRmEyTzBMSkhpcGhaRWZVd3lydW5sdnNyZWZLVWNFT24zb2c3NVpqQjI1VkJqUER0THVDaTg?oc=5",
    "themes": [
     "defence"
    ],
@@ -221,6 +197,19 @@
    "pts": 12
   },
   {
+   "key": "belinitiatespreparationsforqrsamfirstofproductionmodelantici",
+   "title": "BEL Initiates Preparations for QRSAM First of Production Model Anticipating Imminent CCS Approval - Defence.in",
+   "source": "Defence.in",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE5fYlNacElTTXRLR2JBOUVSY1VpdFVjYzBlM183WlhwV0N0dkh4LXJpUjZGVzhSdG0zZTZNVXdkSFhaYVJRbi1CTWVxcU82X2JtM0pqNjhJNVhweHF5bHVlV1BSVFFGLUpCampXUENPWnF3Wk9sNUNJTlY0aXphY0lLemhHUGF6eGZpazhxSFR5RVptUzNsMldXU1ZyWXFRX20zOVJ2cW83Qk84VUVoanBWM0RSYmROVFR4Y2JENkJ5WE1mU3NnRHRIaw?oc=5",
+   "themes": [
+    "defence",
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "bangladeshreportedlyclears20chinesej10cesinbayofbengalairdef",
    "title": "Bangladesh Reportedly Clears 20 Chinese J-10CEs in Bay of Bengal Air Defence Push - Defence Security Asia",
    "source": "Defence Security Asia",
@@ -233,13 +222,24 @@
    "pts": 12
   },
   {
-   "key": "belinitiatespreparationsforqrsamfirstofproductionmodelantici",
-   "title": "BEL Initiates Preparations for QRSAM First of Production Model Anticipating Imminent CCS Approval - Defence.in",
-   "source": "Defence.in",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSE5fYlNacElTTXRLR2JBOUVSY1VpdFVjYzBlM183WlhwV0N0dkh4LXJpUjZGVzhSdG0zZTZNVXdkSFhaYVJRbi1CTWVxcU82X2JtM0pqNjhJNVhweHF5bHVlV1BSVFFGLUpCampXUENPWnF3Wk9sNUNJTlY0aXphY0lLemhHUGF6eGZpazhxSFR5RVptUzNsMldXU1ZyWXFRX20zOVJ2cW83Qk84VUVoanBWM0RSYmROVFR4Y2JENkJ5WE1mU3NnRHRIaw?oc=5",
+   "key": "forcespensionerrorsprobedforpossiblecontractbreachesukdefenc",
+   "title": "Forces pension errors probed for possible contract breaches - UK Defence Journal",
+   "source": "UK Defence Journal",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHZfSk5KT0FjWTVLdmNGalIxUi1tdTFCS2o5V2dTVHNNX2xQYjVrNXliR0VoRDFLa2lJMFg5ZHViaUwzbnVSNjUwWmppY25QeGdNLUF4N3VKNmhZaFVKV3hkZGNicXRpUkU1enJQOHd5bVFtanp3Qzd6WWZQMUs2TXdVUlRZTE5XMGY0bXJuM0o0QTFuT0dn?oc=5",
    "themes": [
-    "defence",
-    "pharma"
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "airogroupreceivesfirstusdroneorderforskywatchsrq35andrq70fro",
+   "title": "AIRO Group receives first U.S. drone order for Sky-Watch\u2019s RQ-35 and RQ-70 from government buyer - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVV2U2MwRzdXV3ZwN2tjelJzcjlsTHJ4ckVMbnVFVW1leV9xWks0UFhUWkVsVWVRa0YxQUxFdmFCUmpNOVhBdWxuNUN1bVppR19tYU9wam41WE5QSVJVZzZ3aU1TM1Bua3M1N1BaTTJub3Y0bUF5b3RrQjRnOVdwd2NVdW1pYmVZYWxPVFBDRVQ0Wmk3YkFfMGpWOG1LZkdxZGxYODVzbGpKQ2VvYnhpYUViWS1ubm5yczRHb01PQ3g?oc=5",
+   "themes": [
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -249,72 +249,72 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 100
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 90
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 47
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2444 min old)",
+   "why": "stale quote / market closed (last price 2485 min old)",
    "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3392 min old)",
+   "why": "stale quote / market closed (last price 3433 min old)",
    "score": 47
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3392 min old)",
+   "why": "stale quote / market closed (last price 3433 min old)",
    "score": 74
   }
  ],
@@ -329,7 +329,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 12:43 AM AEDT",
+  "last_scan": "Mon 09 Nov 2026 01:24 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
