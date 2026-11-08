@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 08:43 AM AEDT",
+ "generated": "Mon 09 Nov 2026 09:18 AM AEDT",
  "fx_audusd": 0.6868,
  "signals": [],
  "events": [
@@ -101,6 +101,18 @@
    "pts": 22
   },
   {
+   "key": "whatthedemocraticsweepmeansfortrumpstariffsandainikkeiasia",
+   "title": "What the Democratic sweep means for Trump's tariffs and AI - Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkdNUHVFN1FiQmJRczhMWWJtZlpFVDJvcF82eHphNmxhekEwQU1ranhPQnhmUWx2SC1SRFF1aUpWTmo4ZWtLZUR4Q1JKM2tmbkN0QWxCVXNEbndtZlRzNVJjY0FQd2R5QUhnZC1PSjNRYjRWa0ZQdDk0cFAyUkdmNVRFYVZaNWl6N0ZwMmRJdk4xUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "therewillbenoicetexasbreakswithdcfedagentsexecutiveorderbyho",
    "title": "'There Will Be No ICE...': Texas \u2018BREAKS\u2019 With DC Fed Agents; Executive Order By Houston Jolts Trump - The Times of India",
    "source": "The Times of India",
@@ -135,6 +147,18 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "democratswilltakeaimatmedicaidcutsiranwarandtariffsjeffriess",
+   "title": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4yYXN5UmdKQW5IT2xBNmkySkR2RFBxX2llUFNBX0VNZjQwV0pUdUZtTXZsOUNNZG45T1Y0ZGpRdDVVUVBFRExmQnVUeGVyVUVZcW9HUDZGejVlWm9aZVZyWnR5MTh4ZG1ncWltNjBuM1U3NXR6NzhUVmZNR0V4ZnA5dUhjYmFyQjNJQlo3SVFQNXhLcUR2ak9aOG9oLUFqMmkxaGVvT2pBRWdTOTIzOE9ReVBtMEFrajZNbA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "saabwinsordertoequipswedensnewfrigatesasiapacificdefencerepo",
@@ -219,101 +243,77 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "forestbettingoutlookafter343mdiomandedealstrengthensdefencep",
-   "title": "Forest Betting Outlook After \u00a334.3m Diomande Deal Strengthens Defence - Pulse Uganda",
-   "source": "Pulse Uganda",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzVDdGQ1UHBjVFRycXhMWG9zOU00VTdJYWJhV2t4Y0lCNWVvWVBSNjBzM04ycC1xUE5Wcld2S0tBQWpmTDd6VzFFUjgtV082em42bHppbWZIeGtIRGtNZ20xUGgtZVNUamdpV3ZueTU5SDQ4RWxhOGF0ckxkZk80VGRNbVBFVEVoZnFNZVRDYTdqSklzNi1DWU5IMkpvam5qMkxzU1NIZjRGSmdoUUc0Z1VLTk1WcmRJMEhr?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "businesseswillbeallowedtoshootdowndronesoverothercompaniesfa",
-   "title": "Businesses Will Be Allowed to Shoot Down Drones Over Other Companies\u2019 Factories and Warehouses: The Cabinet of Ministers Opens New Opportunities for Private Air Defense - \u0421\u0443\u0434\u043e\u0432\u043e-\u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0430 \u0433\u0430\u0437\u0435\u0442\u0430",
-   "source": "\u0421\u0443\u0434\u043e\u0432\u043e-\u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0430 \u0433\u0430\u0437\u0435\u0442\u0430",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeWlkTWpUT1lNTzFacDdlYzJselBvVVRmN0FkNUVMaHR5WW8tUUhpTTAwbU8teWFaaS1CelpNbUhMTDNKaTdNcl9CUnhLY2RJOUNvbkFrVmNlTXljMEppLW5kZjNEODdjRHV0aFhHUklKVHNVTTM0cndfSEVrM1NWT0NaRHJWNlY4MnBxZFZKZkh6Wll3OVVEbEkxYURQSzlYVTBmWmIwb0pPa2NVbHBTaHZsaFNuREI4Y2g0NUNzeEp5T3hrMnlzd3lpV3g3OUF2elpOT2FqamJPZzVwY016UTByaWFtMHhMYTgtTjhwNA?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2924 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 2959 min old)",
+   "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2924 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 2959 min old)",
+   "score": 42
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3872 min old)",
+   "why": "stale quote / market closed (last price 3907 min old)",
    "score": 45
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 47
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2924 min old)",
+   "why": "stale quote / market closed (last price 2959 min old)",
    "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3872 min old)",
+   "why": "stale quote / market closed (last price 3907 min old)",
    "score": 47
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3872 min old)",
+   "why": "stale quote / market closed (last price 3907 min old)",
    "score": 74
   }
  ],
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 08:43 AM AEDT",
+  "last_scan": "Mon 09 Nov 2026 09:18 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
