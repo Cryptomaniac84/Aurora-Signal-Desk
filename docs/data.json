@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 06:29 AM AEDT",
- "fx_audusd": 0.6916,
+ "generated": "Tue 10 Nov 2026 07:24 AM AEDT",
+ "fx_audusd": 0.6932,
  "signals": [],
  "events": [
   {
@@ -33,6 +33,18 @@
    "title": "Midterm Voters Disapproved Of Trump\u2019s Tariffs And Immigration Policies - Forbes",
    "source": "Forbes",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whycanadashouldntcountondemocratstorepealtrumpstariffsthehub",
+   "title": "Why Canada shouldn\u2019t count on Democrats to repeal Trump\u2019s tariffs - The Hub | More Signal. Less Noise.",
+   "source": "The Hub | More Signal. Less Noise.",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2lkSF9xSnI1TDN3cmpqQXNzQXVraVR3M1BGZnNZeUZ4bGJkRmg4TUJ3RGJxX1E2QzhUY2pkTDh6WVBZQndsNjVUUVdrOERleUR1ZVYxRUR6R1paTzl3ZlQ0UDNoUGtjTFcyMzRadklpQV9DNlVOMTdOQlJVdkNERk9ocUhudGJsS3A1M3kzUVVDQ3N1Y3RJcw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,18 +101,6 @@
    "pts": 22
   },
   {
-   "key": "democratswoncongresscantheyactuallystoptrumpstariffsnewsnati",
-   "title": "Democrats won Congress. Can they actually stop Trump\u2019s tariffs? - NewsNation",
-   "source": "NewsNation",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVmdVdDJUZjd1cTMyU2laLTd4SDNWZWRhUnNpaVZBRzE2WDFPUFNKYWNLMHNqU1lMajAwb3lHdE9Pb3RkemFtck9jMlNDdkhyZU9SSVZ1U3dObFdxUnVubk5EV05aNDVpalllZEs2X2F5RjFfU2V5ZTRHSTRJcEhhNFZwajBqZGR4cmfSAY8BQVVfeXFMTU5CdlhZN3oyVnB0OXkxb3RKYk5yajB4RDZBMlNPT1hXd2xCRDJhNFZCOGcwYmxZRG1JeHVxVGJ6akRtTmlTelhOWjBUQjhGbUlKbjRfbTlTdEFfX18tUmdUTzMzSVRhWjk1S1dGbFRxY2NpMkkxWmpJS3ExZUZEa0Q4dE5Qb2ROazNMNE9iVlE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpadminstarifffreebeefimportshaventloweredpricesmuchtexas",
    "title": "Trump admin\u2019s tariff-free beef imports haven\u2019t lowered prices much - Texas Standard",
    "source": "Texas Standard",
@@ -116,25 +116,13 @@
    "key": "oilfallsalmost5astrumpsignalsrestraintoniranthekoreatimes",
    "title": "Oil falls almost 5% as Trump signals restraint on Iran - The Korea Times",
    "source": "The Korea Times",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVVtaVBHUlJMYmFSUmk2bGwwT2hLNjR2SXgzaFZPSjB5Q2ZjRTBQV3ZoaEllQWFBVHh2X25oMVR2N2ZBV3JOZXc4MXF6MVd4dGlfQnhZWktzVmVodHVadjZ1Ynh3Z0RINWF4QkpvX3FVRElUZ0hPQWFrcldrMmJnczc2XzV0bGNiOUVScElmS1Q2M0twTFQyWC1OdmZOUdIBowFBVV95cUxOZ05sNFFRUGJuRXM4UHc4c1VBd040UzVTbmVSX3lPVjZsV01kYlh2enZfRTJhc21qcGw0amxoNEcwRFJaMjJfRERoZlJ0djlqMGlHbFFpRHJsQUNocm1qY1hoYU8tYkV1WkJDQVBCSU91MXVmNTFOX2JnRDZkVGhKLXo5VjFFbnpndkI0elRzd0p4bTRZeDZwaUU5V0h2LWMxN1Nz?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ05sNFFRUGJuRXM4UHc4c1VBd040UzVTbmVSX3lPVjZsV01kYlh2enZfRTJhc21qcGw0amxoNEcwRFJaMjJfRERoZlJ0djlqMGlHbFFpRHJsQUNocm1qY1hoYU8tYkV1WkJDQVBCSU91MXVmNTFOX2JnRDZkVGhKLXo5VjFFbnpndkI0elRzd0p4bTRZeDZwaUU5V0h2LWMxN1Nz0gGjAUFVX3lxTE5nTmw0UVFQYm5FczhQdzhzVUF3TjRTNVNuZVJfeU9WNmxXTWRiWHZ6dl9FMmFzbWpwbDRqbGg0RzBEUloyMl9ERGhmUnR2OWowaUdsUWlEcmxBQ2hybWpjWGhhTy1iRXVaQkNBUEJJT3UxdWY1MU5fYmdENmRUaEotejlWMUVuemd2QjR6VHN3SnhtNFl4NnBpRTlXSHYtYzE3U3M?oc=5",
    "themes": [
     "energy"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "chinaextendspauseonustariffsandtradecurbsfortwomonthsbloombe",
-   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   },
   {
    "key": "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow",
@@ -162,6 +150,18 @@
    "pts": 20
   },
   {
+   "key": "eventhisbluewaveprobablywontwashtariffsawaythehill",
+   "title": "Even this blue wave probably won\u2019t wash tariffs away - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Zi02OTQzOHlXQ0kxRVFMbk1rREp0RlhKRFNrNFluMEY4empWb0VTZktsNVU5U3VES2JfdmJPemJ5ek4waGVQR2RSVFBfdUxYV1pjZVVPeVJkOHhWbGZ1Y3RkZHZ5M3BDTFp4LTA4VnlsUjlQM2ljT3VJcGw5dTTSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "chinaextendspauseon24ustariffstojanuarykeeps10ratejingdaily",
    "title": "China extends pause on 24% US tariffs to January, keeps 10% rate - Jing Daily",
    "source": "Jing Daily",
@@ -174,10 +174,34 @@
    "pts": 12
   },
   {
-   "key": "dgaawardedcontractforiristoleadcontractorairbusdefenceandspa",
-   "title": "DGA Awarded Contract For IRIS to Lead-Contractor Airbus Defence and Space and Co-Contractor Thales Alenia Space - TradingView",
+   "key": "usdemocraticcongressoffersmexiconewchannelnotquicktariffreli",
+   "title": "US Democratic Congress offers Mexico new channel, not quick tariff relief - BNamericas",
+   "source": "BNamericas",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM19QMnU4NmJTRmdhWGFjWnhLcEtvbTRDallpRE83MFFreG0wSmd2eGhjNDBfa0xsa3BpYVJua2NRQUtSY3lEcTFJR1dJcHNhMUQ2N0dhY3A3QnVxVm9LdldFcV9DbjVrNlQ4bDNRWV8ycjdodU12LTF0NDBEVXVkdDRsbDN6UlpGenUyQWt3RTM0M1loSDR0T25qZkY1M1VQWmlWSWF4dHBJVjdpVDB4aQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "eossecurescounterdronedefencesystemscontractwithmiddleeastar",
+   "title": "EOS secures counter-drone defence systems contract with Middle East armed forces customer - Defence Connect",
+   "source": "Defence Connect",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjl5bDg2ai1RbDJJNTB5aWFITDJPOWRwaWEzRzRRbHotREFXVjNNQmd5VzNVSDBRM2ZMaDNRSlh4b3VXaHJDQkw5bWlpLXc4c3dmNmYyY25GbllGRlY4a1cxMFY5V2VmZXJYYzdOQW5Nd1I5ejh3THdwZTJmYVQtYU15TnluZ2R4VllFenhpbzhHaXc5SHl5dGFRTE5YWkwxTjJxTWdYM3VJMUVtZThLOHhqXzJ6M0Q1MFZkYXQ4MDlTZ2hjMm53MjhZWHloRUQyVXZZdw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "dgaawardsirisprogrammecontracttoairbusdefenceandspacethalesa",
+   "title": "DGA Awards IRIS Programme Contract To Airbus Defence And Space, Thales Alenia Space - TradingView",
    "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOWJOa080cjZYWENYRzJtcGxnZFZUT3Rwa2NSbW9ab09fTVFndkRha3ZObmRKaDV5YmwyS05aaFlVd0tDNmYtdFEzWXM5d0ktdmhlYzY1dVlmbEVKUnFDckxGZS1oOWpBa09xenF2elhldlVycE9tNkhUdVlRZ21nZVltT0liRWNFUEVmOHZpWXZmYmRQaWNJbXh5RHZ3bUdBVVQ0ejlROWdfclZvRE9neldFNnloeW1aRE1CQ2FiOUFmZ2NwdFNaQmRSZnJOSGVIVTNGWXNwbWl1dW1RVGJkVU82VTRGVHFVRUI5aTdTUDVfUVBRU2FNcjZISnpGalNXQlV5WUlhYkUtUW5ueVE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdWI0TEhtMmRGMXR0MW1jaEVmSlNSTVZaVHJkWU00S0VEYlpoalk5OEZRakl1TFpSWlllaFRTd1dPSDB2LWt6OHZlUEJKN0g5MlJ3WnBHTGRObG9XYzQyblJpTnVURS1YU19DRnM4VGNVOUptSE9xQUtxQWJlZGNReUpiT2ZLQjZnZnJOLTEzWFZZelhaUWZYUnpJaDdKeGRwVkJJUTZrTGNfa0pjdzVuelk2NFFIaWFma2FRbGVhMHM4aXp6RXdJQm8ta1VkYlRNWVhwSnZzaWZTdldTVUhzX1RwVkQ0ZVU?oc=5",
    "themes": [
     "defence"
    ],
@@ -220,102 +244,78 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "rheinmetallgetsseveralhundredmillioneurobelgianairdefensecon",
-   "title": "Rheinmetall Gets Several Hundred Million Euro Belgian Air Defense Contract - marketscreener.com",
-   "source": "marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYnhNalh5T1BCdVd6el91U25FMEU4TjNjSHB3cmNVbldkb3Z2TEg0djJHRDZvT1E3RlZQUlNsZVpPRTEwc0pPTXpUeEVGM3FhVmpfLUdkVjZEOXZ6dTVXU3M2aEdvNlVDOFg4OFdTbFZBRGpnLVIxWnZZRjdXTWJnRDJ3MDBNYmNJeWZsUkpEY19ORHVvQlZZeUVCU09tcDNGa0NjTWlOZ0hkbUFzQmx0ZjZfa2tiSHI1Mk5zX0lBa0tuWElvd3c?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "defenceministrysignsover810crorecontractwithbdlfor160satsaaw",
-   "title": "Defence Ministry signs over \u20b9810 crore contract with BDL for 160 SAT-SAAW systems - News On AIR",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkV0UGFUM2pGZTBhWFJJT2dMdTFSNkphazBVMmdWbjR2UGlpMDVtVmYwWkwwQTlYenpnQUJTZzhPcEhJVkhxR08yTWVCSlY3c0ZoUTBHRVdBTGZVd3dISFdRX1pkdlN0OGhEZmMxVV9xTkdOUUdXQWlTQXZJUUJMMFBYenRBNEhaSUxTTDhTcU8wQWxKZzVja1pTZ0YyNlYtejhFOEpZM2lnNE91dWM2eC1ranRJdw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 68
+   "why": "position size under 1 share",
+   "score": 77
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 45
+   "why": "reward/risk after costs only -0.07",
+   "score": 85
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 48
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 84
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 78
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 46
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 58
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 858 min old)",
+   "why": "stale quote / market closed (last price 912 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 860 min old)",
+   "why": "stale quote / market closed (last price 914 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 64
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 50
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 62
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 858 min old)",
+   "why": "stale quote / market closed (last price 912 min old)",
    "score": 38
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 66
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 49
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 64
   }
  ],
  "paper": {
@@ -329,7 +329,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 06:29 AM AEDT",
+  "last_scan": "Tue 10 Nov 2026 07:24 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
