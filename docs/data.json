@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 03:43 PM AEDT",
- "fx_audusd": 0.6897,
+ "generated": "Mon 09 Nov 2026 04:43 PM AEDT",
+ "fx_audusd": 0.6895,
  "signals": [],
  "events": [
   {
@@ -53,10 +53,10 @@
    "pts": 22
   },
   {
-   "key": "usdemocratslaunchpushtorepealtrumptariffstargetingcanadafirs",
-   "title": "U.S. Democrats Launch Push to Repeal Trump Tariffs, Targeting Canada First - \uc544\uc2dc\uc544\uacbd\uc81c",
-   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrN2gyZ1piZmNxdkpVZ0tfOW5LeHZudEJ0enNNVGxBSE1mRVdHWkxhTnlMUkplallSZ1ljVmhfMlhZckZ0VW51YzdOTm1oS1RVc0RLTi0yUEJuVTNVYWhnZk9OS00?oc=5",
+   "key": "thousandsofontariogoatscouldbeslaughteredduetotrumpstariffsc",
+   "title": "Thousands of Ontario goats could be slaughtered due to Trump\u2019s tariffs - CTV News",
+   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHlxTWphRGF6OTZXNURxSDh2V2F5a093MjU1ZTVRYjRvaVNPWFpjVTZsTmh3MmRkaWtIeHJTRnhyZ2ZZM2Jid05uY2RucmI1Qk51cnotYk4wVWpORU5MR3FIcVVsYUpoR2NfZ0RQQWttMDZFS1BxMy1LMG4tdjQ2WVRMWnYyRUR2UkFaWXRfbGdiSHhSUEJnZ3c4dGdCcWx1d3pneXlJcTFzLTBNNXNv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,6 +101,18 @@
    "pts": 22
   },
   {
+   "key": "usdemocratslaunchpushtorepealtrumptariffstargetingcanadafirs",
+   "title": "U.S. Democrats Launch Push to Repeal Trump Tariffs, Targeting Canada First - \uc544\uc2dc\uc544\uacbd\uc81c",
+   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlM2ZGV19uaU4zTXBhbWpyUmFiVUswTzdUemxDcV9fMkh3ODlEVm9hb3hvWVZuSU9YS2E0WnBxOFd2dXRuS09kbm5tazFqNktWRUl5Mmp6YnN4NjdieFVXYUpiaDQ2RHNwYnlaUzY5MlpaQTl3ZzVJ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "democratswoncongresscantheyactuallystoptrumpstariffsnewsnati",
    "title": "Democrats won Congress. Can they actually stop Trump\u2019s tariffs? - NewsNation",
    "source": "NewsNation",
@@ -113,22 +125,34 @@
    "pts": 22
   },
   {
-   "key": "repealtrumpstariffsdailykos",
-   "title": "Repeal Trump\u2019s Tariffs - Daily Kos",
-   "source": "Daily Kos",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kMlZGSy1uUU1icXNCSkozLVNqbnRGQ2QwbmRXOG1LblZieFBTWXJ4RGhwb2MyN2lzbUpWaU9NaUhLN0hBN3dpY0ZJNnN0S1Jld0c3bGloVUVNU3BLLUxJTzhSQkljWXllZ2tZRGxGZFJyWmFD?oc=5",
+   "key": "therewillbenoicetexasbreakswithdcfedagentsexecutiveorderbyho",
+   "title": "'There Will Be No ICE...': Texas \u2018BREAKS\u2019 With DC Fed Agents; Executive Order By Houston Jolts Trump - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRjhqR0JLM2NaWmk1ekxDTm4xT0ZQcXVhU0hQOFI3c2VOeUxldnRrbENGeUxYRDVQVGpRaEk3cEVBcnhaRjBfT2k5ZUM5bHJ2QTR6bUZ4NmU2R3lwNUtRWmhpVHZvSkw2VDZxNEJoWTJtWGVEak93M19GRUppT3lfUVVBX0NWM0dQblI1M0FrNDd3OGVpYTdJRHJUc1gxMVo0ZUYwTlVtTTR5MHVXaWU0UXROVlhtUWp0VVhvR05NV0FGSXA5LXNDU3kzNGh3MEJoVnQ1U0otVEp3MFh3UmktZjJMWWE2bXhIWS1qLUxFcUt1UENOdlVDTmxISE1WdFVnRHpZ0gGIAkFVX3lxTE1vVHpKa194ZkFXelNwTkdzeF9BUXphS2I0ZTk2UEJZaTFwRW44ZVVwM0IySFNPa1NKcWstUFdyZDVpSVJINzJtVW8zZWdxcWtFNWpGcFk3ZlJNT09GLThnVEJ4LUN5NDhjQ1hSX2pObWFQWkp3ZWk3ZG04NzRsVUZDbnZjQkM0WmlQNW40bUNvMGJUb2JVNGh2ZFNLSmYxc3NuRThMU0YwUHJRV25SaWFUdGh0ZHV6ODZKRVFiZFA0T25ZVGR4VW03aWE2X0psSVhoenM1NXotN2x3LW15NTJ5VzdvempHQVdZXzBYeVdOZU5IYW9Pa2ctSDB4ZW82bWw4NzkzTHBPaA?oc=5",
    "themes": [
-    "geopolitics"
+    "rates"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "therewillbenoicetexasbreakswithdcfedagentsexecutiveorderbyho",
-   "title": "'There Will Be No ICE...': Texas \u2018BREAKS\u2019 With DC Fed Agents; Executive Order By Houston Jolts Trump - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRjhqR0JLM2NaWmk1ekxDTm4xT0ZQcXVhU0hQOFI3c2VOeUxldnRrbENGeUxYRDVQVGpRaEk3cEVBcnhaRjBfT2k5ZUM5bHJ2QTR6bUZ4NmU2R3lwNUtRWmhpVHZvSkw2VDZxNEJoWTJtWGVEak93M19GRUppT3lfUVVBX0NWM0dQblI1M0FrNDd3OGVpYTdJRHJUc1gxMVo0ZUYwTlVtTTR5MHVXaWU0UXROVlhtUWp0VVhvR05NV0FGSXA5LXNDU3kzNGh3MEJoVnQ1U0otVEp3MFh3UmktZjJMWWE2bXhIWS1qLUxFcUt1UENOdlVDTmxISE1WdFVnRHpZ0gGIAkFVX3lxTE1vVHpKa194ZkFXelNwTkdzeF9BUXphS2I0ZTk2UEJZaTFwRW44ZVVwM0IySFNPa1NKcWstUFdyZDVpSVJINzJtVW8zZWdxcWtFNWpGcFk3ZlJNT09GLThnVEJ4LUN5NDhjQ1hSX2pObWFQWkp3ZWk3ZG04NzRsVUZDbnZjQkM0WmlQNW40bUNvMGJUb2JVNGh2ZFNLSmYxc3NuRThMU0YwUHJRV25SaWFUdGh0ZHV6ODZKRVFiZFA0T25ZVGR4VW03aWE2X0psSVhoenM1NXotN2x3LW15NTJ5VzdvempHQVdZXzBYeVdOZU5IYW9Pa2ctSDB4ZW82bWw4NzkzTHBPaA?oc=5",
+   "key": "oilextendsslideastrumpcallsnewiranstrikeshighlyunlikelybiggo",
+   "title": "Oil Extends Slide as Trump Calls New Iran Strikes 'Highly Unlikely' - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5faGxBSlJBc0piV2xaRkh1WXBtaVZlRmZKWnd4cjh2dm5MbjVlZUxBQW9RRnJNVi1sbGJpRHYxNUE4X3dwWjRNbnBuMEppMWpqZkZlSmptOFd0am82RklQZVRZelhvd29SUWpGSGstYVhiMHlnOUE?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "fortrumpsfedambitionsademocraticsenateposesthebiggesthurdley",
+   "title": "For Trump\u2019s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet - WSJ",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
    "themes": [
     "rates"
    ],
@@ -173,34 +197,10 @@
    "pts": 12
   },
   {
-   "key": "saabwinsordertoequipswedensnewfrigatesasiapacificdefencerepo",
-   "title": "Saab wins order to equip Sweden\u2019s new frigates - Asia Pacific Defence Reporter",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcEZUSDBpZmhrUWlJcmthRUN3Wi1PRUxlb2trM3JDejNqQUZPV04zWnA3YWFRd1ZFVHlNdkRDb3BfYnZENW00MlU3N1Y1c192bWFfN1JpN01DazQ2bUQyM1psSmJ3dHBzTFQ1cUh6NTVpVVRFbHpmS01YbTdoX2hqOU5jQnQwWUZFY3c5M0EzWU85MHUz?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "aselsansigns11billionairdefenseexportcontractoneofitslargest",
    "title": "ASELSAN Signs $1.1 Billion Air Defense Export Contract, One of Its Largest Single Deals - Envanter Medya",
    "source": "Envanter Medya",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR29LM0RWUFVfSUhhLVFXdGdsT1RLVUpPRGxYWlc5U18wNE5jN3MxMTIyRGtxYm1pUDdMS0djSmxMUmZ1NjlmXy10ZzJUU3NkN09BSjRSYUhCVkNzTVVKNFZ3ZUExSUIweEpyaWdwWkl0c2Zkd1ZKaHVsZzhVY3BITzdRMUVzWEE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "lockheedmartinaustralialeadsqueenslandprojecttobuildmobilela",
-   "title": "Lockheed Martin Australia leads Queensland project to build mobile launcher for hypersonic flight tests - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOUZ3aDJlVXdRaGpfdlFHQXpTSG55YXBVamRuMzhKS2djc3FDcEszdDFJRm8zaE1jRHVaZWw1NWlEc1ZsM1ZQMXp5OWxuUE5iZXF6VHo4MGtmZVRSTTVjcXVfQ0wyb29razFVY0VDTFR1Q0RNVDVIZWc0SHM4SktlSHBnZHZJRG5zUC1CdWxRcU5qR3l3WmhETFNzaDU1RURqSmtsRVU4bnJRLUtySm5naGJWZURUWXY5VlhiS0tuZlBlZmp5OE5BTHlTOGQ?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,73 +248,73 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3344 min old)",
+   "why": "stale quote / market closed (last price 3404 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3344 min old)",
+   "why": "stale quote / market closed (last price 3404 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3344 min old)",
+   "why": "stale quote / market closed (last price 3404 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3344 min old)",
+   "why": "stale quote / market closed (last price 3404 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3344 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 3404 min old)",
+   "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3344 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 3404 min old)",
+   "score": 42
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "stale quote / market closed (last price 32 min old)",
+   "score": 40
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 3404 min old)",
+   "score": 57
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 3404 min old)",
+   "score": 57
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 32 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3344 min old)",
+   "why": "stale quote / market closed (last price 3404 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3344 min old)",
+   "why": "stale quote / market closed (last price 3404 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3344 min old)",
+   "why": "stale quote / market closed (last price 3404 min old)",
    "score": 47
-  },
-  {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 3344 min old)",
-   "score": 47
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 3344 min old)",
-   "score": 47
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 28
-  },
-  {
-   "sym": "STO.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 36
   }
  ],
  "paper": {
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 03:43 PM AEDT",
+  "last_scan": "Mon 09 Nov 2026 04:43 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
