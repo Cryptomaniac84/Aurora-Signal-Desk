@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 import requests, feedparser
 
 SYD = ZoneInfo("Australia/Sydney")
-CFG = dict(capital_aud=500, risk_pct=0.02, min_score=70, min_rr=1.5, max_age_min=20,
+CFG = dict(capital_aud=500, risk_pct=0.02, min_score=70, min_rr=1.5, max_age_min=30,
            fee_per_side={"USD": 1.0, "AUD": 6.0},  # ESTIMATES - check IBKR's real fees and edit
            slip=0.001, max_day_move=0.06, paper_max_days=2, cooldown_h=24, expire_min=90)
 # theme -> (keywords, tickers to check). The PRICE decides; news only nominates candidates.
@@ -170,7 +170,7 @@ def scan():
         elif sc < CFG["min_score"]: why = f"score {sc} below {CFG['min_score']}"
         if why: rej.append(dict(sym=sym, why=why, score=sc)); continue
         ccy = a["ccy"]; fee = 2 * CFG["fee_per_side"].get(ccy, 1.0)
-        entry = a["c"] * (1 + CFG["slip"]); stop = entry - 1.5 * a["atr"]; target = entry + 2.4 * a["atr"]
+        entry = a["c"] * (1 + CFG["slip"]); stop = entry - 1.5 * a["atr"]; target = entry + 4.0 * a["atr"]
         cap = CFG["capital_aud"] * (fx if ccy == "USD" else 1)
         qty = math.floor(min(cap * CFG["risk_pct"] / (entry - stop), cap / entry)) if entry > stop else 0
         if qty < 1: rej.append(dict(sym=sym, why="position size under 1 share", score=sc)); continue
