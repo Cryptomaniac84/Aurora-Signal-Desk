@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 11:17 AM AEDT",
- "fx_audusd": 0.6875,
+ "generated": "Mon 09 Nov 2026 12:42 PM AEDT",
+ "fx_audusd": 0.6894,
  "signals": [],
  "events": [
   {
@@ -41,22 +41,10 @@
    "pts": 22
   },
   {
-   "key": "democratswoncongresscantheyactuallystoptrumpstariffsthehill",
-   "title": "Democrats won Congress. Can they actually stop Trump\u2019s tariffs? - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OOFFQcU9IODVFVWRYanlEdmVXcDlvQldxa0luSFJjeHdxMVp3V3ctUzU5LXhnalpXWDdsMVAyYUxKUUVjaml4VEk0dXJ6MU56MFlTbENTWFlXbE1VVXJNTXc1azVaQ1ZpMlJDb3ZJZkNqZ3FhbjRR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "democratscantendtrumpstariffswithoutrepublicansthecentersqua",
-   "title": "Democrats can\u2019t end Trump's tariffs without Republicans - The Center Square",
-   "source": "The Center Square",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzk2ODh6ODNyU21RS2dLckpCQ3d1UFhHQlFHRWE3ektsTlVhejUzc29BekhNMlpmXzZEUmc3SDBpc25TTC0tVjFuVG9RNm9WeGhlcmRWV2lRbG84b29EMzkwUEltY1NTRndPUnREam53ZHE3MjJpRUxiRjlod05wTE5ieFRzcVVUYXdQV3g5QjgwQ3hv0gGaAUFVX3lxTFBpWDU5SFFEai0tanlfZlRXZ1lwbUZXZWk3Rkc5eS1pQWFWdDlOUFphLVVHcWpVakNock54SFN2T21JR25vTUdCaUZlWHVJeUZYZU5vbEYtaWZRVzhBZ2wwdGV4UXVDUlNEcW40b3RwRGh3YUhNRFB3QkdERkhfcG1LQmtZaG96RmhhSXlsVzFoLVlhREpCTGNrX1E?oc=5",
+   "key": "democratscantendtrumpstariffswithoutrepublicanseurasiareview",
+   "title": "Democrats Can\u2019t End Trump\u2019s Tariffs Without Republicans - Eurasia Review",
+   "source": "Eurasia Review",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmVhcE5qR3ZQOHJ3Nmk2Vmw2Z0hJZXpVUEd3ZVNrR3hpRWNQQkFYd1VyMmlkOFRCTFhuOGUtbVRpa1d3U1Z6dGVfbHltcTh4WjljeUFMbnBRMTJZbVFQQjZnMUx2VldTMVBHczZkcnlOai04UDlyUVl1dUc5UVRUMDloVjR1Y2ZzSW9yZ0hiVDM4QkNhMG1HTw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +77,34 @@
    "pts": 22
   },
   {
+   "key": "usdemocratslaunchpushtorepealtrumptariffstargetingcanadafirs",
+   "title": "U.S. Democrats Launch Push to Repeal Trump Tariffs, Targeting Canada First - \uc544\uc2dc\uc544\uacbd\uc81c",
+   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlM2ZGV19uaU4zTXBhbWpyUmFiVUswTzdUemxDcV9fMkh3ODlEVm9hb3hvWVZuSU9YS2E0WnBxOFd2dXRuS09kbm5tazFqNktWRUl5Mmp6YnN4NjdieFVXYUpiaDQ2RHNwYnlaUzY5MlpaQTl3ZzVJ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "leibowitzwillthenextcongresstakeaimattrumpstariffstoaddressa",
    "title": "Leibowitz: Will the next Congress take aim at Trump's tariffs to address affordability concerns? - Steel Market Update",
    "source": "Steel Market Update",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVmt2Nm1Sd2p4OHJHQXJKSVFBZ0Q3R19PU0RsaWtMam44YXo3YnR3T0M2TVhydDFBcGdhYWUxdXVKNGoweXQ4eTBpdDJtWjBMXzRTUmhaQmZOSkVwZjdVZXU0aWNONl9MRlJNVFJ2XzNrbUFqRXZVUUtrR2JkOUF3dUl0cFRZT2tTYXBTVVN2MEFXNFlpX0dmRXdSdmljVzVfWmY1bFlIellJZDh1YTdtV09fQjM3UnZMWGNlLU5xeHdRaEJaX3U2T1piQWxWRDd4S1N2cW5zNkk0cmNneWNjV05B?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "repealtrumpstariffsdailykos",
+   "title": "Repeal Trump\u2019s Tariffs - Daily Kos",
+   "source": "Daily Kos",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kMlZGSy1uUU1icXNCSkozLVNqbnRGQ2QwbmRXOG1LblZieFBTWXJ4RGhwb2MyN2lzbUpWaU9NaUhLN0hBN3dpY0ZJNnN0S1Jld0c3bGloVUVNU3BLLUxJTzhSQkljWXllZ2tZRGxGZFJyWmFD?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,32 +125,8 @@
    "pts": 22
   },
   {
-   "key": "fortrumpsfedambitionsademocraticsenateposesthebiggesthurdley",
-   "title": "For Trump\u2019s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet - WSJ",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "arethereanygoodalternativestointerestratehikestocoolinflatio",
-   "title": "Are there any (good) alternatives to interest rate hikes to cool inflation? - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEpSV1BDbXllN3FEVFk5dzFIcGJwSmNMUjFDNGJHQzRNNWFJbnpJVGhWQXhzYXVZbFd4Z0ExbXdvZWtxbk9ucjU5a0Jqc3puSElQXzlEOHl6MDM1bl9SdmRVY3MzY1RSd1VWV253WmxTblVZX1VsT09XdGtUTWZSTkFPYXdkRDREWVhvTDF0N2Q5cTlKbGV2NEZB?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "rbashuntersaysaiboomwillputneartermpressureonpricesbloomberg",
-   "title": "RBA\u2019s Hunter Says AI Boom Will Put Near-Term Pressure on Prices - Bloomberg",
+   "key": "rbashuntersaysaiboomwillputneartermpressureoncpibloomberg",
+   "title": "RBA\u2019s Hunter Says AI Boom Will Put Near-Term Pressure on CPI - Bloomberg",
    "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVAwU2QwNnU3R0dQVlFPcmhqODhXVVlfMXhJZ2l3QS0zVlZYNjVvZm1KYkhEVklBOWlIMEZNMkl2SkFrNFBGWURJR1MtejI4QjRZbGwyTHJMQkR5NGxXZEU0Z0VJZlBOS2pMamNFV3N1VW9OUXd0TUVFc1FqME8zNzVwU3ZTeFhQVmdTb0NBNW5JcGlURTN0MHRrZXl2c1VwVlFIeF9HWmVpdm9IWnZpWnNNSzk?oc=5",
    "themes": [
@@ -153,18 +141,6 @@
    "title": "After Midterm Defeat, Democrats Take Aim at Tariffs, With Canada Trade War as First Target - BigGo Finance",
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10WnhMNU9PRU9jWnluYlF3UUhjUVMyYXo1RTRqREhiOXBMNEpndVBKYzRBU0R1YUlPWnNyMDdnOWM0cno0dzlPSzh0M1VYNlBia05naS1VS3UwUXJGUFhGTzhkNzBRRWJUV1UyZW9iSW0zZkhOUkE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "democratswilltakeaimatmedicaidcutsiranwarandtariffsjeffriess",
-   "title": "Democrats will take aim at Medicaid cuts, Iran war and tariffs, Jeffries says - The Washington Post",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4yYXN5UmdKQW5IT2xBNmkySkR2RFBxX2llUFNBX0VNZjQwV0pUdUZtTXZsOUNNZG45T1Y0ZGpRdDVVUVBFRExmQnVUeGVyVUVZcW9HUDZGejVlWm9aZVZyWnR5MTh4ZG1ncWltNjBuM1U3NXR6NzhUVmZNR0V4ZnA5dUhjYmFyQjNJQlo3SVFQNXhLcUR2ak9aOG9oLUFqMmkxaGVvT2pBRWdTOTIzOE9ReVBtMEFrajZNbA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -221,10 +197,35 @@
    "pts": 12
   },
   {
+   "key": "3usdefensestocksworthwatchingasnvidiaquestionshitnationalsec",
+   "title": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security - Yahoo Finance Singapore",
+   "source": "Yahoo Finance Singapore",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45enlWZmZZWjNTXzBGU3NRalZCbTU0dXRPMWdVS3lFbkFuNjJ1REIwVjkyWVFnT1pXYkxUNExnZXlZYmprU2F2UUdTSThCY2NWbzl5bzIzcWxTVHFGRXgtMnlrS1NCVEtSbXBJV0d2Wm1HNHBGNm9CWFZrUHl4MEE?oc=5",
+   "themes": [
+    "defence",
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "denmarkandlithuaniaprocureblockernavalminesfromfinlandisrael",
    "title": "Denmark and Lithuania Procure Blocker Naval Mines from Finland - Israel Defense",
    "source": "Israel Defense",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HUnZPVnNFMDNLR0FxbGhOWnp2MmdHTXVCaWNaZS1zUGhJd0lPdUVkRzlUNlpuT1E5b3YyMXR2b0NxMnltZHlZa25udFBTNjh1WEM0WkpaVEE?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "bangladeshsj10cefighterplancouldstretchindiasairdefencesdefe",
+   "title": "Bangladesh\u2019s J-10CE Fighter Plan Could Stretch India\u2019s Air Defences - Defence Security Asia",
+   "source": "Defence Security Asia",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEdiODJMYUYwWDVaS2JWcHI5MWJ6TDFBTlhmaEdSaURpNEttUDZxZ1RlYVgtTkNEdE1BQVMzQUV6MEhLX0hYSlNUM3A3RnhqZDJvNTVmVWtrMFVCYTRJaTZfRWxhbHJqU1NfU3l0a2ZRLXBSYV9VbVhiRTBBcTdLU2NORUhURVk?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,73 +249,93 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 49
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 49
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 47
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 3162 min old)",
+   "score": 47
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 3162 min old)",
+   "score": 81
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 3162 min old)",
+   "score": 62
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 3162 min old)",
+   "score": 51
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3078 min old)",
+   "why": "stale quote / market closed (last price 3162 min old)",
    "score": 47
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 63
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 28
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 20 min old)",
-   "score": 35
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 56
   }
  ],
  "paper": {
@@ -328,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 11:17 AM AEDT",
+  "last_scan": "Mon 09 Nov 2026 12:42 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
