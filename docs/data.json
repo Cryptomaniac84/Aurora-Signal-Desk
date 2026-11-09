@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 05:48 PM AEDT",
- "fx_audusd": 0.6898,
+ "generated": "Mon 09 Nov 2026 07:15 PM AEDT",
+ "fx_audusd": 0.6888,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "How Democrats will try to end Trump's tariffs - CNBC",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWI0OVBzQ3FYTmpucWxZaDZkeWx4OTY2WDNHX0d1MXJOV0I1dF8tdHN5UkxUYmNTcmQzb1RIVlA2X1dhMU83Nm1uUDBGU0pRYkJQVElmaXV1b1NXMjZPaUs2OWJjd1FKX29aaGxIZXpZd1ZINjQ5Nl9zWDVhS0p2bTVn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "thousandsofontariogoatscouldbeslaughteredduetotrumpstariffsb",
+   "title": "Thousands of Ontario goats could be slaughtered due to Trump\u2019s tariffs - BNN Bloomberg",
+   "source": "BNN Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTJ4VHYwMV9LbFdhV05abVJ4bmthd3BfNlhyanIzWWZsS1dxbF84Z1BPSHZtWVhxRFdLeFQwYWM0WU1hdlQwOTBOOTROWC1RdFF5bnRDc19XRXBMRTNHLWFtaGpzZlkycEVOSzRoOFotRE9vTHNTNUNkdmJhV0NLbEZNR1RmWlRKM1drTmZ0LUJFdHpsUVRTd0dVd01oU25LVERGbV94ejVHRU5RdzZkcnNkR1otd2J3LWRPS1VR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,18 +77,6 @@
    "pts": 22
   },
   {
-   "key": "usdemocratslaunchpushtorepealtrumptariffstargetingcanadafirs",
-   "title": "U.S. Democrats Launch Push to Repeal Trump Tariffs, Targeting Canada First - \uc544\uc2dc\uc544\uacbd\uc81c",
-   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrN2gyZ1piZmNxdkpVZ0tfOW5LeHZudEJ0enNNVGxBSE1mRVdHWkxhTnlMUkplallSZ1ljVmhfMlhZckZ0VW51YzdOTm1oS1RVc0RLTi0yUEJuVTNVYWhnZk9OS00?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "usdemocratspreparelegislativelimitsontrumptariffsthehilluane",
    "title": "US Democrats prepare legislative limits on Trump tariffs \u2014 The Hill - UA.NEWS",
    "source": "UA.NEWS",
@@ -93,18 +93,6 @@
    "title": "Leibowitz: Will the next Congress take aim at Trump's tariffs to address affordability concerns? - Steel Market Update",
    "source": "Steel Market Update",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVmt2Nm1Sd2p4OHJHQXJKSVFBZ0Q3R19PU0RsaWtMam44YXo3YnR3T0M2TVhydDFBcGdhYWUxdXVKNGoweXQ4eTBpdDJtWjBMXzRTUmhaQmZOSkVwZjdVZXU0aWNONl9MRlJNVFJ2XzNrbUFqRXZVUUtrR2JkOUF3dUl0cFRZT2tTYXBTVVN2MEFXNFlpX0dmRXdSdmljVzVfWmY1bFlIellJZDh1YTdtV09fQjM3UnZMWGNlLU5xeHdRaEJaX3U2T1piQWxWRDd4S1N2cW5zNkk0cmNneWNjV05B?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "thousandsofontariogoatscouldbeslaughteredduetotrumpstariffsc",
-   "title": "Thousands of Ontario goats could be slaughtered due to Trump\u2019s tariffs - CTV News",
-   "source": "CTV News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHlxTWphRGF6OTZXNURxSDh2V2F5a093MjU1ZTVRYjRvaVNPWFpjVTZsTmh3MmRkaWtIeHJTRnhyZ2ZZM2Jid05uY2RucmI1Qk51cnotYk4wVWpORU5MR3FIcVVsYUpoR2NfZ0RQQWttMDZFS1BxMy1LMG4tdjQ2WVRMWnYyRUR2UkFaWXRfbGdiSHhSUEJnZ3c4dGdCcWx1d3pneXlJcTFzLTBNNXNv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -131,18 +119,6 @@
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRjhqR0JLM2NaWmk1ekxDTm4xT0ZQcXVhU0hQOFI3c2VOeUxldnRrbENGeUxYRDVQVGpRaEk3cEVBcnhaRjBfT2k5ZUM5bHJ2QTR6bUZ4NmU2R3lwNUtRWmhpVHZvSkw2VDZxNEJoWTJtWGVEak93M19GRUppT3lfUVVBX0NWM0dQblI1M0FrNDd3OGVpYTdJRHJUc1gxMVo0ZUYwTlVtTTR5MHVXaWU0UXROVlhtUWp0VVhvR05NV0FGSXA5LXNDU3kzNGh3MEJoVnQ1U0otVEp3MFh3UmktZjJMWWE2bXhIWS1qLUxFcUt1UENOdlVDTmxISE1WdFVnRHpZ0gGIAkFVX3lxTE1vVHpKa194ZkFXelNwTkdzeF9BUXphS2I0ZTk2UEJZaTFwRW44ZVVwM0IySFNPa1NKcWstUFdyZDVpSVJINzJtVW8zZWdxcWtFNWpGcFk3ZlJNT09GLThnVEJ4LUN5NDhjQ1hSX2pObWFQWkp3ZWk3ZG04NzRsVUZDbnZjQkM0WmlQNW40bUNvMGJUb2JVNGh2ZFNLSmYxc3NuRThMU0YwUHJRV25SaWFUdGh0ZHV6ODZKRVFiZFA0T25ZVGR4VW03aWE2X0psSVhoenM1NXotN2x3LW15NTJ5VzdvempHQVdZXzBYeVdOZU5IYW9Pa2ctSDB4ZW82bWw4NzkzTHBPaA?oc=5",
    "themes": [
     "rates"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "oilextendsslideastrumpcallsnewiranstrikeshighlyunlikelybiggo",
-   "title": "Oil Extends Slide as Trump Calls New Iran Strikes 'Highly Unlikely' - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5faGxBSlJBc0piV2xaRkh1WXBtaVZlRmZKWnd4cjh2dm5MbjVlZUxBQW9RRnJNVi1sbGJpRHYxNUE4X3dwWjRNbnBuMEppMWpqZkZlSmptOFd0am82RklQZVRZelhvd29SUWpGSGstYVhiMHlnOUE?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -197,10 +173,46 @@
    "pts": 12
   },
   {
+   "key": "rheinmetallstrengthensbelgianairdefencerheinmetall",
+   "title": "Rheinmetall strengthens Belgian air defence - Rheinmetall",
+   "source": "Rheinmetall",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzNGa3RSUU8wNVZheUxIdjBXNnVQRlZNamhWNU9wSnRZNzV0a1czQkJXbW4wd256WHRjU0NXOWdsTURvbThtaFJENXR4OXd0d0pfVGM2YzFPaE04UWJLbGdqbmFaTmNxTXFpejIwNnpjd3ZBb0NlZlNXMzNXaXJxTnhzdWxFQkI2QmxGaldCbUdIdG01ME9SNzgxTkYxSF9kMDR2eGl0YkVMQjRhNGdZd0tEZnZvQQ?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "elsightsecuresus1mdefenceordergrafacom",
    "title": "Elsight secures US$1M defence order - grafa.com",
    "source": "grafa.com",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yS3hnb0pyaTNsWTZvUTFRWnIzcWJNTTJNdEYyMlpNVEY1RC1Ed0RScnRQSmFrb2ZYdy02d0pPellUZHFEbmxpTlBtNlItVGg5a0hVS240bUNoTHhScXN2cW1QdUVCczRlMDY0V05qTUhUVDgxNkJFcWZRWQ?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "saabwinsordertoequipswedensnewfrigatesasiapacificdefencerepo",
+   "title": "Saab wins order to equip Sweden\u2019s new frigates - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcEZUSDBpZmhrUWlJcmthRUN3Wi1PRUxlb2trM3JDejNqQUZPV04zWnA3YWFRd1ZFVHlNdkRDb3BfYnZENW00MlU3N1Y1c192bWFfN1JpN01DazQ2bUQyM1psSmJ3dHBzTFQ1cUh6NTVpVVRFbHpmS01YbTdoX2hqOU5jQnQwWUZFY3c5M0EzWU85MHUz?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "cicorsecurestwodefensecontractsworthchf20mlnin2027investingc",
+   "title": "Cicor secures two defense contracts worth CHF 20 mln in 2027 - Investing.com",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3JoaWd4Sml6M3BRU0h1NkRLSTBMRWdSWEMtLVV5RE1lSGVaVUhjRk9RQ2o5bE85aWFVaTZQdEVjMFJTNEhLQU1lZWlZRzBGMm94Y1Z5Q1dESzVlWlBHLUk1eV85V00yYnBDdElONWNEa0ZFMkduQUJEVFlIX2RMUVJvZEJLOFZMTFZHM3VTcWRyMDlZcHpWYlpva3U1RlJkbWtaSjE5eHh0ZERYaEdqeXVHeDVIN2xURlRaSXNjMA?oc=5",
    "themes": [
     "defence"
    ],
@@ -221,22 +233,10 @@
    "pts": 12
   },
   {
-   "key": "nzdffuturearmyplanshiftsdefencespendtodronesandaib2bnews",
-   "title": "NZDF future army plan shifts defence spend to drones and AI - B2B News",
-   "source": "B2B News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2wzeDB2b2hPSDBjajZDRFBBb1NrdFpKTGtNdGFKcjlhcy1rbEpRUDA3TzNOQ2p3ME9ETXRJcjNJcDdjQmF1Qm5DX2VrVVFNRTJCUjBqeTFzeGtnNVhLWmNTSHRDSjRrSE1PNjRkcEtWQndnaDZjeTdTRjhRRXBPYTBrTHhQQnZEU2pUdTlSSXI?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "denmarkandlithuaniaprocureblockernavalminesfromfinlandisrael",
-   "title": "Denmark and Lithuania Procure Blocker Naval Mines from Finland - Israel Defense",
-   "source": "Israel Defense",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HUnZPVnNFMDNLR0FxbGhOWnp2MmdHTXVCaWNaZS1zUGhJd0lPdUVkRzlUNlpuT1E5b3YyMXR2b0NxMnltZHlZa25udFBTNjh1WEM0WkpaVEE?oc=5",
+   "key": "iraqunitedstatesdespitewithdrawalpentagonseekstomaintaininfl",
+   "title": "Iraq, United States Despite withdrawal, Pentagon seeks to maintain influence over Iraqi defence ministry - Intelligence Online",
+   "source": "Intelligence Online",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa1JqQ2l4Y2Z4MzBBRi00eWJ5VWJmd242TmpUQ2lQMDJrUEtjektManlrWVBzdk9uR2xxWGMwRmhCSnVnYjNaWVUtR1A1Q1AtamhaRldzeVpvX2QyMWxDYnpvX1o3NG95emR3UWFzOGtTY3JncVJTdFR6SWhXVC1UOS1nN0xyLWZHVEtWbVR3ckgwU25BSGpweTR0MzJvQlFiTHNsOVlVc3JhUHpjV1NsYkZ2ZVVpaGFVTEFxZmFyb0NiWk1pck42UTBmcV8xN1lCaWoyTGNvNG9UaXJqUDI5NzFSblhYMFU?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,72 +248,72 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3468 min old)",
+   "why": "stale quote / market closed (last price 3555 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3468 min old)",
+   "why": "stale quote / market closed (last price 3555 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3468 min old)",
+   "why": "stale quote / market closed (last price 3555 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3468 min old)",
+   "why": "stale quote / market closed (last price 3555 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3468 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 3555 min old)",
+   "score": 49
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3468 min old)",
-   "score": 42
+   "why": "stale quote / market closed (last price 3555 min old)",
+   "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 96 min old)",
+   "why": "stale quote / market closed (last price 183 min old)",
    "score": 40
   },
   {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 3468 min old)",
-   "score": 57
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 3468 min old)",
-   "score": 57
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 96 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 98 min old)",
-   "score": 57
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3468 min old)",
+   "why": "stale quote / market closed (last price 3555 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3468 min old)",
+   "why": "stale quote / market closed (last price 3555 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3468 min old)",
+   "why": "stale quote / market closed (last price 3555 min old)",
+   "score": 47
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 3555 min old)",
+   "score": 47
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 3555 min old)",
+   "score": 47
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 183 min old)",
+   "score": 47
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 185 min old)",
    "score": 47
   }
  ],
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 05:48 PM AEDT",
+  "last_scan": "Mon 09 Nov 2026 07:15 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
