@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 08:18 AM AEDT",
- "fx_audusd": 0.6929,
+ "generated": "Tue 10 Nov 2026 09:13 AM AEDT",
+ "fx_audusd": 0.6928,
  "signals": [],
  "events": [
   {
@@ -57,6 +57,18 @@
    "title": "THE WORLD BRACES as Trump\u2019s Canada Tariff Stand-Off Escalates: McGeever - EnergyNow.com",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "wydenaimstoreversemedicaidcutsandendpresidenttrumpstariffsst",
+   "title": "Wyden aims to reverse Medicaid cuts and end President Trump's tariffs - Statesman Journal",
+   "source": "Statesman Journal",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUUwWUlDWUU1RElrc0RxQVlteHc3d2FWNTl0ckdKLVNyclEtWkw2RWFpc3V0WHR4MzZhd0xOM2hYN2E4V0VneW81SDNqdENtTmNMOFg3SGd1eFhhdDBfUzVWbDNfbkRybVZKWU5sX2N6TFAyVFlBUlRHWVcwWjJIcFBYQkxIRHVBMlR4V29fYnFLYlpPT0s5MlhGZjBMbElEdzRxN0tMMEp2UUpld0lhdDRoZElobEpI?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,18 +161,6 @@
    "pts": 22
   },
   {
-   "key": "chinaextendspauseonustariffsandtradecurbsfortwomonthsbloombe",
-   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow",
    "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows - Reuters",
    "source": "Reuters",
@@ -168,6 +168,18 @@
    "themes": [
     "energy",
     "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "usfdadeclinestoapprovenovocureslungcancerdevicereuters",
+   "title": "US FDA declines to approve Novocure's lung cancer device - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVJweGRmRk5ZdlNvRU43VkROdWw3N1JWWmUzZHVMNmxOUGo0TkhwbTNUaUI5clQ5aFFmMTJrd0JSanBVSk1Vci1jaVFNVVhEQ28xVUpNRmQwTFZPQTJ0bjFWZXkxTE90UVpGSW5ISXRCZm9UNFhWbzV2T2o0dWVjZUk3TDM5MnJlNXMweXpKNFFXUHlFSVNxcXZ4SHVSYjdaVXNMSHJBSWk?oc=5",
+   "themes": [
+    "pharma"
    ],
    "trump": false,
    "trusted": true,
@@ -189,7 +201,7 @@
    "key": "eventhisbluewaveprobablywontwashtariffsawaythehill",
    "title": "Even this blue wave probably won\u2019t wash tariffs away - The Hill",
    "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Zi02OTQzOHlXQ0kxRVFMbk1rREp0RlhKRFNrNFluMEY4empWb0VTZktsNVU5U3VES2JfdmJPemJ5ek4waGVQR2RSVFBfdUxYV1pjZVVPeVJkOHhWbGZ1Y3RkZHZ5M3BDTFp4LTA4VnlsUjlQM2ljT3VJcGw5dTTSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVBBc1dnQnZFb3JnNklfbm9nVHZTQWpGeVp3WWNqd2VteXlCcmxudHNHSGFzNllIQkhBeWtMZ1ktanZpM05VS0tabldFdFdvVmQwRWc5RzJHYW1Sb0E5N3laOFFjYThvSmg4VVcwUGZ0YVptNEZoMmp6b05Odm9FdTV5TEfSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -210,34 +222,22 @@
    "pts": 12
   },
   {
+   "key": "airbustodelivernextgenerationmilitaryearthobservationsatelli",
+   "title": "Airbus to deliver next-generation military Earth observation satellites - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWkNoMm03RndWaF90NkhyLTFVZG93NFp5SFZnSG52dUlTajhtTEliTkZadlA3bnNJT1lxS0FzM0N6NkNjbkRnTlp5bGtYdzNobzNxc0RlMndvNUpZRW5DQnVFSDFyTlhKVFVqWTd3QlhjY2sxZFd3QnZiZFlCRGxYaHBRXzhyVmVJWGVzTTNWYzhTZXVoRV9BRHB1cFpSS3NTSXAxeFBoaXhycGNXVGFzeA?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "eossecurescounterdronedefencesystemscontractwithmiddleeastar",
    "title": "EOS secures counter-drone defence systems contract with Middle East armed forces customer - Defence Connect",
    "source": "Defence Connect",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjl5bDg2ai1RbDJJNTB5aWFITDJPOWRwaWEzRzRRbHotREFXVjNNQmd5VzNVSDBRM2ZMaDNRSlh4b3VXaHJDQkw5bWlpLXc4c3dmNmYyY25GbllGRlY4a1cxMFY5V2VmZXJYYzdOQW5Nd1I5ejh3THdwZTJmYVQtYU15TnluZ2R4VllFenhpbzhHaXc5SHl5dGFRTE5YWkwxTjJxTWdYM3VJMUVtZThLOHhqXzJ6M0Q1MFZkYXQ4MDlTZ2hjMm53MjhZWHloRUQyVXZZdw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "dgaawardsirisprogrammecontracttoairbusdefenceandspacethalesa",
-   "title": "DGA Awards IRIS Programme Contract To Airbus Defence And Space, Thales Alenia Space - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdWI0TEhtMmRGMXR0MW1jaEVmSlNSTVZaVHJkWU00S0VEYlpoalk5OEZRakl1TFpSWlllaFRTd1dPSDB2LWt6OHZlUEJKN0g5MlJ3WnBHTGRObG9XYzQyblJpTnVURS1YU19DRnM4VGNVOUptSE9xQUtxQWJlZGNReUpiT2ZLQjZnZnJOLTEzWFZZelhaUWZYUnpJaDdKeGRwVkJJUTZrTGNfa0pjdzVuelk2NFFIaWFma2FRbGVhMHM4aXp6RXdJQm8ta1VkYlRNWVhwSnZzaWZTdldTVUhzX1RwVkQ0ZVU?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "rheinmetalltosupply20skyranger30airdefencesystemstoprotectbe",
-   "title": "Rheinmetall to supply 20 Skyranger 30 air defence systems to protect Belgium\u2019s critical infrastructure - Defence Industry Europe",
-   "source": "Defence Industry Europe",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTljZE4tZVdFdlVIOFVFMnFncFljemlkUTNFOHdHdklVRWk2VWNqZ1F1eHVxbTBQVlhiMHI3dEtSU0ZtWVpmdjVjSUR6V0JQQVRHRnlhUHRoWDFYZFI4Y0JGSkVQaVpxRDItQTBXOGdXUmluZENRR0ZQQTRkSS1ZREpqOGhtUXExLVZtVDA2V3h3NEgtbGU2Y25GZ2tFRHJ0blRKM1NZaWY3OTRQLVp0TzVHU0lHUEExLWFRUFhiZG9lbDk2aXJiU0Vn?oc=5",
    "themes": [
     "defence"
    ],
@@ -249,72 +249,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (1.4x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 89
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.9x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 51
   },
   {
    "sym": "XLE",
-   "why": "reward/risk after costs only 0.02",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "reward/risk after costs only -0.48",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 100
   },
   {
    "sym": "XOM",
-   "why": "reward/risk after costs only 0.18",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 53
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 966 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 968 min old)",
+   "why": "stale quote / market closed (last price 1023 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.8x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 42
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.3x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 966 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 40
   },
   {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 61
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 55
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 43
+  },
+  {
    "sym": "LMT",
-   "why": "position size under 1 share",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 39
   },
   {
    "sym": "NOC",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 62
   }
  ],
@@ -329,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 08:18 AM AEDT",
+  "last_scan": "Tue 10 Nov 2026 09:13 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
