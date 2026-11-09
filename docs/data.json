@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 12:43 AM AEDT",
- "fx_audusd": 0.6898,
+ "generated": "Tue 10 Nov 2026 01:39 AM AEDT",
+ "fx_audusd": 0.6902,
  "signals": [],
  "events": [
   {
@@ -21,6 +21,18 @@
    "title": "Southeast Asia rides out the return of Trump\u2019s tariffs - East Asia Forum",
    "source": "East Asia Forum",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "midtermvotersdisapprovedoftrumpstariffsandimmigrationpolicie",
+   "title": "Midterm Voters Disapproved Of Trump\u2019s Tariffs And Immigration Policies - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,36 +101,24 @@
    "pts": 22
   },
   {
-   "key": "democratstakeaimattrumpstariffsbutarollbackfacesavetowallfir",
-   "title": "Democrats take aim at Trump\u2019s tariffs, but a rollback faces a veto wall - Firstpost",
-   "source": "Firstpost",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "chinaextendsustarifftrucebytwomonthskeeps10dutiesinplaceahea",
-   "title": "China Extends US Tariff Truce by Two Months, Keeps 10% Duties in Place Ahead of Trump-Xi Meeting - Benzinga",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaExQcVpSc1VYMGtIa2tZNkxtMzlRVm12UFRVeURvZmhWd1lMWVNkblZzZ0d0VGkwWUdIUkxRbzhCdDhVRU9pVjlBZjBHbjduc3llMW10X1loUUxoV0w5Um5BMm5Gc3B4ZXRHbVdPZ2stNWFsN0pjdFFDY3NlOWV2TW9Qb3BVTVJPUFVoQlpzUWZYQTJSaXNNdGlEU1hDN1NEM3pXY20wM0dCaW4wcll5bndfb0k0MnFVYXd6VHNSdUNycXVfT2NrSHRLMmJmdHNPNUMyallPYTBONFFJdW9USEVDM2NzRmVVNnB6SC1uOHBCSDlXR3BB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "therewillbenoicetexasbreakswithdcfedagentsexecutiveorderbyho",
    "title": "'There Will Be No ICE...': Texas \u2018BREAKS\u2019 With DC Fed Agents; Executive Order By Houston Jolts Trump - The Times of India",
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRjhqR0JLM2NaWmk1ekxDTm4xT0ZQcXVhU0hQOFI3c2VOeUxldnRrbENGeUxYRDVQVGpRaEk3cEVBcnhaRjBfT2k5ZUM5bHJ2QTR6bUZ4NmU2R3lwNUtRWmhpVHZvSkw2VDZxNEJoWTJtWGVEak93M19GRUppT3lfUVVBX0NWM0dQblI1M0FrNDd3OGVpYTdJRHJUc1gxMVo0ZUYwTlVtTTR5MHVXaWU0UXROVlhtUWp0VVhvR05NV0FGSXA5LXNDU3kzNGh3MEJoVnQ1U0otVEp3MFh3UmktZjJMWWE2bXhIWS1qLUxFcUt1UENOdlVDTmxISE1WdFVnRHpZ0gGIAkFVX3lxTE1vVHpKa194ZkFXelNwTkdzeF9BUXphS2I0ZTk2UEJZaTFwRW44ZVVwM0IySFNPa1NKcWstUFdyZDVpSVJINzJtVW8zZWdxcWtFNWpGcFk3ZlJNT09GLThnVEJ4LUN5NDhjQ1hSX2pObWFQWkp3ZWk3ZG04NzRsVUZDbnZjQkM0WmlQNW40bUNvMGJUb2JVNGh2ZFNLSmYxc3NuRThMU0YwUHJRV25SaWFUdGh0ZHV6ODZKRVFiZFA0T25ZVGR4VW03aWE2X0psSVhoenM1NXotN2x3LW15NTJ5VzdvempHQVdZXzBYeVdOZU5IYW9Pa2ctSDB4ZW82bWw4NzkzTHBPaA?oc=5",
    "themes": [
     "rates"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "factcheckdidchuckschumercoordinatewithopectoblametrumpforris",
+   "title": "Fact Check: Did Chuck Schumer coordinate with OPEC to blame Trump for rising gas prices? - MEAWW News",
+   "source": "MEAWW News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2xMYmx3XzJiUW9zaE50X3V1bEdUQlBZNmxkSGlFd05JdnBKUXBkOWdfb1NDQm12anFNU1lmbl90U3B0ZW5HTDZHN3VOT2szeHhibnBpOWgyQjNoZEVleW5CSnNIMGlHUkh0U1dnZUdFc1pWMWlkOU5NajNjaHlxTHZxWlk2YTMtUmJ5N1FWTHhZREdjYl9Ya2YwT3gySV9GWXUzNldGWXVEclNRR1E?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -161,6 +161,18 @@
    "pts": 12
   },
   {
+   "key": "eossecurescounterdronedefencesystemscontractwithmiddleeastar",
+   "title": "EOS secures counter-drone defence systems contract with Middle East armed forces customer - www.defenceconnect.com.au",
+   "source": "www.defenceconnect.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjl5bDg2ai1RbDJJNTB5aWFITDJPOWRwaWEzRzRRbHotREFXVjNNQmd5VzNVSDBRM2ZMaDNRSlh4b3VXaHJDQkw5bWlpLXc4c3dmNmYyY25GbllGRlY4a1cxMFY5V2VmZXJYYzdOQW5Nd1I5ejh3THdwZTJmYVQtYU15TnluZ2R4VllFenhpbzhHaXc5SHl5dGFRTE5YWkwxTjJxTWdYM3VJMUVtZThLOHhqXzJ6M0Q1MFZkYXQ4MDlTZ2hjMm53MjhZWHloRUQyVXZZdw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "rheinmetalltosupply20skyranger30airdefencesystemstoprotectbe",
    "title": "Rheinmetall to supply 20 Skyranger 30 air defence systems to protect Belgium\u2019s critical infrastructure - Defence Industry Europe",
    "source": "Defence Industry Europe",
@@ -173,22 +185,10 @@
    "pts": 12
   },
   {
-   "key": "saabwinssek2billioncontractforswedensnewfdifrigatesnordicdef",
-   "title": "Saab wins SEK 2 billion contract for Sweden\u2019s new FDI frigates - Nordic Defence Sector",
-   "source": "Nordic Defence Sector",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEJSYVdvSXhoMW81VGhLZlJLWEhYZWJ5ZVRnYkFkLS1aVzlvTExuS0c5R096SXUxUkFYdzJibjFUdzBGTFhpek9nSFZkOE1ubXhScnpNdWhWUGYtWWxFSkNoRFF5Z3hFRGFZb2ludmVGT1hVMHkyQ2NXQjJjWC1scWpaSlFYaXFkS3c0N0ZBOTQ4NXpZaXVLejhmX2pjS1d4cGZVNFFPRQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "rheinmetalltodeliverskyrangerairdefencesystemstobelgiumfroml",
-   "title": "Rheinmetall to deliver Skyranger air defence systems to Belgium from late 2028 - Belga Share",
-   "source": "Belga Share",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3ZVdHd2ZWdIMTN1M1VfMVFjMFVnbDNpb0FuWGhEUDNLNm5RdmJqT1d5QzY0N0FkVUQ2UGx3NW1LQkQzajU2Q0JFRkxmOXJMRklhQXBkX2RmWVBCaHVvLV9BLWo1ZmxVVU1reWZ5bm9SU3FTUUpCc2ViTHYtNmJqNEhuVXItTFcybWhHb285c3Bvbl9LcnozMGFSQ3Q4a2l0bFdsWDl5MXQ4SVo3X21IbG1ZcDc0dlBnX1U0Q013LUw5eEp6TG9ORzJPR1VkYzNBRFRkZFVTNkJaeVli?oc=5",
+   "key": "mtiwirelessedgerevenuerises9asdefenceordersandwatermanagemen",
+   "title": "MTI Wireless Edge revenue rises 9% as defence orders and water management demand boost growth - Yahoo Finance UK",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb2lZSjBWcElqQVRuZnVHVWk3bVdDdHA3LVBNaDlEOFAzNlJkUm11LUtGT2pISjY2N1loM19VZ2ZYLTJWRTk3RkI0Wlh1VGFjOEdHV1U3MGRYMndVQUtvbFlKMUZfSmxvcmhKcklmOEVTbzhiblpGcVoyRkVoUWVUVi1zTFIxV3M?oc=5",
    "themes": [
     "defence"
    ],
@@ -221,10 +221,10 @@
    "pts": 12
   },
   {
-   "key": "mtiwirelessedgerevenuerises9asdefenceordersandwatermanagemen",
-   "title": "MTI Wireless Edge revenue rises 9% as defence orders and water management demand boost growth - Yahoo Finance UK",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb2lZSjBWcElqQVRuZnVHVWk3bVdDdHA3LVBNaDlEOFAzNlJkUm11LUtGT2pISjY2N1loM19VZ2ZYLTJWRTk3RkI0Wlh1VGFjOEdHV1U3MGRYMndVQUtvbFlKMUZfSmxvcmhKcklmOEVTbzhiblpGcVoyRkVoUWVUVi1zTFIxV3M?oc=5",
+   "key": "elsightsecuresus1mdefenceordergrafacom",
+   "title": "Elsight secures US$1M defence order - grafa.com",
+   "source": "grafa.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yS3hnb0pyaTNsWTZvUTFRWnIzcWJNTTJNdEYyMlpNVEY1RC1Ed0RScnRQSmFrb2ZYdy02d0pPellUZHFEbmxpTlBtNlItVGg5a0hVS240bUNoTHhScXN2cW1QdUVCczRlMDY0V05qTUhUVDgxNkJFcWZRWQ?oc=5",
    "themes": [
     "defence"
    ],
@@ -233,10 +233,10 @@
    "pts": 12
   },
   {
-   "key": "elsightsecuresus1mdefenceordergrafacom",
-   "title": "Elsight secures US$1M defence order - grafa.com",
-   "source": "grafa.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yS3hnb0pyaTNsWTZvUTFRWnIzcWJNTTJNdEYyMlpNVEY1RC1Ed0RScnRQSmFrb2ZYdy02d0pPellUZHFEbmxpTlBtNlItVGg5a0hVS240bUNoTHhScXN2cW1QdUVCczRlMDY0V05qTUhUVDgxNkJFcWZRWQ?oc=5",
+   "key": "aselsansigns11billionairdefenseexportcontractoneofitslargest",
+   "title": "ASELSAN Signs $1.1 Billion Air Defense Export Contract, One of Its Largest Single Deals - Envanter Medya",
+   "source": "Envanter Medya",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR29LM0RWUFVfSUhhLVFXdGdsT1RLVUpPRGxYWlc5U18wNE5jN3MxMTIyRGtxYm1pUDdMS0djSmxMUmZ1NjlmXy10ZzJUU3NkN09BSjRSYUhCVkNzTVVKNFZ3ZUExSUIweEpyaWdwWkl0c2Zkd1ZKaHVsZzhVY3BITzdRMUVzWEE?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,73 +248,73 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 100
-  },
-  {
-   "sym": "ITA",
-   "why": "stale quote / market closed (last price 3883 min old)",
+   "why": "price not above VWAP and 20-bar average",
    "score": 65
   },
   {
+   "sym": "ITA",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 68
+  },
+  {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3883 min old)",
+   "why": "price not above VWAP and 20-bar average",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 100
+   "why": "price not above VWAP and 20-bar average",
+   "score": 58
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 49
+   "why": "volume not confirmed (1.2x normal)",
+   "score": 72
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 54
+   "why": "position size under 1 share",
+   "score": 81
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 511 min old)",
+   "why": "stale quote / market closed (last price 567 min old)",
    "score": 40
   },
   {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 47
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 47
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 47
-  },
-  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 47
+   "why": "price not above VWAP and 20-bar average",
+   "score": 56
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3883 min old)",
-   "score": 47
+   "why": "price not above VWAP and 20-bar average",
+   "score": 56
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 511 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 567 min old)",
+   "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 513 min old)",
-   "score": 47
+   "why": "stale quote / market closed (last price 569 min old)",
+   "score": 57
+  },
+  {
+   "sym": "LMT",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 65
+  },
+  {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 68
+  },
+  {
+   "sym": "NOC",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 29
   }
  ],
  "paper": {
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 12:43 AM AEDT",
+  "last_scan": "Tue 10 Nov 2026 01:39 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
