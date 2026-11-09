@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 07:24 AM AEDT",
- "fx_audusd": 0.6932,
+ "generated": "Tue 10 Nov 2026 08:18 AM AEDT",
+ "fx_audusd": 0.6929,
  "signals": [],
  "events": [
   {
@@ -53,6 +53,18 @@
    "pts": 22
   },
   {
+   "key": "theworldbracesastrumpscanadatariffstandoffescalatesmcgeevere",
+   "title": "THE WORLD BRACES as Trump\u2019s Canada Tariff Stand-Off Escalates: McGeever - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumptariffsandturbulencelessonsforsmootherinvestingstandard",
    "title": "Trump, tariffs and turbulence: lessons for smoother investing - Standard Life",
    "source": "Standard Life",
@@ -89,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "healthcaretariffsbutnottrumpimpeachmentdemocratschartnexttwo",
-   "title": "Healthcare, tariffs \u2013 but not Trump impeachment: Democrats chart next two years of power - The Guardian",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmlpSTJYbzQ2dW1ZQWE4N2d4b3NUaTYyMF9VT01NTW9hVHptZkVKQ2RvbDR3bUZmellvUnk3Mm9vR0lDRkItcFdfVVB3YlJtRHZYMnl4UDFhS2IyX1RfUkJYQV9wYjFrbGFfVDZtYmtsRFRTZDJsMTZTeU5sQnZiR1dFY1JqaFNM?oc=5",
+   "key": "presidenttrumpstariffswereahugemistakerealclearmarkets",
+   "title": "President Trump's Tariffs Were a Huge Mistake - RealClearMarkets",
+   "source": "RealClearMarkets",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeC1UQkt1M2lMdTNYRll3dU43OGR0cjQ1bm9yd3RDNmJZdldkUW5ISkRuRDZ5YVM2dm55cE1ZTFlUZ292cGl4cWJtTnE2V2JOTTM5VlhXLUFKTjd5VlJ2MDNrN1JLMVdCa2Q0SnZhOU9KZG1qdTFMcWdaa3FyMUQwVDA3MVVhUkpfNDdRUFd2M1pVaDB0RGNQMjgxblRNUE5JNzM4?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,6 +137,30 @@
    "pts": 22
   },
   {
+   "key": "fortrumpsfedambitionsademocraticsenateposesthebiggesthurdley",
+   "title": "For Trump\u2019s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet - WSJ",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "chinaextendspauseonustariffsandtradecurbsfortwomonthsbloombe",
+   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow",
    "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows - Reuters",
    "source": "Reuters",
@@ -154,18 +190,6 @@
    "title": "Even this blue wave probably won\u2019t wash tariffs away - The Hill",
    "source": "The Hill",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Zi02OTQzOHlXQ0kxRVFMbk1rREp0RlhKRFNrNFluMEY4empWb0VTZktsNVU5U3VES2JfdmJPemJ5ek4waGVQR2RSVFBfdUxYV1pjZVVPeVJkOHhWbGZ1Y3RkZHZ5M3BDTFp4LTA4VnlsUjlQM2ljT3VJcGw5dTTSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "chinaextendspauseon24ustariffstojanuarykeeps10ratejingdaily",
-   "title": "China extends pause on 24% US tariffs to January, keeps 10% rate - Jing Daily",
-   "source": "Jing Daily",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3ZQT250UGVtU2VKSVZEblQ5OGZpb3hDdmRxSWgtcFJfR0U2cS1zSGpkdnlMcUtWb0Nmb000dkdwWW9uMUtVZnlMV0tQYnN6T3U5M0c0OGkzVTVxaFNOUkVDa0lVdmF1MEpfbkcwSlJQSlVUMDNkaDk4RVQtTi1fb2J4UGhXdlIzdzBWWXlfdzZkVEE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -220,102 +244,78 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "mtiwirelessedgerevenuerises9asdefenceordersandwatermanagemen",
-   "title": "MTI Wireless Edge revenue rises 9% as defence orders and water management demand boost growth - Yahoo Finance UK",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb2lZSjBWcElqQVRuZnVHVWk3bVdDdHA3LVBNaDlEOFAzNlJkUm11LUtGT2pISjY2N1loM19VZ2ZYLTJWRTk3RkI0Wlh1VGFjOEdHV1U3MGRYMndVQUtvbFlKMUZfSmxvcmhKcklmOEVTbzhiblpGcVoyRkVoUWVUVi1zTFIxV3M?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "elsightsecuresus1mdefenceordergrafacom",
-   "title": "Elsight secures US$1M defence order - grafa.com",
-   "source": "grafa.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yS3hnb0pyaTNsWTZvUTFRWnIzcWJNTTJNdEYyMlpNVEY1RC1Ed0RScnRQSmFrb2ZYdy02d0pPellUZHFEbmxpTlBtNlItVGg5a0hVS240bUNoTHhScXN2cW1QdUVCczRlMDY0V05qTUhUVDgxNkJFcWZRWQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "position size under 1 share",
-   "score": 77
+   "why": "volume not confirmed (1.4x normal)",
+   "score": 89
   },
   {
    "sym": "ITA",
-   "why": "reward/risk after costs only -0.07",
-   "score": 85
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 51
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 84
+   "why": "reward/risk after costs only 0.02",
+   "score": 85
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 78
+   "why": "reward/risk after costs only -0.48",
+   "score": 100
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 46
+   "why": "reward/risk after costs only 0.18",
+   "score": 77
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 58
+   "why": "price not above VWAP and 20-bar average",
+   "score": 53
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 912 min old)",
+   "why": "stale quote / market closed (last price 966 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 914 min old)",
+   "why": "stale quote / market closed (last price 968 min old)",
    "score": 57
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 42
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 62
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 912 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 966 min old)",
+   "score": 40
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 66
+   "why": "position size under 1 share",
+   "score": 82
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 49
+   "why": "price not above VWAP and 20-bar average",
+   "score": 39
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 64
+   "why": "price not above VWAP and 20-bar average",
+   "score": 62
   }
  ],
  "paper": {
@@ -329,7 +329,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 07:24 AM AEDT",
+  "last_scan": "Tue 10 Nov 2026 08:18 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
