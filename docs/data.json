@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 09 Nov 2026 07:15 PM AEDT",
- "fx_audusd": 0.6888,
+ "generated": "Mon 09 Nov 2026 08:36 PM AEDT",
+ "fx_audusd": 0.6902,
  "signals": [],
  "events": [
   {
@@ -29,6 +29,18 @@
    "pts": 30
   },
   {
+   "key": "trumptariffsandturbulencelessonsforsmootherinvestingstandard",
+   "title": "Trump, tariffs and turbulence: lessons for smoother investing - Standard Life",
+   "source": "Standard Life",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnpNUkg5YzRGd1dLUUE2S1paMnpfd3hBY2tFLVBpai1NYkNSWk8xM3hUZmllM3RCYmlRQUktQnRITDdyYlRSWG10ZWhWenp3eWVWbnhMMEdhcHVrZW83VGdlbVBPcy1KSC1VUHUwc1E0SXpUVUxTaU5mR3ZyV1ptTzMzeTJyTGtRZTdjSDRMNUdGY041RjNfUUQ5ZzEtMUplRFdCNTB2dWFLM2JVZk5VQVZVMA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "healthcaretariffsbutnottrumpimpeachmentdemocratschartnexttwo",
    "title": "Healthcare, tariffs \u2013 but not Trump impeachment: Democrats chart next two years of power - The Guardian",
    "source": "The Guardian",
@@ -45,6 +57,18 @@
    "title": "EXPLAINED | Democrats Won Congress. Can They Undo Trump\u2019s Tariffs? - Open Magazine",
    "source": "Open Magazine",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGZYSl90RlVnQkVDb0lrNG1kOU5UdnVibHBwYURzbDlVWGpOZzJHbWFTdEREMk0wX05xUjdET21STkM3WGlxVjQwZmJuT3U0WGxJOHExbVNVRGFqYkduWWZNYVpqLTZ5ZkI1RFBUS0lwZWpmbVVUY2ZQa25QcnRtTzJOdUs2VE96bkdkcnhIX2xzQnF5dF9STkJCNA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "usdemocratsmovetoscraptrumptariffsstartingwithcanadaseouleco",
+   "title": "U.S. Democrats Move to Scrap Trump Tariffs, Starting With Canada - Seoul Economic Daily",
+   "source": "Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGNZZFRGX3g3a0VIWlEyS1JQX1pmQjRPcjdzeEh0aHN6SDRNcTU0OVI1eUdOcmY1b1pnY01fQ0l4VDJZMzk5ZGtRTFJVbmdVVGJuMGo2ak0xNjh5Smo2enFiQzNBeUd2MWs1NmF3LS1EN09zLWtNNzdEVldzZC1NdTdYUWRQalhGRGZtSVlQdGx2clU2OW5MdkV3ZFZoU3JJTFJqNQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +101,22 @@
    "pts": 22
   },
   {
-   "key": "usdemocratspreparelegislativelimitsontrumptariffsthehilluane",
-   "title": "US Democrats prepare legislative limits on Trump tariffs \u2014 The Hill - UA.NEWS",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZEFKeVJjRGhncC01WTA4QmFJZW1wZHVCeGJhSWxfc252MFVJMlFKNFVwMXlLeldVTDlYVWg1QmYyME12Si00bXlvdVNOS1V6WFNIRzlOQWliYzJuU1NiNE13QTl1dUVuejQ2TURBSzcyUUZ6QlpkVnZWd0ZSUHdxWFZWMDBZb2Jjakw5cmRucWxnU3M0VEY3eU42M2JnM1dLWU1mU0ZQNA?oc=5",
+   "key": "chinaextendsustarifftrucebytwomonthskeeps10dutiesinplaceahea",
+   "title": "China Extends US Tariff Truce by Two Months, Keeps 10% Duties in Place Ahead of Trump-Xi Meeting - Benzinga",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaExQcVpSc1VYMGtIa2tZNkxtMzlRVm12UFRVeURvZmhWd1lMWVNkblZzZ0d0VGkwWUdIUkxRbzhCdDhVRU9pVjlBZjBHbjduc3llMW10X1loUUxoV0w5Um5BMm5Gc3B4ZXRHbVdPZ2stNWFsN0pjdFFDY3NlOWV2TW9Qb3BVTVJPUFVoQlpzUWZYQTJSaXNNdGlEU1hDN1NEM3pXY20wM0dCaW4wcll5bndfb0k0MnFVYXd6VHNSdUNycXVfT2NrSHRLMmJmdHNPNUMyallPYTBONFFJdW9USEVDM2NzRmVVNnB6SC1uOHBCSDlXR3BB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thousandsofontariogoatscouldbeslaughteredduetotrumpstariffsc",
+   "title": "Thousands of Ontario goats could be slaughtered due to Trump\u2019s tariffs - CTV News",
+   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHlxTWphRGF6OTZXNURxSDh2V2F5a093MjU1ZTVRYjRvaVNPWFpjVTZsTmh3MmRkaWtIeHJTRnhyZ2ZZM2Jid05uY2RucmI1Qk51cnotYk4wVWpORU5MR3FIcVVsYUpoR2NfZ0RQQWttMDZFS1BxMy1LMG4tdjQ2WVRMWnYyRUR2UkFaWXRfbGdiSHhSUEJnZ3c4dGdCcWx1d3pneXlJcTFzLTBNNXNv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,18 +137,6 @@
    "pts": 22
   },
   {
-   "key": "howtrumpstariffsarethreateningtospoilthesuccessofcanadianche",
-   "title": "How Trump's tariffs are threatening to spoil the success of Canadian cheese - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3liMVg4YzN5NkpVb3doZkFZanI1VDJkUVV4clJMdGhZdnVxR05OTWhxYlh5dzltcGY2dnlDbmIyTG5lQUkwUUdqekpLSDhYbC1IZ3RkcUJKZnNtSnlDVzR2aEw0WXA5aTNBMWlsb2Z5dnBPU2lNV0hQWjAzWkJtUEx1QWNkcWZRQkNzb1VB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "therewillbenoicetexasbreakswithdcfedagentsexecutiveorderbyho",
    "title": "'There Will Be No ICE...': Texas \u2018BREAKS\u2019 With DC Fed Agents; Executive Order By Houston Jolts Trump - The Times of India",
    "source": "The Times of India",
@@ -125,8 +149,20 @@
    "pts": 22
   },
   {
-   "key": "chinaextendspauseon24ustariffstojanuarykeeps10ratebloombergc",
-   "title": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate - Bloomberg.com",
+   "key": "factcheckdidchuckschumercoordinatewithopectoblametrumpforris",
+   "title": "Fact Check: Did Chuck Schumer coordinate with OPEC to blame Trump for rising gas prices? - MEAWW News",
+   "source": "MEAWW News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2xMYmx3XzJiUW9zaE50X3V1bEdUQlBZNmxkSGlFd05JdnBKUXBkOWdfb1NDQm12anFNU1lmbl90U3B0ZW5HTDZHN3VOT2szeHhibnBpOWgyQjNoZEVleW5CSnNIMGlHUkh0U1dnZUdFc1pWMWlkOU5NajNjaHlxTHZxWlk2YTMtUmJ5N1FWTHhZREdjYl9Ya2YwT3gySV9GWXUzNldGWXVEclNRR1E?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "chinaextendspauseonustariffsandtradecurbsfortwomonthsbloombe",
+   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
    "themes": [
@@ -173,10 +209,10 @@
    "pts": 12
   },
   {
-   "key": "rheinmetallstrengthensbelgianairdefencerheinmetall",
-   "title": "Rheinmetall strengthens Belgian air defence - Rheinmetall",
-   "source": "Rheinmetall",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzNGa3RSUU8wNVZheUxIdjBXNnVQRlZNamhWNU9wSnRZNzV0a1czQkJXbW4wd256WHRjU0NXOWdsTURvbThtaFJENXR4OXd0d0pfVGM2YzFPaE04UWJLbGdqbmFaTmNxTXFpejIwNnpjd3ZBb0NlZlNXMzNXaXJxTnhzdWxFQkI2QmxGaldCbUdIdG01ME9SNzgxTkYxSF9kMDR2eGl0YkVMQjRhNGdZd0tEZnZvQQ?oc=5",
+   "key": "rheinmetallstrengthensbelgianairdefenceskyrangerairdefencesy",
+   "title": "Rheinmetall strengthens Belgian air defence: Skyranger air defence systems for Belgium \u2013 major contract worth several hundred million euros - EDR Magazine - European Defence Review",
+   "source": "EDR Magazine - European Defence Review",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWHZReU9xTnFUaGJtdjJ1VWtyU0o0cFZjNFotRjJKRHFBQlJESm5iYnVTTDhnZE8yX3p6cVhUd3Z6eDZ2NlVWQk11eGtvYlZvZThHanlZanYteWV2U21aQkVHTW54RVJrbVhuZEYyVUpUSVZQWlZ5NDBCRU8yVmxzYXRWUi1ndTBmYnJrdDVPX1Q3ZEZYVnk0aDduSDVaTG82em5oVzg2RWxJdXVEMGFOSHlRZlFBdTFKN0lhV0NVNXU4NmVrV1FwUVNmdjJ5ZW5mR0hxc2NIWXVmckJLWUVWYUZNRTFiS2ZqNlBuaEdiZTRaY1BtR2c?oc=5",
    "themes": [
     "defence"
    ],
@@ -185,10 +221,10 @@
    "pts": 12
   },
   {
-   "key": "elsightsecuresus1mdefenceordergrafacom",
-   "title": "Elsight secures US$1M defence order - grafa.com",
-   "source": "grafa.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yS3hnb0pyaTNsWTZvUTFRWnIzcWJNTTJNdEYyMlpNVEY1RC1Ed0RScnRQSmFrb2ZYdy02d0pPellUZHFEbmxpTlBtNlItVGg5a0hVS240bUNoTHhScXN2cW1QdUVCczRlMDY0V05qTUhUVDgxNkJFcWZRWQ?oc=5",
+   "key": "rheinmetalltosupply20skyranger30airdefencesystemstoprotectbe",
+   "title": "Rheinmetall to supply 20 Skyranger 30 air defence systems to protect Belgium\u2019s critical infrastructure - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZTljZE4tZVdFdlVIOFVFMnFncFljemlkUTNFOHdHdklVRWk2VWNqZ1F1eHVxbTBQVlhiMHI3dEtSU0ZtWVpmdjVjSUR6V0JQQVRHRnlhUHRoWDFYZFI4Y0JGSkVQaVpxRDItQTBXOGdXUmluZENRR0ZQQTRkSS1ZREpqOGhtUXExLVZtVDA2V3h3NEgtbGU2Y25GZ2tFRHJ0blRKM1NZaWY3OTRQLVp0TzVHU0lHUEExLWFRUFhiZG9lbDk2aXJiU0Vn?oc=5",
    "themes": [
     "defence"
    ],
@@ -197,46 +233,10 @@
    "pts": 12
   },
   {
-   "key": "saabwinsordertoequipswedensnewfrigatesasiapacificdefencerepo",
-   "title": "Saab wins order to equip Sweden\u2019s new frigates - Asia Pacific Defence Reporter",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcEZUSDBpZmhrUWlJcmthRUN3Wi1PRUxlb2trM3JDejNqQUZPV04zWnA3YWFRd1ZFVHlNdkRDb3BfYnZENW00MlU3N1Y1c192bWFfN1JpN01DazQ2bUQyM1psSmJ3dHBzTFQ1cUh6NTVpVVRFbHpmS01YbTdoX2hqOU5jQnQwWUZFY3c5M0EzWU85MHUz?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "cicorsecurestwodefensecontractsworthchf20mlnin2027investingc",
-   "title": "Cicor secures two defense contracts worth CHF 20 mln in 2027 - Investing.com",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3JoaWd4Sml6M3BRU0h1NkRLSTBMRWdSWEMtLVV5RE1lSGVaVUhjRk9RQ2o5bE85aWFVaTZQdEVjMFJTNEhLQU1lZWlZRzBGMm94Y1Z5Q1dESzVlWlBHLUk1eV85V00yYnBDdElONWNEa0ZFMkduQUJEVFlIX2RMUVJvZEJLOFZMTFZHM3VTcWRyMDlZcHpWYlpva3U1RlJkbWtaSjE5eHh0ZERYaEdqeXVHeDVIN2xURlRaSXNjMA?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "aselsansigns11billionairdefenseexportcontractoneofitslargest",
-   "title": "ASELSAN Signs $1.1 Billion Air Defense Export Contract, One of Its Largest Single Deals - Envanter Medya",
-   "source": "Envanter Medya",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR29LM0RWUFVfSUhhLVFXdGdsT1RLVUpPRGxYWlc5U18wNE5jN3MxMTIyRGtxYm1pUDdMS0djSmxMUmZ1NjlmXy10ZzJUU3NkN09BSjRSYUhCVkNzTVVKNFZ3ZUExSUIweEpyaWdwWkl0c2Zkd1ZKaHVsZzhVY3BITzdRMUVzWEE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "iraqunitedstatesdespitewithdrawalpentagonseekstomaintaininfl",
-   "title": "Iraq, United States Despite withdrawal, Pentagon seeks to maintain influence over Iraqi defence ministry - Intelligence Online",
-   "source": "Intelligence Online",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa1JqQ2l4Y2Z4MzBBRi00eWJ5VWJmd242TmpUQ2lQMDJrUEtjektManlrWVBzdk9uR2xxWGMwRmhCSnVnYjNaWVUtR1A1Q1AtamhaRldzeVpvX2QyMWxDYnpvX1o3NG95emR3UWFzOGtTY3JncVJTdFR6SWhXVC1UOS1nN0xyLWZHVEtWbVR3ckgwU25BSGpweTR0MzJvQlFiTHNsOVlVc3JhUHpjV1NsYkZ2ZVVpaGFVTEFxZmFyb0NiWk1pck42UTBmcV8xN1lCaWoyTGNvNG9UaXJqUDI5NzFSblhYMFU?oc=5",
+   "key": "rheinmetalltodeliverskyrangerairdefencesystemstobelgiumfroml",
+   "title": "Rheinmetall to deliver Skyranger air defence systems to Belgium from late 2028 - Belga Share",
+   "source": "Belga Share",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS3ZVdHd2ZWdIMTN1M1VfMVFjMFVnbDNpb0FuWGhEUDNLNm5RdmJqT1d5QzY0N0FkVUQ2UGx3NW1LQkQzajU2Q0JFRkxmOXJMRklhQXBkX2RmWVBCaHVvLV9BLWo1ZmxVVU1reWZ5bm9SU3FTUUpCc2ViTHYtNmJqNEhuVXItTFcybWhHb285c3Bvbl9LcnozMGFSQ3Q4a2l0bFdsWDl5MXQ4SVo3X21IbG1ZcDc0dlBnX1U0Q013LUw5eEp6TG9ORzJPR1VkYzNBRFRkZFVTNkJaeVli?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,72 +248,72 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 49
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 54
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 183 min old)",
+   "why": "stale quote / market closed (last price 264 min old)",
    "score": 40
   },
   {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 3636 min old)",
+   "score": 57
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 3636 min old)",
+   "score": 57
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 264 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 266 min old)",
+   "score": 57
+  },
+  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3555 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3555 min old)",
-   "score": 47
-  },
-  {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 3555 min old)",
-   "score": 47
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 3555 min old)",
-   "score": 47
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 183 min old)",
-   "score": 47
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 185 min old)",
+   "why": "stale quote / market closed (last price 3636 min old)",
    "score": 47
   }
  ],
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 09 Nov 2026 07:15 PM AEDT",
+  "last_scan": "Mon 09 Nov 2026 08:36 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
