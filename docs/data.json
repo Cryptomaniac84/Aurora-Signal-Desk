@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 07:35 AM AEDT",
- "fx_audusd": 0.6869,
+ "generated": "Wed 11 Nov 2026 08:22 AM AEDT",
+ "fx_audusd": 0.687,
  "signals": [],
  "events": [
+  {
+   "key": "whitehousevowstopressaheadwithtariffsdespitemidtermbacklasho",
+   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
    "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
@@ -51,6 +63,18 @@
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "whitehouseisntretreatingontariffsaftermidtermelectionlossesq",
+   "title": "White House isn't retreating on tariffs after midterm election losses - Quartz",
+   "source": "Quartz",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PTkNuUWRrLWhZdTd5QmRGOTNMbGM1aV9xeXN6UVhiR1JtaUNtVUZuV1FZRUllQ01Uai1rNGNZRW9iZk5PREtwR1F0ZFJSV2kyRGRlM3RtR3NxUU9uWVkyOVZJUGhKekh2QUhhMFVFdGljMmYz?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "usborrowingcostsriseatfastestratesincetrumpsliberationdaytar",
@@ -101,60 +125,24 @@
    "pts": 22
   },
   {
+   "key": "wheretrumpgoesnowonthebig3tariffsiranwarimmigrationcbc",
+   "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
    "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
    "source": "EnergyNow",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
    "themes": [
     "energy",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "iftrumpdoesntlisterndougfordtomeetcongressaftermidtermswhboy",
-   "title": "\u2018If Trump Doesn\u2019t Listern\u2026\u2019: Doug Ford To Meet Congress After Midterms; WH Boycott Amid Tariff War - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnBEVDJaNWZ3MXJWbF9HLWJ2dmI3ellTeEE2alUteTJocmpTWXFGU2NiMW9sQTg0alpvczVvVXJONE11bGZMT1JOZGVOdC1PVU9yT2JzTkd2SGp5TzhCSkdFQTdxOFE2NFpiUzI3cUgzVWtUSkY4UjZ2dzlkLVdMS1o1bDIyeU04Qzh3NmV6bWlZVTRNQ2dCZDdIVXVWcHB0Q0h2aEloQWZUc3VrM3JIRFJ0S09qNVBCcU84NUl4WThEa0N0OS1TTHNRQTVHZl90cm52RGt4Q2pIQm9IdFJKZkJiQVRQZERsdHdnaUlHa2J6SkpqTE84QVphV2k5VDdTQ2Jv0gGIAkFVX3lxTE9XSVdleDBrU1ZuZlh2VVoxck1XQnBacHZhbkJiWlJWMEJON2ZHMWVGdzExU3I2NGJibzdKeEoxdjQ3RDVGYzlZSDZTbmx0TXMybUZIVWNQMG9qYmVmOTZDSlNZTnlJbGt1TnlzTnhYeHZuRmZob2drN1cta1ZHWHh6cDBaY2pGUGpwOG04MnE5LXRmMWlTaWdSTk5JRFpDRGc3eWluMmFSYS15cE55Yy0zNkRiOEItMHg0SERLeG04VkQzbFJjeGxudzE2RUZSbG9FS2xaNHhlV0h2bWp2eUJIWm0wb05TejIzdkZXYmhrLUpna0lvZnRtbTVSSzZ3MWRUTTVCc3Fjcg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "carneywelcomesdemocratspushtoendtrumpstariffsoncanadaaftermi",
-   "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - CoastTV",
-   "source": "CoastTV",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOVJ5elkzREJ1ZVNIeHlJZW5acC1QMVN6MGdNcjAwYllIZURNenY4aFV5aTZ2US1QRXNIZnd0MnFrUVNoaW44XzJlQ3R2ckFLck5PT2RDSjFKV094MzJ5VElDMGg0b1pybl8tV1o4bE5UblRXUFJ1SDdiRWxGWVdtMDFyX0FXb3c4c0tVQ1QtLV93LWhrU2JqbUs0UlNHUTVBazhzNUdUU1REaHV5SUkzQ2dPYXhNVjB2UEdBdHN0ZmVxYnNmQjBjblpTMUM3R2xzVEtGRHJqNGJIbzJUWGcwd1pIOTJ6R0Nzb0t6bDJqX3NaUmIyVGRpZV80ejFhNWlKWjNUenVWZ3g?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpadminremainsinterestedinstrategicbitcoinreserveformerwh",
-   "title": "Trump Admin Remains Interested in Strategic Bitcoin Reserve, Former White House Official Claims - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEd4c29mYlhmNFhGRTBVZmUyWlJwLWdiQ2pBLUVXOG5KeEJOY0paRldzalRmMHQzT0d6YjQwWXh5ejE0cXRYQ29fVlQ5UmROeWh2Q0pPSEFFaDZvNjZFYlZna1VPUEp6eWZTYnZ0eG5BSElWOUh0d0NlMktKVGttQnA2RVMzbXZBV3ZaQUdoQnZiM29OSXpOTHZ3UU10bFNNTy14SjNzMGZkRG5KMzJ6dWgxZ0dVZnFYMF9jaFljcDgzbXRCbG92dTNjZDUxbmd4ckEtMWU1NlhLeVdDb1pCc1gtUjZmb0dO?oc=5",
-   "themes": [
-    "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "surrendertoirans7conditionstehranaftertrumpscalltoendwarredi",
-   "title": "'Surrender to Iran's 7 conditions': Tehran after Trump's call to end war - Rediff",
-   "source": "Rediff",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTR0dzZyamJBNWYtT1hMQ3E4NjVWLU5qb3BwNG5zTHNqYXRtVUNYdHFOal9iR3BHc2hLbTlpX1RCSTdYc1d6TVEybFUzZlEwSWtJd3RlTFAzb3F4UGxQMEZIemJ0ei1kdzIwck1uYzJNQldSRmRpcXpKWEVKNF8yRFd1d2lLWkhJZjhSRU12VG5kbEF3Zl9VdmdBQ0FiUGphM194b1hoSWJUMEZoTERtU1BKdW55UU8yLXVfSEhKcWFyRUNtYmJVZUdXVlRCNDBOdUHSAdQBQVVfeXFMTmRjdDFOakRfcHF0RHBqVFpoZTJjRW84UklfZzRUeGdGcE93N2VWdUEzR2llSFhYN3B2amtlZVZtQWg5TkJsV0pqaDRJZFBTWFJ4b3U1RWVPd3o0ZGtGVkdtUENmenNUMmh2c3Z6aEdRVWhRUWdRb1E3YXJiUWlLdGVJZzktR3FWQnlhZFRYRFN5Qk15em5hRDFCdFdTWFlIS3h5TDl1MDFDNmpYeElTYnZaaHE1cWNlSHI5STZQSGN4VXBiVE1DRFZwSHdaWnMxVndVXzA?oc=5",
-   "themes": [
     "geopolitics"
    ],
    "trump": true,
@@ -245,88 +233,100 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "brazilcentralbankchiefsaysitwillkeepfightinginflationwithtig",
+   "title": "Brazil central bank chief says it will keep fighting inflation with tight policy - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjRVZ21Oa2dkREN1TTFCd0oxSkhNbE5rYWk2UkEwYVhISVB0MW1NWGFPbHJqTkh6eUdIM2F1T05NdXQ1YVVtcF8zSHFYRURxdWRvdm1Tajk4LVFweElLS3pTZy1vMTJhQXZYcjU2a0NhVVdBbkdYYlVRYjUtdnpwVXBlZG90Vmw5YU85NnZhZXllazdUbFBZYWg0a1pDNExWcUdWd1VTQTNUNF9sMFlXQUxKMTViRVg0TW1YOUFTYjIwd1JBNnF6NTRjUQ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 81
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 55
   },
   {
    "sym": "ITA",
-   "why": "reward/risk after costs only -0.35",
-   "score": 98
+   "why": "reward/risk after costs only -0.32",
+   "score": 100
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 65
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 54
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 58
+   "why": "price not above VWAP and 20-bar average",
+   "score": 72
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 84
+   "why": "reward/risk after costs only 0.46",
+   "score": 93
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 64
+   "why": "price not above VWAP and 20-bar average",
+   "score": 80
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (1.3x normal)",
-   "score": 61
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 78
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 924 min old)",
+   "why": "stale quote / market closed (last price 971 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 926 min old)",
+   "why": "stale quote / market closed (last price 973 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 79
+  },
+  {
+   "sym": "QQQ",
    "why": "volume not confirmed (0.2x normal)",
    "score": 73
   },
   {
-   "sym": "QQQ",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 72
-  },
-  {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 924 min old)",
+   "why": "stale quote / market closed (last price 971 min old)",
    "score": 73
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 68
+   "why": "score 67 below 70",
+   "score": 67
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 66
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 65
+   "why": "price not above VWAP and 20-bar average",
+   "score": 43
   }
  ],
  "paper": {
@@ -340,7 +340,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 07:35 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 08:22 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
