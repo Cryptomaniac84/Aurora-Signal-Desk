@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 04:17 AM AEDT",
- "fx_audusd": 0.6855,
+ "generated": "Wed 11 Nov 2026 05:08 AM AEDT",
+ "fx_audusd": 0.6857,
  "signals": [],
  "events": [
   {
@@ -33,18 +33,6 @@
    "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "majorityofamericansdisapproveofhowtrumpishandlingtariffsabcp",
-   "title": "Majority of Americans disapprove of how Trump is handling tariffs: ABC/Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkMzY1Y1VTFIRFpldFV5RnctWEZDdnNsemQzUGtvWi1sMEFQZThtYzZvNDRBZk84WkFMQThubmx6aUwycWRsTDI2Zk5MbHRCV3JQUXBCSC0xQTBuMXFRTVVXSWVfQUcxZzQ1LWxvUWNNQmFyQ2ZsNmhnT0FZWmQyajNDOTdRT1lGRXRFWlJERVJiZXl2cHhwLWxZdFp3UFB3NnVnaDc5aWZxbGg3QmxMeUJkNGM0TllBSlE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,6 +101,19 @@
    "pts": 22
   },
   {
+   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
+   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
+   "themes": [
+    "energy",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "carneywelcomesdemocratspushtoendtrumpstariffsoncanadaaftermi",
    "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - CoastTV",
    "source": "CoastTV",
@@ -137,10 +138,10 @@
    "pts": 22
   },
   {
-   "key": "endiranwarortackletrumpwhatamericanswantdemocratheldcongress",
-   "title": "End Iran war or tackle Trump? What Americans want Democrat-held Congress to focus on - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV09mc0tlaEI5MUh6UDVTQU45QlpqR1ZTOGpndV92enFmMUh0emw0dDFoeUxIX1FBTXJlRmxTUlVGOE5CZmN1ajB5Z1I0YlEydDExQVN0LXNnSktQQ1ZUS3lGOWZoUDRmMjk2bGlsWGRsNndwcXJwTm5ScDc3b1RqeGRuY3pBX2xQSHNqWUpSR2RaUExwQl9HVEN3OTlaZ2J2NmVtSkszZUtXaE83WUxNbUVBTDEwMEFVNnNmS2dDMFc5TE0zWVZtQl9YUDFWWnd5NmxTMk1xSG5YcU9LNzhvNXlfZk4xQTgyTVE?oc=5",
+   "key": "mostamericanswantnewuscongresstoendtrumpsiranwarrepealtariff",
+   "title": "Most Americans want new US Congress to end Trump\u2019s Iran war, repeal tariffs: Survey | World News - Hindustan Times",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNREQ4UFFMXzBNT3ZDRXp4TkhrRkxqLWRiYVJrdFV3S3ltR3RmVTQwUUlsRmhyNjZlS3BmMzQ1aVI2NnZoYWItUlZUWWtiTWpmakpTNEFuVDNfZkFvZjhBMF9TTWtJRERZX1BLZ25CX29fYllsRVBqY2ZnQk0wWU5MTEswRjhpVGVVcHNUSDcyV0l4VVRxZmo4UmpMQ1RQSnd5M1BZRVF3Q1BZeFRXN2V3dXB2Sm9xRkl6bVhDR0xUZFc2anVPeG0tTWFFY0w2YlJYUXg1R2Z2cTVMZ9IB3wFBVV95cUxPU01leHJlUmo1R1RPUXcydmhZMmNmMTN4OGlYRU1NZ3I0c001TU5Qc2ZQdEdOVklGVnpQaFZLaWN1bVJOX05abDNIejdpS1dOcjBHTllod1d5OFFBRl9wUU5VSUVsWF9TOGk4TDhkTlBjU3JvZnE3ZGNreWVEaGU1QUdBbHUyaTFCa0EtbE9KU3l5YXpudGxRODFvX0JwckotMEthYWlLQW1LVXk2eVBuTEVaSjZYQ1J2V2pLb1liUHZtUkFPWjNfVWVyU2RsQUU5SWp6YU5qeDBTU3Z0SHFv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,10 +150,10 @@
    "pts": 22
   },
   {
-   "key": "trumpadminstarifffreebeefimportshaventloweredpricesmuchtexas",
-   "title": "Trump admin\u2019s tariff-free beef imports haven\u2019t lowered prices much - Texas Standard",
-   "source": "Texas Standard",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EcVdES19LaHpWdXh6WmVkNmJ3aWwzb3VMNW1lY3JhWFhJR1hlbDJUVEtYcUVHNTlIT2hMNnpaZUVEWHd0Q242NVROcUo5aFNDNTlLdXNWeFZNNzlqQ1hGZVJwaHBVTXJ4M0otejFTWndEbWR3MzZUeGR6X0g?oc=5",
+   "key": "iftrumpdoesntlisterndougfordtomeetcongressaftermidtermswhboy",
+   "title": "\u2018If Trump Doesn\u2019t Listern\u2026\u2019: Doug Ford To Meet Congress After Midterms; WH Boycott Amid Tariff War - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnBEVDJaNWZ3MXJWbF9HLWJ2dmI3ellTeEE2alUteTJocmpTWXFGU2NiMW9sQTg0alpvczVvVXJONE11bGZMT1JOZGVOdC1PVU9yT2JzTkd2SGp5TzhCSkdFQTdxOFE2NFpiUzI3cUgzVWtUSkY4UjZ2dzlkLVdMS1o1bDIyeU04Qzh3NmV6bWlZVTRNQ2dCZDdIVXVWcHB0Q0h2aEloQWZUc3VrM3JIRFJ0S09qNVBCcU84NUl4WThEa0N0OS1TTHNRQTVHZl90cm52RGt4Q2pIQm9IdFJKZkJiQVRQZERsdHdnaUlHa2J6SkpqTE84QVphV2k5VDdTQ2Jv0gGIAkFVX3lxTE9XSVdleDBrU1ZuZlh2VVoxck1XQnBacHZhbkJiWlJWMEJON2ZHMWVGdzExU3I2NGJibzdKeEoxdjQ3RDVGYzlZSDZTbmx0TXMybUZIVWNQMG9qYmVmOTZDSlNZTnlJbGt1TnlzTnhYeHZuRmZob2drN1cta1ZHWHh6cDBaY2pGUGpwOG04MnE5LXRmMWlTaWdSTk5JRFpDRGc3eWluMmFSYS15cE55Yy0zNkRiOEItMHg0SERLeG04VkQzbFJjeGxudzE2RUZSbG9FS2xaNHhlV0h2bWp2eUJIWm0wb05TejIzdkZXYmhrLUpna0lvZnRtbTVSSzZ3MWRUTTVCc3Fjcg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -255,47 +256,47 @@
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 67
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 83
   },
   {
    "sym": "XLE",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 66
+   "score": 81
   },
   {
    "sym": "FXI",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 61
+   "score": 46
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 55
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 63
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.5x normal)",
+   "why": "volume not confirmed (0.4x normal)",
    "score": 48
   },
   {
    "sym": "XOM",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 58
+   "score": 73
   },
   {
    "sym": "CVX",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 58
+   "score": 73
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 726 min old)",
+   "why": "stale quote / market closed (last price 777 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 728 min old)",
+   "why": "stale quote / market closed (last price 779 min old)",
    "score": 92
   },
   {
@@ -306,17 +307,17 @@
   {
    "sym": "LLY",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "score": 72
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 44
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 43
+   "score": 36
   },
   {
    "sym": "QQQ",
@@ -325,23 +326,23 @@
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 726 min old)",
+   "why": "stale quote / market closed (last price 777 min old)",
    "score": 71
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 50
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 37
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 49
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 63
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 48
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 63
   }
  ],
  "paper": {
@@ -355,7 +356,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 04:17 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 05:08 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
