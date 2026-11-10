@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 02:12 PM AEDT",
- "fx_audusd": 0.6923,
+ "generated": "Tue 10 Nov 2026 03:00 PM AEDT",
+ "fx_audusd": 0.6921,
  "signals": [],
  "events": [
   {
@@ -250,97 +250,97 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 63
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 42
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 39
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 373 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 420 min old)",
+   "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 373 min old)",
-   "score": 70
+   "why": "stale quote / market closed (last price 420 min old)",
+   "score": 61
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 70
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 38
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 373 min old)",
+   "why": "stale quote / market closed (last price 420 min old)",
    "score": 62
   }
  ],
@@ -355,7 +355,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 02:12 PM AEDT",
+  "last_scan": "Tue 10 Nov 2026 03:00 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
