@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 05:59 AM AEDT",
- "fx_audusd": 0.6862,
+ "generated": "Wed 11 Nov 2026 06:50 AM AEDT",
+ "fx_audusd": 0.6869,
  "signals": [],
  "events": [
   {
@@ -101,18 +101,6 @@
    "pts": 22
   },
   {
-   "key": "wheretrumpgoesnowonthebig3tariffsiranwarimmigrationcbc",
-   "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
    "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
    "source": "EnergyNow",
@@ -144,18 +132,6 @@
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnBEVDJaNWZ3MXJWbF9HLWJ2dmI3ellTeEE2alUteTJocmpTWXFGU2NiMW9sQTg0alpvczVvVXJONE11bGZMT1JOZGVOdC1PVU9yT2JzTkd2SGp5TzhCSkdFQTdxOFE2NFpiUzI3cUgzVWtUSkY4UjZ2dzlkLVdMS1o1bDIyeU04Qzh3NmV6bWlZVTRNQ2dCZDdIVXVWcHB0Q0h2aEloQWZUc3VrM3JIRFJ0S09qNVBCcU84NUl4WThEa0N0OS1TTHNRQTVHZl90cm52RGt4Q2pIQm9IdFJKZkJiQVRQZERsdHdnaUlHa2J6SkpqTE84QVphV2k5VDdTQ2Jv0gGIAkFVX3lxTE9XSVdleDBrU1ZuZlh2VVoxck1XQnBacHZhbkJiWlJWMEJON2ZHMWVGdzExU3I2NGJibzdKeEoxdjQ3RDVGYzlZSDZTbmx0TXMybUZIVWNQMG9qYmVmOTZDSlNZTnlJbGt1TnlzTnhYeHZuRmZob2drN1cta1ZHWHh6cDBaY2pGUGpwOG04MnE5LXRmMWlTaWdSTk5JRFpDRGc3eWluMmFSYS15cE55Yy0zNkRiOEItMHg0SERLeG04VkQzbFJjeGxudzE2RUZSbG9FS2xaNHhlV0h2bWp2eUJIWm0wb05TejIzdkZXYmhrLUpna0lvZnRtbTVSSzZ3MWRUTTVCc3Fjcg?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpadminremainsinterestedinstrategicbitcoinreserveformerwh",
-   "title": "Trump Admin Remains Interested in Strategic Bitcoin Reserve, Former White House Official Claims - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEd4c29mYlhmNFhGRTBVZmUyWlJwLWdiQ2pBLUVXOG5KeEJOY0paRldzalRmMHQzT0d6YjQwWXh5ejE0cXRYQ29fVlQ5UmROeWh2Q0pPSEFFaDZvNjZFYlZna1VPUEp6eWZTYnZ0eG5BSElWOUh0d0NlMktKVGttQnA2RVMzbXZBV3ZaQUdoQnZiM29OSXpOTHZ3UU10bFNNTy14SjNzMGZkRG5KMzJ6dWgxZ0dVZnFYMF9jaFljcDgzbXRCbG92dTNjZDUxbmd4ckEtMWU1NlhLeVdDb1pCc1gtUjZmb0dO?oc=5",
-   "themes": [
-    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -245,103 +221,127 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "eventhisbluewaveprobablywontwashtariffsawaythewashingtonpost",
+   "title": "Even this blue wave probably won\u2019t wash tariffs away - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUlIdnNleFhkZVBLWDA0bHZsOFhIQ0NWR0F3TktUbUZ0Y3dZOXRFNG51Z0dEcjBkazl3ZzJUZ0FkbFV2VHY1TUNkWFA4cWtXdjNyVWpMUnFIY2NmWlJSYkkyUHRxcmV1c2kxbnZXblh5T2x5MFRiY1RKRGszeEVzS2hTVHFpS2NmemhBRHE2cDhaVEtXTHJsN2VqdXFYRUdyVWxJ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "whatthesenewlyelectedusrepsthinkabouttariffsoncanadacbc",
+   "title": "What these newly elected U.S. reps. think about tariffs on Canada - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwUDZnUVdpVmZVODM2VjhkaU83NWdNV1NERmRsRkR1YzlFYWp0MTVlR2xZZnhST2dOZ1dfRVZyUkdKWXBLVW1OQXYwcVd0aDlEYXlHYjVpNmprUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 60
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 74
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 83
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 81
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 82
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 61
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 75
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 62
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 83
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 56
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 75
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 67
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 879 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 830 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "score": 44
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 72
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 58
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 58
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 42
+   "score": 62
   },
   {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 50
+   "score": 42
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 828 min old)",
+   "why": "stale quote / market closed (last price 879 min old)",
    "score": 71
   },
   {
    "sym": "LMT",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 29
+   "score": 63
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 65
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 64
   }
  ],
  "paper": {
@@ -355,7 +355,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 05:59 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 06:50 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
