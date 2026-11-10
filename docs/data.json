@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 07:49 PM AEDT",
- "fx_audusd": 0.6931,
+ "generated": "Tue 10 Nov 2026 08:46 PM AEDT",
+ "fx_audusd": 0.6917,
  "signals": [],
  "events": [
+  {
+   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
+   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "thenewfaceofamericanpopulismrebukestrumpstariffsbloombergcom",
    "title": "The New Face of American Populism Rebukes Trump\u2019s Tariffs - Bloomberg.com",
@@ -53,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "whycanadashouldntcountondemocratstorepealtrumpstariffsthehub",
-   "title": "Why Canada shouldn\u2019t count on Democrats to repeal Trump\u2019s tariffs - The Hub | More Signal. Less Noise.",
-   "source": "The Hub | More Signal. Less Noise.",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2lkSF9xSnI1TDN3cmpqQXNzQXVraVR3M1BGZnNZeUZ4bGJkRmg4TUJ3RGJxX1E2QzhUY2pkTDh6WVBZQndsNjVUUVdrOERleUR1ZVYxRUR6R1paTzl3ZlQ0UDNoUGtjTFcyMzRadklpQV9DNlVOMTdOQlJVdkNERk9ocUhudGJsS3A1M3kzUVVDQ3N1Y3RJcw?oc=5",
+   "key": "healthcaretariffsbutnottrumpimpeachmentdemocratschartnexttwo",
+   "title": "Healthcare, tariffs \u2013 but not Trump impeachment: Democrats chart next two years of power - The Guardian",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmlpSTJYbzQ2dW1ZQWE4N2d4b3NUaTYyMF9VT01NTW9hVHptZkVKQ2RvbDR3bUZmellvUnk3Mm9vR0lDRkItcFdfVVB3YlJtRHZYMnl4UDFhS2IyX1RfUkJYQV9wYjFrbGFfVDZtYmtsRFRTZDJsMTZTeU5sQnZiR1dFY1JqaFNM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "canadaurgedtorampupusoutreachasdemocratstargettrumpstariffsc",
-   "title": "Canada urged to ramp up U.S outreach as Democrats target Trump's tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVDVCTnhVNjNIZUJFUXB0NWlZUG10US1wODQxY0JqS1gzN0RVUnlidlpEZVRWRzVvLVNOWnNsX2R2dnYyOUNjWHlVY3RfcUV4cHZTaU8xU29qZw?oc=5",
+   "key": "whycanadashouldntcountondemocratstorepealtrumpstariffsthehub",
+   "title": "Why Canada shouldn\u2019t count on Democrats to repeal Trump\u2019s tariffs - The Hub | More Signal. Less Noise.",
+   "source": "The Hub | More Signal. Less Noise.",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2lkSF9xSnI1TDN3cmpqQXNzQXVraVR3M1BGZnNZeUZ4bGJkRmg4TUJ3RGJxX1E2QzhUY2pkTDh6WVBZQndsNjVUUVdrOERleUR1ZVYxRUR6R1paTzl3ZlQ0UDNoUGtjTFcyMzRadklpQV9DNlVOMTdOQlJVdkNERk9ocUhudGJsS3A1M3kzUVVDQ3N1Y3RJcw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +101,47 @@
    "pts": 22
   },
   {
+   "key": "canadaurgedtorampupusoutreachasdemocratstargettrumpstariffsc",
+   "title": "Canada urged to ramp up U.S outreach as Democrats target Trump's tariffs - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVDVCTnhVNjNIZUJFUXB0NWlZUG10US1wODQxY0JqS1gzN0RVUnlidlpEZVRWRzVvLVNOWnNsX2R2dnYyOUNjWHlVY3RfcUV4cHZTaU8xU29qZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
    "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "nvidiastocktradesatwidestgapversus200dayaveragesincetrumpsta",
+   "title": "Nvidia Stock Trades at Widest Gap Versus 200-Day Average Since Trump's Tariffs Rout - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDJvTWVVSEtHZE5QNWxXeG9iUTFIV25XNlFPek0wUkxzTS1FS294bkg1QkxzX2ZSTUVPMGl5bkU4czlJWG5fLUZKTWlOc3dZSnVnajRvQjdLWkZhNW9HWnliVkZiaFRmU25STEhMMGNjVVAxMGJnVTB2QjJhZEdXLTRvVVp2TlZKTHpoUkxoUkQ2SGJ5Mm1nbVpsaU5Gek1KeUc5a2VhOE9ZYXFJYnFZZlM3d1VKaHAwMEptN0ZTTXBaclpTZWtjVVNZTzF4X3hwdFpZV2NDdEY?oc=5",
+   "themes": [
+    "semiconductors",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "theworldbracesastrumpscanadatariffstandoffescalatesmcgeevere",
+   "title": "THE WORLD BRACES as Trump\u2019s Canada Tariff Stand-Off Escalates: McGeever - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -196,156 +245,107 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "chinaextendspauseonustariffsandtradecurbsfortwomonthsbloombe",
-   "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow",
-   "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "usfdaapprovesbayersbloodthinnertopreventrepeatstrokesreuters",
-   "title": "US FDA approves Bayer's blood thinner to prevent repeat strokes - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHJCUkhIWXpORTZiYTc3dUdIdDkyVXJQc2EzODlZTWxkNmFJTUdrVURGcUpudHEwdWdjaFdZcXNMRjNZTTFndDliUnZ4NXpOZE5NWUFxNV9PMWtocVYycERIaEFLUnRDVS1NRGkwQURkU2tDOXBhNVg4VkRoYzFrUFVySnZ3b1dGRXJ4c0Y0MktBb2lFSGVHWXAyM25vNlpZUlUycGdpVzhoQ29WZjJOZ05B?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "norwaycorepricescoollikelyreducingpressureforratehikebloombe",
-   "title": "Norway Core Prices Cool, Likely Reducing Pressure for Rate Hike - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnVnT2xLMHJZQ2hCWGFsUjN4bVB2U0k4SXBLdHZXcm02a0Rrdm9xWTlMQTJPMEVRamp1NkJlclNDN2FfVENIcjBWQlNSTjhuRGNyNGlrQUhmZjhFenJQU2N5TXdIbEFZYkxLRkRuLXZyczU1Nk5OREs5bFlwWDdqMGlxdWZYSGo4eVliaWJWQjNzXzIwNWdfM3M5alpNWUhpNllNZkE0clc0ZzhmUWpmRGFyWQ?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 63
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 767 min old)",
+   "score": 75
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 767 min old)",
+   "score": 69
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 767 min old)",
+   "score": 69
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 767 min old)",
+   "score": 57
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 217 min old)",
+   "why": "stale quote / market closed (last price 275 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 219 min old)",
+   "why": "stale quote / market closed (last price 277 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 709 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 767 min old)",
+   "score": 56
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 709 min old)",
-   "score": 63
+   "why": "stale quote / market closed (last price 767 min old)",
+   "score": 72
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 217 min old)",
+   "why": "stale quote / market closed (last price 275 min old)",
    "score": 73
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 709 min old)",
-   "score": 55
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 709 min old)",
-   "score": 67
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 709 min old)",
-   "score": 67
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 709 min old)",
-   "score": 66
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 709 min old)",
+   "why": "stale quote / market closed (last price 767 min old)",
    "score": 55
   }
  ],
@@ -360,7 +360,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 07:49 PM AEDT",
+  "last_scan": "Tue 10 Nov 2026 08:46 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
