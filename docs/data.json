@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 08:46 PM AEDT",
- "fx_audusd": 0.6917,
+ "generated": "Tue 10 Nov 2026 09:45 PM AEDT",
+ "fx_audusd": 0.6912,
  "signals": [],
  "events": [
   {
@@ -17,10 +17,10 @@
    "pts": 30
   },
   {
-   "key": "thenewfaceofamericanpopulismrebukestrumpstariffsbloombergcom",
-   "title": "The New Face of American Populism Rebukes Trump\u2019s Tariffs - Bloomberg.com",
+   "key": "canadaeyesustariffreliefaftertrumpsmidtermelectionlossbloomb",
+   "title": "Canada Eyes US Tariff Relief After Trump\u2019s Midterm Election Loss - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGx0SjB1VGFLZURwRWhwdnMwejlkcXd4TU5mb3pGYlVGcjlTOEhVN3AtMTUwQkF3dG1iY2ZyNVlGektZMUJ5aVNXMGpGRGpEVTY0NHdLNFF3aldteVpwV0t4SHp2bHMzY1VHNTdMYnR5MF9NbjJuTFJ2NHExS1NadGVhbHlOVDFWcHRJa24wOHA5TTA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2xjNndZRENsWHRpSl9wNm9ZZktQV3dwaU5SamtHYlF1TnZNNHFBZFA3Qk5peFRuZTlRbTEwd203ekRCUXVxLVIxdW5RcThOajJmcVhQS21qWE8wamJLRERLcWQtZXRmVFBkZER4UjFmSVBZXzQzaTdoLXJIcFpXeXhBT3dHclFNVjVXd1Noc3dpeUdFd08wWUc3TGl5Tk0xdzZ4cFZMNE1lWWJIRnNEc204NkJrdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,18 +41,6 @@
    "pts": 30
   },
   {
-   "key": "midtermvotersdisapprovedoftrumpstariffsandimmigrationpolicie",
-   "title": "Midterm Voters Disapproved Of Trump\u2019s Tariffs And Immigration Policies - Forbes",
-   "source": "Forbes",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "southeastasiaridesoutthereturnoftrumpstariffseastasiaforum",
    "title": "Southeast Asia rides out the return of Trump\u2019s tariffs - East Asia Forum",
    "source": "East Asia Forum",
@@ -65,10 +53,58 @@
    "pts": 22
   },
   {
+   "key": "wheretrumpgoesnowonthebig3tariffsiranwarimmigrationcbc",
+   "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "midtermvotersdisapprovedoftrumpstariffsandimmigrationpolicie",
+   "title": "Midterm Voters Disapproved Of Trump\u2019s Tariffs And Immigration Policies - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptradeadvisersayswearequadruplingdownontariffsafterthego",
+   "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household - 24/7 Wall St.",
+   "source": "24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUJkNl82QWdTaU0zSFpYb3o1Ym9HdDB6YzVtaEpoNFRGeDlKVVFMbFZuRVh2T2d4a2tGbUZUSEJoU0VBSEVnamVCWlpUdWhPaDYxMXZtOXFlbUR6Y01sdWxiZGczUlVwaHJlbERkLTNZUHlnTTNDSFZPNnptY28zQ1RDQzlKalBHY181S3hhX0dMdXo0T2pfb2VVNXE4VHQ4RjNOWDVRVG50UkI3VjROWnVvOWgzYVdLV1V2UXBoZHhIRF9ZSFBxb1BjODFRYmYzb3BxRmpuVWxRWGU3MlpFQmRWWlFnSVBmSnk5Zm13bG1WYXQzdVo1M1d3akR6dDdram9wTlV4X3hnT2ZMNE11STNYNzdsSTVkX2J5LUJ5LU1GaEVoQjJiOHpELTNtWldm?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "healthcaretariffsbutnottrumpimpeachmentdemocratschartnexttwo",
    "title": "Healthcare, tariffs \u2013 but not Trump impeachment: Democrats chart next two years of power - The Guardian",
    "source": "The Guardian",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmlpSTJYbzQ2dW1ZQWE4N2d4b3NUaTYyMF9VT01NTW9hVHptZkVKQ2RvbDR3bUZmellvUnk3Mm9vR0lDRkItcFdfVVB3YlJtRHZYMnl4UDFhS2IyX1RfUkJYQV9wYjFrbGFfVDZtYmtsRFRTZDJsMTZTeU5sQnZiR1dFY1JqaFNM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "statessueoverlatesttrumptariffattemptenergynewstopheadlinesc",
+   "title": "States Sue Over Latest Trump Tariff Attempt - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZFZGNjRycXRRS3BFX1FUMi1VTk5icTlUYlJzWE1JS01NT2NCZl9aajJ6VmtZcElZcGQtekx5SmxkMFA0a0hUamlIUzl4UDhDMGJSTk1JaXhWa19GSnI4RFc1Ull4ZUtkRTV5VUJNRGMwaG90a3BFRFZjVnE1LVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,61 +137,12 @@
    "pts": 22
   },
   {
-   "key": "canadaurgedtorampupusoutreachasdemocratstargettrumpstariffsc",
-   "title": "Canada urged to ramp up U.S outreach as Democrats target Trump's tariffs - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVDVCTnhVNjNIZUJFUXB0NWlZUG10US1wODQxY0JqS1gzN0RVUnlidlpEZVRWRzVvLVNOWnNsX2R2dnYyOUNjWHlVY3RfcUV4cHZTaU8xU29qZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
-   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "nvidiastocktradesatwidestgapversus200dayaveragesincetrumpsta",
    "title": "Nvidia Stock Trades at Widest Gap Versus 200-Day Average Since Trump's Tariffs Rout - TradingView",
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDJvTWVVSEtHZE5QNWxXeG9iUTFIV25XNlFPek0wUkxzTS1FS294bkg1QkxzX2ZSTUVPMGl5bkU4czlJWG5fLUZKTWlOc3dZSnVnajRvQjdLWkZhNW9HWnliVkZiaFRmU25STEhMMGNjVVAxMGJnVTB2QjJhZEdXLTRvVVp2TlZKTHpoUkxoUkQ2SGJ5Mm1nbVpsaU5Gek1KeUc5a2VhOE9ZYXFJYnFZZlM3d1VKaHAwMEptN0ZTTXBaclpTZWtjVVNZTzF4X3hwdFpZV2NDdEY?oc=5",
    "themes": [
     "semiconductors",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "theworldbracesastrumpscanadatariffstandoffescalatesmcgeevere",
-   "title": "THE WORLD BRACES as Trump\u2019s Canada Tariff Stand-Off Escalates: McGeever - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
-   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
-   "themes": [
-    "energy",
     "geopolitics"
    ],
    "trump": true,
@@ -223,6 +210,19 @@
    "pts": 22
   },
   {
+   "key": "oilnewstrumpsirancommentscutwarpremiumasopecoutputrisesfxemp",
+   "title": "Oil News: Trump\u2019s Iran Comments Cut War Premium as OPEC Output Rises - FXEmpire",
+   "source": "FXEmpire",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1FJa1Z6WUYxcnhqZ1ZSWmZOZ3o1aWlxYjNjbGRQelFEQXdNTGxGWEpUUk5kOGo0d04zeU03QnlSRENwczVyNGEwNDlLeThmNkxRaGdlREVDMmI3VGpCbUVIcEF0Z2FycUlGM2lZOEJ4V1VHanllUmtKQ2dxRUNHR1NkTzN2ckY4d01QWERsNFZZUUJ0RW9sc1FGM2pRSl9UVXpWYl90TFVXWDd2UTFRWjdxb0RURFF0?oc=5",
+   "themes": [
+    "energy",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "crudeoilfallsastrumpsignalsnoimmediatemilitaryactionagainsti",
    "title": "Crude Oil Falls as Trump Signals No Immediate Military Action Against Iran - CMB News",
    "source": "CMB News",
@@ -250,102 +250,101 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 63
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 767 min old)",
-   "score": 75
+   "why": "stale quote / market closed (last price 826 min old)",
+   "score": 69
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 69
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 767 min old)",
-   "score": 69
+   "why": "stale quote / market closed (last price 826 min old)",
+   "score": 68
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 275 min old)",
+   "why": "stale quote / market closed (last price 334 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 277 min old)",
+   "why": "stale quote / market closed (last price 336 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 767 min old)",
-   "score": 56
+   "why": "stale quote / market closed (last price 826 min old)",
+   "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 767 min old)",
-   "score": 72
+   "why": "stale quote / market closed (last price 826 min old)",
+   "score": 63
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 275 min old)",
+   "why": "stale quote / market closed (last price 334 min old)",
    "score": 73
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 767 min old)",
-   "score": 55
+   "why": "no quote data"
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 767 min old)",
+   "why": "stale quote / market closed (last price 826 min old)",
    "score": 55
   }
  ],
@@ -360,9 +359,9 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 08:46 PM AEDT",
+  "last_scan": "Tue 10 Nov 2026 09:45 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
-  "quote_errors": 0
+  "quote_errors": 1
  }
 }
