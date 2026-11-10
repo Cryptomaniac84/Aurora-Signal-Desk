@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 01:42 AM AEDT",
+ "generated": "Wed 11 Nov 2026 02:28 AM AEDT",
  "fx_audusd": 0.6875,
  "signals": [],
  "events": [
@@ -137,18 +137,6 @@
    "pts": 22
   },
   {
-   "key": "americansurgenewcongresstoendiranwarandrepealtrumptariffspol",
-   "title": "Americans Urge New Congress to End Iran War and Repeal Trump Tariffs, Poll Finds - Forth.News",
-   "source": "Forth.News",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PMnpIOW1XaE91U0xON1htUFA5RnBZOFFrMzhfT2JOYzdVelRjR1NWbFNSSkgyUXpydUs4NTZlbGhqTGRIZklpNEtHMWQtSXFXV3BXbXFCY0tTZXFCWE10eG5n?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpadminstarifffreebeefimportshaventloweredpricesmuchtexas",
    "title": "Trump admin\u2019s tariff-free beef imports haven\u2019t lowered prices much - Texas Standard",
    "source": "Texas Standard",
@@ -165,6 +153,18 @@
    "title": "Trump says Iran war is militarily \u2018effectively over\u2019 after Qatar PM talks - Arab News",
    "source": "Arab News",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2JLa1U2VHpWaXh0UXNsQXZQYkYzMll3UzhEckZDM0M4NjJOZmFjcmwtOXZ4MjJya0Z0aFpjV0xJN2YzNE9pZnc5dDFEVnpiaDBhNWhkTGZLZmFKSXBsekM0QVJOb2VFRXRQZC1nTVdnNHZKSjFOeW55NXc2NGR1SGU2VVBfY1VzS2pkVzBjSHBsVm5RTUMxSVNLZnpuNmZlSWVhMlRkRHc2R29Odk5NdHo0aTlJSlE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "positivemomentumtowardsendtoiranwartrumpsaysskynews",
+   "title": "'Positive momentum' towards end to Iran war, Trump says - Sky News",
+   "source": "Sky News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1lnQXd4UHRweTlsa3dNd2h6QWM3QkpxWFJqc28yQl9ETlg4MlAyejE2WS0ya0tLSU54NXNrcDJZaVRVWEJMWHFUNm5yTzZjb3YzME9DTElTS2V4ak5qaURNOW5pdWVsa0ZVZUIwc0lta1NtYUMtOG9yZndmTW1nS283blhyNmd3OElMdXF2R0VNdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -250,98 +250,83 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 50
   },
   {
    "sym": "ITA",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 81
+   "score": 62
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 50
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 48
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 51
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 49
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (1.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 48
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 44
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 59
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 616 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 573 min old)",
+   "why": "stale quote / market closed (last price 618 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "LLY",
    "why": "volume not confirmed (0.6x normal)",
-   "score": 66
+   "score": 74
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 38
+   "why": "price not above VWAP and 20-bar average",
+   "score": 48
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 40
+   "why": "price not above VWAP and 20-bar average",
+   "score": 55
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 616 min old)",
    "score": 71
-  },
-  {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 65
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 64
   }
  ],
  "paper": {
@@ -355,7 +340,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 01:42 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 02:28 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
