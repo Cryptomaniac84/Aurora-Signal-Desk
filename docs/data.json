@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 06:54 PM AEDT",
- "fx_audusd": 0.6925,
+ "generated": "Tue 10 Nov 2026 07:49 PM AEDT",
+ "fx_audusd": 0.6931,
  "signals": [],
  "events": [
   {
@@ -29,10 +29,10 @@
    "pts": 30
   },
   {
-   "key": "southeastasiaridesoutthereturnoftrumpstariffseastasiaforum",
-   "title": "Southeast Asia rides out the return of Trump\u2019s tariffs - East Asia Forum",
-   "source": "East Asia Forum",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
+   "key": "midtermvotersdisapprovedoftrumpstariffsandimmigrationpolicie",
+   "title": "Midterm Voters Disapproved Of Trump\u2019s Tariffs And Immigration Policies - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,10 +41,10 @@
    "pts": 22
   },
   {
-   "key": "midtermvotersdisapprovedoftrumpstariffsandimmigrationpolicie",
-   "title": "Midterm Voters Disapproved Of Trump\u2019s Tariffs And Immigration Policies - Forbes",
-   "source": "Forbes",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
+   "key": "southeastasiaridesoutthereturnoftrumpstariffseastasiaforum",
+   "title": "Southeast Asia rides out the return of Trump\u2019s tariffs - East Asia Forum",
+   "source": "East Asia Forum",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -174,6 +174,30 @@
    "pts": 22
   },
   {
+   "key": "crudeoilfallsastrumpsignalsnoimmediatemilitaryactionagainsti",
+   "title": "Crude Oil Falls as Trump Signals No Immediate Military Action Against Iran - CMB News",
+   "source": "CMB News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0JvaFBsWmxpSFpucmxlYlZ1SkpCdVE2U0dJYkl1YTBzN0pkZUdxbGdfOEU0ZXp5UXVwTkZ1aFRwbUFLSlozMWtLV2VjNk9zRm1BZVRxWFRkbXVvMWRZVF82MjZjQ3VsS3E3UmRBVTRlN3VPQTNPcHJCMkM2N3E3NXZjTkVvSWtLYkwyXzRWbGpxRW9YRHNoUkstbzhQUFl5?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "fortrumpsfedambitionsademocraticsenateposesthebiggesthurdley",
+   "title": "For Trump\u2019s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet - WSJ",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "chinaextendspauseonustariffsandtradecurbsfortwomonthsbloombe",
    "title": "China Extends Pause on US Tariffs and Trade Curbs for Two Months - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -221,147 +245,108 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "bojsummarysuggestsgoodchanceofdecemberinterestratehikebloomb",
-   "title": "BOJ Summary Suggests Good Chance of December Interest Rate Hike - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHZjZGpFM0F5YmtCb216cU9MUVpSRUhyelZiemlPT2Z0X3RKM1VVQVgtTmUwRU55aV9yTWxVaXlQUE1qcUt1ZDZNbFhmeVJra1ZGYm9OM19lY1dyZ3A4REFRcnRHRlgyaUtfODlYcXRQWWZQcWtaVEh2cU43TG0wMU1lbFBnemRSTHNGY0RxVkdMS1gzUk0tOGc2UHdCRHlCZFpnRV9VMC1xdVhsMnByc2VCRXE3UQ?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "moonshotrentsnvidiastopaichipsinchinadocumentsshowbloombergc",
-   "title": "Moonshot Rents Nvidia\u2019s Top AI Chips in China, Documents Show - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXFQdXM5NGdadXhNSnRhalRtOE9aSHdPYUNyeWtIam9xZ3JjMEI5cGxyUGpZbXBQamZlY2hxZFdTRC1NbllidG1MdDNpb193bGdmMEpwdGhLMmxLQjVQekZGNEpRY181RkVick94WHlDMTMtblVBaTNWT0tRSkVmNXhlSEZYcFFRTV96WVAzLURWcEo3MGx1RDZFdk1KQ1plTldWdHlxbkdHVlVsX1k0bw?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 63
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 162 min old)",
+   "why": "stale quote / market closed (last price 217 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 164 min old)",
+   "why": "stale quote / market closed (last price 219 min old)",
    "score": 92
   },
   {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 709 min old)",
+   "score": 57
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 709 min old)",
+   "score": 63
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 217 min old)",
+   "score": 73
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 55
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 654 min old)",
-   "score": 55
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 654 min old)",
-   "score": 61
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 162 min old)",
-   "score": 71
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 67
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 67
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 66
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 709 min old)",
    "score": 55
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 654 min old)",
-   "score": 82
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 654 min old)",
-   "score": 47
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 654 min old)",
-   "score": 62
   }
  ],
  "paper": {
@@ -375,7 +360,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 06:54 PM AEDT",
+  "last_scan": "Tue 10 Nov 2026 07:49 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
