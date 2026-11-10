@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 09:08 AM AEDT",
- "fx_audusd": 0.687,
+ "generated": "Wed 11 Nov 2026 09:50 AM AEDT",
+ "fx_audusd": 0.6871,
  "signals": [],
  "events": [
   {
@@ -9,18 +9,6 @@
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
-   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,10 +29,10 @@
    "pts": 30
   },
   {
-   "key": "canadaeyesustariffreliefaftertrumpsmidtermelectionlossbloomb",
-   "title": "Canada Eyes US Tariff Relief After Trump\u2019s Midterm Election Loss - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2xjNndZRENsWHRpSl9wNm9ZZktQV3dwaU5SamtHYlF1TnZNNHFBZFA3Qk5peFRuZTlRbTEwd203ekRCUXVxLVIxdW5RcThOajJmcVhQS21qWE8wamJLRERLcWQtZXRmVFBkZER4UjFmSVBZXzQzaTdoLXJIcFpXeXhBT3dHclFNVjVXd1Noc3dpeUdFd08wWUc3TGl5Tk0xdzZ4cFZMNE1lWWJIRnNEc204NkJrdw?oc=5",
+   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
+   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,12 +41,12 @@
    "pts": 30
   },
   {
-   "key": "trumpmediapostsfirsteverprofitascryptoboostsresultsbloomberg",
-   "title": "Trump Media Posts First-Ever Profit as Crypto Boosts Results - Bloomberg.com",
+   "key": "canadaeyesustariffreliefaftertrumpsmidtermelectionlossbloomb",
+   "title": "Canada Eyes US Tariff Relief After Trump\u2019s Midterm Election Loss - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUtMbUNaWlczemFoS29Da2JYVExFZklvTTJhT0VCSHg0d0lvemtraHlyN1VNdk9Vb2pva2xySUVaOHBEejhpdnZKQ3RCZVJiYXJJYjlKa1pSdWpQQ05Hak5BUnRkNjRGeDhld090S2E0MWhuZHQ0N2xTaHlFX0ltVGFVb09WQ056Q1hDTFhGODZ3WTRnY2tiOTloMTEtNUw0azBMeFluTDV2YVd5VkZ2Rg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2xjNndZRENsWHRpSl9wNm9ZZktQV3dwaU5SamtHYlF1TnZNNHFBZFA3Qk5peFRuZTlRbTEwd203ekRCUXVxLVIxdW5RcThOajJmcVhQS21qWE8wamJLRERLcWQtZXRmVFBkZER4UjFmSVBZXzQzaTdoLXJIcFpXeXhBT3dHclFNVjVXd1Noc3dpeUdFd08wWUc3TGl5Tk0xdzZ4cFZMNE1lWWJIRnNEc204NkJrdw?oc=5",
    "themes": [
-    "crypto"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": true,
@@ -101,10 +89,34 @@
    "pts": 22
   },
   {
+   "key": "trumptradeadvisersayswearequadruplingdownontariffsafterthego",
+   "title": "Trump Trade Adviser Says \u2018We Are Quadrupling Down On Tariffs\u2019 After The GOP Lost Congress. Here\u2019s What Yale Budget Lab Says Tariffs Cost The Average American Household - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdUpNb1RpZy1MdmhadmxMMkxoX0xNVm1GdE1JRmF1OS1EUnVoRVU5RTBZX2w3Vl9nMjFiTFhpcFdBS2lUR2lyMWNjRmM0dTROX0EyakgtcUt6RXJkWU1wU0s5UDh3QVdWc3VwREdIbjFRMjV1VVYtaWcyWXBBaHNFSDJ6TGRvbFpiVnFvcHlFV1V6dXA0VWwwdXRFSlA3TThidEFF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "whitehousetocontinuetariffpolicydespitevoterreactioncnbcuane",
    "title": "White House to continue tariff policy despite voter reaction \u2014 CNBC - UA.NEWS",
    "source": "UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUU4VEJuUXl4MVNOZTVSTGV6bUNLckpxS3NVMU01QUF1TnktYUx0S1c0T2MtZXNDWHF6WlI4WTRENGtsZEw5eFZ4M1VlN3RFTnFnSmMyMjhRWTB1RlRYeTNLbkxEWUpZVXpETFBYZXBmUTRvNmdnRE5HVmdsc29kUHpyMUttM3dPamo5WGM0bGl5UEFnOWNVSHU3ZEhTQnNseWdKd2pQTUdTdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whitmerpressestrumpadministrationontariffsgroceryreimburseme",
+   "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gwRXZpR25fTDZsUDlaYWh6TDh5bWNXd0xuaFh4TDZOaFJycmVkRmhXNnB5RE14YTV6Zm1jclRZX1U2N2xieUN4T0t5d0JjUHhkWHl0Mm54SG9TR2U3N0lqbTdURUZWNjFHMTg3Mm5pWXFrUk5aSWx0NjIwM2FldGM4NElybzE2N0EybFd2Vm9SVDlaTEHSAZsBQVVfeXFMTVJJTTE3V3NVXzNEaHJfYXhVWEJYUWVKVkFSNjhsdll3ZnYwN3dST3haT1pvLWlPUHA5bVFvQjN4VlRSUkdtM0QxdzVjZGJFaEJiSVhQb0JDenFiQ1dJSmQtbEp2SHFSbmkyMy1pWXVfSHp4UkZUOVlVYVhLX0dzUE13ZDhkS2pRQ09aclpMR2lub3UzYWdnQ1FUVVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -129,43 +141,6 @@
    "title": "The Children's Place blames Trump's tariffs as it files for bankruptcy - The Independent",
    "source": "The Independent",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUM1aFRlZi1YdEd2MEJLc2JtUWYtdFZRZng5Y0Q3Q29hbk9NM1h5N1daWTFIa051U0tZTUQ3U0lZYVJKVHI2bkpqd3hKMUI0ZVZWWnYtZ21DUW1lU2w4bmM1NDRjQWx3Wkt2N0hsdnM5Y3BWU2toNnhYZFdCV2dMTVlCdktqcWt3WG9ielJQOEZIRkhWYzVZN2hLd0lELURDbXd1VXZyYlF3UUE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
-   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpadminremainsinterestedinstrategicbitcoinreserveformerwh",
-   "title": "Trump Admin Remains Interested in Strategic Bitcoin Reserve, Former White House Official Claims - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEd4c29mYlhmNFhGRTBVZmUyWlJwLWdiQ2pBLUVXOG5KeEJOY0paRldzalRmMHQzT0d6YjQwWXh5ejE0cXRYQ29fVlQ5UmROeWh2Q0pPSEFFaDZvNjZFYlZna1VPUEp6eWZTYnZ0eG5BSElWOUh0d0NlMktKVGttQnA2RVMzbXZBV3ZaQUdoQnZiM29OSXpOTHZ3UU10bFNNTy14SjNzMGZkRG5KMzJ6dWgxZ0dVZnFYMF9jaFljcDgzbXRCbG92dTNjZDUxbmd4ckEtMWU1NlhLeVdDb1pCc1gtUjZmb0dO?oc=5",
-   "themes": [
-    "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "iranwariseffectivelyovertrumpmakesmassiveannouncementfromwhi",
-   "title": "'Iran war is effectively over!': Trump makes massive announcement from White House | LIVE - The Economic Times",
-   "source": "The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVGNuRjByT2Z0UEkzLWFrMzhXSVdaa2d2MDZLaXNYU0pwb3FHN3U2eXJZT1NuejFpV1N5OE1NYmd3R1M1V1pseUVfcDlabWFKcjF1SEZwbklNWi1IX25LOFBmX1dJeEg5YVllenJpckd1Z081SlhPX3V0Wk1sUzMteTRMcFdvc3hMLXdBZ2dtQXcyQTNGVm9mV3N6RTVDU3hudVpzT1RGTXJzNkJXYmhZdjVSZkdIU00zV05wZnhoNndadE81VzJpZENXVDNXLU1POHVENzI1SGZDYjdhV3dTUUx5cWJ6R1N3c09mdkVXRVdfc2d4blZkUFZLR0sxbWZickZ5MdIB_gFBVV95cUxPTTNyV01NRTVSYVlhZEk0MGNkbFlIZzdmdHl5VkJoLUVmYTkzMkRKbjRlaDFVMFJtbjV4QVJYT3BGYy1TTXQ0cUZNUGFQcThYUXUwS205OG81emNEV180ZzByclg3WG0zdld2ZXRad0hEZS1pNmVRT3BON3BUTU5OVm5oZU5VYzF6ckJHbGR1S1ZrVGduQUh6dVNJdmpoa3NnUDNYdXNpUl9PeWtmeTl6UkV5Q1VSZFY5UjRpZEtrWDZEaUd0YjBxZGVlMDZZel9leG42VUpSYVRHaEpwMEZTaFdXZWNwNVJmeDV5R1VoZGtOcklRVzRlRWJ2ekEwdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -245,87 +220,101 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "ecbsratepathhingesonhowfarinflationspreadslanesaysreuters",
+   "title": "ECB's rate path hinges on how far inflation spreads, Lane says - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNi1BQm93NlpxZHNuaGE4a0dxNWRmN0VSaDd5YTFFQTlxSEY3bFJWNUpGcFQ0cVZfRjRuMl9sV1NNclBfejJQb0RkUHlQcG45VzZNTW1CWktsTExSMmhWMHJCdU1uTUhLLTU2ZUJOTlRPLVgtWkJqWnRKN3JheXM2OThWRjRYVUJFR2l2b2VOY3puS18wdjBTVXh2WlJZZ1VValZGdTRPWWJLQjlkaENN?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "eventhisbluewaveprobablywontwashtariffsawaythewashingtonpost",
+   "title": "Even this blue wave probably won\u2019t wash tariffs away - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUlIdnNleFhkZVBLWDA0bHZsOFhIQ0NWR0F3TktUbUZ0Y3dZOXRFNG51Z0dEcjBkazl3ZzJUZ0FkbFV2VHY1TUNkWFA4cWtXdjNyVWpMUnFIY2NmWlJSYkkyUHRxcmV1c2kxbnZXblh5T2x5MFRiY1RKRGszeEVzS2hTVHFpS2NmemhBRHE2cDhaVEtXTHJsN2VqdXFYRUdyVWxJ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 55
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 54
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 72
   },
   {
-   "sym": "COIN",
-   "why": "stale quote / market closed (last price 68 min old)",
-   "score": 93
-  },
-  {
-   "sym": "MSTR",
-   "why": "stale quote / market closed (last price 68 min old)",
-   "score": 80
-  },
-  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1016 min old)",
+   "why": "stale quote / market closed (last price 1059 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1018 min old)",
+   "why": "stale quote / market closed (last price 1061 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 79
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 73
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1016 min old)",
+   "why": "stale quote / market closed (last price 1059 min old)",
    "score": 73
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 67
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 68 min old)",
+   "why": "stale quote / market closed (last price 111 min old)",
    "score": 43
   }
  ],
@@ -340,7 +329,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 09:08 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 09:50 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
