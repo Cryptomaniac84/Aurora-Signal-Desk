@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 08:22 AM AEDT",
+ "generated": "Wed 11 Nov 2026 09:08 AM AEDT",
  "fx_audusd": 0.687,
  "signals": [],
  "events": [
@@ -29,10 +29,10 @@
    "pts": 30
   },
   {
-   "key": "canadaeyesustariffreliefaftertrumpsmidtermelectionlossbloomb",
-   "title": "Canada Eyes US Tariff Relief After Trump\u2019s Midterm Election Loss - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2xjNndZRENsWHRpSl9wNm9ZZktQV3dwaU5SamtHYlF1TnZNNHFBZFA3Qk5peFRuZTlRbTEwd203ekRCUXVxLVIxdW5RcThOajJmcVhQS21qWE8wamJLRERLcWQtZXRmVFBkZER4UjFmSVBZXzQzaTdoLXJIcFpXeXhBT3dHclFNVjVXd1Noc3dpeUdFd08wWUc3TGl5Tk0xdzZ4cFZMNE1lWWJIRnNEc204NkJrdw?oc=5",
+   "key": "mostamericanswantnewdemocraticcongresstoendtrumpsiranwarreut",
+   "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,10 +41,10 @@
    "pts": 30
   },
   {
-   "key": "mostamericanswantnewdemocraticcongresstoendtrumpsiranwarreut",
-   "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+   "key": "canadaeyesustariffreliefaftertrumpsmidtermelectionlossbloomb",
+   "title": "Canada Eyes US Tariff Relief After Trump\u2019s Midterm Election Loss - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2xjNndZRENsWHRpSl9wNm9ZZktQV3dwaU5SamtHYlF1TnZNNHFBZFA3Qk5peFRuZTlRbTEwd203ekRCUXVxLVIxdW5RcThOajJmcVhQS21qWE8wamJLRERLcWQtZXRmVFBkZER4UjFmSVBZXzQzaTdoLXJIcFpXeXhBT3dHclFNVjVXd1Noc3dpeUdFd08wWUc3TGl5Tk0xdzZ4cFZMNE1lWWJIRnNEc204NkJrdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,6 +101,18 @@
    "pts": 22
   },
   {
+   "key": "whitehousetocontinuetariffpolicydespitevoterreactioncnbcuane",
+   "title": "White House to continue tariff policy despite voter reaction \u2014 CNBC - UA.NEWS",
+   "source": "UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUU4VEJuUXl4MVNOZTVSTGV6bUNLckpxS3NVMU01QUF1TnktYUx0S1c0T2MtZXNDWHF6WlI4WTRENGtsZEw5eFZ4M1VlN3RFTnFnSmMyMjhRWTB1RlRYeTNLbkxEWUpZVXpETFBYZXBmUTRvNmdnRE5HVmdsc29kUHpyMUttM3dPamo5WGM0bGl5UEFnOWNVSHU3ZEhTQnNseWdKd2pQTUdTdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "canadianswarmingtochinaindiaastrumpstariffspushottawatowardt",
    "title": "Canadians Warming to China, India as Trump\u2019s Tariffs Push Ottawa Toward the Indo-Pacific: Poll - Asia Pacific Foundation of Canada",
    "source": "Asia Pacific Foundation of Canada",
@@ -125,18 +137,6 @@
    "pts": 22
   },
   {
-   "key": "wheretrumpgoesnowonthebig3tariffsiranwarimmigrationcbc",
-   "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
    "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
    "source": "EnergyNow",
@@ -150,12 +150,12 @@
    "pts": 22
   },
   {
-   "key": "trumpsayshebelieveswarwithiranismilitarilyeffectivelyoverwfl",
-   "title": "Trump says he believes war with Iran is militarily \u2018effectively over\u2019 - WFLA",
-   "source": "WFLA",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0ZoVXd3ZWMyRm85QmdENGxlUXFvajU2NlZKX0JoemtEd2daRVV3a0dkMzJKTWp3QTJ2TDRxMHNUOUNqRUVGc2YyMGdNQTBoWmdlbHhuUV9ZUU5JN0lHMVNtcDVxbmQzYjBiR2V6cVNrR1Q3VmItV2ZIbVdmZW8xeERnMWVzVF9O0gGOAUFVX3lxTE92ZUZacTNXRDQ4ekNzdnFxNGRVV2hsQU5SOExCM2hWb0pMV0hPaVhpcDJBd2F5eGRaMTlYNXZGNTNQdlFZNTJPQkptcjJ2Z2h1N2Z0ZXgwamlMTnJRelZmbzFmQ08zd3FLa05uOEpXMXR2Y3dCR2o4cGNOWm1kbDIyNm1JeTRLNU1hOU12aFE?oc=5",
+   "key": "trumpadminremainsinterestedinstrategicbitcoinreserveformerwh",
+   "title": "Trump Admin Remains Interested in Strategic Bitcoin Reserve, Former White House Official Claims - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEd4c29mYlhmNFhGRTBVZmUyWlJwLWdiQ2pBLUVXOG5KeEJOY0paRldzalRmMHQzT0d6YjQwWXh5ejE0cXRYQ29fVlQ5UmROeWh2Q0pPSEFFaDZvNjZFYlZna1VPUEp6eWZTYnZ0eG5BSElWOUh0d0NlMktKVGttQnA2RVMzbXZBV3ZaQUdoQnZiM29OSXpOTHZ3UU10bFNNTy14SjNzMGZkRG5KMzJ6dWgxZ0dVZnFYMF9jaFljcDgzbXRCbG92dTNjZDUxbmd4ckEtMWU1NlhLeVdDb1pCc1gtUjZmb0dO?oc=5",
    "themes": [
-    "geopolitics"
+    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -187,6 +187,18 @@
    "pts": 22
   },
   {
+   "key": "brentcrudesinksbelow90intradayastrumpsignalsiranwarnearingan",
+   "title": "Brent Crude Sinks Below $90 Intraday as Trump Signals Iran War Nearing an End - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jVUh2SzhGd0tocHJKMmxLWVNETTE0QlBHU3EyVXAxb2tNMEJaOG04cG9ZMFVuY3lkS2VVekZzYl9JdVpNVU9Jc1RUS2llbHNDMUJXQkRwcG9qbVJ2bENIa2JUMWRGajRSNTZrbnBBVXZ0LWQwUUE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "crudeoilfallsastrumpsignalsnoimmediatemilitaryactionagainsti",
    "title": "Crude Oil Falls as Trump Signals No Immediate Military Action Against Iran - CMB News",
    "source": "CMB News",
@@ -211,18 +223,6 @@
    "pts": 22
   },
   {
-   "key": "wouldyoupushaneighbourintounemploymenttoreduceinflationabcne",
-   "title": "Would you push a neighbour into unemployment to reduce inflation? - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanpYR0dWS3NwQUlKbHBiVTZMbk5HeDdHTVhKbGFPTDlYUkxLdk5RV3JWSkk3MGQzMGFvQjlDdjFqaWZoWGdwdkh4LXprSlg4UWRSdy1DX3U4YWt2Zm1SeEE4MEVGQlhEZVlfRlh1My1aZTFmbDBMMHNrVzVmOWI0N2FfXzVYNzlNclVvaHdNT2c1R0RqLWJYMWFnOFNwcjBVY0FXanZ6ME8?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "brazilscentralbanksignalshighbarforratehikesdespiteinflation",
    "title": "Brazil's central bank signals high bar for rate hikes despite inflation risks - Reuters",
    "source": "Reuters",
@@ -235,10 +235,10 @@
    "pts": 20
   },
   {
-   "key": "brazilcentralbankchiefsaysitwillkeepfightinginflationwithtig",
-   "title": "Brazil central bank chief says it will keep fighting inflation with tight policy - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjRVZ21Oa2dkREN1TTFCd0oxSkhNbE5rYWk2UkEwYVhISVB0MW1NWGFPbHJqTkh6eUdIM2F1T05NdXQ1YVVtcF8zSHFYRURxdWRvdm1Tajk4LVFweElLS3pTZy1vMTJhQXZYcjU2a0NhVVdBbkdYYlVRYjUtdnpwVXBlZG90Vmw5YU85NnZhZXllazdUbFBZYWg0a1pDNExWcUdWd1VTQTNUNF9sMFlXQUxKMTViRVg0TW1YOUFTYjIwd1JBNnF6NTRjUQ?oc=5",
+   "key": "wouldyoupushaneighbourintounemploymenttoreduceinflationabcne",
+   "title": "Would you push a neighbour into unemployment to reduce inflation? - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanpYR0dWS3NwQUlKbHBiVTZMbk5HeDdHTVhKbGFPTDlYUkxLdk5RV3JWSkk3MGQzMGFvQjlDdjFqaWZoWGdwdkh4LXprSlg4UWRSdy1DX3U4YWt2Zm1SeEE4MEVGQlhEZVlfRlh1My1aZTFmbDBMMHNrVzVmOWI0N2FfXzVYNzlNclVvaHdNT2c1R0RqLWJYMWFnOFNwcjBVY0FXanZ6ME8?oc=5",
    "themes": [
     "rates"
    ],
@@ -250,82 +250,82 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.5x normal)",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 55
   },
   {
    "sym": "ITA",
-   "why": "reward/risk after costs only -0.32",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (1.3x normal)",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 54
   },
   {
    "sym": "FXI",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 72
   },
   {
    "sym": "COIN",
-   "why": "reward/risk after costs only 0.46",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 93
   },
   {
    "sym": "MSTR",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 80
   },
   {
    "sym": "XOM",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 971 min old)",
+   "why": "stale quote / market closed (last price 1016 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 973 min old)",
+   "why": "stale quote / market closed (last price 1018 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (1.0x normal)",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 79
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 73
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 971 min old)",
+   "why": "stale quote / market closed (last price 1016 min old)",
    "score": 73
   },
   {
    "sym": "LMT",
-   "why": "score 67 below 70",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 67
   },
   {
    "sym": "RTX",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 68 min old)",
    "score": 43
   }
  ],
@@ -340,7 +340,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 08:22 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 09:08 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
