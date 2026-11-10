@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 11:37 PM AEDT",
- "fx_audusd": 0.6909,
+ "generated": "Wed 11 Nov 2026 12:49 AM AEDT",
+ "fx_audusd": 0.6881,
  "signals": [],
  "events": [
   {
@@ -89,6 +89,18 @@
    "pts": 22
   },
   {
+   "key": "mostamericanswantnewuscongresstoendtrumpsiranwarrepealtariff",
+   "title": "Most Americans want new US Congress to end Trump\u2019s Iran war, repeal tariffs: Survey | World News - Hindustan Times",
+   "source": "Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNREQ4UFFMXzBNT3ZDRXp4TkhrRkxqLWRiYVJrdFV3S3ltR3RmVTQwUUlsRmhyNjZlS3BmMzQ1aVI2NnZoYWItUlZUWWtiTWpmakpTNEFuVDNfZkFvZjhBMF9TTWtJRERZX1BLZ25CX29fYllsRVBqY2ZnQk0wWU5MTEswRjhpVGVVcHNUSDcyV0l4VVRxZmo4UmpMQ1RQSnd5M1BZRVF3Q1BZeFRXN2V3dXB2Sm9xRkl6bVhDR0xUZFc2anVPeG0tTWFFY0w2YlJYUXg1R2Z2cTVMZ9IB3wFBVV95cUxPU01leHJlUmo1R1RPUXcydmhZMmNmMTN4OGlYRU1NZ3I0c001TU5Qc2ZQdEdOVklGVnpQaFZLaWN1bVJOX05abDNIejdpS1dOcjBHTllod1d5OFFBRl9wUU5VSUVsWF9TOGk4TDhkTlBjU3JvZnE3ZGNreWVEaGU1QUdBbHUyaTFCa0EtbE9KU3l5YXpudGxRODFvX0JwckotMEthYWlLQW1LVXk2eVBuTEVaSjZYQ1J2V2pLb1liUHZtUkFPWjNfVWVyU2RsQUU5SWp6YU5qeDBTU3Z0SHFv?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "midtermvotersdisapprovedoftrumpstariffsandimmigrationpolicie",
    "title": "Midterm Voters Disapproved Of Trump\u2019s Tariffs And Immigration Policies - Forbes",
    "source": "Forbes",
@@ -141,18 +153,6 @@
    "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
    "source": "EnergyNow",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "americansurgenewcongresstoendiranwarandrepealtrumptariffspol",
-   "title": "Americans Urge New Congress to End Iran War and Repeal Trump Tariffs, Poll Finds - Forth.News",
-   "source": "Forth.News",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PMnpIOW1XaE91U0xON1htUFA5RnBZOFFrMzhfT2JOYzdVelRjR1NWbFNSSkgyUXpydUs4NTZlbGhqTGRIZklpNEtHMWQtSXFXV3BXbXFCY0tTZXFCWE10eG5n?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -250,97 +250,97 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 63
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 445 min old)",
+   "why": "stale quote / market closed (last price 518 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 447 min old)",
+   "why": "stale quote / market closed (last price 520 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 54
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 70
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 445 min old)",
+   "why": "stale quote / market closed (last price 518 min old)",
    "score": 71
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 937 min old)",
+   "why": "stale quote / market closed (last price 1010 min old)",
    "score": 62
   }
  ],
@@ -355,7 +355,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 11:37 PM AEDT",
+  "last_scan": "Wed 11 Nov 2026 12:49 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
