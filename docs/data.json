@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 05:08 AM AEDT",
- "fx_audusd": 0.6857,
+ "generated": "Wed 11 Nov 2026 05:59 AM AEDT",
+ "fx_audusd": 0.6862,
  "signals": [],
  "events": [
   {
@@ -17,10 +17,10 @@
    "pts": 30
   },
   {
-   "key": "canadaeyesustariffreliefaftertrumpsmidtermelectionlossbloomb",
-   "title": "Canada Eyes US Tariff Relief After Trump\u2019s Midterm Election Loss - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2xjNndZRENsWHRpSl9wNm9ZZktQV3dwaU5SamtHYlF1TnZNNHFBZFA3Qk5peFRuZTlRbTEwd203ekRCUXVxLVIxdW5RcThOajJmcVhQS21qWE8wamJLRERLcWQtZXRmVFBkZER4UjFmSVBZXzQzaTdoLXJIcFpXeXhBT3dHclFNVjVXd1Noc3dpeUdFd08wWUc3TGl5Tk0xdzZ4cFZMNE1lWWJIRnNEc204NkJrdw?oc=5",
+   "key": "mostamericanswantnewdemocraticcongresstoendtrumpsiranwarreut",
+   "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -29,10 +29,10 @@
    "pts": 30
   },
   {
-   "key": "mostamericanswantnewdemocraticcongresstoendtrumpsiranwarreut",
-   "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+   "key": "canadaeyesustariffreliefaftertrumpsmidtermelectionlossbloomb",
+   "title": "Canada Eyes US Tariff Relief After Trump\u2019s Midterm Election Loss - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2xjNndZRENsWHRpSl9wNm9ZZktQV3dwaU5SamtHYlF1TnZNNHFBZFA3Qk5peFRuZTlRbTEwd203ekRCUXVxLVIxdW5RcThOajJmcVhQS21qWE8wamJLRERLcWQtZXRmVFBkZER4UjFmSVBZXzQzaTdoLXJIcFpXeXhBT3dHclFNVjVXd1Noc3dpeUdFd08wWUc3TGl5Tk0xdzZ4cFZMNE1lWWJIRnNEc204NkJrdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,6 +65,18 @@
    "pts": 22
   },
   {
+   "key": "whitmeraskstrumpadministrationtoendfoodtariffsreimbursemichi",
+   "title": "Whitmer asks Trump administration to end food tariffs, reimburse Michiganders for increased costs - Michigan Advance",
+   "source": "Michigan Advance",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHNIejZMNnRKWlkxWkhXSjhXU3AxalJ4ZVNEcDFTSTBVOFQ3a014R3dYR0VOUlpWOWdJSmRIQnJoV3c3LUpQdXNmWEVzdjBXT0kwTXZtUzdEamFabTdkMEZQUVhqLTFoWk8yWVc2UVhObG91VzhXT09ucklSWjVKN0trZW16dW1IM3Bwa0JqdTIwS3BMR21xc0JQWlpid3JUYmV2bGVQaUZCYk1IdWlPWk5jRFhBLXlSZUlicE42VHdSb3ZHM3R1Z2M5QjZJVDdmZFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "canadianswarmingtochinaindiaastrumpstariffspushottawatowardt",
    "title": "Canadians Warming to China, India as Trump\u2019s Tariffs Push Ottawa Toward the Indo-Pacific: Poll - Asia Pacific Foundation of Canada",
    "source": "Asia Pacific Foundation of Canada",
@@ -77,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "wheretrumpgoesnowonthebig3tariffsiranwarimmigrationcbc",
-   "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5",
+   "key": "thechildrensplaceblamestrumpstariffsasitfilesforbankruptcyth",
+   "title": "The Children's Place blames Trump's tariffs as it files for bankruptcy - The Independent",
+   "source": "The Independent",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUM1aFRlZi1YdEd2MEJLc2JtUWYtdFZRZng5Y0Q3Q29hbk9NM1h5N1daWTFIa051U0tZTUQ3U0lZYVJKVHI2bkpqd3hKMUI0ZVZWWnYtZ21DUW1lU2w4bmM1NDRjQWx3Wkt2N0hsdnM5Y3BWU2toNnhYZFdCV2dMTVlCdktqcWt3WG9ielJQOEZIRkhWYzVZN2hLd0lELURDbXd1VXZyYlF3UUE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "thechildrensplaceblamestrumpstariffsasitfilesforbankruptcyth",
-   "title": "The Children's Place blames Trump's tariffs as it files for bankruptcy - The Independent",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUM1aFRlZi1YdEd2MEJLc2JtUWYtdFZRZng5Y0Q3Q29hbk9NM1h5N1daWTFIa051U0tZTUQ3U0lZYVJKVHI2bkpqd3hKMUI0ZVZWWnYtZ21DUW1lU2w4bmM1NDRjQWx3Wkt2N0hsdnM5Y3BWU2toNnhYZFdCV2dMTVlCdktqcWt3WG9ielJQOEZIRkhWYzVZN2hLd0lELURDbXd1VXZyYlF3UUE?oc=5",
+   "key": "wheretrumpgoesnowonthebig3tariffsiranwarimmigrationcbc",
+   "title": "Where Trump goes now on the big 3: tariffs, Iran war, immigration - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OSG1odDNDRGdXX3RNZ1Mzb3ZibDExc2FMOFhLaTU2M0J2eVNCcXowR1FTRXJtTmRQT3dfWlZsZ05wNjh1UGhudnBHdHc2VGlESG44Ym5ONUg2U1hObGxzcXdBWDBLQ3g3djRvRW5yZXQyZURJNm4zZHM3dGJCQXM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -126,36 +138,24 @@
    "pts": 22
   },
   {
-   "key": "trumptradeadvisersayswearequadruplingdownontariffsafterthego",
-   "title": "Trump Trade Adviser Says 'We Are Quadrupling Down On Tariffs' After The GOP Lost Congress. Here's What Yale Budget Lab Says Tariffs Cost The Average American Household - 24/7 Wall St.",
-   "source": "24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUUJkNl82QWdTaU0zSFpYb3o1Ym9HdDB6YzVtaEpoNFRGeDlKVVFMbFZuRVh2T2d4a2tGbUZUSEJoU0VBSEVnamVCWlpUdWhPaDYxMXZtOXFlbUR6Y01sdWxiZGczUlVwaHJlbERkLTNZUHlnTTNDSFZPNnptY28zQ1RDQzlKalBHY181S3hhX0dMdXo0T2pfb2VVNXE4VHQ4RjNOWDVRVG50UkI3VjROWnVvOWgzYVdLV1V2UXBoZHhIRF9ZSFBxb1BjODFRYmYzb3BxRmpuVWxRWGU3MlpFQmRWWlFnSVBmSnk5Zm13bG1WYXQzdVo1M1d3akR6dDdram9wTlV4X3hnT2ZMNE11STNYNzdsSTVkX2J5LUJ5LU1GaEVoQjJiOHpELTNtWldm?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "mostamericanswantnewuscongresstoendtrumpsiranwarrepealtariff",
-   "title": "Most Americans want new US Congress to end Trump\u2019s Iran war, repeal tariffs: Survey | World News - Hindustan Times",
-   "source": "Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNREQ4UFFMXzBNT3ZDRXp4TkhrRkxqLWRiYVJrdFV3S3ltR3RmVTQwUUlsRmhyNjZlS3BmMzQ1aVI2NnZoYWItUlZUWWtiTWpmakpTNEFuVDNfZkFvZjhBMF9TTWtJRERZX1BLZ25CX29fYllsRVBqY2ZnQk0wWU5MTEswRjhpVGVVcHNUSDcyV0l4VVRxZmo4UmpMQ1RQSnd5M1BZRVF3Q1BZeFRXN2V3dXB2Sm9xRkl6bVhDR0xUZFc2anVPeG0tTWFFY0w2YlJYUXg1R2Z2cTVMZ9IB3wFBVV95cUxPU01leHJlUmo1R1RPUXcydmhZMmNmMTN4OGlYRU1NZ3I0c001TU5Qc2ZQdEdOVklGVnpQaFZLaWN1bVJOX05abDNIejdpS1dOcjBHTllod1d5OFFBRl9wUU5VSUVsWF9TOGk4TDhkTlBjU3JvZnE3ZGNreWVEaGU1QUdBbHUyaTFCa0EtbE9KU3l5YXpudGxRODFvX0JwckotMEthYWlLQW1LVXk2eVBuTEVaSjZYQ1J2V2pLb1liUHZtUkFPWjNfVWVyU2RsQUU5SWp6YU5qeDBTU3Z0SHFv?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "iftrumpdoesntlisterndougfordtomeetcongressaftermidtermswhboy",
    "title": "\u2018If Trump Doesn\u2019t Listern\u2026\u2019: Doug Ford To Meet Congress After Midterms; WH Boycott Amid Tariff War - The Times of India",
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYnBEVDJaNWZ3MXJWbF9HLWJ2dmI3ellTeEE2alUteTJocmpTWXFGU2NiMW9sQTg0alpvczVvVXJONE11bGZMT1JOZGVOdC1PVU9yT2JzTkd2SGp5TzhCSkdFQTdxOFE2NFpiUzI3cUgzVWtUSkY4UjZ2dzlkLVdMS1o1bDIyeU04Qzh3NmV6bWlZVTRNQ2dCZDdIVXVWcHB0Q0h2aEloQWZUc3VrM3JIRFJ0S09qNVBCcU84NUl4WThEa0N0OS1TTHNRQTVHZl90cm52RGt4Q2pIQm9IdFJKZkJiQVRQZERsdHdnaUlHa2J6SkpqTE84QVphV2k5VDdTQ2Jv0gGIAkFVX3lxTE9XSVdleDBrU1ZuZlh2VVoxck1XQnBacHZhbkJiWlJWMEJON2ZHMWVGdzExU3I2NGJibzdKeEoxdjQ3RDVGYzlZSDZTbmx0TXMybUZIVWNQMG9qYmVmOTZDSlNZTnlJbGt1TnlzTnhYeHZuRmZob2drN1cta1ZHWHh6cDBaY2pGUGpwOG04MnE5LXRmMWlTaWdSTk5JRFpDRGc3eWluMmFSYS15cE55Yy0zNkRiOEItMHg0SERLeG04VkQzbFJjeGxudzE2RUZSbG9FS2xaNHhlV0h2bWp2eUJIWm0wb05TejIzdkZXYmhrLUpna0lvZnRtbTVSSzZ3MWRUTTVCc3Fjcg?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpadminremainsinterestedinstrategicbitcoinreserveformerwh",
+   "title": "Trump Admin Remains Interested in Strategic Bitcoin Reserve, Former White House Official Claims - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEd4c29mYlhmNFhGRTBVZmUyWlJwLWdiQ2pBLUVXOG5KeEJOY0paRldzalRmMHQzT0d6YjQwWXh5ejE0cXRYQ29fVlQ5UmROeWh2Q0pPSEFFaDZvNjZFYlZna1VPUEp6eWZTYnZ0eG5BSElWOUh0d0NlMktKVGttQnA2RVMzbXZBV3ZaQUdoQnZiM29OSXpOTHZ3UU10bFNNTy14SjNzMGZkRG5KMzJ6dWgxZ0dVZnFYMF9jaFljcDgzbXRCbG92dTNjZDUxbmd4ckEtMWU1NlhLeVdDb1pCc1gtUjZmb0dO?oc=5",
+   "themes": [
+    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -211,19 +211,6 @@
    "pts": 22
   },
   {
-   "key": "opecoiloutputrisesinoctoberto90ofprewarratereuterssurveyshow",
-   "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "usfdaapprovesbayersbloodthinnertopreventrepeatstrokesreuters",
    "title": "US FDA approves Bayer's blood thinner to prevent repeat strokes - Reuters",
    "source": "Reuters",
@@ -246,18 +233,30 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "brazilcentralbankseeseconomyslowingasinflationrisesbloomberg",
+   "title": "Brazil Central Bank Sees Economy Slowing as Inflation Rises - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1NNYTdtZDUteFRRQWFkRmJydHQzSk1BeFFqTTBySkhZczF5UkE3ZHZsZzdEckF4c3Ayb2dpNWhpZEV1Mk11eFBPOTNkRm1IQjhaQXJRRnNmVXVUcVQ3aWxCeHRVREhYdmJoTHdMa3lhZXNQWF95R3pkUElEbGVacUc1QWdtdFltRzgxOV9ncVlGUVpWdl9pMTZCN29fZlpGUWdjTUFjNzEzeWdhd08w?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 45
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 60
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 83
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "XLE",
@@ -267,82 +266,82 @@
   {
    "sym": "FXI",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 46
+   "score": 61
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 62
   },
   {
    "sym": "MSTR",
    "why": "volume not confirmed (0.4x normal)",
-   "score": 48
+   "score": 63
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 777 min old)",
+   "why": "stale quote / market closed (last price 828 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 779 min old)",
+   "why": "stale quote / market closed (last price 830 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "volume not confirmed (0.3x normal)",
    "score": 72
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "score": 42
   },
   {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 35
+   "score": 50
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 777 min old)",
+   "why": "stale quote / market closed (last price 828 min old)",
    "score": 71
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 29
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 28
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 28
   }
  ],
  "paper": {
@@ -356,7 +355,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 05:08 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 05:59 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
