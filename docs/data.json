@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 05:39 PM AEDT",
- "fx_audusd": 0.6928,
+ "generated": "Tue 10 Nov 2026 06:54 PM AEDT",
+ "fx_audusd": 0.6925,
  "signals": [],
  "events": [
   {
@@ -77,6 +77,18 @@
    "pts": 22
   },
   {
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
    "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -102,10 +114,10 @@
    "pts": 22
   },
   {
-   "key": "wydenaimstoreversemedicaidcutsandendpresidenttrumpstariffsst",
-   "title": "Wyden aims to reverse Medicaid cuts and end President Trump's tariffs - Statesman Journal",
-   "source": "Statesman Journal",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUUwWUlDWUU1RElrc0RxQVlteHc3d2FWNTl0ckdKLVNyclEtWkw2RWFpc3V0WHR4MzZhd0xOM2hYN2E4V0VneW81SDNqdENtTmNMOFg3SGd1eFhhdDBfUzVWbDNfbkRybVZKWU5sX2N6TFAyVFlBUlRHWVcwWjJIcFBYQkxIRHVBMlR4V29fYnFLYlpPT0s5MlhGZjBMbElEdzRxN0tMMEp2UUpld0lhdDRoZElobEpI?oc=5",
+   "key": "trumpadminstarifffreebeefimportshaventloweredpricesmuchtexas",
+   "title": "Trump admin\u2019s tariff-free beef imports haven\u2019t lowered prices much - Texas Standard",
+   "source": "Texas Standard",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EcVdES19LaHpWdXh6WmVkNmJ3aWwzb3VMNW1lY3JhWFhJR1hlbDJUVEtYcUVHNTlIT2hMNnpaZUVEWHd0Q242NVROcUo5aFNDNTlLdXNWeFZNNzlqQ1hGZVJwaHBVTXJ4M0otejFTWndEbWR3MzZUeGR6X0g?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -114,10 +126,10 @@
    "pts": 22
   },
   {
-   "key": "trumpadminstarifffreebeefimportshaventloweredpricesmuchtexas",
-   "title": "Trump admin\u2019s tariff-free beef imports haven\u2019t lowered prices much - Texas Standard",
-   "source": "Texas Standard",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EcVdES19LaHpWdXh6WmVkNmJ3aWwzb3VMNW1lY3JhWFhJR1hlbDJUVEtYcUVHNTlIT2hMNnpaZUVEWHd0Q242NVROcUo5aFNDNTlLdXNWeFZNNzlqQ1hGZVJwaHBVTXJ4M0otejFTWndEbWR3MzZUeGR6X0g?oc=5",
+   "key": "trumpsaysiranwarismilitarilyeffectivelyoverafterqatarpmtalks",
+   "title": "Trump says Iran war is militarily \u2018effectively over\u2019 after Qatar PM talks - Arab News",
+   "source": "Arab News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2JLa1U2VHpWaXh0UXNsQXZQYkYzMll3UzhEckZDM0M4NjJOZmFjcmwtOXZ4MjJya0Z0aFpjV0xJN2YzNE9pZnc5dDFEVnpiaDBhNWhkTGZLZmFKSXBsekM0QVJOb2VFRXRQZC1nTVdnNHZKSjFOeW55NXc2NGR1SGU2VVBfY1VzS2pkVzBjSHBsVm5RTUMxSVNLZnpuNmZlSWVhMlRkRHc2R29Odk5NdHo0aTlJSlE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -199,8 +211,20 @@
    "pts": 20
   },
   {
-   "key": "bojsummarysuggestsgoodchanceofnearterminterestratehikebloomb",
-   "title": "BOJ Summary Suggests Good Chance of Near-Term Interest Rate Hike - Bloomberg.com",
+   "key": "norwaycorepricescoollikelyreducingpressureforratehikebloombe",
+   "title": "Norway Core Prices Cool, Likely Reducing Pressure for Rate Hike - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnVnT2xLMHJZQ2hCWGFsUjN4bVB2U0k4SXBLdHZXcm02a0Rrdm9xWTlMQTJPMEVRamp1NkJlclNDN2FfVENIcjBWQlNSTjhuRGNyNGlrQUhmZjhFenJQU2N5TXdIbEFZYkxLRkRuLXZyczU1Nk5OREs5bFlwWDdqMGlxdWZYSGo4eVliaWJWQjNzXzIwNWdfM3M5alpNWUhpNllNZkE0clc0ZzhmUWpmRGFyWQ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "bojsummarysuggestsgoodchanceofdecemberinterestratehikebloomb",
+   "title": "BOJ Summary Suggests Good Chance of December Interest Rate Hike - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHZjZGpFM0F5YmtCb216cU9MUVpSRUhyelZiemlPT2Z0X3RKM1VVQVgtTmUwRU55aV9yTWxVaXlQUE1qcUt1ZDZNbFhmeVJra1ZGYm9OM19lY1dyZ3A4REFRcnRHRlgyaUtfODlYcXRQWWZQcWtaVEh2cU43TG0wMU1lbFBnemRSTHNGY0RxVkdMS1gzUk0tOGc2UHdCRHlCZFpnRV9VMC1xdVhsMnByc2VCRXE3UQ?oc=5",
    "themes": [
@@ -221,146 +245,122 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "democratswilltrytorollbackmedicaidcutsstoptariffsoregonussen",
-   "title": "Democrats will try to roll back Medicaid cuts, stop tariffs, Oregon US Sen. Ron Wyden says - Oregon Public Broadcasting - OPB",
-   "source": "Oregon Public Broadcasting - OPB",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjRPME5UQmhJUEpCTWdLNUx6UmtYVDlDSDQ2NUw0VVBMWnBYQkllWEJVb3JCVngyV1Z5bVkyOG9RZVlXNkgzRkEtUFFyZkIxMXQza0ZvbDJZYm1iUVpxcWFOVGsybW9mcVBCaTVpUnJ0OGhpMUpMci1QeHVtVDJQaGhRa1RKY0RRemRJRzJUa3NpRUs1RVpfZzNZNmdsc0NHOFNYVUVNRzlPNjY3ZlZ1am9aQi02WS1Na3NsS2RJUW5URTdRcEE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "eventhisbluewaveprobablywontwashtariffsawaythehill",
-   "title": "Even this blue wave probably won\u2019t wash tariffs away - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Zi02OTQzOHlXQ0kxRVFMbk1rREp0RlhKRFNrNFluMEY4empWb0VTZktsNVU5U3VES2JfdmJPemJ5ek4waGVQR2RSVFBfdUxYV1pjZVVPeVJkOHhWbGZ1Y3RkZHZ5M3BDTFp4LTA4VnlsUjlQM2ljT3VJcGw5dTTSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 63
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 88 min old)",
+   "why": "stale quote / market closed (last price 162 min old)",
    "score": 84
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 90 min old)",
+   "why": "stale quote / market closed (last price 164 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 61
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 88 min old)",
+   "why": "stale quote / market closed (last price 162 min old)",
    "score": 71
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 67
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 67
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 66
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 580 min old)",
+   "why": "stale quote / market closed (last price 654 min old)",
    "score": 62
   }
  ],
@@ -375,7 +375,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 05:39 PM AEDT",
+  "last_scan": "Tue 10 Nov 2026 06:54 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
