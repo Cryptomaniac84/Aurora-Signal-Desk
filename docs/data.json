@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 10 Nov 2026 11:15 AM AEDT",
- "fx_audusd": 0.6923,
+ "generated": "Tue 10 Nov 2026 12:22 PM AEDT",
+ "fx_audusd": 0.6924,
  "signals": [],
  "events": [
   {
@@ -101,34 +101,10 @@
    "pts": 22
   },
   {
-   "key": "statessueoverlatesttrumptariffattemptenergynow",
-   "title": "States Sue Over Latest Trump Tariff Attempt - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTzFTWHo3XzNTN3lrTUdUM2lMMmVENWllUDdxeFQ5RTJKQVNBcXRnOFdtOFJYT09YNGFjMTVzTUs3eVdXaHdKR250SllKRDRYWVlQeXNvaDI4Sy1mWm9iUFFRLThNbi1aV1dKel9fbW96OEEtSGNfN2ZmQTdoUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "chinaextendspauseonustariffsaheadofexpectedtrumpximeeting",
    "title": "China Extends Pause on U.S. Tariffs Ahead of Expected Trump\u2013Xi Meeting - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
    "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFVMSG8tZUpQQWN4dl9xeExjOVVZZnhSRHRJdXFQdzZ3Q29XZXllMGFsbWpJWjQ5OG1qbkRPS1NVOXUtZFhXdUtEaldBSS1OZ2QzT3N3bER5QzBWTkVYeS1VcDdjQ1lOTmhjQ3pZbVdqbjNwWWhXeGxqUzI4bTdodVRtaUF6SUV5bC1FeDVQUkt1M2RFUkHSAZQBQVVfeXFMT0laQV9OVDlfV251MmpRRGtLZDRKVUdTandKb2g2TTBwTGpaU1ZoMWNhVW1tUF9WbTdXdnNZYl95Z1B4QmRJMzhERDlsRDIzTjNqSU9oUVNTN3Bfa0tEYTVCakhyR3kzc05aVVY2b1Zfbk05LWlEYmUyLUFmdVZ0NGhBanN6amhOMUowUzdrcnFTRTF0Rg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "jeffriesputsendingtrumptariffsonhousedemocrats100dayagendato",
-   "title": "Jeffries Puts Ending Trump Tariffs on House Democrats\u2019 100-Day Agenda - TOKENPOST",
-   "source": "TOKENPOST",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQTVTZzBtTm9qclRWRkRwcFFkTFhQZkhsYk5ERl9nXzFTSUcwWTM4d205TGVtXzRkVTlmbjBVUG52SnNiTVIyLTYyeWsxdmdwYkJFc2twRTY4UU0?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -222,10 +198,10 @@
    "pts": 20
   },
   {
-   "key": "mexicoinflationjumpstoputfocusonbanxicosratepolicybloombergc",
-   "title": "Mexico Inflation Jumps to Put Focus on Banxico\u2019s Rate Policy - Bloomberg.com",
+   "key": "bojsummarysuggestsgoodchanceofnearterminterestratehikebloomb",
+   "title": "BOJ Summary Suggests Good Chance of Near-Term Interest Rate Hike - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdzZDMzcmFwSkU4OE1WWWtFVU4yMEt0TURNMWxCRzdMTDdScW9yb0ZVWjlmTXBhZ2NmVjZvM3ZMSmRLbTBJb2d6ZHVQMnJmQkdwWGUwaTFMc0thcHVCTmFKVVZtandqbEpfeG40aUZibW5UZkhmMkg5M3B3ZFpzTy1EcHl6OVhhT1llMXZzNTZrdXdYa3JTYzljQS13S2htcDhfM2RJUWJBYlR5S3ZNTTlIZ0lFZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHZjZGpFM0F5YmtCb216cU9MUVpSRUhyelZiemlPT2Z0X3RKM1VVQVgtTmUwRU55aV9yTWxVaXlQUE1qcUt1ZDZNbFhmeVJra1ZGYm9OM19lY1dyZ3A4REFRcnRHRlgyaUtfODlYcXRQWWZQcWtaVEh2cU43TG0wMU1lbFBnemRSTHNGY0RxVkdMS1gzUk0tOGc2UHdCRHlCZFpnRV9VMC1xdVhsMnByc2VCRXE3UQ?oc=5",
    "themes": [
     "rates"
    ],
@@ -244,122 +220,146 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "eventhisbluewaveprobablywontwashtariffsawaythehill",
+   "title": "Even this blue wave probably won\u2019t wash tariffs away - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVBBc1dnQnZFb3JnNklfbm9nVHZTQWpGeVp3WWNqd2VteXlCcmxudHNHSGFzNllIQkhBeWtMZ1ktanZpM05VS0tabldFdFdvVmQwRWc5RzJHYW1Sb0E5N3laOFFjYThvSmg4VVcwUGZ0YVptNEZoMmp6b05Odm9FdTV5TEfSAYQBQVVfeXFMT1lQQXNXZ0J2RW9yZzZJX25vZ1R2U0FqRnlad1ljandlbXl5QnJsbnRzR0hhczZZSEJIQXlrTGdZLWp2aTNOVUtLWm5XRXRXb1ZkMEVnOUcyR2FtUm9BOTd5WjhRY2E4b0poOFVXMFBmdGFabTRGaDJqem9OTnZvRXU1eUxH?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "canadaamendsextendstariffreliefprogrambeyondussteelimportsct",
+   "title": "Canada amends, extends tariff relief program beyond U.S. steel imports - CTV News",
+   "source": "CTV News",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHZoaXdtWE1oR2xSOWtoLUV0V2NFeHFjNlp4dzVkRkh0YjQzcUd5S0MwRm1NSlpUREpFMXkybGgyeHk4UDdCTVMzWVdOWDhzUl9FdURXU1lnaWJ0Z0JGaXlXNXU5REFTaExaSlZqckdoTWowdXZxR1FhTXRGM2NJbG1TeElRQ0hxNWhCdEJadk9pTHVyZXFnNFByMXpmZXdpWUpOX3BmSEg3TjNlSzVFOW9fajR3bDBLSzNNdQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 100
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 59
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 79
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 63
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 68
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 59
+   "score": 74
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 60
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 69
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 47
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 45
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 43
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 40
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 52
   },
   {
    "sym": "IVV.AX",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 57
+   "score": 72
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 39
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 195 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 62
   }
  ],
@@ -374,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 10 Nov 2026 11:15 AM AEDT",
+  "last_scan": "Tue 10 Nov 2026 12:22 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
