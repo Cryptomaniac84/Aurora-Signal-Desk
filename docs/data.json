@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 12 Nov 2026 02:44 AM AEDT",
- "fx_audusd": 0.6851,
+ "generated": "Thu 12 Nov 2026 03:36 AM AEDT",
+ "fx_audusd": 0.6853,
  "signals": [],
  "events": [
   {
@@ -150,19 +150,6 @@
    "pts": 22
   },
   {
-   "key": "saudistellopecoutputsurged26tohighestsincewarbeganbloombergc",
-   "title": "Saudis Tell OPEC Output Surged 26% to Highest Since War Began - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMU1UZzFGcHVQTS1lNzJZVXZKeFlhS3ltbjcwcDAyVGZOWkZsUkFobUhoT2d6TTMxN2l3Y0NGQ1lsZDJ0Y0Fzcl9lNkR0Q0o5ZmpCRnRERnVBSDhHVnEwNXcxQmJBZy1ZTHEySzh3TkkwMmpmZDRxTkVhUUw0SnNkXzJCd0NsZWpsQzJSRzl0dHpaMU9hQXZ4ZUtqc1FJSVpvbWZlcVpueTByUjk1akZr?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabiareu",
    "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
    "source": "Reuters",
@@ -188,22 +175,10 @@
    "pts": 20
   },
   {
-   "key": "goldgainsaftersteepdropbuthawkishcentralbanksignalsweighreut",
-   "title": "Gold gains after steep drop, but hawkish central bank signals weigh - Reuters",
+   "key": "brazilscentralbanksignalshighbarforratehikesdespiteinflation",
+   "title": "Brazil's central bank signals high bar for rate hikes despite inflation risks - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
-   "themes": [
-    "mining"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "fedsgoolsbeecallsinflationreportborderlinedisturbingascentra",
-   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGliNnhINWdOb0RYdm54M2dIWGNuazZhZ01USkpfZzFKUHIwVTZBZ3RjNm5iUzRjcEFJcF94V01McUE5OUtWZFVJVi02b1VzR2RIbjY2QzNUb3I0V01nbzRhS2FEZ29nLUJQOEUzTGtJd3NwNkRlamVubHNuTkhadFVBV0h4QUhEd2xLSFB1eWpGX3VmQWNoOHozbUc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXp1eGp3MHJrZEdSVmZTQk9xRFBXcU9ac0haSUhRU3BHRGRGVE1uVlI2cnlwMzNMb3RMQmV6SzVtTE94ejE5WWNnSVdqUzdvNUpER2dFb3hmamlBYmUxZ19OZ0ZyM3VKZVhpWmdwR2lja09mckUxMHRNSmJ0TU1pVGxGTjk4bThPOWJMT09wVXBQQTdJRlh4WHZvRlNVRThzWXlyTzlJWkNvN0NJSnp5c1BiZVgtN2lpTS1SdURoMkVFcXFMclAw?oc=5",
    "themes": [
     "rates"
    ],
@@ -246,63 +221,87 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "howthedemocratsarepreparingtochallengetariffsafterusmidtermw",
+   "title": "How the Democrats are preparing to challenge tariffs after U.S. midterm wins - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WWwxaFpPWXBmQnlhQVJXMllWTlM5UnItTlpUdVpQME8taXMxdmF4QmdNcjdmbk9QMGV1RHJNZVV3Q01vWDFFVm0tTnR1dFhfMkVZTXF4YlJmQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "howmidtermresultsreshapethetradelandscapeastariffreliefcanad",
+   "title": "How midterm results reshape the trade landscape as tariff relief, Canada talks and USMCA review loom - Automotive News",
+   "source": "Automotive News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHAzLW1WODlTS1hnSHNpUWV3U0NIb0dMajZTb0xfUG9wVVVxZ0NWMTFqOEdoTEE5TnRVTVdjTmxnYm9oQlhacl9HZzRIYTBJU0JuczlvdW1HRnpsOGN2Nm9DYTltbWJWZzhEVEZoVlBXeUZZVk9ick9jVV9TM3NwUzVTdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 49
-  },
-  {
-   "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 67
-  },
-  {
-   "sym": "XLE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 67
-  },
-  {
-   "sym": "FXI",
    "why": "volume not confirmed (0.3x normal)",
    "score": 47
   },
   {
-   "sym": "SPY",
+   "sym": "ITA",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 82
+  },
+  {
+   "sym": "XLE",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 67
+  },
+  {
+   "sym": "FXI",
    "why": "volume not confirmed (0.4x normal)",
-   "score": 75
+   "score": 47
+  },
+  {
+   "sym": "SPY",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 65
   },
   {
    "sym": "QQQ",
    "why": "position size under 1 share",
-   "score": 92
+   "score": 84
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 633 min old)",
+   "why": "stale quote / market closed (last price 685 min old)",
    "score": 74
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 73
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 55
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 65
   },
   {
    "sym": "PFE",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 66
+   "score": 39
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 57
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 58
   },
   {
    "sym": "CVX",
@@ -311,73 +310,48 @@
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 635 min old)",
+   "why": "stale quote / market closed (last price 687 min old)",
    "score": 70
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 635 min old)",
+   "why": "stale quote / market closed (last price 687 min old)",
    "score": 90
-  },
-  {
-   "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 635 min old)",
-   "score": 90
-  },
-  {
-   "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 635 min old)",
-   "score": 75
-  },
-  {
-   "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 635 min old)",
-   "score": 82
-  },
-  {
-   "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 633 min old)",
-   "score": 90
-  },
-  {
-   "sym": "GDX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 52
   },
   {
    "sym": "NVDA",
-   "why": "reward/risk after costs only 0.64",
-   "score": 82
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 71
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 63
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 76
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 57
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 58
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 51
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 29
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 28
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 45
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 28
   }
  ],
  "paper": {
@@ -391,7 +365,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 12 Nov 2026 02:44 AM AEDT",
+  "last_scan": "Thu 12 Nov 2026 03:36 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
