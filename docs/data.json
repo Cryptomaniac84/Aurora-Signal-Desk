@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 04:38 PM AEDT",
- "fx_audusd": 0.6879,
+ "generated": "Wed 11 Nov 2026 05:38 PM AEDT",
+ "fx_audusd": 0.6876,
  "signals": [],
  "events": [
   {
@@ -125,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "whitmerpressestrumpadministrationontariffsgroceryreimburseme",
-   "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gwRXZpR25fTDZsUDlaYWh6TDh5bWNXd0xuaFh4TDZOaFJycmVkRmhXNnB5RE14YTV6Zm1jclRZX1U2N2xieUN4T0t5d0JjUHhkWHl0Mm54SG9TR2U3N0lqbTdURUZWNjFHMTg3Mm5pWXFrUk5aSWx0NjIwM2FldGM4NElybzE2N0EybFd2Vm9SVDlaTEHSAZsBQVVfeXFMTVJJTTE3V3NVXzNEaHJfYXhVWEJYUWVKVkFSNjhsdll3ZnYwN3dST3haT1pvLWlPUHA5bVFvQjN4VlRSUkdtM0QxdzVjZGJFaEJiSVhQb0JDenFiQ1dJSmQtbEp2SHFSbmkyMy1pWXVfSHp4UkZUOVlVYVhLX0dzUE13ZDhkS2pRQ09aclpMR2lub3UzYWdnQ1FUVVE?oc=5",
+   "key": "whitehouseofficialstandsbytariffsdespiterisingcpiandmidtermb",
+   "title": "White House official stands by tariffs despite rising CPI and midterm backlash (SPY:NYSEARCA) - Seeking Alpha",
+   "source": "Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3k0bU5xakI5alNVQnJUYjRFSHJuOGlEVDN1a09OaHF0YTl1OHhwT1ZiTGF0X0Q1RDhjMGdRc3Rta05aQ2pwdDlYVk1CR3M5UHU1Q0Faa214bFJFWFZ1aTZqY3R6aTd6Vk9FNXI2THhkcEZpRHN3R0pOazdhLTZUMVVOWTFycmRPbkZXVEt0M3VDR3c3cnpzOXlrWnVqdFVUQ1prUTBUS21JelZTYkhyVmxtUjZ2Tjg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -249,82 +249,82 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 72
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 85
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 91
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "stale quote / market closed (last price 87 min old)",
    "score": 74
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 85
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 72
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 85
+   "why": "stale quote / market closed (last price 89 min old)",
+   "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 38 min old)",
-   "score": 82
+   "why": "stale quote / market closed (last price 89 min old)",
+   "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 74
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 62
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 518 min old)",
+   "why": "stale quote / market closed (last price 579 min old)",
    "score": 43
   }
  ],
@@ -339,7 +339,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 04:38 PM AEDT",
+  "last_scan": "Wed 11 Nov 2026 05:38 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
