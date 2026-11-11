@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 12:52 PM AEDT",
- "fx_audusd": 0.6886,
+ "generated": "Wed 11 Nov 2026 01:39 PM AEDT",
+ "fx_audusd": 0.688,
  "signals": [],
  "events": [
   {
@@ -51,6 +51,18 @@
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "trumpsfednightmarerateswontbeslashedtheycouldsurgenowsmhcoma",
+   "title": "Trump\u2019s Fed nightmare: Rates won\u2019t be slashed. They could surge now - SMH.com.au",
+   "source": "SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlBlZVhQSnJvYWVKNEpjYjhHa1IxdWpTQWswdGxfS3BPYWMwVWtHUEFhbDU4VGdndzlUVG1kdHR3YTl6TFNhcUhHeTZyOXZGR0tUSTdGakZsVVVSZ29WQ3lLS2V5ZHdsOWh0cG5VWlZnNEdSY1Fmb2VRT0gtWG0xdVFRVEJGdWlMc0U2T1puMkF3SlNoZlhFVlZqVzVacFR0VmxSUnlRUlR0X01CXzhzTmwxSkp1TlRYbHVlT0tpaDVpNTJQSWRKLUVR?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "whitehouseisntretreatingontariffsaftermidtermelectionlossesq",
@@ -113,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "whitmerpressestrumpadministrationontariffsgroceryreimburseme",
-   "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gwRXZpR25fTDZsUDlaYWh6TDh5bWNXd0xuaFh4TDZOaFJycmVkRmhXNnB5RE14YTV6Zm1jclRZX1U2N2xieUN4T0t5d0JjUHhkWHl0Mm54SG9TR2U3N0lqbTdURUZWNjFHMTg3Mm5pWXFrUk5aSWx0NjIwM2FldGM4NElybzE2N0EybFd2Vm9SVDlaTEHSAZsBQVVfeXFMTVJJTTE3V3NVXzNEaHJfYXhVWEJYUWVKVkFSNjhsdll3ZnYwN3dST3haT1pvLWlPUHA5bVFvQjN4VlRSUkdtM0QxdzVjZGJFaEJiSVhQb0JDenFiQ1dJSmQtbEp2SHFSbmkyMy1pWXVfSHp4UkZUOVlVYVhLX0dzUE13ZDhkS2pRQ09aclpMR2lub3UzYWdnQ1FUVVE?oc=5",
+   "key": "whitehousetocontinuetariffpolicydespitevoterreactioncnbcuane",
+   "title": "White House to continue tariff policy despite voter reaction \u2014 CNBC - UA.NEWS",
+   "source": "UA.NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUU4VEJuUXl4MVNOZTVSTGV6bUNLckpxS3NVMU01QUF1TnktYUx0S1c0T2MtZXNDWHF6WlI4WTRENGtsZEw5eFZ4M1VlN3RFTnFnSmMyMjhRWTB1RlRYeTNLbkxEWUpZVXpETFBYZXBmUTRvNmdnRE5HVmdsc29kUHpyMUttM3dPamo5WGM0bGl5UEFnOWNVSHU3ZEhTQnNseWdKd2pQTUdTdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,10 +137,10 @@
    "pts": 22
   },
   {
-   "key": "whitehousetocontinuetariffpolicydespitevoterreactioncnbcuane",
-   "title": "White House to continue tariff policy despite voter reaction \u2014 CNBC - UA.NEWS",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUU4VEJuUXl4MVNOZTVSTGV6bUNLckpxS3NVMU01QUF1TnktYUx0S1c0T2MtZXNDWHF6WlI4WTRENGtsZEw5eFZ4M1VlN3RFTnFnSmMyMjhRWTB1RlRYeTNLbkxEWUpZVXpETFBYZXBmUTRvNmdnRE5HVmdsc29kUHpyMUttM3dPamo5WGM0bGl5UEFnOWNVSHU3ZEhTQnNseWdKd2pQTUdTdw?oc=5",
+   "key": "whitmerpressestrumpadministrationontariffsgroceryreimburseme",
+   "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gwRXZpR25fTDZsUDlaYWh6TDh5bWNXd0xuaFh4TDZOaFJycmVkRmhXNnB5RE14YTV6Zm1jclRZX1U2N2xieUN4T0t5d0JjUHhkWHl0Mm54SG9TR2U3N0lqbTdURUZWNjFHMTg3Mm5pWXFrUk5aSWx0NjIwM2FldGM4NElybzE2N0EybFd2Vm9SVDlaTEHSAZsBQVVfeXFMTVJJTTE3V3NVXzNEaHJfYXhVWEJYUWVKVkFSNjhsdll3ZnYwN3dST3haT1pvLWlPUHA5bVFvQjN4VlRSUkdtM0QxdzVjZGJFaEJiSVhQb0JDenFiQ1dJSmQtbEp2SHFSbmkyMy1pWXVfSHp4UkZUOVlVYVhLX0dzUE13ZDhkS2pRQ09aclpMR2lub3UzYWdnQ1FUVVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -186,18 +198,6 @@
    "pts": 22
   },
   {
-   "key": "trumpsfednightmarerateswontbeslashedtheycouldsurgenowsmhcoma",
-   "title": "Trump\u2019s Fed nightmare: Rates won\u2019t be slashed. They could surge now - SMH.com.au",
-   "source": "SMH.com.au",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlBlZVhQSnJvYWVKNEpjYjhHa1IxdWpTQWswdGxfS3BPYWMwVWtHUEFhbDU4VGdndzlUVG1kdHR3YTl6TFNhcUhHeTZyOXZGR0tUSTdGakZsVVVSZ29WQ3lLS2V5ZHdsOWh0cG5VWlZnNEdSY1Fmb2VRT0gtWG0xdVFRVEJGdWlMc0U2T1puMkF3SlNoZlhFVlZqVzVacFR0VmxSUnlRUlR0X01CXzhzTmwxSkp1TlRYbHVlT0tpaDVpNTJQSWRKLUVR?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpappointedfedmembersignalsbiginterestratehikeasinflation",
    "title": "Trump-appointed Fed member signals big interest rate hike as inflation runs hot - The Washington Post",
    "source": "The Washington Post",
@@ -249,48 +249,63 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 292 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 340 min old)",
+   "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 292 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 292 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 340 min old)",
+   "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 292 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 72
   },
   {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 340 min old)",
+   "score": 85
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 340 min old)",
+   "score": 91
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 65
+  },
+  {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 292 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 85
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 292 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 72
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 292 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 292 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
   },
   {
    "sym": "STO.AX",
@@ -298,33 +313,18 @@
    "score": 73
   },
   {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 292 min old)",
-   "score": 79
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 292 min old)",
-   "score": 73
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 75
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 292 min old)",
-   "score": 67
+   "why": "stale quote / market closed (last price 340 min old)",
+   "score": 74
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 292 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 340 min old)",
+   "score": 62
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 292 min old)",
+   "why": "stale quote / market closed (last price 340 min old)",
    "score": 43
   }
  ],
@@ -339,7 +339,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 12:52 PM AEDT",
+  "last_scan": "Wed 11 Nov 2026 01:39 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
