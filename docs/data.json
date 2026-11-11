@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 10:58 AM AEDT",
- "fx_audusd": 0.6871,
+ "generated": "Wed 11 Nov 2026 11:54 AM AEDT",
+ "fx_audusd": 0.6874,
  "signals": [],
  "events": [
   {
@@ -57,18 +57,6 @@
    "title": "White House isn't retreating on tariffs after midterm election losses - Quartz",
    "source": "Quartz",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PTkNuUWRrLWhZdTd5QmRGOTNMbGM1aV9xeXN6UVhiR1JtaUNtVUZuV1FZRUllQ01Uai1rNGNZRW9iZk5PREtwR1F0ZFJSV2kyRGRlM3RtR3NxUU9uWVkyOVZJUGhKekh2QUhhMFVFdGljMmYz?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "theworldbracesastrumpscanadatariffstandoffescalatesmcgeevere",
-   "title": "THE WORLD BRACES as Trump\u2019s Canada Tariff Stand-Off Escalates: McGeever - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -244,107 +232,119 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "wouldyoupushaneighbourintounemploymenttoreduceinflationabcne",
+   "title": "Would you push a neighbour into unemployment to reduce inflation? - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanpYR0dWS3NwQUlKbHBiVTZMbk5HeDdHTVhKbGFPTDlYUkxLdk5RV3JWSkk3MGQzMGFvQjlDdjFqaWZoWGdwdkh4LXprSlg4UWRSdy1DX3U4YWt2Zm1SeEE4MEVGQlhEZVlfRlh1My1aZTFmbDBMMHNrVzVmOWI0N2FfXzVYNzlNclVvaHdNT2c1R0RqLWJYMWFnOFNwcjBVY0FXanZ6ME8?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 55
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 54
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 72
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 85
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 72
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 58
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 44
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 79
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 73
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 47
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 89
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 82
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 67
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 179 min old)",
+   "why": "stale quote / market closed (last price 234 min old)",
    "score": 43
   }
  ],
@@ -359,7 +359,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 10:58 AM AEDT",
+  "last_scan": "Wed 11 Nov 2026 11:54 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
