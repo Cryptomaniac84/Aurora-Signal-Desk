@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 12 Nov 2026 08:08 AM AEDT",
- "fx_audusd": 0.685,
+ "generated": "Thu 12 Nov 2026 09:12 AM AEDT",
+ "fx_audusd": 0.6852,
  "signals": [],
  "events": [
   {
@@ -127,19 +127,6 @@
    "pts": 22
   },
   {
-   "key": "howtrumpsapprovalratingwithmilitaryhaschangedsinceiranwarnew",
-   "title": "How Trump\u2019s Approval Rating With Military Has Changed Since Iran War - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWczUExfc1h1cDhvV25CTmlnTnk3UlFsaWVILXM2MjBZX2pNM0pSSUZWc09FaFJFaW9BS2kyUzlRRkZ0NENhWVQyTDF2UjFwczJiNi1ELVlkcHg2WEthSjhnTjRpTGt3YXBjQ1RrYkRNNVAydDJlSTRsZE1MaFR5TjNQeVd3UURYZHB6NURSWjc?oc=5",
-   "themes": [
-    "pharma",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
    "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -176,6 +163,18 @@
    "pts": 22
   },
   {
+   "key": "trumpexportcontrolpushfacesdelayovernvidiachipdiversiontochi",
+   "title": "Trump export control push faces delay over Nvidia chip diversion to China - Traders Union",
+   "source": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2cxUU82eWwzMXNCUUlvVUI3QUp6Z1VHMlgxd0xMQ1ZvbXd1UDJFSXVENnc3bmNhVktQY1JmYnZ4TTEyV1Q1M3plRHlNcENyVE1ieTA0V3V5VEdHNGhqdG94ZDlXOFF5bk1tandabWdPWGVUdnd3dkJyUkx2V1hzTGpsTFZtd0VLUGRwc0xqZTNueUEzVjlqRldxdHhvNWJlWndB?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabiareu",
    "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
    "source": "Reuters",
@@ -201,18 +200,6 @@
    "pts": 20
   },
   {
-   "key": "fedsgoolsbeecallsinflationreportborderlinedisturbingascentra",
-   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGliNnhINWdOb0RYdm54M2dIWGNuazZhZ01USkpfZzFKUHIwVTZBZ3RjNm5iUzRjcEFJcF94V01McUE5OUtWZFVJVi02b1VzR2RIbjY2QzNUb3I0V01nbzRhS2FEZ29nLUJQOEUzTGtJd3NwNkRlamVubHNuTkhadFVBV0h4QUhEd2xLSFB1eWpGX3VmQWNoOHozbUc?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "exclusivechineseuniversityboughtnvidiah200chipsdespiteusblac",
    "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters",
    "source": "Reuters",
@@ -223,6 +210,18 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "manufacturingadvocatesmakecasefortariffsfollowingmidtermresu",
+   "title": "Manufacturing advocates make case for tariffs following midterm results - Manufacturing Dive",
+   "source": "Manufacturing Dive",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBKSGpnZ3BfWUJ4NzFRXzFrUVVfMUo3OG1pcUZycjF2cTZMbHBuZUJxOG9hcVpWaDlFcHJ4WVdkbmJZRWp0NmJSazFjbEdreFhJSDFqUTJPWW9acWhGak13VXZaeUVieGZZOU81eGFRWlVWNGpzdy1paUtFV3V5QXJnTU5TUkdhZGl2SEFrNzc3VDhBSmNmUEY4ZkwyeGc4LTk0UDlYbDlvR2JVM1d6c1ZBUE9zdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "mostamericansbackendingiranwarandtariffrepealinpollnationtha",
@@ -252,133 +251,118 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 60
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 57
   },
   {
    "sym": "ITA",
-   "why": "reward/risk after costs only -0.37",
-   "score": 92
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 100
   },
   {
    "sym": "XLE",
-   "why": "reward/risk after costs only -0.32",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 64
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 65
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 959 min old)",
+   "why": "stale quote / market closed (last price 1023 min old)",
    "score": 100
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 959 min old)",
+   "why": "stale quote / market closed (last price 1023 min old)",
    "score": 85
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 959 min old)",
+   "why": "stale quote / market closed (last price 1023 min old)",
    "score": 92
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 957 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 100
   },
   {
    "sym": "GDX",
-   "why": "volume not confirmed (1.1x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 52
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (1.2x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 45
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.3x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 39
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 957 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 74
   },
   {
    "sym": "XOM",
-   "why": "reward/risk after costs only -0.27",
-   "score": 84
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 77
   },
   {
    "sym": "CVX",
-   "why": "reward/risk after costs only -0.50",
-   "score": 81
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 73
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 959 min old)",
+   "why": "stale quote / market closed (last price 1023 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 959 min old)",
+   "why": "stale quote / market closed (last price 1023 min old)",
    "score": 92
   },
   {
-   "sym": "XBI",
-   "why": "reward/risk after costs only -0.08",
-   "score": 91
-  },
-  {
-   "sym": "LLY",
-   "why": "position size under 1 share",
-   "score": 77
-  },
-  {
-   "sym": "PFE",
-   "why": "reward/risk after costs only -0.14",
-   "score": 91
-  },
-  {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 38
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 41
-  },
-  {
-   "sym": "SOXX",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 40
-  },
-  {
-   "sym": "TSM",
-   "why": "volume not confirmed (1.2x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 43
   },
   {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 42
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 44
+  },
+  {
    "sym": "LMT",
-   "why": "score 67 below 70",
-   "score": 67
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 74
   },
   {
    "sym": "RTX",
-   "why": "reward/risk after costs only -0.36",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "position size under 1 share",
-   "score": 74
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 82
   }
  ],
  "paper": {
@@ -392,7 +376,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 12 Nov 2026 08:08 AM AEDT",
+  "last_scan": "Thu 12 Nov 2026 09:12 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
