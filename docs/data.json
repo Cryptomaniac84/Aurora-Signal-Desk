@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 12 Nov 2026 01:58 AM AEDT",
- "fx_audusd": 0.6849,
+ "generated": "Thu 12 Nov 2026 02:44 AM AEDT",
+ "fx_audusd": 0.6851,
  "signals": [],
  "events": [
   {
@@ -113,18 +113,6 @@
    "pts": 22
   },
   {
-   "key": "congresshasthevotestorepealtrumpstariffsdemocratcbc",
-   "title": "Congress has the votes to 'repeal' Trump's tariffs: Democrat - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VEpzY1VoZy1jRTdXeVRXTDJKTmxPSlpPV3R6MmlUUFc4TGZ0X0l4Q0g2VS1hRDYxd3lUVUFTVU8xLXF2SkFwTG9nR1IzMGV0QnVnaUE0cWFTQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "howtrumpsapprovalratingwithmilitaryhaschangedsinceiranwarnew",
    "title": "How Trump\u2019s Approval Rating With Military Has Changed Since Iran War - Newsweek",
    "source": "Newsweek",
@@ -175,25 +163,25 @@
    "pts": 20
   },
   {
-   "key": "nigeriasoctobercrudeoutputaverages169millionbpdmeetingopecqu",
-   "title": "Nigeria\u2019s October crude output averages 1.69 million bpd, meeting OPEC quota for sixth month - CNBC Africa",
-   "source": "CNBC Africa",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZC1GejU2ZGpOd0NocHNwaEZyUW9iT016dllUbGE0b3dza1FQQmUxdlVOT1pJWmNrV1EwQWhfamtJOEc2LUI4YzdmUHlGZ3RmTk5XUnQ5NXV3Nl93SDlMVUgyMHZaa3JxQVRtX2NuM1JWUVVrd1dtTFp0V1FhZUk5SmI0V1RhWFFXUXJrZlplcF83VDRZMV9CeUN6ZFJSWkdfcXhJSkk1bXNTZXNLYlpld3BYY2d5WEpiXzB6T1ZFMHQ?oc=5",
+   "key": "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabiareu",
+   "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
    "themes": [
-    "energy"
+    "energy",
+    "geopolitics"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
   },
   {
-   "key": "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabiabnn",
-   "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - BNN Bloomberg",
-   "source": "BNN Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPai1DSm4tWnhSV1E4aVhmSnpsX3NwbEpTNi10amh2UTBPZXZUZkVVVHZQOGZ1ZzJEeHNya1MtNEhWNEZGQ0wtYWd1alRtcGtTMTNMVzJyM2xVdHZzQTBOdE90NmtWbElqVWNVNzkzX1c4Mzh6N0ptN3lUSkc1aFRteTJ1VWd4T2RPNzhRRmNubWx1alJPeTM0Skl3TkFkRUhFeklZRjhmb0U2cXJBVHlTOFE4UjVvMzFGamFZRHZaYw?oc=5",
+   "key": "nigeriasoctobercrudeoutputaverages169millionbpdmeetingopecqu",
+   "title": "Nigeria\u2019s October crude output averages 1.69 million bpd, meeting OPEC quota for sixth month - CNBC Africa",
+   "source": "CNBC Africa",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZC1GejU2ZGpOd0NocHNwaEZyUW9iT016dllUbGE0b3dza1FQQmUxdlVOT1pJWmNrV1EwQWhfamtJOEc2LUI4YzdmUHlGZ3RmTk5XUnQ5NXV3Nl93SDlMVUgyMHZaa3JxQVRtX2NuM1JWUVVrd1dtTFp0V1FhZUk5SmI0V1RhWFFXUXJrZlplcF83VDRZMV9CeUN6ZFJSWkdfcXhJSkk1bXNTZXNLYlpld3BYY2d5WEpiXzB6T1ZFMHQ?oc=5",
    "themes": [
-    "energy",
-    "geopolitics"
+    "energy"
    ],
    "trump": false,
    "trusted": true,
@@ -246,138 +234,150 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "mostamericansbackendingiranwarandtariffrepealinpollnationtha",
+   "title": "Most Americans back ending Iran war and tariff repeal in poll - Nation Thailand",
+   "source": "Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yUmhMS3c5UHVUQ2M1ODNnOHN5UVl3RWtCNXRUQ2NXMklCQkdNdDZyekppaDlHS1RBY1Q4eGhsWW1raHJ4dGh5UE9PWUx5Vmt5UjNqUkpzTUhLZVdzNU5V?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 48
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 49
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 67
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 77
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 67
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 50
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 47
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 75
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 43
+   "why": "position size under 1 share",
+   "score": 92
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 586 min old)",
+   "why": "stale quote / market closed (last price 633 min old)",
    "score": 74
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 75
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 55
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 66
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 65
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 57
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 588 min old)",
+   "why": "stale quote / market closed (last price 635 min old)",
    "score": 70
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 588 min old)",
+   "why": "stale quote / market closed (last price 635 min old)",
    "score": 90
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 588 min old)",
+   "why": "stale quote / market closed (last price 635 min old)",
    "score": 90
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 588 min old)",
+   "why": "stale quote / market closed (last price 635 min old)",
    "score": 75
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 588 min old)",
+   "why": "stale quote / market closed (last price 635 min old)",
    "score": 82
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 586 min old)",
+   "why": "stale quote / market closed (last price 633 min old)",
    "score": 90
   },
   {
    "sym": "GDX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 52
   },
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 45
+   "why": "reward/risk after costs only 0.64",
+   "score": 82
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 68
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 73
   },
   {
    "sym": "SOXX",
-   "why": "reward/risk after costs only 0.97",
-   "score": 75
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 76
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 37
   },
   {
    "sym": "LMT",
    "why": "volume not confirmed (0.6x normal)",
-   "score": 66
+   "score": 51
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 29
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 46
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 45
   }
  ],
  "paper": {
@@ -391,7 +391,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 12 Nov 2026 01:58 AM AEDT",
+  "last_scan": "Thu 12 Nov 2026 02:44 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
