@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 05:38 PM AEDT",
- "fx_audusd": 0.6876,
+ "generated": "Wed 11 Nov 2026 06:57 PM AEDT",
+ "fx_audusd": 0.6874,
  "signals": [],
  "events": [
   {
@@ -89,6 +89,30 @@
    "pts": 22
   },
   {
+   "key": "congresshasthevotestorepealtrumpstariffsdemocratcbc",
+   "title": "Congress has the votes to 'repeal' Trump's tariffs: Democrat - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VEpzY1VoZy1jRTdXeVRXTDJKTmxPSlpPV3R6MmlUUFc4TGZ0X0l4Q0g2VS1hRDYxd3lUVUFTVU8xLXF2SkFwTG9nR1IzMGV0QnVnaUE0cWFTQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "canadianswarmingtochinaindiaastrumpstariffspushottawatowardt",
+   "title": "Canadians Warming to China, India as Trump\u2019s Tariffs Push Ottawa Toward the Indo-Pacific: Poll - Asia Pacific Foundation of Canada",
+   "source": "Asia Pacific Foundation of Canada",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnNXNjlHMUFfVUVNaWVsUVRzSHEtWVdDUDJwcDM5bm5oSlBDWHdhZXNMem9LNVdIa3h4eURoVXN3akw0SkFqdkNja3dRbXhxeGNlNTdFX2NHOVZYZklKTGtBaDVUTmZJZkI5N2p2eFZsUGJJUzBBNkd6bHlRRV9XSXpwdk1SbW53eU9hUnN5S3ZmM3RrcHJnMWFsRTJySVFYQ3JSWlk1TGltWG92YWoxSHNNTF9BVHZULVVNbkRVd01UVDVGRHpDaFNrTEhSa1FjQURWV1ZB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "whitmeraskstrumpadministrationtoendfoodtariffsreimbursemichi",
    "title": "Whitmer asks Trump administration to end food tariffs, reimburse Michiganders for increased costs - Michigan Advance",
    "source": "Michigan Advance",
@@ -113,22 +137,10 @@
    "pts": 22
   },
   {
-   "key": "canadianswarmingtochinaindiaastrumpstariffspushottawatowardt",
-   "title": "Canadians Warming to China, India as Trump\u2019s Tariffs Push Ottawa Toward the Indo-Pacific: Poll - Asia Pacific Foundation of Canada",
-   "source": "Asia Pacific Foundation of Canada",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnNXNjlHMUFfVUVNaWVsUVRzSHEtWVdDUDJwcDM5bm5oSlBDWHdhZXNMem9LNVdIa3h4eURoVXN3akw0SkFqdkNja3dRbXhxeGNlNTdFX2NHOVZYZklKTGtBaDVUTmZJZkI5N2p2eFZsUGJJUzBBNkd6bHlRRV9XSXpwdk1SbW53eU9hUnN5S3ZmM3RrcHJnMWFsRTJySVFYQ3JSWlk1TGltWG92YWoxSHNNTF9BVHZULVVNbkRVd01UVDVGRHpDaFNrTEhSa1FjQURWV1ZB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "whitehouseofficialstandsbytariffsdespiterisingcpiandmidtermb",
-   "title": "White House official stands by tariffs despite rising CPI and midterm backlash (SPY:NYSEARCA) - Seeking Alpha",
-   "source": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3k0bU5xakI5alNVQnJUYjRFSHJuOGlEVDN1a09OaHF0YTl1OHhwT1ZiTGF0X0Q1RDhjMGdRc3Rta05aQ2pwdDlYVk1CR3M5UHU1Q0Faa214bFJFWFZ1aTZqY3R6aTd6Vk9FNXI2THhkcEZpRHN3R0pOazdhLTZUMVVOWTFycmRPbkZXVEt0M3VDR3c3cnpzOXlrWnVqdFVUQ1prUTBUS21JelZTYkhyVmxtUjZ2Tjg?oc=5",
+   "key": "whitmerpressestrumpadministrationontariffsgroceryreimburseme",
+   "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2gwRXZpR25fTDZsUDlaYWh6TDh5bWNXd0xuaFh4TDZOaFJycmVkRmhXNnB5RE14YTV6Zm1jclRZX1U2N2xieUN4T0t5d0JjUHhkWHl0Mm54SG9TR2U3N0lqbTdURUZWNjFHMTg3Mm5pWXFrUk5aSWx0NjIwM2FldGM4NElybzE2N0EybFd2Vm9SVDlaTEHSAZsBQVVfeXFMTVJJTTE3V3NVXzNEaHJfYXhVWEJYUWVKVkFSNjhsdll3ZnYwN3dST3haT1pvLWlPUHA5bVFvQjN4VlRSUkdtM0QxdzVjZGJFaEJiSVhQb0JDenFiQ1dJSmQtbEp2SHFSbmkyMy1pWXVfSHp4UkZUOVlVYVhLX0dzUE13ZDhkS2pRQ09aclpMR2lub3UzYWdnQ1FUVVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -168,6 +180,18 @@
    "themes": [
     "energy",
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "commentarytrumpbrokeopechemayregretitboussoenergynowcom",
+   "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVFJONE9NeE5JNGU1V2FSN0JOV0JSTWVDUFJRNjJEZTdSWjlJZWhrM0RvZlJoZ0ZUY3pidU9ZQUsyMTNhLW9yY09ZemN2c2VjNXBiNmlUWGxCbGhhUmY2UWo5cllpVkpyS01EeUtwanpQYlk1dE1vYlc2Zw?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -220,112 +244,108 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "howthedemocratsarepreparingtochallengetariffsafterusmidtermw",
-   "title": "How the Democrats are preparing to challenge tariffs after U.S. midterm wins - CBC",
-   "source": "CBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WWwxaFpPWXBmQnlhQVJXMllWTlM5UnItTlpUdVpQME8taXMxdmF4QmdNcjdmbk9QMGV1RHJNZVV3Q01vWDFFVm0tTnR1dFhfMkVZTXF4YlJmQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "eventhisbluewaveprobablywontwashtariffsawaythewashingtonpost",
-   "title": "Even this blue wave probably won\u2019t wash tariffs away - The Washington Post",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUlIdnNleFhkZVBLWDA0bHZsOFhIQ0NWR0F3TktUbUZ0Y3dZOXRFNG51Z0dEcjBkazl3ZzJUZ0FkbFV2VHY1TUNkWFA4cWtXdjNyVWpMUnFIY2NmWlJSYkkyUHRxcmV1c2kxbnZXblh5T2x5MFRiY1RKRGszeEVzS2hTVHFpS2NmemhBRHE2cDhaVEtXTHJsN2VqdXFYRUdyVWxJ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 579 min old)",
-   "score": 58
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 69
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 72
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 579 min old)",
-   "score": 85
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 92
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 91
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 87 min old)",
+   "why": "stale quote / market closed (last price 165 min old)",
    "score": 74
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 85
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 72
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 579 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 64
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 89 min old)",
+   "why": "stale quote / market closed (last price 167 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 89 min old)",
+   "why": "stale quote / market closed (last price 167 min old)",
    "score": 92
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 53
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 52
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 87
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 90
+  },
+  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 74
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 579 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 62
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 579 min old)",
-   "score": 43
+   "why": "stale quote / market closed (last price 657 min old)",
+   "score": 47
   }
  ],
  "paper": {
@@ -339,7 +359,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 05:38 PM AEDT",
+  "last_scan": "Wed 11 Nov 2026 06:57 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
