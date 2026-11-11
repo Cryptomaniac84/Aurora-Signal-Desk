@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 11 Nov 2026 11:50 PM AEDT",
- "fx_audusd": 0.6866,
+ "generated": "Thu 12 Nov 2026 01:04 AM AEDT",
+ "fx_audusd": 0.6855,
  "signals": [],
  "events": [
   {
@@ -9,18 +9,6 @@
    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices - CNBC",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFdhSXUwZmVuNVZuLXZleE84ak1aVEFJMWVJWnU5OXc1dlpsSTMwckVzVTBGNWdtOGp5SGVLV1BJS21lYlpPV1pFVTNBTnBlbjdqbFpUUDNHZHNNTXBTY3daV2JVS2FPZHpYbmJFSFEtTWhPV1dJaFUwSExnVW9VMDRrM05BQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "mostamericanswantnewdemocraticcongresstoendtrumpsiranwarreut",
-   "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -45,6 +33,18 @@
    "title": "Feeling bleu: Cheesemakers caught in Trump\u2019s tariff dispute - USA Today",
    "source": "USA Today",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQThGaUI3LXQwOWh1MGFwd2Z6QnVpRGxSTm9SVU01MmhnWnRsQlBrNDFUYnpjQUotQ1N6eUhXb3Q5Qlc5bEFnbnJCQ0dRU2VRc1A1Y0R2WUd0V1FLanllNFZZenlYNE1Qb1NEeTFOLTRlNFo4bEJCbHZUN056MDBnQ2JGTU02a3VZMm84VlI5VTJVcFZ2RVkwdHFPT3BrbEg0bVlIOS02Qy0xZUJ2UTJPZ0xB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,11 +125,12 @@
    "pts": 22
   },
   {
-   "key": "usborrowingcostsriseatfastestratesincetrumpsliberationdaytar",
-   "title": "US borrowing costs rise at fastest rate since Trump\u2019s \u2018liberation day\u2019 tariffs - The Telegraph",
-   "source": "The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFQzNldEa0g1Wm9KcF9hZXpoVWo2Znlwd3prT0dPeGRiRVVjbDlXRWVuSURkcmd2bXYxZGY4WUN2ZG8tcFg1NlhSQ1NaY1piN1M0T3oyQ2lsQ3NGM2VrS2N1WHI2QmJ5bHNfWkJ1LWRxTm03NldGSXdSMk43QU5RWHdrbmY0eC1oU1M3cFAwdFVvdWhpWGY1YW1EN2pGTXFLVFUxRE56N2w3N29D?oc=5",
+   "key": "howtrumpsapprovalratingwithmilitaryhaschangedsinceiranwarnew",
+   "title": "How Trump\u2019s Approval Rating With Military Has Changed Since Iran War - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWczUExfc1h1cDhvV25CTmlnTnk3UlFsaWVILXM2MjBZX2pNM0pSSUZWc09FaFJFaW9BS2kyUzlRRkZ0NENhWVQyTDF2UjFwczJiNi1ELVlkcHg2WEthSjhnTjRpTGt3YXBjQ1RrYkRNNVAydDJlSTRsZE1MaFR5TjNQeVd3UURYZHB6NURSWjc?oc=5",
    "themes": [
+    "pharma",
     "geopolitics"
    ],
    "trump": true,
@@ -137,12 +138,12 @@
    "pts": 22
   },
   {
-   "key": "trumpadminremainsinterestedinstrategicbitcoinreserveformerwh",
-   "title": "Trump Admin Remains Interested in Strategic Bitcoin Reserve, Former White House Official Claims - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEd4c29mYlhmNFhGRTBVZmUyWlJwLWdiQ2pBLUVXOG5KeEJOY0paRldzalRmMHQzT0d6YjQwWXh5ejE0cXRYQ29fVlQ5UmROeWh2Q0pPSEFFaDZvNjZFYlZna1VPUEp6eWZTYnZ0eG5BSElWOUh0d0NlMktKVGttQnA2RVMzbXZBV3ZaQUdoQnZiM29OSXpOTHZ3UU10bFNNTy14SjNzMGZkRG5KMzJ6dWgxZ0dVZnFYMF9jaFljcDgzbXRCbG92dTNjZDUxbmd4ckEtMWU1NlhLeVdDb1pCc1gtUjZmb0dO?oc=5",
+   "key": "polandannouncesthepentagonsgreenlightforapermanentusmilitary",
+   "title": "Poland announces the Pentagon's green light for a permanent U.S. military base; the final decision belongs to the White House - Informat.ro",
+   "source": "Informat.ro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVQtMV9ZOFpmeFJrVlRCSFdDaTltdndzci0tcEpkNXlCYkUyeDR3UXJ2d2JVeVBIcEdaRThMWjcybVBqY3phZGpLMDBJcG16NlkzSFIxdUN4ZHlZQUwtV3JZRnVrbDNycHgxSDRYMjFzWXBXeklGaXdLaHRGdWp5bWRLZXZPRm9BSHIweUZLME5FMUJFWm8weFc2S203LTNScDhwVkZESQ?oc=5",
    "themes": [
-    "crypto"
+    "defence"
    ],
    "trump": true,
    "trusted": false,
@@ -161,17 +162,42 @@
    "pts": 22
   },
   {
-   "key": "oilnewstrumpsirancommentscutwarpremiumasopecoutputrisesfxemp",
-   "title": "Oil News: Trump\u2019s Iran Comments Cut War Premium as OPEC Output Rises - FXEmpire",
-   "source": "FXEmpire",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY1FJa1Z6WUYxcnhqZ1ZSWmZOZ3o1aWlxYjNjbGRQelFEQXdNTGxGWEpUUk5kOGo0d04zeU03QnlSRENwczVyNGEwNDlLeThmNkxRaGdlREVDMmI3VGpCbUVIcEF0Z2FycUlGM2lZOEJ4V1VHanllUmtKQ2dxRUNHR1NkTzN2ckY4d01QWERsNFZZUUJ0RW9sc1FGM2pRSl9UVXpWYl90TFVXWDd2UTFRWjdxb0RURFF0?oc=5",
+   "key": "saudistellopecoutputsurged26tohighestsincewarbeganbloombergc",
+   "title": "Saudis Tell OPEC Output Surged 26% to Highest Since War Began - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMU1UZzFGcHVQTS1lNzJZVXZKeFlhS3ltbjcwcDAyVGZOWkZsUkFobUhoT2d6TTMxN2l3Y0NGQ1lsZDJ0Y0Fzcl9lNkR0Q0o5ZmpCRnRERnVBSDhHVnEwNXcxQmJBZy1ZTHEySzh3TkkwMmpmZDRxTkVhUUw0SnNkXzJCd0NsZWpsQzJSRzl0dHpaMU9hQXZ4ZUtqc1FJSVpvbWZlcVpueTByUjk1akZr?oc=5",
    "themes": [
     "energy",
     "geopolitics"
    ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "saudiarabialeadsfurtherjumpinopecoiloutputdespitewarreuters",
+   "title": "Saudi Arabia leads further jump in OPEC+ oil output despite war - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
+   "themes": [
+    "energy",
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "nigeriasoctobercrudeoutputaverages169millionbpdmeetingopecqu",
+   "title": "Nigeria\u2019s October crude output averages 1.69 million bpd, meeting OPEC quota for sixth month - CNBC Africa",
+   "source": "CNBC Africa",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZC1GejU2ZGpOd0NocHNwaEZyUW9iT016dllUbGE0b3dza1FQQmUxdlVOT1pJWmNrV1EwQWhfamtJOEc2LUI4YzdmUHlGZ3RmTk5XUnQ5NXV3Nl93SDlMVUgyMHZaa3JxQVRtX2NuM1JWUVVrd1dtTFp0V1FhZUk5SmI0V1RhWFFXUXJrZlplcF83VDRZMV9CeUN6ZFJSWkdfcXhJSkk1bXNTZXNLYlpld3BYY2d5WEpiXzB6T1ZFMHQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "goldgainsaftersteepdropbuthawkishcentralbanksignalsweighreut",
@@ -198,6 +224,18 @@
    "pts": 20
   },
   {
+   "key": "exclusivechineseuniversityboughtnvidiah200chipsdespiteusblac",
+   "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "nvidiaspyscandalexposessingaporesroleinchinasaichiptradefina",
    "title": "Nvidia spy scandal exposes Singapore\u2019s role in China\u2019s AI chip trade - Financial Times",
    "source": "Financial Times",
@@ -208,169 +246,138 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "mostamericansbackendingiranwarandtariffrepealinpollnationtha",
-   "title": "Most Americans back ending Iran war and tariff repeal in poll - Nation Thailand",
-   "source": "Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yUmhMS3c5UHVUQ2M1ODNnOHN5UVl3RWtCNXRUQ2NXMklCQkdNdDZyekppaDlHS1RBY1Q4eGhsWW1raHJ4dGh5UE9PWUx5Vmt5UjNqUkpzTUhLZVdzNU5V?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "howmidtermresultsreshapethetradelandscapeastariffreliefcanad",
-   "title": "How midterm results reshape the trade landscape as tariff relief, Canada talks and USMCA review loom - Automotive News",
-   "source": "Automotive News",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHAzLW1WODlTS1hnSHNpUWV3U0NIb0dMajZTb0xfUG9wVVVxZ0NWMTFqOEdoTEE5TnRVTVdjTmxnYm9oQlhacl9HZzRIYTBJU0JuczlvdW1HRnpsOGN2Nm9DYTltbWJWZzhEVEZoVlBXeUZZVk9ick9jVV9TM3NwUzVTdw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "opinionhowdoyoulikethosetariffsnowwsj",
-   "title": "Opinion | How Do You Like Those Tariffs Now? - WSJ",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhTlJVTXc2T1ZwQ2ZJYXR1SEhZZXNVSTBkR2JFMTRRMjd3LWJaVktFekxtQ1NVVER6VTNyRmMwMzVjUnNFN3pLckcwVjEyUFg0UG96MjR2U1JqWnVjYk1Nc08wand2M3NtWVRJcE1xUUIwX3hFNlg0NzJR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 58
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 72
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 85
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 91
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 532 min old)",
    "score": 74
   },
   {
-   "sym": "COIN",
-   "why": "stale quote / market closed (last price 951 min old)",
-   "score": 85
-  },
-  {
-   "sym": "MSTR",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 72
   },
   {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 1024 min old)",
+   "score": 72
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 1024 min old)",
+   "score": 92
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 1024 min old)",
+   "score": 84
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 1024 min old)",
+   "score": 72
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 1024 min old)",
+   "score": 53
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 461 min old)",
+   "why": "stale quote / market closed (last price 534 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 461 min old)",
+   "why": "stale quote / market closed (last price 534 min old)",
    "score": 92
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 461 min old)",
+   "why": "stale quote / market closed (last price 534 min old)",
    "score": 90
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 461 min old)",
+   "why": "stale quote / market closed (last price 534 min old)",
    "score": 75
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 461 min old)",
+   "why": "stale quote / market closed (last price 534 min old)",
    "score": 82
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 459 min old)",
+   "why": "stale quote / market closed (last price 532 min old)",
    "score": 90
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 55
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 53
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 52
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 951 min old)",
+   "why": "stale quote / market closed (last price 1024 min old)",
    "score": 90
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 951 min old)",
-   "score": 74
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 951 min old)",
-   "score": 62
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 951 min old)",
-   "score": 43
   }
  ],
  "paper": {
@@ -384,7 +391,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 11 Nov 2026 11:50 PM AEDT",
+  "last_scan": "Thu 12 Nov 2026 01:04 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
