@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 12 Nov 2026 09:19 PM AEDT",
- "fx_audusd": 0.6835,
+ "generated": "Thu 12 Nov 2026 10:24 PM AEDT",
+ "fx_audusd": 0.683,
  "signals": [],
  "events": [
   {
@@ -21,18 +21,6 @@
    "title": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit - CNBC",
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEZQd1VKRnhGOXdpSDNHeGtxVzBDdEN3a0VnV3hyZG9YZXhscndPSk92N291WE5CTkYwU190dWNSVHFYUnFtWDUyaGtXLTNxWDZzT0oweU9wdTBFS0x1RzJtR0hvbks1TGFCQ0J5QnN3Q01vd0V6bVdtaWZxMGdTY1VoUU9aQm1uRFVVOC1qM0c?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumpstiestonvidiaceojensenhuanginthespotlightreuters",
-   "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -65,6 +53,18 @@
    "pts": 22
   },
   {
+   "key": "canadasambassadorwarnstrumpstariffsareraisingbusinesscostsun",
+   "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - Benzinga",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZzQ5allJakZZeUZYN1BWQlRQaGZNY0duTmZ4WTllby1jT29NaHpEVENMeVJ0RUFYLUt4aV9rNkE5QjVYMjFIMEp6ZUNmRm4yUmF2MTBtQ2ljS3A4clk0Y0ZRQ3BrTURyMXd6b2pDWHMxMkdQNlZ6TnhyOHprNHJUa1FyZkVPQ1gwczAxNV9JN1pWblBRZ2Q4MVJiRmhBTndSZ0h6dEE4R2JYNk1BaGltOER2cWx6S3VBSUpOZzVrYlVOU18tRDJIbVdxd29tbHdiQ3lGOV9WZDQ0THhPalZjWThTVDNoYTZqUllIT01ROXhEOEY2eGc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "asiahopesdemocratscanproviderelieffromtrumpsiranwartariffsru",
    "title": "Asia Hopes Democrats Can Provide Relief From Trump\u2019s Iran War, Tariffs: Russell - EnergyNow",
    "source": "EnergyNow",
@@ -89,18 +89,6 @@
    "pts": 22
   },
   {
-   "key": "randpaulblamesiranwartrumpstariffsforgoplossesthingscosttoom",
-   "title": "Rand Paul Blames Iran War, Trump\u2019s Tariffs for GOP Losses: \u2018Things Cost Too Much and People Are Strugglin - Benzinga",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVF1ekYtbFpqUVZyUDE1ZkpXeDlIc3dWZmxfWlFQQ1JnNU9FZWVwUm5Fc3BXRDZfLUVZRGxFRWVqeW1GQ1o5S0tnOTF4OUtrU1pzUlZGSlRqXzd3dDNZU1ktVnVNdVlvbU1LWEVUS3RpZnBnNzNZM1owV1QxSlpiUnE2cVlIbEpYUEJRcW1yeGJsN0NKOXJMMVhkQ1c2bFBLVnZmeEtn?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "gmbackedlithiumamericashitbytrumptariffsgmauthority",
    "title": "GM-Backed Lithium Americas Hit By Trump Tariffs - GM Authority",
    "source": "GM Authority",
@@ -114,10 +102,10 @@
    "pts": 22
   },
   {
-   "key": "sencoonsontariffsiranwhytrumpshouldfirehegsethpbs",
-   "title": "Sen. Coons on tariffs, Iran, why Trump should fire Hegseth - PBS",
-   "source": "PBS",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNUtldUhsTmppV21jQ2dUcm56RjdKd3FnX2hkVmhDMVhocF81MHhMb1BEODVIai03NTBKM1AwRDdGSERFZUxOSHpUR1JYbnR3bzNfYkFrUDhCaEF4YXc?oc=5",
+   "key": "canadawarnstrumptariffsraisebusinessinvestmentcoststradersun",
+   "title": "Canada warns Trump tariffs raise business investment costs - Traders Union",
+   "source": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjMtWHNtbmpNM2I5aEZvdm43aTNBQW4tZzBwTDFWZW1aTEtReVh2eUVpOU1FOG9ZM2gxRkpZZHFsT1Q4SVQySHlITVVGWHFHZlozWVFUQVh5S3k1bFREZm5ZRFRnQVJhYUhxM3N3UGhfSjcxcGlTeDJ4XzF1ZUJveHVWWGxBVDRWWVBhcFJHeklUM3RJQUFRZ3FiLUFQQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -126,10 +114,10 @@
    "pts": 22
   },
   {
-   "key": "canadawarnstrumptariffsraisebusinessinvestmentcoststradersun",
-   "title": "Canada warns Trump tariffs raise business investment costs - Traders Union",
-   "source": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjMtWHNtbmpNM2I5aEZvdm43aTNBQW4tZzBwTDFWZW1aTEtReVh2eUVpOU1FOG9ZM2gxRkpZZHFsT1Q4SVQySHlITVVGWHFHZlozWVFUQVh5S3k1bFREZm5ZRFRnQVJhYUhxM3N3UGhfSjcxcGlTeDJ4XzF1ZUJveHVWWGxBVDRWWVBhcFJHeklUM3RJQUFRZ3FiLUFQQQ?oc=5",
+   "key": "sencoonsontariffsiranwhytrumpshouldfirehegsethpbs",
+   "title": "Sen. Coons on tariffs, Iran, why Trump should fire Hegseth - PBS",
+   "source": "PBS",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNUtldUhsTmppV21jQ2dUcm56RjdKd3FnX2hkVmhDMVhocF81MHhMb1BEODVIai03NTBKM1AwRDdGSERFZUxOSHpUR1JYbnR3bzNfYkFrUDhCaEF4YXc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -186,18 +174,6 @@
    "pts": 22
   },
   {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFpfeVVXSGRiOWdkYVBKdW5BdlBBdldMUXRza3NOclNBdEZvWVc1QXFKT3B2RlE4aHJjLXN6NjRrakF2NlBubHBqNUFiTlNkMjktUTZqMWJaaUdPSk5nbnY1NXJ3Y05lcjFKSS1PRVgyRTk0alZBbmhKSm4yZzZLZEdWWGRtRXBBRmduSUN0VkxaajVuUnRnSUlWbmE4aFpTYVdUZlZ2dnRYNjZER1JZYkVZdV9LaVZQ?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "nvidiafalloutputstradetrucetothetestasxiwelcomestrumpthejapa",
    "title": "Nvidia fallout puts trade truce to the test as Xi welcomes Trump - The Japan Times",
    "source": "The Japan Times",
@@ -245,108 +221,147 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "chinasloaninterestratesarealreadylowcentralbanksaysbloomberg",
+   "title": "China\u2019s Loan Interest Rates Are Already Low, Central Bank Says - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW1ueXJqQzBaUmFvSzY3cFh6MkdVOEN3WUxsQ2pzSHhySDJsTHljS01VQ0NxeXpSQ1RrVzBOM3VBaUZ0NlR4Q2U1c2xhRjBHTnlSam4xSlFubWN6ejEwNnRJNG9NU2x4Rnk5bmw0dUpoUnN1TEV2OTA5WGRpYm52UmVtNzd0eGpVQ3F0WGdjZmMzUlFWcDVMcGJwbHZqeS0zY1hwWEdXT1hsNG0xeXA1T1JR?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "seniorusdemocraticsenatorsurgeadministrationtopreservenvidia",
+   "title": "Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concerns - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2otaHFORWxkN3E2TnF1cllybUxndHc4b3d1SlI3bExwOWNnV2F6VXRnU2h4eWFWMFBEUy1pcWxhaUNUTVNjZ0NZU21OMTFnRERCeGlMeW9UbkpNa3g2ZDZLNG9VanFCbzk3OGdXWWE4ZFM4MVozZzItTFVWVGdJdXNmTzlGM2U1QWtBYXp5SFhwUWlTQ0sxckxYdjlvZWJFSGFuVUVHSGZwTnJDaXlGRGlFSmllODd3WkpfeF9sOEVxeXdKU3JZ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 60
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 58
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 56
   },
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 310 min old)",
+   "why": "stale quote / market closed (last price 375 min old)",
    "score": 57
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 310 min old)",
+   "why": "stale quote / market closed (last price 375 min old)",
    "score": 57
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 310 min old)",
+   "why": "stale quote / market closed (last price 375 min old)",
    "score": 57
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 310 min old)",
+   "why": "stale quote / market closed (last price 375 min old)",
    "score": 57
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 800 min old)",
-   "score": 73
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 308 min old)",
+   "why": "stale quote / market closed (last price 373 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 308 min old)",
+   "why": "stale quote / market closed (last price 373 min old)",
    "score": 84
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 800 min old)",
+   "why": "stale quote / market closed (last price 865 min old)",
    "score": 54
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 800 min old)",
-   "score": 44
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 55
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 308 min old)",
+   "why": "stale quote / market closed (last price 373 min old)",
    "score": 63
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 74
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 82
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 865 min old)",
+   "score": 82
   }
  ],
  "paper": {
@@ -360,7 +375,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 12 Nov 2026 09:19 PM AEDT",
+  "last_scan": "Thu 12 Nov 2026 10:24 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
