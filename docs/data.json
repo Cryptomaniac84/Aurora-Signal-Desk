@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 09:12 AM AEDT",
- "fx_audusd": 0.681,
+ "generated": "Fri 13 Nov 2026 09:57 AM AEDT",
+ "fx_audusd": 0.6811,
  "signals": [],
  "events": [
   {
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "canadasambassadorwarnedtrumpstariffsareraisingthecostofinves",
-   "title": "Canada's ambassador warned Trump's tariffs are raising the cost of investment - Quartz",
-   "source": "Quartz",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oaHVtNDNtdDZnUE5lS0V2ZDNfdHRIVC1VdXJhNERsZnRWYS1tenFIMDNmWW1xd2JqUzgtNzZMZ1FnaW9CMnlyZm1UeDNnSlY3dzlTRUNNSkt6Y3ZqSjN0dW5PbzR3dTdWRzBxLVF6c19YbGpRSGx6aXlB?oc=5",
+   "key": "canadianhockeystickswineandcementsubjecttonewtrumptariffsnew",
+   "title": "Canadian hockey sticks, wine and cement subject to new Trump tariffs - News From The States",
+   "source": "News From The States",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenpxemtYd3o3TWp1V0QxeUxaTWxTVERGNFZ2ak5jdDlSdWRWbHUtS042amhnWEpxS0pYaXNjMlpqSjNGTWRrS0g5UnZEUzZRYUdCTFVXS3RmeHBqeGV5REFVdmVGNkhENVp0b1BDWDA0Z0t6Y0RJUVBBV0J2R05DVFhYWEMzQldNTlRZdTNyeERPaVRoSmloZHYzeXE2dkltSFdvWVR3bDRNUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -104,7 +104,19 @@
    "key": "sheinbaumdownplaysmigrantcaravansastrumpthreatensmoretariffs",
    "title": "Sheinbaum downplays migrant caravans as Trump threatens more tariffs - Courthouse News",
    "source": "Courthouse News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWlaWWt0X2FZaEFmY0lvVkxIdGVlQTZBT3pOMGhtdVFIN0g1Wm8xNDNHMGJzdGlQVWVsbmo5NERDbVVIZ3R2aXVCd1VSUXBCbEpMMjc3d1RTUkhwTTBzRzVZbm5jUjh2QmxxQXpTZFJwY05FbC0wby13TDBGMWQ4cGhDdjlacWdXRkFOdjNuME9VUzljeE5ZTVRMdzYzS3FLVGc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRIRmgtZkFPeHgxazlGbkRCZXJURGNmanc2ZGZMVHZzMkFndjltSVdMZHM1T1BNMGdGYTdIeFhtUFVJLU9ZcjBwcU03TjdXVWZnVm9FMnBzWG40U1laWFF2SFJaZG1rZmotbTh2WS0tenB0WXRtV1VLZU1fcURSdElaOVZjaHNkeGw5TzZVTkllbF95Ry1PUVVyZjVfMEx1?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "canadasambassadorwarnedtrumpstariffsareraisingthecostofinves",
+   "title": "Canada's ambassador warned Trump's tariffs are raising the cost of investment - Quartz",
+   "source": "Quartz",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oaHVtNDNtdDZnUE5lS0V2ZDNfdHRIVC1VdXJhNERsZnRWYS1tenFIMDNmWW1xd2JqUzgtNzZMZ1FnaW9CMnlyZm1UeDNnSlY3dzlTRUNNSkt6Y3ZqSjN0dW5PbzR3dTdWRzBxLVF6c19YbGpRSGx6aXlB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -153,18 +165,6 @@
    "title": "Trump threatens to double tariffs on Mexico as a new migrant caravan heads north - Mexico News Daily",
    "source": "Mexico News Daily",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQei1HeGpFZ1hjTlFqUXUzXzFoMXI5LVdCQmxzc2RoN1VSNi1XV2MtWEpRRkU2T2lCNVdLUHcwMUV0WUhPNzZZT0w1MEprQzB0ZWRiVEZSRkMyTnJqSF9UZ00zR3RYRHJwc0M3ZTA4Y051Sm40OXJScndjTXN0cFR3bDZhRmEzZnEwZjZHaTlVRkRVUVpUZ0E?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "canadasambassadorwarnstrumpstariffsareraisingbusinesscostsun",
-   "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU3poVjZzc29jQnB5OXhEVTBZajJ4Ym5GelJLM1djZTVaYjI5eE1CNVJweGEwdWNGaUVMNkxGaGo2NkF2b21aYy1mLTQ0V1NzZ2NhaS1JSVZkM2Z4STBuZXZ0RkJ4bVFPZ2ZQT2szd0t5Q21yaFB2d2JYZlBFVHJEYlVTRXFDMldCbTBEWWJxampUOHJveXFTOWV3dnJIX2wxc0ZoNFhRT09iQ2wtQlkzRVhmYWxvZVdZTkFoYVhOVnUyUXVJb1RhSVNLc09tUzU2b0RjN2g4aWZhbzJDT2lnWTZsZkFIMTBSZ3dScEJmdkkyNUt0OW1RdFhkSlVZb3c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,92 +248,72 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 53
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 56
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 63
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 64
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 58
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 65
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 61
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 80
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 83
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 64
   },
   {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 57
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 57
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1021 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1021 min old)",
-   "score": 84
-  },
-  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 46
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 73 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 118 min old)",
+   "score": 39
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 73 min old)",
+   "why": "stale quote / market closed (last price 118 min old)",
    "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1021 min old)",
+   "why": "stale quote / market closed (last price 1066 min old)",
    "score": 63
   }
  ],
@@ -348,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 09:12 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 09:57 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
