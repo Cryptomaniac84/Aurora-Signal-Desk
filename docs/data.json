@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 02:37 AM AEDT",
- "fx_audusd": 0.6807,
+ "generated": "Fri 13 Nov 2026 03:42 AM AEDT",
+ "fx_audusd": 0.6809,
  "signals": [],
  "events": [
   {
@@ -41,8 +41,8 @@
    "pts": 30
   },
   {
-   "key": "trumpthreatenstodoubletariffsonmexicangoodsovermigrantsbloom",
-   "title": "Trump Threatens to Double Tariffs on Mexican Goods Over Migrants - Bloomberg.com",
+   "key": "trumpthreatenstodoubletariffsonmexicoovermigrantsbloombergco",
+   "title": "Trump Threatens to Double Tariffs on Mexico Over Migrants - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnJ4S0x3TmVXb1NReEMzUU1uNU1NNmdmaXpQN0RKdFY3cUR0TmxEUFRMdk4tenRfY1Y2VDBTN1ZUSWFMandoSU9KcFhrcnF0QnZ2WVktRzZiRlZnTEVMY2xpUUU2d3lab1dILTR0alIzdDZvaThKMlcxMHQ0c3ljTDNhSG9mbTluT1NDUDhheHZnTGlXQzF3S1lBNk4yUThVQm11cE95TnEtZTFwU0VKeXVLTy1iZw?oc=5",
    "themes": [
@@ -65,16 +65,16 @@
    "pts": 30
   },
   {
-   "key": "nvidiafalloutputstradetrucetothetestasxiwelcomestrumpbloombe",
-   "title": "Nvidia Fallout Puts Trade Truce to the Test as Xi Welcomes Trump - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHB3ZXVuek1Nc2czX3hVUVBUTVMxM0hUVzhESEhOeGVjU1haSzdINFBTejRqbGZEZHFUWG94dHZiNHVqaDAyUjc0RFBpSExYWDZPRFpyanB2eTJwYUhoMTIxVUJIX1UtMDJ3MGkxMFVITDBpQXJFMVdYSVF0eEEzb1FRRTJlaEFRU3F5Wk5TRjE4Vl80Q1I4X1J6R2FpczR4MGZMZDN3ZUc1VnByMmpKTXJYdkxEUQ?oc=5",
+   "key": "trumptellsmexicohelldoubletariffsifitdoesntcrackdownonmigran",
+   "title": "Trump Tells Mexico He\u2019ll Double Tariffs If It Doesn\u2019t Crack Down On Migrant Caravans - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5",
    "themes": [
-    "semiconductors"
+    "geopolitics"
    ],
    "trump": true,
-   "trusted": true,
-   "pts": 30
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "canadianhockeystickswineandcementsubjecttonewtrumptariffsnew",
@@ -89,8 +89,8 @@
    "pts": 22
   },
   {
-   "key": "canadaenvoymarkwisemanwarnedtrumptariffsraiseinvestmentcosts",
-   "title": "Canada envoy Mark Wiseman warned Trump tariffs raise investment costs - Quartz",
+   "key": "canadasambassadorwarnedtrumpstariffsareraisingthecostofinves",
+   "title": "Canada's ambassador warned Trump's tariffs are raising the cost of investment - Quartz",
    "source": "Quartz",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oaHVtNDNtdDZnUE5lS0V2ZDNfdHRIVC1VdXJhNERsZnRWYS1tenFIMDNmWW1xd2JqUzgtNzZMZ1FnaW9CMnlyZm1UeDNnSlY3dzlTRUNNSkt6Y3ZqSjN0dW5PbzR3dTdWRzBxLVF6c19YbGpRSGx6aXlB?oc=5",
    "themes": [
@@ -137,6 +137,18 @@
    "pts": 22
   },
   {
+   "key": "trumpthreatenstodoubletariffsonmexicoifitdoesntstopmigrantsb",
+   "title": "Trump Threatens to Double Tariffs on Mexico If It Doesn't Stop Migrants, but Legal Authority Remains in Doubt - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUS1NUTRGVnFMZ2hnNjRaME5yNmhmSWJpMjNrWHZ0WUJ3YXZDeGxKTFZuendJTmRvXy1ZUkh0eG9Kbmt1ODNQM195M1ZxWGoyVDJvR1ZlZG5Vb2NVZmlJdWh0ZHp5X2J2VzFYYzJXTEZNTHVGZmc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
    "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
    "source": "Newsweek",
@@ -173,10 +185,34 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatenstodoubletariffsonmexicoifmigrantcaravansnotsto",
-   "title": "Trump threatens to double tariffs on Mexico if migrant caravans not stopped - Fox News",
-   "source": "Fox News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVGU2MWtPaXNELUlCZXZxLVRqSGlfaVJTUHBGUGtWRFBEZ2ZmSktKQldzLTNOZ3NDRUZWV0VWS2dUeWs2X25DNVlhY2l6YWgyN1RKbDdFTkphZGZzQWNNeW4xRFpLR0lNQXZzQTBCNXhuQUhHUzhXQ1ExYWJQSkN4aUtxR2lGekh2Y1Y4dHNpV093U1lDR3JGajNWZVJGaEhj?oc=5",
+   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
+   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysthereisonlyonemantoreplacejensenhuangasnvidiaceofox",
+   "title": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO - Fox Business",
+   "source": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNODlvdVMxVEZtQXN3THlxUnpaNVl5T2J4SVFDZUVoRTRCYmhiT3FscF85cGQ2ZmZsU3NGb1l5VDdvbDNMTUZqNVVnQlRjLVFHZkN6ZVBfRnE4RlN2TU1tazBmLWRRUkp2OWpLTEkyWU1WbzJ4eG16UHdzNEFRa1RiOEJoSdIBiAFBVV95cUxPMHdXU0dNQ2RucnN3M1RSZ0ZQN2hmcUJVQjVHdlg5b3BPRG1LSmp3WGg0ZjFadEdyMEx6T0YzdHJQRVNma3g1ek5Dai0wXzJENFhNNDJjWXQwNjB6WnJUWGIwMjA4ZUt5Qnhzb19CX0Z5YlI5SUQxSDVsYlhoRHVsMVRaVUJ2RzVK?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpthreatenstodoubletariffsonmexicoifitfailstostopmigrantc",
+   "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - WSMH",
+   "source": "WSMH",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFVzUnhJZXBfWmZLOGdQNUVpRjNBYXZWRVZTYW9RUW5WRGVBanotY2FfS0txM05XcjB5em1TV3VGb3ltTjgzOFFxSEU0bk1WbkEwdUlaUU82LTBfLVdWZ2FfYWhjdG1TM3NBLWYzeWpIT29JVjdoYVB4d09aOW1YcmlDT1k0b0c3bzlyTGNzYTNGX05zS1dmb1dJS2VuXzlWY1ZCaTZZZ19IeU5IRllKMldLdS1XVFhJMFJRMFFrSW5RUVdxRVNjZlhacHBZOVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -185,12 +221,12 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatenstodoublemexicotariffsovermigrantcaravansbarron",
-   "title": "Trump Threatens To Double Mexico Tariffs Over Migrant Caravans - Barron's",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzRUWUN3bW8tMTZwZ0JMNThiNFQwUkR2eVhSeHVyQkRhQlNwY3BYWWNzQmlRWUhhTllfSk9adHJ1cmpSanY5LVJPNm1rU2ZWeTR3YTB2VWtGa0w0OXZfTWVNbl9iMlZ2MFVUMTBfNTY1cEJyYW1oeW5UM000VkQzaDJMNExROFg5TDU1RmVIUWJIR2l0bTFhRlhtQlFKdzdDUUE?oc=5",
+   "key": "trumpcallsontimcooktoreplacejensenhuangatnvidiaappleinsider",
+   "title": "Trump calls on Tim Cook to replace Jensen Huang at Nvidia - AppleInsider",
+   "source": "AppleInsider",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTE9ReWpBQ1gxUHF3NEpZX1BmcUprU2x3azNPMEh5b0xlNldkX3lRT3RDZ1pwU0oxWUxSODBpaFFla2xvb2hIeFZGbFBrM1hsOXp0eVMtM3BDanZmeDBfQmFaUUhEOUtlSEstaEZYODRTOXVTeXB5NjhsVDN2LXFzM3p5d0JremVFUVFLdHRLc1dyaVVJV3VsdDJrVTU?oc=5",
    "themes": [
-    "geopolitics"
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -207,49 +243,13 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "saudioiloutputsurgestooneofhighestlevelsinyearsbloombergcom",
-   "title": "Saudi Oil Output Surges to One of Highest Levels in Years - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMU1UZzFGcHVQTS1lNzJZVXZKeFlhS3ltbjcwcDAyVGZOWkZsUkFobUhoT2d6TTMxN2l3Y0NGQ1lsZDJ0Y0Fzcl9lNkR0Q0o5ZmpCRnRERnVBSDhHVnEwNXcxQmJBZy1ZTHEySzh3TkkwMmpmZDRxTkVhUUw0SnNkXzJCd0NsZWpsQzJSRzl0dHpaMU9hQXZ4ZUtqc1FJSVpvbWZlcVpueTByUjk1akZr?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "exclusiveusfdashelvescommissionersvoucherprogramforspeedydru",
-   "title": "EXCLUSIVE: US FDA shelves commissioner's voucher program for speedy drug reviews, sources say - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWpkVElUa0dxMUx5dlJuNjBCTGI4ZVRRT0xkTDRpUl9zOVFJYzZfZ1JnaUREb2VacDlLUlBDWlVQdlhmY09hNzV2M2t1Z2Foc0xRSXpDUGdYcVlteEhBTEtGVlAzZno5WGNmWjQzZlIzSG1VcDNHU2U4N1p0UHZfM3VjYzBnWE9RV003TkFfUGthRUxBWUxtMndIQ0dsT2VmcnQ2ckxUbnpVZlV6U3VnSDBxTlpBU044Unc?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "chinasloaninterestratesarealreadylowcentralbanksaysbloomberg",
-   "title": "China\u2019s Loan Interest Rates Are Already Low, Central Bank Says - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW1ueXJqQzBaUmFvSzY3cFh6MkdVOEN3WUxsQ2pzSHhySDJsTHljS01VQ0NxeXpSQ1RrVzBOM3VBaUZ0NlR4Q2U1c2xhRjBHTnlSam4xSlFubWN6ejEwNnRJNG9NU2x4Rnk5bmw0dUpoUnN1TEV2OTA5WGRpYm52UmVtNzd0eGpVQ3F0WGdjZmMzUlFWcDVMcGJwbHZqeS0zY1hwWEdXT1hsNG0xeXA1T1JR?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 51
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 61
   },
   {
    "sym": "ITA",
@@ -258,82 +258,82 @@
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 83
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 66
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 48
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 61
   },
   {
    "sym": "NVDA",
    "why": "already moved too far today (chasing)",
-   "score": 72
+   "score": 66
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 74
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 62
+   "why": "volume not confirmed (1.2x normal)",
+   "score": 68
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 62
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 61
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 59
   },
   {
    "sym": "CVX",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "score": 59
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 625 min old)",
+   "why": "stale quote / market closed (last price 690 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 625 min old)",
+   "why": "stale quote / market closed (last price 690 min old)",
    "score": 84
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 42
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 71
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 74
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 71
   },
   {
    "sym": "QQQ",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 70
+   "why": "position size under 1 share",
+   "score": 84
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 626 min old)",
+   "why": "stale quote / market closed (last price 690 min old)",
    "score": 63
   }
  ],
@@ -348,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 02:37 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 03:42 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
