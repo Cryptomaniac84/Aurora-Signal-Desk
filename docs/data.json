@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 08:19 AM AEDT",
- "fx_audusd": 0.6807,
+ "generated": "Fri 13 Nov 2026 09:12 AM AEDT",
+ "fx_audusd": 0.681,
  "signals": [],
  "events": [
   {
@@ -77,22 +77,10 @@
    "pts": 22
   },
   {
-   "key": "canadianhockeystickswineandcementsubjecttonewtrumptariffsnew",
-   "title": "Canadian hockey sticks, wine and cement subject to new Trump tariffs - News From The States",
-   "source": "News From The States",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenpxemtYd3o3TWp1V0QxeUxaTWxTVERGNFZ2ak5jdDlSdWRWbHUtS042amhnWEpxS0pYaXNjMlpqSjNGTWRrS0g5UnZEUzZRYUdCTFVXS3RmeHBqeGV5REFVdmVGNkhENVp0b1BDWDA0Z0t6Y0RJUVBBV0J2R05DVFhYWEMzQldNTlRZdTNyeERPaVRoSmloZHYzeXE2dkltSFdvWVR3bDRNUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "bipartisanpushpossibletocurbtrumptariffssupplychaindive",
-   "title": "Bipartisan push possible to curb Trump tariffs - Supply Chain Dive",
+   "key": "trumpthreatenstodoublemexicotariffsovermigrantcaravanssupply",
+   "title": "Trump threatens to double Mexico tariffs over migrant caravans - Supply Chain Dive",
    "source": "Supply Chain Dive",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0R3UUFUeDJBNmhYRHNQMjBlREh0OHoyOElSMXg0U1VPdjBUNnFNYmRxSjhSU0xWRUFVOVBGU3lweldHZzFpZ1F1Rl9fSXJoeGc1Y2tLWjNkQ0JpRHBEVlA1czQ0QnBKdnMzbjZXblBLdGNVWHV6UGFsUEw4blVGcUx1dXVSTGFWd05mZFdNaTIzVklEeHc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDQ1d0hsM05hdEd0OEZ3WXhqREZXdDhHLVdvc1FSZkE2VEhrRFVRREZpV1czYnRmdTJfbGFwaFJuM3NJMmF5b0JycHdWZlBLd2p2Q2JmN3FNZUJ2YTdPbHFybGVQbGI2STJEaG5iZHZkcGZXRHNFVnFoWFJkQ0FndVdUbmFJTDVuYWhXenlJcURSTkZZTGFXX0h0RS03MngxM05PVnNqLXluSUE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,6 +113,18 @@
    "pts": 22
   },
   {
+   "key": "trackingtrumptrumpsidelinesvanceoniranrussiaallowseuropeinto",
+   "title": "Tracking Trump: Trump sidelines Vance on Iran; Russia allows Europe into peace talks; Trump threatens Mexico with tariffs; and more - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPa3p6cmhpUjM3VHNoWk9ra2lyWEFwTUMzSkRwbk9ZeGtsRXZrX2tkN3dxdFZHSXA3eklseE9RSjRJLUdYakh3end0RFhWMjNjejN5dmJSSWVvU2pFdjVSRWE4ZUdreW5FRHhxLWd1NTFNNzRsYm9RVDVfZTdjaUhGcHFJSS1xcFV1ckdnYnlzZjNLeHlVWWtVOWFWYndnQkFzVHh6aDRvT3FzaDhaYWxHZW5ZODhKTEE2ZWJrdHRvdGRRWUEwRVdDVmhWdTZCbS03c1dSa2NmSWgwUkxxVDZGVkVBdWZkbk9GUzZSbGUtREpRb0xXZk5jeWp5NVN3REFJTnJZWlZvdkluMTg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpthreatenstodoubletariffsonmexicocallsmidtermsaperceived",
    "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A \u2018Perceived Loss\u2019 - Yahoo News New Zealand",
    "source": "Yahoo News New Zealand",
@@ -137,10 +137,22 @@
    "pts": 22
   },
   {
-   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
-   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
+   "key": "trumpthreatenstodoublemexicotariffsasmigrantsheadnorthtexasp",
+   "title": "Trump threatens to double Mexico tariffs as migrants head north - Texas Public Radio | TPR",
+   "source": "Texas Public Radio | TPR",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2FDSGJmRkJ4RjZNZk41TW9FendoajZucWcwaG15dzFkaXRKRW1HWnMzcW5nX0U2MFNMa1A4X2FJM3hfdDhhYTlIdUstSzJCSVlxM3pRTEo5RXY4Q1N3LUREbS0xSEtsYkx1bkM3YVY0aU4xUDVCOFRzd25aT3FEeF92anA3eThYSXRlWVgxN0xZTDZ3QnVSYlFGZjJmQ3RRUXlVcFFUcTRfYWlmRWl0Qm9pOA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpthreatenstodoubletariffsonmexicoasanewmigrantcaravanhea",
+   "title": "Trump threatens to double tariffs on Mexico as a new migrant caravan heads north - Mexico News Daily",
+   "source": "Mexico News Daily",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQei1HeGpFZ1hjTlFqUXUzXzFoMXI5LVdCQmxzc2RoN1VSNi1XV2MtWEpRRkU2T2lCNVdLUHcwMUV0WUhPNzZZT0w1MEprQzB0ZWRiVEZSRkMyTnJqSF9UZ00zR3RYRHJwc0M3ZTA4Y051Sm40OXJScndjTXN0cFR3bDZhRmEzZnEwZjZHaTlVRkRVUVpUZ0E?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,34 +173,22 @@
    "pts": 22
   },
   {
+   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
+   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpsaysapplestimcookshouldtakeovernvidiathewashingtonpost",
    "title": "Trump says Apple\u2019s Tim Cook should take over Nvidia - The Washington Post",
    "source": "The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
-   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpcallsfortimcooktoreplacejensenhuangatnvidiathehill",
-   "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -209,6 +209,30 @@
    "pts": 22
   },
   {
+   "key": "trumpcallsfortimcooktoreplacejensenhuangatnvidiathehill",
+   "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
+   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpcallsforapplestimcooktoreplacejensenhuangatnvidiathestr",
    "title": "Trump calls for Apple\u2019s Tim Cook to replace Jensen Huang at Nvidia - The Straits Times",
    "source": "The Straits Times",
@@ -219,121 +243,97 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpfinallystopstherussiaukrainewarwrongtrumprightresultthe",
-   "title": "Trump Finally Stops the Russia-Ukraine War. Wrong Trump, Right Result. - The Warwick Valley Dispatch",
-   "source": "The Warwick Valley Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnpiRm1VZFpfY0EtMW12Mjc3ZlJfZlJJaVV1Qmh5LVFBOVloWVA2NzlaTVI0a2FXc0RwMl8yT0JVLS1aczdvNTR0Y3F5UnZhb2VHSUpQSVNvTFB5M1M3ei1tellQNy1icEdFZ19RX1o2c2xia2M2V1ZvMmJqczQtWmx6ZHdJWTUzdzJwdHZEbmZaLUU3SUpsdl9MdDFFSjZrdU1wdFFB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 56
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 53
   },
   {
    "sym": "ITA",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 64
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 63
   },
   {
    "sym": "XLE",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 57
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 58
   },
   {
    "sym": "FXI",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 61
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "already moved too far today (chasing)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 80
   },
   {
    "sym": "AMD",
-   "why": "position size under 1 share",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 87
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 83
   },
   {
    "sym": "TSM",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 64
   },
   {
    "sym": "XOM",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 52
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 967 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 967 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 84
   },
   {
    "sym": "XBI",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 46
   },
   {
    "sym": "PFE",
-   "why": "price not above VWAP and 20-bar average",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 39
+   "why": "stale quote / market closed (last price 73 min old)",
+   "score": 40
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "stale quote / market closed (last price 73 min old)",
    "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 967 min old)",
+   "why": "stale quote / market closed (last price 1021 min old)",
    "score": 63
   }
  ],
@@ -348,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 08:19 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 09:12 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
