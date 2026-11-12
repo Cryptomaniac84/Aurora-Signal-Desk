@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 12:43 AM AEDT",
- "fx_audusd": 0.6832,
+ "generated": "Fri 13 Nov 2026 01:38 AM AEDT",
+ "fx_audusd": 0.6825,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,30 @@
    "title": "Trump threatens to double tariffs on Mexico if it does not halt migrants - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzJwLS0tdmxjdGp1T3RFY29PR2JyaXRQVkVUREtlUkYzSWVfZ3ZwYlV0anNiTGc2VDlvQ2Y2UC1WZ1ZiTC1zOHJqYjRRcE9rVG0wSXpEUTZlN1E2Q0F3WmZsX1dDdG82NmtHYVpCNXJTTklFd05kMldLRGg0YktvX200bmZxSjJWZWVlUURielBYU0wtTTBRVjBKNEx4dWhrUjRndEQ2eHB0R2xvTmdZZQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumpthreatenstodoubletariffsonmexicooverillegalimmigrationf",
+   "title": "Trump threatens to double tariffs on Mexico over illegal immigration - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3k2NzNQSnkyWkZxMEdENmMtNnRReHJfakhUWkNUNF9RRUZiTllLSzh5THQ4TzZ4QVZiVVpxTU5iNGIzM2ZMVXFpajM2dUY4NGJVRTJkZGJsc05hVmR4cHExVXN0NWN3Q1dtNlFkejRXZ3MzX3FPTGNqRlJBQzU3OERuQ0Q?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumpthreatenstodoubletariffsonmexicoovermigrantsbloombergco",
+   "title": "Trump Threatens to Double Tariffs on Mexico Over Migrants - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnJ4S0x3TmVXb1NReEMzUU1uNU1NNmdmaXpQN0RKdFY3cUR0TmxEUFRMdk4tenRfY1Y2VDBTN1ZUSWFMandoSU9KcFhrcnF0QnZ2WVktRzZiRlZnTEVMY2xpUUU2d3lab1dILTR0alIzdDZvaThKMlcxMHQ0c3ljTDNhSG9mbTluT1NDUDhheHZnTGlXQzF3S1lBNk4yUThVQm11cE95TnEtZTFwU0VKeXVLTy1iZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,46 +173,10 @@
    "pts": 22
   },
   {
-   "key": "presidenttrumpthreatenstodoubletariffsonmexicoanadoluagencyu",
-   "title": "President Trump threatens to double tariffs on Mexico \u2014 Anadolu Agency - UA.NEWS",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXRLSWFUR0Yzdk45X0k0engwZ3A0Ym1Xb1p0WldyTUdaMzdCa2ctZUQ2dE0yNkRoQ01vYnBKcW5iREU0UDB1NmZvNlkxV3FHYnN1eGZWQTViZmJNdENXOFNBZWx4M3FNLWRmTldkbE01dl94MnB5Yy1DeWxXSzNtdTg4WHR0LVhoa2MwR3ZmX1MyVUNaZUhMSUM0ZUNKbm84QXdn?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpthreatenedtodoublemexicotariffsimmediatelyovermigrantca",
    "title": "Trump threatened to double Mexico tariffs immediately over migrant caravans - Quartz",
    "source": "Quartz",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GNVJwUDlPTzFjWnc1Z0xKeWZYb24xVUc5VEVLcGt4N1hzZ29BSEdJVW5pcWhDQzB5NFMtb3EwekhLYmROa1RVQVV2UGNJNlhINl9PMjZvUXFuZWE3eWUtUllTd21TVEg2N2N6M0ZUXzZZZ0xR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
-   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "stopthemortariffswillbedoubledtrumpwarnsmexicoas1500migrants",
-   "title": "\u2018Stop them or tariffs will be doubled\u2019: Trump warns Mexico as 1,500 migrants head towards US - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdGxmalJmeVhqU3Z0VUhsNnBJNUhMNWdCZzRPU2wxdEx3aURPOElMa21GY2x1X09uRjR6SHhqMHg3QkNpNF82S1VKbHpNZmNta1ExdXRZcGhCclV6TUZrb2FCbTUzMnJFZXJiOW4xSzloZ1Q3ZzNKdTNobXVDWGJxSXZMV3NNNVNDVVpHNlcycEhjWURHU1hTdE83V3BjTzNUMXFDYjdtQTBpVUJ6YWhmZS1lWm5uak5FaHNvN3BiaEI0emEtV1pRVG9fLVRjMXVpeVZ0YUZzLUZkZEJMRTd6ZUFhZmlJZ2JISVE3Q3EzVTXSAfYBQVVfeXFMT2V4VGIzc3c1OHlheGZSdV9iSkVMcTAwSGhlcm8wM1FVWk9GZmRtS1pOOEVEemV0S2Z2RkhrSHI2dDFFSEdpV2VHd1JGSE1iaXEwYUVVcm1LS0t0RlNxYVU5MjJFQmpOam44R0xCQjd3V05oY1d3QzI4dVBGcl82OXdQcmpRRW9uNnVjSnBRejIwWnFFOEhuUnRqdHZSdE43bUgwQkNOeFpYT3RUdVZ3VzUxWU5rY1J5QVFia0lLOU5GYmdsajdld25jUm84c1h4aGZ4MnhONGk1VThSa010YVFVYXpQNW5SUVgyLTMyOC15cG5ha1V3?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -209,18 +197,6 @@
    "pts": 22
   },
   {
-   "key": "melaniatrumphostsrussianukrainianofficialstomarkceasefireshe",
-   "title": "Melania Trump hosts Russian, Ukrainian officials to mark ceasefire she brokered - Scripps News",
-   "source": "Scripps News",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUU1wR1VId2wxZXRPamxwaF9IYU5ROS13Y0VmM3FuTm5uLWZhTlBHMXhuVHRwZTNTZ2NPTDgzODFXeWszNnhobEl5cHp3MUxIdnk2WnlzbVp5b3lVUHBVTnpsaEY4d21yMVZfSzd3SG1WOEtBT0RSNHFTSXlHS0JsZ1c5LU9ndlNPYW5qWlJldE5sb2NRUTBqSE5CdkQ2eEMtRUlVaU0xY2Vydkl3aUVGaVdOeGtWNm9WbjFhMklPTjdlZldsZGlXMw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpexportcontrolpushfacesdelayovernvidiachipdiversiontochi",
    "title": "Trump export control push faces delay over Nvidia chip diversion to China - Traders Union",
    "source": "Traders Union",
@@ -233,13 +209,36 @@
    "pts": 22
   },
   {
-   "key": "opecoiloutputinoctobernearspreiranwarrateledbysaudiarabiareu",
-   "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
+   "key": "saudioiloutputsurgestooneofhighestlevelsinyearsbloombergcom",
+   "title": "Saudi Oil Output Surges to One of Highest Levels in Years - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMU1UZzFGcHVQTS1lNzJZVXZKeFlhS3ltbjcwcDAyVGZOWkZsUkFobUhoT2d6TTMxN2l3Y0NGQ1lsZDJ0Y0Fzcl9lNkR0Q0o5ZmpCRnRERnVBSDhHVnEwNXcxQmJBZy1ZTHEySzh3TkkwMmpmZDRxTkVhUUw0SnNkXzJCd0NsZWpsQzJSRzl0dHpaMU9hQXZ4ZUtqc1FJSVpvbWZlcVpueTByUjk1akZr?oc=5",
    "themes": [
-    "energy",
-    "geopolitics"
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "exclusiveusfdashelvescommissionersvoucherprogramforspeedydru",
+   "title": "EXCLUSIVE: US FDA shelves commissioner's voucher program for speedy drug reviews, sources say - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWpkVElUa0dxMUx5dlJuNjBCTGI4ZVRRT0xkTDRpUl9zOVFJYzZfZ1JnaUREb2VacDlLUlBDWlVQdlhmY09hNzV2M2t1Z2Foc0xRSXpDUGdYcVlteEhBTEtGVlAzZno5WGNmWjQzZlIzSG1VcDNHU2U4N1p0UHZfM3VjYzBnWE9RV003TkFfUGthRUxBWUxtMndIQ0dsT2VmcnQ2ckxUbnpVZlV6U3VnSDBxTlpBU044Unc?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "chinasloaninterestratesarealreadylowcentralbanksaysbloomberg",
+   "title": "China\u2019s Loan Interest Rates Are Already Low, Central Bank Says - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW1ueXJqQzBaUmFvSzY3cFh6MkdVOEN3WUxsQ2pzSHhySDJsTHljS01VQ0NxeXpSQ1RrVzBOM3VBaUZ0NlR4Q2U1c2xhRjBHTnlSam4xSlFubWN6ejEwNnRJNG9NU2x4Rnk5bmw0dUpoUnN1TEV2OTA5WGRpYm52UmVtNzd0eGpVQ3F0WGdjZmMzUlFWcDVMcGJwbHZqeS0zY1hwWEdXT1hsNG0xeXA1T1JR?oc=5",
+   "themes": [
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -249,92 +248,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1004 min old)",
+   "why": "price not above VWAP and 20-bar average",
    "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 100
+   "why": "volume not confirmed (1.4x normal)",
+   "score": 69
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 85
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 1004 min old)",
+   "why": "price not above VWAP and 20-bar average",
    "score": 65
   },
   {
+   "sym": "FXI",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 55
+  },
+  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 60
+   "why": "already moved too far today (chasing)",
+   "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 58
+   "why": "position size under 1 share",
+   "score": 92
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 57
+   "why": "price not above VWAP and 20-bar average",
+   "score": 65
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 56
+   "why": "price not above VWAP and 20-bar average",
+   "score": 65
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 77
+   "why": "price not above VWAP and 20-bar average",
+   "score": 50
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 77
+   "why": "volume not confirmed (1.2x normal)",
+   "score": 45
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 512 min old)",
+   "why": "stale quote / market closed (last price 567 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 512 min old)",
+   "why": "stale quote / market closed (last price 567 min old)",
    "score": 84
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 70
+   "why": "price not above VWAP and 20-bar average",
+   "score": 53
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 82
+   "why": "price not above VWAP and 20-bar average",
+   "score": 62
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 82
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 1004 min old)",
-   "score": 54
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1004 min old)",
+   "why": "price not above VWAP and 20-bar average",
    "score": 55
   },
   {
+   "sym": "SPY",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 49
+  },
+  {
+   "sym": "QQQ",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 47
+  },
+  {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 512 min old)",
+   "why": "stale quote / market closed (last price 567 min old)",
    "score": 63
   }
  ],
@@ -349,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 12:43 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 01:38 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
