@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 12 Nov 2026 02:45 PM AEDT",
- "fx_audusd": 0.6849,
+ "generated": "Thu 12 Nov 2026 03:47 PM AEDT",
+ "fx_audusd": 0.6847,
  "signals": [],
  "events": [
   {
@@ -53,30 +53,6 @@
    "pts": 22
   },
   {
-   "key": "trumpsfednightmarerateswontbeslashedtheycouldsurgenowsmhcoma",
-   "title": "Trump\u2019s Fed nightmare: Rates won\u2019t be slashed. They could surge now - SMH.com.au",
-   "source": "SMH.com.au",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlBlZVhQSnJvYWVKNEpjYjhHa1IxdWpTQWswdGxfS3BPYWMwVWtHUEFhbDU4VGdndzlUVG1kdHR3YTl6TFNhcUhHeTZyOXZGR0tUSTdGakZsVVVSZ29WQ3lLS2V5ZHdsOWh0cG5VWlZnNEdSY1Fmb2VRT0gtWG0xdVFRVEJGdWlMc0U2T1puMkF3SlNoZlhFVlZqVzVacFR0VmxSUnlRUlR0X01CXzhzTmwxSkp1TlRYbHVlT0tpaDVpNTJQSWRKLUVR?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "canadasambassadormarkwisemansaystrumpstariffsareraisingtheco",
    "title": "Canada's ambassador Mark Wiseman says Trump's tariffs are raising the cost of capital and holding back US investment - MLQ.ai",
    "source": "MLQ.ai",
@@ -113,6 +89,18 @@
    "pts": 22
   },
   {
+   "key": "quebecseparatiststaketrumptarifffightintoownhandsnewsweek",
+   "title": "Quebec Separatists Take Trump Tariff Fight Into Own Hands - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXFydXZkLUN3bE5lR1loR3RvdGs0eXFOZUY2VHE5Wk9zcjV1VVVOS2NjTWtCTTF4R1oydVpLRjlHNzhmSjNQbzBHY3d0RkZnWUlxZ3RJdXpQMGZpTi1wMkM5bG42NnN6Rml3QUxNUDNmMDZ3a0l1aUc5U1BRTFA0MC1DcnYtZGM4emJZWXdwM3pkTDg0eVE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
    "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -125,24 +113,12 @@
    "pts": 22
   },
   {
-   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
-   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
+   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
+   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow.com",
    "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFpfeVVXSGRiOWdkYVBKdW5BdlBBdldMUXRza3NOclNBdEZvWVc1QXFKT3B2RlE4aHJjLXN6NjRrakF2NlBubHBqNUFiTlNkMjktUTZqMWJaaUdPSk5nbnY1NXJ3Y05lcjFKSS1PRVgyRTk0alZBbmhKSm4yZzZLZEdWWGRtRXBBRmduSUN0VkxaajVuUnRnSUlWbmE4aFpTYVdUZlZ2dnRYNjZER1JZYkVZdV9LaVZQ?oc=5",
    "themes": [
     "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpannouncestemporarypauseofbeefimporttariffsinefforttolow",
-   "title": "Trump announces temporary pause of beef import tariffs in effort to lower prices ahead of midterms - ABC30 Fresno",
-   "source": "ABC30 Fresno",
-   "link": "https://news.google.com/rss/articles/CBMijxNBVV95cUxOdlFRRmJ6cmFXbUV6TVFYWkIzWUNwSC1kLVB6ZlhXLWJmMXNyMTZURzJ3a054SUJJYjQ0UHZPRmdRUDhLYnJ5cnlsSVljWDI5SVJwNEdnZ0x3UUZ3Nmw2N3Z5V3NuUWhLV2gtbUZKTXJXSE02cG5WYmtvR3JIMlJNWGJUSDZvSjBlai1CZGdmcU5wODZmLTZncVFTZmM5NUQ4X2JqcjlvNEVzZVY2UWNHSnRFb0dOaHcwYkVsTWxBSWhtdTRWVnBFb1RzZW9wM1ZQTVJlSVlYSzl2MnZKQ3dLWUF3b1hUTUF1V3J5QzhWTUhnQ3l4QzJuZWlHYWNuUlRtam1Ld2EtNWQtMC14R0RTSTNWTjhEN2ZwVndvV0t4Ny1PSElSU3NaaFF4cXJDLUZwN1dfb1otRXYxbk5SVXJ2RFNQQjlsck1KV3VHYkFXMHZ6RHlBTERsME1uNF9YYWpvcmRJRF9YcmdxX3B0czcxcGhndVdBZWE1UzJLV0NuNkpGaW12bWhXSGdEV0NpQTlaUTJKTHVxSkNaQkdBbHMtN041dEd5dlVBb196MlBIY3NheU9pTjRXNy1oVVRxTndVX3NNRVZ6RkNEMm5QUnRtVmVRd3R0ODJsMDZaZTV2QTBUSVYzb0FaWXFRaFpGbm5SWk5EbEhNTllNUHozOTRkNldicksyQWNnWXJXZ2gwVktBRUc3TEVMRUtJbzd5UDh4eDd4a3kyWkxXQ0Zkd0h0aTE4Tzk4b2dsTWFnbFJiWlh4MG5DNm1aLXZ2TW16SjB6bnQzb3lYN1Vkbi1mN3MwTjROLXVfLVIyTmNUUkthN1hfTlRzMHBPRDI0RVBEdkM0bFBIM2dyelJPSk91c0hWemkwN29qaGFrNzNGelJ2UkNfU05WbW1DSUxUNjMxTXY2ZURZRzhJUWpKX25Cb0VqUmktcExWcFktTmROQWJyTHdWVmx4ZFlDU05WRU1TTVFxMEpBVmF4OEJ4TGpMczRpSXNTMTlfa2I3bzk3akprZTlzdl9JUDBZR3hRaUVBTFl3V1JCeGdYbk5PUXB5M3Axd0dGa19SdnlWWDFlU29mRUw4RUkzSWJrc2NFSFhKcGpCc1pEUjVJcG8wRzN0TnQyZmNlajVqLVoxZ0tISXUwb2t5dnJibG9FcW5fVzU1dXlUUmRtb1ZZdFE3ekhoT3o3aHEzZUNjZWZHUldQQXlpcEN1Zko2S0pnRC1fRmZPOGNnTkVQd0p5WnBPMFllSGZSNW1ZYWpKeTBHNEtlVTVUVm11MXNPSTlKbVNoRmhkQjREUG1nR21mbnlRbDJ5dWJHN0FUZ3hhOHV2ODdnWXVpN2haLXItZ1ZBOTFfRnVHX18tTEpvSHpuNnNFdUp3U2RXX0tqNU1EcnZuTlpIUmh6WVJWNVBsOV95OFFNRkNGdk5IYWpFV3NMQV9iY3ZyckswM3ZMaHl1d0tmMzktdjNaSEwwdm5JQ3VyRmtfOVdQQjNCa0xKTkJTU3MyNDRsUzd3UDI0ZzBRMFRPZDFzTEhTNUlRWDdZRDZXdE1NTzFPeHh3d2tNZXJUcXlrZExVSE5rT0prV2hPczJtTDRqUzdORF9Nb2dGY2liWUVwSGxPOHJyWmtfLXhXZXFkOVhCQTRxS2hHQll5ZU55eUdGTXFCU3BJZEl4eFI1emxfMEJSc25OUE1abmtOemVqTzM2RDJZWW5jTGVyT3ZKRXNiUFkzemxSZ21kVDRlLUQtWml1TkJTYS1DWDA5YV9Mc2dNV282YTNxd0NLc2pDc0E2QXJpMDREWjBWNDZ5ckRtV1d1VmU1M2J5a0NLVHdjbFZZWld2dVd3cHlOTkwtUkpYajZoWkFxWVQ1b0VjRC1rNWhxUFJZbUNtU2tRdXBuMzlwc0VCUzZiaVpubUU4STFjXzBBX2NPV0xfNTJRVENzMDA0VUxJVW1pVS0xd1dvYUc4QjExLUhJWmFFa0w2UXdfdlUzbW5NaUdVYUpTTF8tTjFRTlhUUnlhSFdLcUtBV1VNdDdDTjBYQl9YQjlfNk5pXzhMV1gySjFuanRZX0ljejBnUGV3VzlrQnVTYXpsekgwUHRzZGlyeTh6b3NhUTF3bXNPeGlQenBSYnZlVTVNT0lkaVlxc2xmNi1wZmcxakNYQ1pkNTcyeWtoNnJOLUQwYU1lclAzQk9SakRVS1pyQlo3aXFULUY1RzNfZU9MbzFyX3p5REI5d3B1YWdmWFdjZ0lBbFNsM3QwWGs2RHd3VFkyRERuSlkyS3FIOHd2SlN6N0N3M1JBbGN4Wjk5Uy1mRjN4U1UxSlRuYjNEdUNDcmVFRGRRU2VQc1FWcmVaSnRMMXc2dHRfaVpaVG0zRUs4bWpyREVSc2c0MlpRSU5MbzZJS1V6VmloeWIxMV9hVFNlanh2ZGY4U2pPeGJObGV2ZmV1RkJ3ZXByX1VFMXJUTlVTbXA5WFpEbHcxME03Y1E5V3pEeHA3a3FacGtSSUxVYjRfdFptV1FFTWlpQWpIbVNnVmJraEhNdERCLXhUR2FKR294SjBzM3dRVUlsVk9NbWQ2dTFvWU9yeTdvV3lOWFljWFZOeUlLcjdiQ3VqMEJxenQ5dmo3QU1hOW9hVU9iZHBfbTNEX0p0c0lYWThTWDlneTh1RkdTYjVjSnNBdTVQS2kzT1MxMy1CTzUzbDhhZDFmamtlWkdQQzJ5Y3NLTHhjQlpsbG0yOGZpU1h2MFpqODVjTk1ad05zVHd2MkNYZzJDakFmblFhdzMtZ2FjUXN2eFJJaFlsZ2psQ1lVZmpvbkh0NlA2U1JUZUVYY0lqSm9WVG1OWW1HMEFpajVWUHFCcTk5bVh5SFJ2dkRDUXJ0X09Rc3FXb2o4ellELTBvWUVfeDR0TmFySm1VcUN1SHVEOGUtckY5eTc0UVFyTnBaQmUwWmRyWllKNFRzY3N6UGU5RUYxMnZoMThTVC11WndldjE0V2dWdHg3VkZteGVCZEoyVFdZekFfNTlseThyS2ZKSThkS1I1TXBfNTFjQ241NmlScFpTX1ZZT1VneHRacDZYeVpVQmNVSl8zMm9PNkxNX1UtRE95d0xYaWdDVzBHNW1zLTM2VmhEMkV3cWstX2R6UUJZeEE5alJfVkpoaTBjUzd0M211NFAwemMwN09lSUYyMTUzNWEzTGFnczBkUVJKWG9ZLS1Cdm1IZm9yZF9MdHA0aDBQbE9HUUNQYUV5YTAwdEJkTDBvZTNLcFdRSUNjVHBDYy1scDhTSHltREt4cw?oc=5",
-   "themes": [
-    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -161,10 +137,34 @@
    "pts": 22
   },
   {
+   "key": "trumpannouncestemporarypauseofbeefimporttariffsinefforttolow",
+   "title": "Trump announces temporary pause of beef import tariffs in effort to lower prices ahead of midterms - ABC30 Fresno",
+   "source": "ABC30 Fresno",
+   "link": "https://news.google.com/rss/articles/CBMijxNBVV95cUxOdlFRRmJ6cmFXbUV6TVFYWkIzWUNwSC1kLVB6ZlhXLWJmMXNyMTZURzJ3a054SUJJYjQ0UHZPRmdRUDhLYnJ5cnlsSVljWDI5SVJwNEdnZ0x3UUZ3Nmw2N3Z5V3NuUWhLV2gtbUZKTXJXSE02cG5WYmtvR3JIMlJNWGJUSDZvSjBlai1CZGdmcU5wODZmLTZncVFTZmM5NUQ4X2JqcjlvNEVzZVY2UWNHSnRFb0dOaHcwYkVsTWxBSWhtdTRWVnBFb1RzZW9wM1ZQTVJlSVlYSzl2MnZKQ3dLWUF3b1hUTUF1V3J5QzhWTUhnQ3l4QzJuZWlHYWNuUlRtam1Ld2EtNWQtMC14R0RTSTNWTjhEN2ZwVndvV0t4Ny1PSElSU3NaaFF4cXJDLUZwN1dfb1otRXYxbk5SVXJ2RFNQQjlsck1KV3VHYkFXMHZ6RHlBTERsME1uNF9YYWpvcmRJRF9YcmdxX3B0czcxcGhndVdBZWE1UzJLV0NuNkpGaW12bWhXSGdEV0NpQTlaUTJKTHVxSkNaQkdBbHMtN041dEd5dlVBb196MlBIY3NheU9pTjRXNy1oVVRxTndVX3NNRVZ6RkNEMm5QUnRtVmVRd3R0ODJsMDZaZTV2QTBUSVYzb0FaWXFRaFpGbm5SWk5EbEhNTllNUHozOTRkNldicksyQWNnWXJXZ2gwVktBRUc3TEVMRUtJbzd5UDh4eDd4a3kyWkxXQ0Zkd0h0aTE4Tzk4b2dsTWFnbFJiWlh4MG5DNm1aLXZ2TW16SjB6bnQzb3lYN1Vkbi1mN3MwTjROLXVfLVIyTmNUUkthN1hfTlRzMHBPRDI0RVBEdkM0bFBIM2dyelJPSk91c0hWemkwN29qaGFrNzNGelJ2UkNfU05WbW1DSUxUNjMxTXY2ZURZRzhJUWpKX25Cb0VqUmktcExWcFktTmROQWJyTHdWVmx4ZFlDU05WRU1TTVFxMEpBVmF4OEJ4TGpMczRpSXNTMTlfa2I3bzk3akprZTlzdl9JUDBZR3hRaUVBTFl3V1JCeGdYbk5PUXB5M3Axd0dGa19SdnlWWDFlU29mRUw4RUkzSWJrc2NFSFhKcGpCc1pEUjVJcG8wRzN0TnQyZmNlajVqLVoxZ0tISXUwb2t5dnJibG9FcW5fVzU1dXlUUmRtb1ZZdFE3ekhoT3o3aHEzZUNjZWZHUldQQXlpcEN1Zko2S0pnRC1fRmZPOGNnTkVQd0p5WnBPMFllSGZSNW1ZYWpKeTBHNEtlVTVUVm11MXNPSTlKbVNoRmhkQjREUG1nR21mbnlRbDJ5dWJHN0FUZ3hhOHV2ODdnWXVpN2haLXItZ1ZBOTFfRnVHX18tTEpvSHpuNnNFdUp3U2RXX0tqNU1EcnZuTlpIUmh6WVJWNVBsOV95OFFNRkNGdk5IYWpFV3NMQV9iY3ZyckswM3ZMaHl1d0tmMzktdjNaSEwwdm5JQ3VyRmtfOVdQQjNCa0xKTkJTU3MyNDRsUzd3UDI0ZzBRMFRPZDFzTEhTNUlRWDdZRDZXdE1NTzFPeHh3d2tNZXJUcXlrZExVSE5rT0prV2hPczJtTDRqUzdORF9Nb2dGY2liWUVwSGxPOHJyWmtfLXhXZXFkOVhCQTRxS2hHQll5ZU55eUdGTXFCU3BJZEl4eFI1emxfMEJSc25OUE1abmtOemVqTzM2RDJZWW5jTGVyT3ZKRXNiUFkzemxSZ21kVDRlLUQtWml1TkJTYS1DWDA5YV9Mc2dNV282YTNxd0NLc2pDc0E2QXJpMDREWjBWNDZ5ckRtV1d1VmU1M2J5a0NLVHdjbFZZWld2dVd3cHlOTkwtUkpYajZoWkFxWVQ1b0VjRC1rNWhxUFJZbUNtU2tRdXBuMzlwc0VCUzZiaVpubUU4STFjXzBBX2NPV0xfNTJRVENzMDA0VUxJVW1pVS0xd1dvYUc4QjExLUhJWmFFa0w2UXdfdlUzbW5NaUdVYUpTTF8tTjFRTlhUUnlhSFdLcUtBV1VNdDdDTjBYQl9YQjlfNk5pXzhMV1gySjFuanRZX0ljejBnUGV3VzlrQnVTYXpsekgwUHRzZGlyeTh6b3NhUTF3bXNPeGlQenBSYnZlVTVNT0lkaVlxc2xmNi1wZmcxakNYQ1pkNTcyeWtoNnJOLUQwYU1lclAzQk9SakRVS1pyQlo3aXFULUY1RzNfZU9MbzFyX3p5REI5d3B1YWdmWFdjZ0lBbFNsM3QwWGs2RHd3VFkyRERuSlkyS3FIOHd2SlN6N0N3M1JBbGN4Wjk5Uy1mRjN4U1UxSlRuYjNEdUNDcmVFRGRRU2VQc1FWcmVaSnRMMXc2dHRfaVpaVG0zRUs4bWpyREVSc2c0MlpRSU5MbzZJS1V6VmloeWIxMV9hVFNlanh2ZGY4U2pPeGJObGV2ZmV1RkJ3ZXByX1VFMXJUTlVTbXA5WFpEbHcxME03Y1E5V3pEeHA3a3FacGtSSUxVYjRfdFptV1FFTWlpQWpIbVNnVmJraEhNdERCLXhUR2FKR294SjBzM3dRVUlsVk9NbWQ2dTFvWU9yeTdvV3lOWFljWFZOeUlLcjdiQ3VqMEJxenQ5dmo3QU1hOW9hVU9iZHBfbTNEX0p0c0lYWThTWDlneTh1RkdTYjVjSnNBdTVQS2kzT1MxMy1CTzUzbDhhZDFmamtlWkdQQzJ5Y3NLTHhjQlpsbG0yOGZpU1h2MFpqODVjTk1ad05zVHd2MkNYZzJDakFmblFhdzMtZ2FjUXN2eFJJaFlsZ2psQ1lVZmpvbkh0NlA2U1JUZUVYY0lqSm9WVG1OWW1HMEFpajVWUHFCcTk5bVh5SFJ2dkRDUXJ0X09Rc3FXb2o4ellELTBvWUVfeDR0TmFySm1VcUN1SHVEOGUtckY5eTc0UVFyTnBaQmUwWmRyWllKNFRzY3N6UGU5RUYxMnZoMThTVC11WndldjE0V2dWdHg3VkZteGVCZEoyVFdZekFfNTlseThyS2ZKSThkS1I1TXBfNTFjQ241NmlScFpTX1ZZT1VneHRacDZYeVpVQmNVSl8zMm9PNkxNX1UtRE95d0xYaWdDVzBHNW1zLTM2VmhEMkV3cWstX2R6UUJZeEE5alJfVkpoaTBjUzd0M211NFAwemMwN09lSUYyMTUzNWEzTGFnczBkUVJKWG9ZLS1Cdm1IZm9yZF9MdHA0aDBQbE9HUUNQYUV5YTAwdEJkTDBvZTNLcFdRSUNjVHBDYy1scDhTSHltREt4cw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpexportcontrolpushfacesdelayovernvidiachipdiversiontochi",
    "title": "Trump export control push faces delay over Nvidia chip diversion to China - Traders Union",
    "source": "Traders Union",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2cxUU82eWwzMXNCUUlvVUI3QUp6Z1VHMlgxd0xMQ1ZvbXd1UDJFSXVENnc3bmNhVktQY1JmYnZ4TTEyV1Q1M3plRHlNcENyVE1ieTA0V3V5VEdHNGhqdG94ZDlXOFF5bk1tandabWdPWGVUdnd3dkJyUkx2V1hzTGpsTFZtd0VLUGRwc0xqZTNueUEzVjlqRldxdHhvNWJlWndB?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "nvidiarowputsuschinatradetrucetotestwithxisettowelcometrumpn",
+   "title": "Nvidia row puts US-China trade truce to test with Xi set to welcome Trump next week - ThePrint",
+   "source": "ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEU3RDVRdjcxQ2w2Z3cxSEJtdlRobmNHQVZfZXl1VzZPR3M3Q2Z4ZzdINHV5RDRHMDRRVk1ZZWJfR3V5UVpfMGgtVnJEanBNd2ViaGZLbzl0ZmdfOEdiNDlDd3J2U050YWh4bTRYdHFhZk43RlJaZXBDRzg4OEUwOFRFb1JHRGJIUmFwWG8tZklfZFFvUWlZSGVhYy16ODJLYi11LWUySmNVejhzaUUzWjlVazFjUG14cXfSAb8BQVVfeXFMT1hkS1hzenRHMEFiS0FoNFBDVU1OWmV1OVJXVWwtNzVFam5lMThvNm95UXhTZ1lQZ3BsNWRXZ3VJZzMxQTZBUkIzU1l5MFhpendhNGlJcnNpaUo2WEQ5M1kwb0RtOHhqbnRJS1Z0TDZkLWREdVF2RG9IcHkxZnFOVHczZElxTXZ6bm5jcWFxY00wTVNoR1lraTl5UDV6ekFndnpYdzQtTVVxV29TeE00clg4S2N3dzBHRHF2R0ZlUUU?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -198,10 +198,22 @@
    "pts": 20
   },
   {
-   "key": "exclusivechineseuniversityboughtnvidiah200chipsdespiteusblac",
-   "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters",
+   "key": "chinasloaninterestratesarealreadylowcentralbanksaysbloomberg",
+   "title": "China\u2019s Loan Interest Rates Are Already Low, Central Bank Says - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYW1ueXJqQzBaUmFvSzY3cFh6MkdVOEN3WUxsQ2pzSHhySDJsTHljS01VQ0NxeXpSQ1RrVzBOM3VBaUZ0NlR4Q2U1c2xhRjBHTnlSam4xSlFubWN6ejEwNnRJNG9NU2x4Rnk5bmw0dUpoUnN1TEV2OTA5WGRpYm52UmVtNzd0eGpVQ3F0WGdjZmMzUlFWcDVMcGJwbHZqeS0zY1hwWEdXT1hsNG0xeXA1T1JR?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "seniorusdemocraticsenatorsurgeadministrationtopreservenvidia",
+   "title": "Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concerns - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2otaHFORWxkN3E2TnF1cllybUxndHc4b3d1SlI3bExwOWNnV2F6VXRnU2h4eWFWMFBEUy1pcWxhaUNUTVNjZ0NZU21OMTFnRERCeGlMeW9UbkpNa3g2ZDZLNG9VanFCbzk3OGdXWWE4ZFM4MVozZzItTFVWVGdJdXNmTzlGM2U1QWtBYXp5SFhwUWlTQ0sxckxYdjlvZWJFSGFuVUVHSGZwTnJDaXlGRGlFSmllODd3WkpfeF9sOEVxeXdKU3JZ?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -232,109 +244,97 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "manufacturingadvocatesmakecasefortariffsfollowingmidtermresu",
-   "title": "Manufacturing advocates make case for tariffs following midterm results - Manufacturing Dive",
-   "source": "Manufacturing Dive",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBKSGpnZ3BfWUJ4NzFRXzFrUVVfMUo3OG1pcUZycjF2cTZMbHBuZUJxOG9hcVpWaDlFcHJ4WVdkbmJZRWp0NmJSazFjbEdreFhJSDFqUTJPWW9acWhGak13VXZaeUVieGZZOU81eGFRWlVWNGpzdy1paUtFV3V5QXJnTU5TUkdhZGl2SEFrNzc3VDhBSmNmUEY4ZkwyeGc4LTk0UDlYbDlvR2JVM1d6c1ZBUE9zdw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 65
   },
   {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 406 min old)",
-   "score": 56
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 406 min old)",
-   "score": 57
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
-  },
-  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 74
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 75
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 77
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 52
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 50
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 49
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 48
   },
   {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 468 min old)",
+   "score": 54
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 468 min old)",
+   "score": 55
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 50
+  },
+  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 74
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 406 min old)",
+   "why": "stale quote / market closed (last price 468 min old)",
    "score": 82
   }
  ],
@@ -349,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 12 Nov 2026 02:45 PM AEDT",
+  "last_scan": "Thu 12 Nov 2026 03:47 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
