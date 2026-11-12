@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 12 Nov 2026 11:51 AM AEDT",
- "fx_audusd": 0.684,
+ "generated": "Thu 12 Nov 2026 01:06 PM AEDT",
+ "fx_audusd": 0.6852,
  "signals": [],
  "events": [
   {
@@ -66,10 +66,23 @@
    "pts": 22
   },
   {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
+   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
    "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
+   "themes": [
+    "energy",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "canadasambassadormarkwisemansaystrumpstariffsareraisingtheco",
+   "title": "Canada's ambassador Mark Wiseman says Trump's tariffs are raising the cost of capital and holding back US investment - MLQ.ai",
+   "source": "MLQ.ai",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMHoxYmtaT0pCOTRHUEMzNzB2a1luaEpSMDFhbUZtMTNKSXpDLU1lSUg5dGxia2ZXclhIaVdlT0xpRUhUR2U0NTR6cTM1bnFfWXI2MXN5ZnVOX0xQdVgzelhZU0labURuaWFnTmZ1ZHNGTHgxaWQ5R25iaC1rblBkbmoxdXc2VHVWRnBsRlpQRVhSUVExWEpoU0V4dXMtYnB0bWNDenRRS0JteE4zM3UtTFl0MDNYa2dfNHZmRVNqRlFrLTZaYU9NdzV6d0dLYzZP?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -102,30 +115,6 @@
    "pts": 22
   },
   {
-   "key": "hereshowtrumpstariffsharmconsumersworsenaffordabilitywepurch",
-   "title": "Here\u2019s how Trump\u2019s tariffs harm consumers & worsen affordability. We purchased a small item from overseas. UPS charged us the full 63-cent tariff. But they added a $29.50 processing fee, an amount that vastly exceeds the cost of the product. We paid 48x the - Moomoo",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR1JtV2pSR3UxT3ZkN1VzV0NoRXNucDRLQ1Z5T1R6N2M2SGtBS2hvUjE0OTNEVGtaZUl3ZGZJNldCV3FxSjU5em9pQUJ0RUdTSkRFTVh6X1ZKU29hUUlzR1JUclRKRnVDUWFzU254cmFZU1hDRUVNWWkyWF9YZG1YT3FsRXVjRVI1SVpacVJualVKaUpLcXdGVW43Z1hwaWd1eFFGRm9KTjNwX2J0a1NXSDZQU3Z3OUU?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "whitehousevowstokeeptariffsaftermidtermshellackingsayswearej",
-   "title": "White House Vows to Keep Tariffs After Midterm Shellacking, Says 'We Are Just Getting Started' - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBudFh5X1I0ZDQ1LVVnNnBzQ3YtREZNN0k1MTIwM0dReGlLUVQ2UlBPQXVwNUxmcklTRFlhS2ZfcHhmTG1uZ3BsNmxkeGZzeklRMFJaeE1SLW1OSnRrQWNDZHpZbE9jUEo5V2V2R05DREN1Ujk1REE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
    "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -138,10 +127,10 @@
    "pts": 22
   },
   {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow.com",
+   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
+   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
    "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFpfeVVXSGRiOWdkYVBKdW5BdlBBdldMUXRza3NOclNBdEZvWVc1QXFKT3B2RlE4aHJjLXN6NjRrakF2NlBubHBqNUFiTlNkMjktUTZqMWJaaUdPSk5nbnY1NXJ3Y05lcjFKSS1PRVgyRTk0alZBbmhKSm4yZzZLZEdWWGRtRXBBRmduSUN0VkxaajVuUnRnSUlWbmE4aFpTYVdUZlZ2dnRYNjZER1JZYkVZdV9LaVZQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
    "themes": [
     "energy"
    ],
@@ -168,6 +157,18 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTRZN2dUclBFdjhoVXBvZUdvTlVYOHF4ZzJNbnVjOVZwV3VvLTJMX2RlTXdpTWlkeXRaUFZpdGstd0tfMEwwOW5JUVlMQVNLYUtQQ21yaVVKRXRTZF83R1ZMVkd0SVhDOXdNcU9Ua2htVnE2U1MtbEkza0ZIc05pNW5FTlJZYUthNExpVUc4UlVTOUNfOTlHMFNvZ1N0YTlNdG5RLXA3ZHdETHQ1bVYzMmY2Y2kyN2doVkwwQ3ZZRzNPM2FEazJJZTg2OXN0ZkZfRUE?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
+   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFpfeVVXSGRiOWdkYVBKdW5BdlBBdldMUXRza3NOclNBdEZvWVc1QXFKT3B2RlE4aHJjLXN6NjRrakF2NlBubHBqNUFiTlNkMjktUTZqMWJaaUdPSk5nbnY1NXJ3Y05lcjFKSS1PRVgyRTk0alZBbmhKSm4yZzZLZEdWWGRtRXBBRmduSUN0VkxaajVuUnRnSUlWbmE4aFpTYVdUZlZ2dnRYNjZER1JZYkVZdV9LaVZQ?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -250,22 +251,22 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 232 min old)",
+   "why": "stale quote / market closed (last price 306 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 85
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 81
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 232 min old)",
+   "why": "stale quote / market closed (last price 306 min old)",
    "score": 65
   },
   {
@@ -280,8 +281,8 @@
   },
   {
    "sym": "FMG.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "PLS.AX",
@@ -290,77 +291,77 @@
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 52
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 60
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 232 min old)",
+   "why": "stale quote / market closed (last price 306 min old)",
    "score": 45
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 232 min old)",
+   "why": "stale quote / market closed (last price 306 min old)",
    "score": 39
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 57
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 41
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 232 min old)",
+   "why": "stale quote / market closed (last price 306 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 73
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 77
   },
   {
    "sym": "WDS.AX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 38
+   "score": 45
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 57
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 45
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 39
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 43
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 50
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 42
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 40
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 44
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 48
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 232 min old)",
+   "why": "stale quote / market closed (last price 306 min old)",
    "score": 74
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 232 min old)",
-   "score": 82
+   "why": "stale quote / market closed (last price 306 min old)",
+   "score": 78
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 232 min old)",
+   "why": "stale quote / market closed (last price 306 min old)",
    "score": 82
   }
  ],
@@ -375,7 +376,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 12 Nov 2026 11:51 AM AEDT",
+  "last_scan": "Thu 12 Nov 2026 01:06 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
