@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 12 Nov 2026 01:57 PM AEDT",
- "fx_audusd": 0.6843,
+ "generated": "Thu 12 Nov 2026 02:45 PM AEDT",
+ "fx_audusd": 0.6849,
  "signals": [],
  "events": [
   {
@@ -10,19 +10,6 @@
    "source": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
    "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "usbackedlithiumamericashitbyrisingcostsontrumptariffsbloombe",
-   "title": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs - Bloomberg",
-   "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUhSN0xla0Fsc3huTHlzVU9nSE0wZ3lIWHE1MWN6WVduMnVzeWdteXkwZXk1NDFlQ0pNSElmQTNHM0dtTTJuNk93WHdJeG1mNlUyWTlqMHVnalU0QVVocWRLUWp5Ti1kVXpYX2M0aGRCRFc5c08zdXhXdjJQOFI1anVTTHRVd2d5Sk5ITFRtUERjb3FNS01CRmpFZHBVLXpEZVhMancyU1hZUjhl?oc=5",
-   "themes": [
-    "mining",
     "geopolitics"
    ],
    "trump": true,
@@ -102,6 +89,18 @@
    "pts": 22
   },
   {
+   "key": "congresshasthevotestorepealtrumpstariffsdemocratcbc",
+   "title": "Congress has the votes to 'repeal' Trump's tariffs: Democrat - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VEpzY1VoZy1jRTdXeVRXTDJKTmxPSlpPV3R6MmlUUFc4TGZ0X0l4Q0g2VS1hRDYxd3lUVUFTVU8xLXF2SkFwTG9nR1IzMGV0QnVnaUE0cWFTQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "readtheroomjimmcgovernsbrutalattackontrumpstariffsclashwithg",
    "title": "'READ THE ROOM': Jim McGoverns Brutal Attack On Trumps Tariffs; Clash With GOP US House Debate - The Times of India",
    "source": "The Times of India",
@@ -126,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow.com",
+   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
+   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
    "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFpfeVVXSGRiOWdkYVBKdW5BdlBBdldMUXRza3NOclNBdEZvWVc1QXFKT3B2RlE4aHJjLXN6NjRrakF2NlBubHBqNUFiTlNkMjktUTZqMWJaaUdPSk5nbnY1NXJ3Y05lcjFKSS1PRVgyRTk0alZBbmhKSm4yZzZLZEdWWGRtRXBBRmduSUN0VkxaajVuUnRnSUlWbmE4aFpTYVdUZlZ2dnRYNjZER1JZYkVZdV9LaVZQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
    "themes": [
     "energy"
    ],
@@ -199,10 +198,10 @@
    "pts": 20
   },
   {
-   "key": "jensenhuangaffairindcresignationcallsandmovestotightennvidia",
-   "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjJRY2daaGR0MlE5NzU0bndocWZPVF9qODRlRlBzUUVLN1dyNkE2VXlJeUdGanF2NkQ5OGVZMmJTYk9xY244NU9sUHppeFU2dVlHcVRwWFptNG9CSUN6ay1Ic3NVdFJRZTNkY05nQzJJUFJsSVp1N21LRElnSHotZmZyYVR2a25v?oc=5",
+   "key": "exclusivechineseuniversityboughtnvidiah200chipsdespiteusblac",
+   "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -211,10 +210,10 @@
    "pts": 20
   },
   {
-   "key": "exclusivechineseuniversityboughtnvidiah200chipsdespiteusblac",
-   "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGFWV2J1LVZpcHZIbWtuMU5qVm1teTBwSTFIaVF0c2hJYzN2WFBlYmdDbHJFeVVJQk5PNzA5WTBmQlNudWpFaHpyZDBGaFJEbGMwd0FlQWNrTWpxZW9kWE5sVGxtbl9sWEljZlBtQmMyMHp1b29wNmVSdnpYOVdGcHcxclo5TjRPNXRVMFNoUUdsWnc4ZUFDM0lZMXZOa3lfQWtlN25rWHFXcFF1RXRGcmI2TmFveEli?oc=5",
+   "key": "jensenhuangaffairindcresignationcallsandmovestotightennvidia",
+   "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWjJRY2daaGR0MlE5NzU0bndocWZPVF9qODRlRlBzUUVLN1dyNkE2VXlJeUdGanF2NkQ5OGVZMmJTYk9xY244NU9sUHppeFU2dVlHcVRwWFptNG9CSUN6ay1Ic3NVdFJRZTNkY05nQzJJUFJsSVp1N21LRElnSHotZmZyYVR2a25v?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -250,117 +249,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 357 min old)",
-   "score": 65
-  },
-  {
-   "sym": "BHP.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 81
-  },
-  {
-   "sym": "RIO.AX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 80
-  },
-  {
-   "sym": "FMG.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 61
-  },
-  {
-   "sym": "PLS.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
-  },
-  {
-   "sym": "GDX",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 56
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 357 min old)",
-   "score": 46
+   "why": "stale quote / market closed (last price 406 min old)",
+   "score": 57
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 75
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 357 min old)",
-   "score": 73
+   "why": "stale quote / market closed (last price 406 min old)",
+   "score": 77
   },
   {
    "sym": "WDS.AX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 58
+   "score": 73
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 59
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 75
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 52
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 50
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 49
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 48
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 74
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 357 min old)",
+   "why": "stale quote / market closed (last price 406 min old)",
    "score": 82
   }
  ],
@@ -375,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 12 Nov 2026 01:57 PM AEDT",
+  "last_scan": "Thu 12 Nov 2026 02:45 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
