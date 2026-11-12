@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 01:38 AM AEDT",
- "fx_audusd": 0.6825,
+ "generated": "Fri 13 Nov 2026 02:37 AM AEDT",
+ "fx_audusd": 0.6807,
  "signals": [],
  "events": [
   {
@@ -29,10 +29,10 @@
    "pts": 30
   },
   {
-   "key": "trumpthreatenstodoubletariffsonmexicoovermigrantsbloombergco",
-   "title": "Trump Threatens to Double Tariffs on Mexico Over Migrants - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnJ4S0x3TmVXb1NReEMzUU1uNU1NNmdmaXpQN0RKdFY3cUR0TmxEUFRMdk4tenRfY1Y2VDBTN1ZUSWFMandoSU9KcFhrcnF0QnZ2WVktRzZiRlZnTEVMY2xpUUU2d3lab1dILTR0alIzdDZvaThKMlcxMHQ0c3ljTDNhSG9mbTluT1NDUDhheHZnTGlXQzF3S1lBNk4yUThVQm11cE95TnEtZTFwU0VKeXVLTy1iZw?oc=5",
+   "key": "trumptradechiefgreerspeakswithsquawkboxastariffthreatsrisecn",
+   "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,10 +41,10 @@
    "pts": 30
   },
   {
-   "key": "canadasambassadorwarnstrumptariffsaredrivingupcoststhreateni",
-   "title": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmM?oc=5",
+   "key": "trumpthreatenstodoubletariffsonmexicangoodsovermigrantsbloom",
+   "title": "Trump Threatens to Double Tariffs on Mexican Goods Over Migrants - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnJ4S0x3TmVXb1NReEMzUU1uNU1NNmdmaXpQN0RKdFY3cUR0TmxEUFRMdk4tenRfY1Y2VDBTN1ZUSWFMandoSU9KcFhrcnF0QnZ2WVktRzZiRlZnTEVMY2xpUUU2d3lab1dILTR0alIzdDZvaThKMlcxMHQ0c3ljTDNhSG9mbTluT1NDUDhheHZnTGlXQzF3S1lBNk4yUThVQm11cE95TnEtZTFwU0VKeXVLTy1iZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,6 +101,18 @@
    "pts": 22
   },
   {
+   "key": "bipartisanpushpossibletocurbtrumptariffssupplychaindive",
+   "title": "Bipartisan push possible to curb Trump tariffs - Supply Chain Dive",
+   "source": "Supply Chain Dive",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0R3UUFUeDJBNmhYRHNQMjBlREh0OHoyOElSMXg0U1VPdjBUNnFNYmRxSjhSU0xWRUFVOVBGU3lweldHZzFpZ1F1Rl9fSXJoeGc1Y2tLWjNkQ0JpRHBEVlA1czQ0QnBKdnMzbjZXblBLdGNVWHV6UGFsUEw4blVGcUx1dXVSTGFWd05mZFdNaTIzVklEeHc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpthreatenstodoubletariffsonmexicocallsmidtermsaperceived",
    "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A \u2018Perceived Loss\u2019 - Yahoo News New Zealand",
    "source": "Yahoo News New Zealand",
@@ -117,6 +129,18 @@
    "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - TradingView",
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU3poVjZzc29jQnB5OXhEVTBZajJ4Ym5GelJLM1djZTVaYjI5eE1CNVJweGEwdWNGaUVMNkxGaGo2NkF2b21aYy1mLTQ0V1NzZ2NhaS1JSVZkM2Z4STBuZXZ0RkJ4bVFPZ2ZQT2szd0t5Q21yaFB2d2JYZlBFVHJEYlVTRXFDMldCbTBEWWJxampUOHJveXFTOWV3dnJIX2wxc0ZoNFhRT09iQ2wtQlkzRVhmYWxvZVdZTkFoYVhOVnUyUXVJb1RhSVNLc09tUzU2b0RjN2g4aWZhbzJDT2lnWTZsZkFIMTBSZ3dScEJmdkkyNUt0OW1RdFhkSlVZb3c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
+   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -152,7 +176,7 @@
    "key": "trumpthreatenstodoubletariffsonmexicoifmigrantcaravansnotsto",
    "title": "Trump threatens to double tariffs on Mexico if migrant caravans not stopped - Fox News",
    "source": "Fox News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVGU2MWtPaXNELUlCZXZxLVRqSGlfaVJTUHBGUGtWRFBEZ2ZmSktKQldzLTNOZ3NDRUZWV0VWS2dUeWs2X25DNVlhY2l6YWgyN1RKbDdFTkphZGZzQWNNeW4xRFpLR0lNQXZzQTBCNXhuQUhHUzhXQ1ExYWJQSkN4aUtxR2lGekh2Y1Y4dHNpV093U1lDR3JGajNWZVJGaEhj0gGmAUFVX3lxTFBaWUl4WlpvZzJDR1ZtUzJoUldKbDF5MmlNY0hOdW1XV19aektFcDBVNXAtTW52blY2WjhBb3JzR05SeDQza3FVMVhfQ1NpYnRiLUtib3hkSmZBMG00VUdnWloxVjVFRkRWY2JiOFplSUdXLUdhT2I4QTdYUHk1ZVlJdWkwZGRUTlBfdXFzcmdwWTlMR0kyMk1HLVNtX1oxR3V0SGpObkE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVGU2MWtPaXNELUlCZXZxLVRqSGlfaVJTUHBGUGtWRFBEZ2ZmSktKQldzLTNOZ3NDRUZWV0VWS2dUeWs2X25DNVlhY2l6YWgyN1RKbDdFTkphZGZzQWNNeW4xRFpLR0lNQXZzQTBCNXhuQUhHUzhXQ1ExYWJQSkN4aUtxR2lGekh2Y1Y4dHNpV093U1lDR3JGajNWZVJGaEhj?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,22 +185,10 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatenstodoubletariffsonmexicounlessitstopsmigrantcar",
-   "title": "Trump threatens to double tariffs on Mexico unless it stops migrant caravans - Mezha.net",
-   "source": "Mezha.net",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYy1jZG0wdmkwb3c0aVNRSS1URWF3U2JwWUtxZHJtRFI5c1dCVzYyQ3E4VG9GSzkwWHFHTmJMMGR2aE82ZGNVdVNtbGE3Y1pwUzdWNmx4WTVVd0JvRDdMTzJwaDRqd3JsNjNfdUg3Wlk1aXVFdkpjdzdmckRIQkJJcktHTQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpthreatenedtodoublemexicotariffsimmediatelyovermigrantca",
-   "title": "Trump threatened to double Mexico tariffs immediately over migrant caravans - Quartz",
-   "source": "Quartz",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GNVJwUDlPTzFjWnc1Z0xKeWZYb24xVUc5VEVLcGt4N1hzZ29BSEdJVW5pcWhDQzB5NFMtb3EwekhLYmROa1RVQVV2UGNJNlhINl9PMjZvUXFuZWE3eWUtUllTd21TVEg2N2N6M0ZUXzZZZ0xR?oc=5",
+   "key": "trumpthreatenstodoublemexicotariffsovermigrantcaravansbarron",
+   "title": "Trump Threatens To Double Mexico Tariffs Over Migrant Caravans - Barron's",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzRUWUN3bW8tMTZwZ0JMNThiNFQwUkR2eVhSeHVyQkRhQlNwY3BYWWNzQmlRWUhhTllfSk9adHJ1cmpSanY5LVJPNm1rU2ZWeTR3YTB2VWtGa0w0OXZfTWVNbl9iMlZ2MFVUMTBfNTY1cEJyYW1oeW5UM000VkQzaDJMNExROFg5TDU1RmVIUWJIR2l0bTFhRlhtQlFKdzdDUUE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -191,18 +203,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
    "themes": [
     "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpexportcontrolpushfacesdelayovernvidiachipdiversiontochi",
-   "title": "Trump export control push faces delay over Nvidia chip diversion to China - Traders Union",
-   "source": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2cxUU82eWwzMXNCUUlvVUI3QUp6Z1VHMlgxd0xMQ1ZvbXd1UDJFSXVENnc3bmNhVktQY1JmYnZ4TTEyV1Q1M3plRHlNcENyVE1ieTA0V3V5VEdHNGhqdG94ZDlXOFF5bk1tandabWdPWGVUdnd3dkJyUkx2V1hzTGpsTFZtd0VLUGRwc0xqZTNueUEzVjlqRldxdHhvNWJlWndB?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -248,92 +248,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 65
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 51
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (1.4x normal)",
-   "score": 69
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 47
   },
   {
    "sym": "XLE",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 65
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 83
   },
   {
    "sym": "FXI",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 55
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 48
   },
   {
    "sym": "NVDA",
    "why": "already moved too far today (chasing)",
-   "score": 65
+   "score": 72
   },
   {
    "sym": "AMD",
-   "why": "position size under 1 share",
-   "score": 92
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
   },
   {
    "sym": "SOXX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 65
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 62
   },
   {
    "sym": "TSM",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 65
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 62
   },
   {
    "sym": "XOM",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 50
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 45
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 567 min old)",
+   "why": "stale quote / market closed (last price 625 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 567 min old)",
+   "why": "stale quote / market closed (last price 625 min old)",
    "score": 84
   },
   {
    "sym": "XBI",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 53
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 42
   },
   {
    "sym": "LLY",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 62
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 73
   },
   {
    "sym": "PFE",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 55
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 38
   },
   {
    "sym": "SPY",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 49
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 52
   },
   {
    "sym": "QQQ",
    "why": "price not above VWAP and 20-bar average",
-   "score": 47
+   "score": 70
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 567 min old)",
+   "why": "stale quote / market closed (last price 626 min old)",
    "score": 63
   }
  ],
@@ -348,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 01:38 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 02:37 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
