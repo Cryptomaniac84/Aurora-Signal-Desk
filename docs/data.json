@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 04:34 AM AEDT",
- "fx_audusd": 0.6811,
+ "generated": "Fri 13 Nov 2026 05:30 AM AEDT",
+ "fx_audusd": 0.6809,
  "signals": [],
  "events": [
   {
@@ -125,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatenstodoubletariffsonmexicoifitdoesntstopmigrantsb",
-   "title": "Trump Threatens to Double Tariffs on Mexico If It Doesn't Stop Migrants, but Legal Authority Remains in Doubt - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUS1NUTRGVnFMZ2hnNjRaME5yNmhmSWJpMjNrWHZ0WUJ3YXZDeGxKTFZuendJTmRvXy1ZUkh0eG9Kbmt1ODNQM195M1ZxWGoyVDJvR1ZlZG5Vb2NVZmlJdWh0ZHp5X2J2VzFYYzJXTEZNTHVGZmc?oc=5",
+   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
+   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,10 +149,22 @@
    "pts": 22
   },
   {
-   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
-   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
+   "key": "trumpthreatenstodoubletariffsonmexicoifitdoesntstopmigrantsb",
+   "title": "Trump Threatens to Double Tariffs on Mexico If It Doesn't Stop Migrants, but Legal Authority Remains in Doubt - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUS1NUTRGVnFMZ2hnNjRaME5yNmhmSWJpMjNrWHZ0WUJ3YXZDeGxKTFZuendJTmRvXy1ZUkh0eG9Kbmt1ODNQM195M1ZxWGoyVDJvR1ZlZG5Vb2NVZmlJdWh0ZHp5X2J2VzFYYzJXTEZNTHVGZmc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpthreatenstodoublemexicotariffsoverallegedmigrantinfluxf",
+   "title": "Trump threatens to double Mexico tariffs over alleged migrant influx - FreightWaves",
+   "source": "FreightWaves",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFJMb1VoTkNCazlzbzFXcHFBdnYzSHNRdDloZnFmT2ppNWxHZE9NdmVMSDlkcFhnOW5hM0EtUUpHQUc3QnJ4UWcxdXpYX1VSN1pvb2tHSHRBaElRWnQ2VlJEeDFITEhvQ3B4N0xaaW80SnQtWnNaYk13UWNWWElxTjVkeTE2NzduRHFhdXRhYUhtZUtQS20tV1NHNWQwTThtVTlBbA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -165,18 +177,6 @@
    "title": "Trump\u2019s tariffs echo Jefferson\u2019s failed attempt to weaponise trade - The National",
    "source": "The National",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORi1UWUVkb1VHNHkwTU5wN3lwb3ljTm93MGpYY3VWaFh3c1BYTGY4QkZ1a3BGWk4ycTliTFBfVzlaQVBKZ0xVRlRyY0QtclVJMm1wQWN1b3RGVlptT3lMQkM3WWJkb3JaMzlzSzl2dkVNVjRsMmNIRlpqUUlQTmFFWUp2WTUxRDdseFZiQ2N0b2hwMHQ2aEhn?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpthreatenstodoubletariffsonmexicooverallegedmigrantcarav",
-   "title": "Trump threatens to double tariffs on Mexico over alleged migrant caravans - Anadolu Ajans\u0131",
-   "source": "Anadolu Ajans\u0131",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1FYU3NYT1RobjFibGdNU1Zrbm01Q0l3TlljMGlDWkFUTUJhUlFaREptandpOU81clp6ZTVqVlhia01WdGtoTWZxTVduX2hKSkRBeHUyVHd4SkJFYXRZT2luQzJtcFBvbXJSTGVPZ3lmcjR5TUprSmRsY3FXanZOMGVRdzdCSnZuUHd4VDdxRlRMblJvejdLbjdXbjJvZWVxZFJfU0dfeHdWT1I2MmV6bm5JZVM5Zw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -221,10 +221,10 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysapplestimcookshouldreplacejensenhuangasnvidiaceoyah",
-   "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - Yahoo! Finance Canada",
-   "source": "Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3RIVlktajNyRmhZU00tWXJvb3d6SDFMRm9ldUpocFVKYmtxZXNWbENuVWpfVF9vaWppcG9tNnhZU1BPdzkybGVUdEJhYXpSbWVNdUE0Ul9xOTN4TzZJYk5FaTFoSjY4OGF0bmJMZ1E4eGVRZDFBYm9sMW9RYzNKcg?oc=5",
+   "key": "trumpsaysapplestimcookshouldreplacejensenhuangasnvidiaceousa",
+   "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -248,18 +248,18 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 66
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 59
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 67
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 82
   },
   {
    "sym": "FXI",
@@ -269,57 +269,72 @@
   {
    "sym": "NVDA",
    "why": "already moved too far today (chasing)",
-   "score": 45
+   "score": 65
   },
   {
    "sym": "AMD",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 47
+   "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "TSM",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "score": 66
   },
   {
    "sym": "XOM",
-   "why": "reward/risk after costs only -0.46",
-   "score": 76
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 75
   },
   {
    "sym": "CVX",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 59
+   "score": 74
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 743 min old)",
+   "why": "stale quote / market closed (last price 798 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 743 min old)",
+   "why": "stale quote / market closed (last price 798 min old)",
    "score": 84
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 65
   },
   {
    "sym": "LLY",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 72
+   "score": 37
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 38
+  },
+  {
+   "sym": "SPY",
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 50
+  },
+  {
+   "sym": "QQQ",
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 50
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 798 min old)",
+   "score": 63
   }
  ],
  "paper": {
@@ -333,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 04:34 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 05:30 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
