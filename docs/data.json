@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 11:23 AM AEDT",
- "fx_audusd": 0.6807,
+ "generated": "Fri 13 Nov 2026 12:38 PM AEDT",
+ "fx_audusd": 0.6814,
  "signals": [],
  "events": [
   {
@@ -21,6 +21,18 @@
    "title": "Trump threatens to double tariffs on Mexico over illegal immigration - Financial Times",
    "source": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3k2NzNQSnkyWkZxMEdENmMtNnRReHJfakhUWkNUNF9RRUZiTllLSzh5THQ4TzZ4QVZiVVpxTU5iNGIzM2ZMVXFpajM2dUY4NGJVRTJkZGJsc05hVmR4cHExVXN0NWN3Q1dtNlFkejRXZ3MzX3FPTGNqRlJBQzU3OERuQ0Q?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumpslaps100tariffonsomepharmaceuticaldrugsviaexecutiveorde",
+   "title": "Trump slaps 100% tariff on some pharmaceutical drugs via executive order - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHNjYmZWRzV1Rno1QnBJdlAxR1Jjd1dGLTdTRHlUQnRUQmpCOUFJSDc0cFdCSy1heGE1SUc5R1k3WWJkZGFKZ01vYUQyaTM0bzgxSWJ5R2RVYjdQNjU2NjhVZ2lUZGtUM1Ffa0RQRjFPb2tvOFFCVXN1M1pPUnN1UTYwZVlWdXZWSkppX014QkJPQ0U4VDAzMzJGYnlKRURCemFWMVd6SVZTVGfSAbABQVVfeXFMT3pWWlhKeVJ4NHJNZ3Y4TWNzT0RTYi1UajFQcnJlVDUxLWpOY0N4bTFNWVlRaDVnRjYxaS1tMVVMNkZUYlhmTFJlT1BvSmpEMWVvelhIRXhIeUQtS0d2V2NlZ3ZLTXFpYXlDT0VPQkRLRjA5eXNKZnlzSGRrajJUeEtUUWRYNnhlRHVXYldaU3NBdG1VTVBqcXRtY3ViMHQ1MjJzVlhIRzNFNHhUeVI3dWI?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,60 +149,12 @@
    "pts": 22
   },
   {
-   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
-   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpthreatenstodoublemexicotariffsasmigrantsheadnorthtexasp",
    "title": "Trump threatens to double Mexico tariffs as migrants head north - Texas Public Radio | TPR",
    "source": "Texas Public Radio | TPR",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2FDSGJmRkJ4RjZNZk41TW9FendoajZucWcwaG15dzFkaXRKRW1HWnMzcW5nX0U2MFNMa1A4X2FJM3hfdDhhYTlIdUstSzJCSVlxM3pRTEo5RXY4Q1N3LUREbS0xSEtsYkx1bkM3YVY0aU4xUDVCOFRzd25aT3FEeF92anA3eThYSXRlWVgxN0xZTDZ3QnVSYlFGZjJmQ3RRUXlVcFFUcTRfYWlmRWl0Qm9pOA?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "democratsprobetrumpsnvidiachinachipexportdealthedefiant",
-   "title": "Democrats Probe Trump\u2019s Nvidia China Chip Export Deal - The Defiant",
-   "source": "The Defiant",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR0xqcXdJelRtZVQ1cEU2dUliVXBpTlRVZk8xVWhpN3FBYXBtQnF0d0htb0ZhemtHYlN6SUhpbi14Wl82WXZRTlZzci1QWElEbnlxVjUwYnEtUV9ITHNCLUl1Rzg5WnBfZXVxWjJVaFZiWFN0ZUl0Q0tiMVk2ZWs1RmhxakhFSTJOcE52UzM5LVY?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffthreatdrawsmutedglobalresponse",
-   "title": "Trump's Tariff Threat Draws Muted Global Response - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXFaOUFRbHl6YTBxQUhIX1RKWXZWVktJTFo0QjYxb0d6cjBwejltWmxtaG5JSFhzcGY1cDAwMEdDc2wzcTViUTY3S3lkbEV1QThMT19kMGI0bkFyX2k3S0xRc2Y2X0FwUVdfUXdBWEZKS2p1Ti1ZeWdaelFfTkYzakp3RmU?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysapplestimcookshouldtakeovernvidiathewashingtonpost",
-   "title": "Trump says Apple\u2019s Tim Cook should take over Nvidia - The Washington Post",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -233,88 +197,124 @@
    "pts": 22
   },
   {
-   "key": "trumpwantsapplestimcooktobenvidiasnewceopcmagaustralia",
-   "title": "Trump Wants Apple's Tim Cook to Be Nvidia's New CEO - PCMag Australia",
-   "source": "PCMag Australia",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0dxRkxrc3FBYlpudXllYUpjYkgydy1GcEdMQUtXUy1mN0hUTjM4NXZBN1lWRFdTcFRnTE05Z19kWWdYNlR1dXM0ODhKelJhSV9BZHVmX254ZmNkZjRSdGJVdHNxU0tVYWxyb0FWaXR5Q2tMWXEwbHVzMnl4MUNSLW01V3NPVFk?oc=5",
+   "key": "trumpfinallystopstherussiaukrainewarwrongtrumprightresultthe",
+   "title": "Trump Finally Stops the Russia-Ukraine War. Wrong Trump, Right Result. - The Warwick Valley Dispatch",
+   "source": "The Warwick Valley Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnpiRm1VZFpfY0EtMW12Mjc3ZlJfZlJJaVV1Qmh5LVFBOVloWVA2NzlaTVI0a2FXc0RwMl8yT0JVLS1aczdvNTR0Y3F5UnZhb2VHSUpQSVNvTFB5M1M3ei1tellQNy1icEdFZ19RX1o2c2xia2M2V1ZvMmJqczQtWmx6ZHdJWTUzdzJwdHZEbmZaLUU3SUpsdl9MdDFFSjZrdU1wdFFB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpheadstochinaamidnvidiascandalwillhegettougheronbeijinga",
+   "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing? - Al Jazeera",
+   "source": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnVnYWZSRWdWN1FEckQwbmpSSUhpTm1xaDBjbWppV0F4WVIzcW5MaXFWWFlGWmg4ajRmSVBIandqMHczeUtUTlVNU0xCVV9BYXBUdkpQbXBWY3FpZWw1aTAySm9VamRkLU1KMXc2dEdXbTY0TWUtTXVLSXYtS1c5dUw2MGRUSWZ6MFdRaGE4cXR5anZ2MWpFZ0F2YmczLWVsZEpkeW9VYzI5c1RGd3B0dHZjVdIBuAFBVV95cUxOMEx1N0pDTFNDRGR6cWFjSk9WLVNnbU5zWHctLTdfNjY4VGN2OUpKZENONFlYMXBwWU5RUVJ5VlFVZlFSQTRPTHVpbjVDYWFaR2NnNDFNSS1mS2pRek5pWTVEbmpRZE5SWklXWU03bVJyMU9JNVA2dnplYnRSWE9BUzRDRkFNYUtxWDY4c3JDWWdUTzdlWUhXWjMyUWFCSmc0ajUxQVd5WWctWHRrbW5RVGJGS0Y5VDFT?oc=5",
    "themes": [
     "semiconductors"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
+  },
+  {
+   "key": "exclusiveusfdashelvescommissionersvoucherprogramforspeedydru",
+   "title": "EXCLUSIVE: US FDA shelves commissioner's voucher program for speedy drug reviews, sources say - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWpkVElUa0dxMUx5dlJuNjBCTGI4ZVRRT0xkTDRpUl9zOVFJYzZfZ1JnaUREb2VacDlLUlBDWlVQdlhmY09hNzV2M2t1Z2Foc0xRSXpDUGdYcVlteEhBTEtGVlAzZno5WGNmWjQzZlIzSG1VcDNHU2U4N1p0UHZfM3VjYzBnWE9RV003TkFfUGthRUxBWUxtMndIQ0dsT2VmcnQ2ckxUbnpVZlV6U3VnSDBxTlpBU044Unc?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "peruraisesinterestratesforfirsttimeinnearlyfouryearsbloomber",
+   "title": "Peru Raises Interest Rates for First Time in Nearly Four Years - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnpBVEEyQ0tNeWJSdmZGcXVzVEJ1OHVZSFhxb3VnM0l0UTdPeXJURElWZGZKS3JOTXFtMWZHc25uZUpjbXZ2YzIxY1lOd1BnZ2F2Q0F4LTd2M2NZT09KaFZIenZqSDhnOGhhR2FlNUpPLXdUTEpzYlZqNndIN0tVYjg1b19WUm9naWRlSTBpcUtTNlRaakNaLVhvOXFoUzZjVUo0YVFiTDVDUHA2VlRQbE5yNA?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 204 min old)",
-   "score": 53
+   "why": "stale quote / market closed (last price 279 min old)",
+   "score": 56
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 204 min old)",
-   "score": 63
+   "why": "stale quote / market closed (last price 279 min old)",
+   "score": 64
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 204 min old)",
-   "score": 58
+   "why": "stale quote / market closed (last price 279 min old)",
+   "score": 57
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 204 min old)",
-   "score": 65
+   "why": "stale quote / market closed (last price 279 min old)",
+   "score": 61
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 204 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 80
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 204 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 204 min old)",
-   "score": 83
+   "why": "stale quote / market closed (last price 279 min old)",
+   "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 204 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 64
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 204 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 204 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 46
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 204 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 204 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 279 min old)",
+   "score": 39
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 204 min old)",
+   "why": "stale quote / market closed (last price 279 min old)",
    "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 58
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 36
   }
  ],
  "paper": {
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 11:23 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 12:38 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
