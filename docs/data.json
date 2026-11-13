@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 05:28 AM AEDT",
- "fx_audusd": 0.6783,
+ "generated": "Sat 14 Nov 2026 06:26 AM AEDT",
+ "fx_audusd": 0.6776,
  "signals": [],
  "events": [
   {
@@ -58,6 +58,31 @@
    "source": "DW.com",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzZBV1p1ZGV4V0YtWllIY3N4Y1h4Vk5zTHh4dnhnU3RNUGNZV3BoNTJFcHpVLXNBOWNITnlkVFU2WFZVZmlxVFRzNklxLWpxYnJ4NFJsT3p4Y0lLc0tJRlpQNWUwbnVwb1cxQ1JndS04VmUza1FweEY4TVpudWQ5Q0tHOWJDYS1pWGozS0ZISzVuWm5OMmlxWXJ6TQ?oc=5",
    "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffsoncanadafacepressurefromuslawmakersastradetalks",
+   "title": "Trump\u2019s Tariffs on Canada Face Pressure From U.S. Lawmakers as Trade Talks Continue - Culture Alberta",
+   "source": "Culture Alberta",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlR6QTJJNzBUSU5QUDlKSnNEZmoyMFlrblQ5d1ZQOFdCSnhNZkFocjF2STF1MFVIbXlwMjJDVkdMZm1TREMzTVlDWmhkRjJGYmFhMWtua3V6Z2tMUk9tZUpDUW5sT1R1UXcxenlTcU9UT1h2N01uSlU0a3kxandlMDFyLTlXZThwZ2l0Y0J4bEJtbUJmc0dqdGlFX3FXc1NWR3Q3OTcwaF8xcXFxS1JTZ2oxS3J5WkZiTldLTA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "twoviewstrumpsfailedimporttariffpolicyaddedtoinflationameric",
+   "title": "Two Views: Trump\u2019s Failed Import Tariff Policy Added to Inflation - American Enterprise Institute - AEI",
+   "source": "American Enterprise Institute - AEI",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXlHNFJIcnZpQjFiQ0R3R2duemtldV9zVEJPdXB2THdxMnNSX3BLeTQzWWJEbGsxTlpJMVdvSHd5c0E5TExkSl9IQmpka2xpcENMeUZ4dkdNLUdRSUZmQ2JhbHNJcXhDc3lCUFoyYjUzR05RQzlsNGRXVjVSVUJ0UUFTeE9HamhkdXVkVWVkTkhFTWpnWjRQbTYyWQ?oc=5",
+   "themes": [
+    "rates",
     "geopolitics"
    ],
    "trump": true,
@@ -198,10 +223,10 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysusdealwithsouthkoreaincludes84billionforoilrecovery",
-   "title": "Trump Says US Deal With South Korea Includes $8.4 Billion for Oil Recovery - EnergyNow",
+   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
+   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
    "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDJBLW1ZRXd5MGZBdXc5VmZFTkpDTGZWYTBOLWlDQU9CcVYyWTFVV2ZXSm4wQklINTlLMkJYMWJyZjQ0NjlvMHBLaXBtWnNXbzRpenlFOUlJWThmV1d3clhhT1RsdVdMeXh0X25Fa3Rna2NtRWF5Z1VrajB0VC1BNFlXdjlLZU5kOXpVYTJTUjM1d3dSZk5kcnpaRUx0R05CTi1yZVB3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
    "themes": [
     "energy"
    ],
@@ -210,132 +235,108 @@
    "pts": 22
   },
   {
-   "key": "nvidiascandaldrawsincommercesecretarylutnickwhoreportedlyagr",
-   "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWlh6TnhLcnZhOGZPc0Zudjg5aGlJWGpmZWFDNUdvSjhIeTBfSmNXd2p4WDRxM2hRaV9oMzgtdm5wWEVubWJ5bHlJanJMbGtBSk94UVdUaWg0MDU1NnNLOUF5cm5FUUdKTWVJbEM4YzNWN243bUxpZUQzbk91R3PSAX9BVV95cUxNTFpYek54S3J2YThmT3NGbnY4OWhpSVhqZmVhQzVHb0o4SHkwX0pjV3dqeFg0cTNoUWlfaDM4LXZucFhFbm1ieWx5SWpyTGxrQUpPeFFXVGloNDA1NTZzSzlBeXJuRVFHSk1lSWxDOGMzVjduN21MaWVEM25PdUdz?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
    "themes": [
-    "semiconductors"
+    "energy"
    ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "ministryofdefencedelaysdecisionon2bnukmilitarysatelliteconte",
-   "title": "Ministry of Defence delays decision on \u00a32bn UK military satellite contest - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXNDOGlyQkFwcmRDNU5iR3Z4NHc1aUVyekFvZEZmQTRMeFpUekhvLW8xWUZHNWhYWWlOSFl3bHNZZ2ZWbC1PanRfb21OSy1sT0NORnRxcldPNV9hUzlsTmNObWhBb2g2UENFVXQ3cTE2MWF4eXNrMW5NNjR5R0FVU2ZYN1o?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "fedswilliamssayscentralbankhasworktodotogetinflationbackonta",
-   "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 81
+   "score": 46
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 81
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 81
   },
   {
    "sym": "FXI",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 53
-  },
-  {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.2x normal)",
    "score": 73
-  },
-  {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 58
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 797 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 799 min old)",
-   "score": 57
-  },
-  {
-   "sym": "NVDA",
-   "why": "reward/risk after costs only 0.55",
-   "score": 86
-  },
-  {
-   "sym": "AMD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 52
-  },
-  {
-   "sym": "SOXX",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 72
-  },
-  {
-   "sym": "TSM",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 65
-  },
-  {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 52
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 72
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 71
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 71
+   "score": 65
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 70
+   "why": "position size under 1 share",
+   "score": 76
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 797 min old)",
-   "score": 52
+   "why": "stale quote / market closed (last price 855 min old)",
+   "score": 54
+  },
+  {
+   "sym": "XOM",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 54
+  },
+  {
+   "sym": "CVX",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 67
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 855 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 857 min old)",
+   "score": 57
+  },
+  {
+   "sym": "NVDA",
+   "why": "reward/risk after costs only 0.37",
+   "score": 73
+  },
+  {
+   "sym": "AMD",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 58
+  },
+  {
+   "sym": "SOXX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 64
+  },
+  {
+   "sym": "TSM",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 73
+  },
+  {
+   "sym": "LMT",
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 68
+  },
+  {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 73
+  },
+  {
+   "sym": "NOC",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 56
   }
  ],
  "paper": {
@@ -349,7 +350,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 05:28 AM AEDT",
+  "last_scan": "Sat 14 Nov 2026 06:26 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
