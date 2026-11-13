@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 04:26 PM AEDT",
- "fx_audusd": 0.6802,
+ "generated": "Fri 13 Nov 2026 05:26 PM AEDT",
+ "fx_audusd": 0.6794,
  "signals": [],
  "events": [
   {
@@ -77,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatenstodoublemexicotariffsovermigrantcaravanssupply",
-   "title": "Trump threatens to double Mexico tariffs over migrant caravans - Supply Chain Dive",
-   "source": "Supply Chain Dive",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDQ1d0hsM05hdEd0OEZ3WXhqREZXdDhHLVdvc1FSZkE2VEhrRFVRREZpV1czYnRmdTJfbGFwaFJuM3NJMmF5b0JycHdWZlBLd2p2Q2JmN3FNZUJ2YTdPbHFybGVQbGI2STJEaG5iZHZkcGZXRHNFVnFoWFJkQ0FndVdUbmFJTDVuYWhXenlJcURSTkZZTGFXX0h0RS03MngxM05PVnNqLXluSUE?oc=5",
+   "key": "sheinbaumdownplaysmigrantcaravansastrumpthreatensmoretariffs",
+   "title": "Sheinbaum downplays migrant caravans as Trump threatens more tariffs - Courthouse News",
+   "source": "Courthouse News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRIRmgtZkFPeHgxazlGbkRCZXJURGNmanc2ZGZMVHZzMkFndjltSVdMZHM1T1BNMGdGYTdIeFhtUFVJLU9ZcjBwcU03TjdXVWZnVm9FMnBzWG40U1laWFF2SFJaZG1rZmotbTh2WS0tenB0WXRtV1VLZU1fcURSdElaOVZjaHNkeGw5TzZVTkllbF95Ry1PUVVyZjVfMEx1?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "sheinbaumdownplaysmigrantcaravansastrumpthreatensmoretariffs",
-   "title": "Sheinbaum downplays migrant caravans as Trump threatens more tariffs - Courthouse News",
-   "source": "Courthouse News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRIRmgtZkFPeHgxazlGbkRCZXJURGNmanc2ZGZMVHZzMkFndjltSVdMZHM1T1BNMGdGYTdIeFhtUFVJLU9ZcjBwcU03TjdXVWZnVm9FMnBzWG40U1laWFF2SFJaZG1rZmotbTh2WS0tenB0WXRtV1VLZU1fcURSdElaOVZjaHNkeGw5TzZVTkllbF95Ry1PUVVyZjVfMEx1?oc=5",
+   "key": "trumpthreatenstodoublemexicotariffsovermigrantcaravanssupply",
+   "title": "Trump threatens to double Mexico tariffs over migrant caravans - Supply Chain Dive",
+   "source": "Supply Chain Dive",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDQ1d0hsM05hdEd0OEZ3WXhqREZXdDhHLVdvc1FSZkE2VEhrRFVRREZpV1czYnRmdTJfbGFwaFJuM3NJMmF5b0JycHdWZlBLd2p2Q2JmN3FNZUJ2YTdPbHFybGVQbGI2STJEaG5iZHZkcGZXRHNFVnFoWFJkQ0FndVdUbmFJTDVuYWhXenlJcURSTkZZTGFXX0h0RS03MngxM05PVnNqLXluSUE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -173,18 +173,6 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysapplestimcookshouldreplacejensenhuangasnvidiaceousa",
-   "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
    "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
    "source": "Axios",
@@ -197,12 +185,12 @@
    "pts": 22
   },
   {
-   "key": "trumpfinallystopstherussiaukrainewarwrongtrumprightresultthe",
-   "title": "Trump Finally Stops the Russia-Ukraine War. Wrong Trump, Right Result. - The Warwick Valley Dispatch",
-   "source": "The Warwick Valley Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnpiRm1VZFpfY0EtMW12Mjc3ZlJfZlJJaVV1Qmh5LVFBOVloWVA2NzlaTVI0a2FXc0RwMl8yT0JVLS1aczdvNTR0Y3F5UnZhb2VHSUpQSVNvTFB5M1M3ei1tellQNy1icEdFZ19RX1o2c2xia2M2V1ZvMmJqczQtWmx6ZHdJWTUzdzJwdHZEbmZaLUU3SUpsdl9MdDFFSjZrdU1wdFFB?oc=5",
+   "key": "trumpsaysapplestimcookshouldreplacejensenhuangasnvidiaceousa",
+   "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
    "themes": [
-    "geopolitics"
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -243,78 +231,90 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "inapolicyswitchthefedsaysitsoctober2027meetingwillnotseeavot",
+   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGdNQ09FSWdFaDlmMHlXQmJCNWEzb3N5MExxM0RlOHFDREEwQzdGbWpxTWpsQTVlWkpIV04yWVN1YXEzWGVwaVpLVTgtUVZvUThnWDgtVlVVZm4tMElkZHdaSjhBdDFIV1U4T2MxNmVaZFdPYy1CdnBON0N6WTZ3ei1xekg3b25FUmw3OEdZVS1XMHlmLUY1WXVIeEpoNHJuVFFlc0xDNlpGZUo1WXJlVnJTdVZXcW1fZmdjcVl6ZXZPUEk?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 64
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 81
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 74
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 79
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 56
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 507 min old)",
+   "why": "stale quote / market closed (last price 566 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 507 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 566 min old)",
+   "score": 86
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 32 min old)",
-   "score": 42
+   "why": "stale quote / market closed (last price 74 min old)",
+   "score": 52
   }
  ],
  "paper": {
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 04:26 PM AEDT",
+  "last_scan": "Fri 13 Nov 2026 05:26 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
