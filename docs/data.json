@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 12:38 PM AEDT",
- "fx_audusd": 0.6814,
+ "generated": "Fri 13 Nov 2026 01:27 PM AEDT",
+ "fx_audusd": 0.6813,
  "signals": [],
  "events": [
   {
@@ -59,18 +59,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "jensenhuangsaffairwithallegedspyrevivespushtotightenchinachi",
-   "title": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEZQd1VKRnhGOXdpSDNHeGtxVzBDdEN3a0VnV3hyZG9YZXhscndPSk92N291WE5CTkYwU190dWNSVHFYUnFtWDUyaGtXLTNxWDZzT0oweU9wdTBFS0x1RzJtR0hvbks1TGFCQ0J5QnN3Q01vd0V6bVdtaWZxMGdTY1VoUU9aQm1uRFVVOC1qM0fSAZYBQVVfeXFMUEFLaXQwYzN4NDZ6dzJ0Y3E4XzR1Q3VmSEh4S2pZbVo1V01hZnlrN3YySEtyUjB6VTNPR2ZKNkZnT1lRcHo3bHdWaERzM25JWDFCR3VTTnd1aGZjZU4xbVFjcXpyNVlUSng1MS1jM3VZMWdjaHJWUWVZQTk0Qk9McUxmRnNtQ01obDM1VENMNWcydFdYVFB3?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": true,
@@ -185,10 +173,23 @@
    "pts": 22
   },
   {
-   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
-   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+   "key": "trumpsnoneedtotalktoiranremarksparksturmoilasgoldplunges3bel",
+   "title": "Trump's 'No Need to Talk to Iran' Remark Sparks Turmoil as Gold Plunges 3% Below $3,900 and Oil Rebounds to Near $89 - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSRVVUdWRvbXZmaFF2RmN6eXNSX1NwemhYSkV6TnFtMnpqR3dGNmotbWYzOUdSUDZ3WWZsQ0dxd3RUMjhYbXFLTHRlc2R2eS1McFF1Ni1MR3dlQ0Q0bVFRdFJnVFpZQ2lfMVNOcGVVMnNKQzhXdHc?oc=5",
+   "themes": [
+    "energy",
+    "mining"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpteammullinghowardlutnicksfutureascommercesecretaryafter",
+   "title": "Trump team mulling Howard Lutnick\u2019s future as commerce secretary after Nvidia scandal, report says - The Independent",
+   "source": "The Independent",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDVnVWgwaU9LdUNjRUx6S0QwMEVXbFRYNHFFdExvNFpXM3ZnSnNLVzhQd00zR2hqR21nY1M5N3R5Yzg0aTFOUXZOcmRxWjNDV0dxZ3ppdTVaeXoyZ0tDZ2pOMUtpRmcwbElUTWNEYlpVM0cxalA5ZE9SLW02dERmd1FZVGRZWF9CdDlRX0djZm00OWZRaXdZTmNEX1gzMXpjYlgyUlc4NjdoTnNpak8wc1dJdzJOcUN5WExBaWhzaw?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -203,6 +204,18 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnpiRm1VZFpfY0EtMW12Mjc3ZlJfZlJJaVV1Qmh5LVFBOVloWVA2NzlaTVI0a2FXc0RwMl8yT0JVLS1aczdvNTR0Y3F5UnZhb2VHSUpQSVNvTFB5M1M3ei1tellQNy1icEdFZ19RX1o2c2xia2M2V1ZvMmJqczQtWmx6ZHdJWTUzdzJwdHZEbmZaLUU3SUpsdl9MdDFFSjZrdU1wdFFB?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstiestonvidiaceojensenhuanginthespotlightawaniinternati",
+   "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Awani International",
+   "source": "Awani International",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0JJcVZCSENHc3BEU0hVUHoyYUVhZ3dxekU4TVlnMzJKeXFJNUZlYm0xbnZtT0pReS1VTXdlTklXbTNTWUkxU0Q5NUNteUh6Y2lWRU0xUFFNSHcwc2lNeWdBUzVEZlY5elFxcWNGWkhNWUdaR1MwRFBjakZSdW5CcG9kRHZXSGd6UXlfUE02cmE0NG9nX3ZBSWh6ZGt4V2s?oc=5",
+   "themes": [
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -231,90 +244,123 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "peruraisesinterestratesforfirsttimeinnearlyfouryearsbloomber",
-   "title": "Peru Raises Interest Rates for First Time in Nearly Four Years - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnpBVEEyQ0tNeWJSdmZGcXVzVEJ1OHVZSFhxb3VnM0l0UTdPeXJURElWZGZKS3JOTXFtMWZHc25uZUpjbXZ2YzIxY1lOd1BnZ2F2Q0F4LTd2M2NZT09KaFZIenZqSDhnOGhhR2FlNUpPLXdUTEpzYlZqNndIN0tVYjg1b19WUm9naWRlSTBpcUtTNlRaakNaLVhvOXFoUzZjVUo0YVFiTDVDUHA2VlRQbE5yNA?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 56
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 64
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 57
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 61
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 80
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 82
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 87
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 279 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 64
   },
   {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 65
+  },
+  {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 72
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 74
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 79
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 56
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 57
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 57
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 65
+  },
+  {
+   "sym": "STO.AX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 53
+  },
+  {
+   "sym": "BHP.AX",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
+  },
+  {
+   "sym": "RIO.AX",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 58
+  },
+  {
+   "sym": "FMG.AX",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 66
+  },
+  {
+   "sym": "PLS.AX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 64
+  },
+  {
+   "sym": "GDX",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 57
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 279 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 46
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 279 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 279 min old)",
-   "score": 39
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 279 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 70
   }
  ],
  "paper": {
@@ -328,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 12:38 PM AEDT",
+  "last_scan": "Fri 13 Nov 2026 01:27 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
