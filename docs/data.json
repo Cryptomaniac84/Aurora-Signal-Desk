@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 08:47 PM AEDT",
- "fx_audusd": 0.6797,
+ "generated": "Fri 13 Nov 2026 09:49 PM AEDT",
+ "fx_audusd": 0.6793,
  "signals": [],
  "events": [
   {
@@ -65,10 +65,34 @@
    "pts": 30
   },
   {
+   "key": "trumpstariffsfaceanewthreatrepublicanscnn",
+   "title": "Trump\u2019s tariffs face a new threat: Republicans - CNN",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumptellsmexicohelldoubletariffsifitdoesntcrackdownonmigran",
    "title": "Trump Tells Mexico He\u2019ll Double Tariffs If It Doesn\u2019t Crack Down On Migrant Caravans - Forbes",
    "source": "Forbes",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpthreatenstodoublemexicotariffsovermigrantcaravansarabne",
+   "title": "Trump threatens to double Mexico tariffs over migrant caravans - Arab News",
+   "source": "Arab News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUNaY2QtVUNvQUVVc1l4QVQ3Vk5sNUpLazdfdzRlQVhtaUdHZjQwckhEVmNUMWYtMzFOeG8wWDRZeTQ5bEh1MlVYeU9sZkV2b01hSDBHaHAxVjBNMTZMQ20yWVVLd0RCWk54eFU4Z1dYV3NFTUtORzE1MW9LN2owWnZhQWpOUWtDS2R0aDJfUDNxeEZIRDYydF9iWTc2RlRsaERJ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,10 +137,10 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatenstodoubletariffsonmexicocallsmidtermsaperceived",
-   "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A \u2018Perceived Loss\u2019 - Yahoo News New Zealand",
-   "source": "Yahoo News New Zealand",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5",
+   "key": "trumppauses50tariffsoncanadaastradetalksadvancekeystonexlbac",
+   "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance \u2013 Keystone XL Back in Spotlight - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,10 +149,10 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffthreatmeetsmutedglobalresponse",
-   "title": "Trump's Tariff Threat Meets Muted Global Response - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXFaOUFRbHl6YTBxQUhIX1RKWXZWVktJTFo0QjYxb0d6cjBwejltWmxtaG5JSFhzcGY1cDAwMEdDc2wzcTViUTY3S3lkbEV1QThMT19kMGI0bkFyX2k3S0xRc2Y2X0FwUVdfUXdBWEZKS2p1Ti1ZeWdaelFfTkYzakp3RmU?oc=5",
+   "key": "trumpthreatenstodoubletariffsonmexicocallsmidtermsaperceived",
+   "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A \u2018Perceived Loss\u2019 - Yahoo News New Zealand",
+   "source": "Yahoo News New Zealand",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -143,30 +167,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPc25lQlVaNjR6a0RHZ1JCTjJHVEdXSjhoX3hUekF1Tzl0bzd5SnI1eTN6Z0dOQzRzZXZ2OVhmVDNrcDRXZGdiSm1oOWhGWl9VQU1nX2JMa1dBWE1ZZ1ktR0tubVc3cm9CSGptT2tMX3MwRjJZSjFGU3ZUdFRfQ095cjRZcUNOekFFZnBrLWN3a3ZtZnFrem0xNHRTWXlTYmliS1pJc3RlLWxOMVRmams5cXhlYkxDb0dXU2VxUEpWcGI1aXJuTFE5S3FMT3ZtbmR3Wm5rX3RLNndYTV9JaVhKc3RkQkRsWTl2SnFFQzk1LXIwZ2tGaDRpYlg4WjdibUdVTEEwaTQ4dkt0MmtEdHZ3?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "formervpmikepenceblamestrumptariffsfordemsmidtermbluewavebos",
-   "title": "Former VP Mike Pence blames Trump, tariffs, for Dem\u2019s midterm \u2018blue wave\u2019 - Boston Herald",
-   "source": "Boston Herald",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGhqRkdraEZCemNOY29mLXl2bkJWQWNRbGVxQkJyUS1XVEhOc2JvdVBBTU1TWExzWWIxdWJDQlBXZUJRdEozY1hzUVZaRDNlcFZkcnlsLVMwaDgzeTZXRU5ZRVVYX1lMWGJXRlBnODgxM0t4V2JDaEY0UFlhWUJvU19YOEtuWGZ1bkpPeXB2RElCUUJRaHBwZ2dTVnRLYmJEcGxBSENKT0YxSU5CYWc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
-   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -209,6 +209,18 @@
    "pts": 22
   },
   {
+   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
+   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "iraqoctoberoiloutputjumpstohighestsince2019ieasaysbloombergc",
    "title": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -231,109 +243,97 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "fedswilliamssayscentralbankhasworktodotogetinflationbackonta",
-   "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 64
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 81
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 74
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 79
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 56
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 55
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 55
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 276 min old)",
+   "why": "stale quote / market closed (last price 337 min old)",
    "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 278 min old)",
+   "why": "stale quote / market closed (last price 339 min old)",
    "score": 55
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 55
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 768 min old)",
+   "why": "stale quote / market closed (last price 829 min old)",
    "score": 86
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 276 min old)",
+   "why": "stale quote / market closed (last price 337 min old)",
    "score": 52
   }
  ],
@@ -348,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 08:47 PM AEDT",
+  "last_scan": "Fri 13 Nov 2026 09:49 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
