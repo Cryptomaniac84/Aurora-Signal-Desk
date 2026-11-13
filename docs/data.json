@@ -1,12 +1,24 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 06:26 AM AEDT",
- "fx_audusd": 0.6776,
+ "generated": "Sat 14 Nov 2026 07:21 AM AEDT",
+ "fx_audusd": 0.6779,
  "signals": [],
  "events": [
   {
-   "key": "trumptariffrebukeissettounlockfactoryinvestmentsbloombergcom",
-   "title": "Trump Tariff Rebuke Is Set to Unlock Factory Investments - Bloomberg.com",
+   "key": "trumptoruleontariffsforaustralianlambaftertradecommissioners",
+   "title": "Trump to rule on tariffs for Australian lamb after trade commissioners disagree - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0E2N05pSEpiM1JFNFFSYlZud0pjRFdUMGNJSVNpRVFsUHpUdE9TTmVZNWJNcmdrZTRHQTBjTnpsaFBXaFlMRTJiQjJ0WU03cXdtT0RDRm45R3JTbUhZbzR3ZllhcDZZZ3FiWUZVVHhpUE1vN0VZdzRST0NmdF9BQzRsUG14blFrS3RwOWNRbVVsM29CV3dZSnlQdUxscWpJb1N1U1RvaEJNOUhXZzZv?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumptariffrebukeinmidtermsissettounlockusfactoryinvestments",
+   "title": "Trump Tariff Rebuke in Midterms Is Set to Unlock US Factory Investments - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHVKMEx1YS01XzdGLVozd0haNlpLVWNaOXR2bGR1Vl9JcWYxbkVkbmNQMDNldnd4RHVESmJjNUZCekZ6Ym5iTERCQlBwa0hrX2dfUEJBNnA5aUp6RWVkNjc0TlpGSktuSTI1YzQwV29pSTJPb1dVVmVDWlJiRkZCeUJLbVRvbjh0WTN5a0lncG9zY2YzV2FTc0VpYXNDd3Y3dTBRZWFoMUhHYkhxWURTQjlpenVJUzZLMXlSNGVPWXp4c1k?oc=5",
    "themes": [
@@ -53,6 +65,18 @@
    "pts": 22
   },
   {
+   "key": "howthedemocratsplantostoptrumpstariffsthetimes",
+   "title": "How the Democrats plan to stop Trump\u2019s tariffs - The Times",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHgtY012R0tMMEJMTUVVLTRkLVdIOXp1NnRCZEQ2Ui1zaGdhMW5ocnluTlRmR0dPWkRiNzBBT0RRM0l1R2JwMjY4bGE4T0k1aHpva0dWVFM3eHc5aHhsN2dwSFZFend1WU9oS1RGSm9YVXBqWUVWV195amptWG82WmRoQkdwTWhTVGtPSVhwODI?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
    "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
    "source": "DW.com",
@@ -90,10 +114,34 @@
    "pts": 22
   },
   {
+   "key": "trumpsaysgulfalliesaskedhimtoholdbackiniranastariffsfaceveto",
+   "title": "Trump Says Gulf Allies Asked Him to Hold Back in Iran as Tariffs Face Veto Fight - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13SHJhMFZuM2c2b1ZTX2JCZGdpMGJkTXFCYXJSMVRzcWdPUU5iSHRfcWVHZVprcG50NnQ2dV9EQW9xNE9TOVFmM1RXUGpQWjMtMlNJU29tcjBfamM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpthreatensnewtariffsonmexicangoodssemafor",
    "title": "Trump threatens new tariffs on Mexican goods - Semafor",
    "source": "Semafor",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHFDd1lZampfd0xHalVyWmp1SWE5UDhidjZENUZnbVlyOC16SzNnV2hmX0NDQzBYdmNLdG1pWWtiT1E5eWNJMUNFMDRpQjFwUFFldExvZHpsbmprUWI5UGxjaGxLMzZXXy1yazFTNnoxNlpBSE1fUEp5bkJNUjF4U2JHQUJCSnNSMk9hRWl3bHQ4VndibkhJb3dBU1VSUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "bipartisanpushpossibletocurbtrumptariffsmedtechdive",
+   "title": "Bipartisan push possible to curb Trump tariffs - MedTech Dive",
+   "source": "MedTech Dive",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSERNSXdXU0hvcEg2NGVuZDNPVm0zNUJVVUdtdlJaNEpJYjVDVkYzdWo0UnRQVzhJUG1NR1JQN2dXNWxyd0VTQXVWYVo5RmpNY3JkUzNFQXZ4dFc2OE1jMWtuV3dFY1RHT093Q3pzOGpBRUd1bE91TEFaLTd1RmZSR1BTelpRdnplb0ExV09KSnU?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -114,47 +162,10 @@
    "pts": 22
   },
   {
-   "key": "uslngproducerseyebonanzaiftrumpandxicaneasetariffsenergynow",
-   "title": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVZYY21XOFZvYkJSZkxRckJGMGQ0VDNpZU1UekcwMTV2eWxPdVBVNUVDNFVZeF8wSHNnenFLeGZJbjJIZ2dnUlhfWjVndHlwYXB2TGV1SXhQdGRCOEhIYkU0M0Q4Sjl5UG5wMU9NNGpNZ3VmampPNlhrVElGTEo1UUUtZ1NLOW5rMjU0UEpoVkN0UXpkbFE?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpthreatensmexicowithincreasedtariffsovermigrantcaravansl",
    "title": "Trump threatens Mexico with increased tariffs over migrant caravans - Le Monde.fr",
    "source": "Le Monde.fr",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbjZqd0tZSDBRNFhQd0hHOHp3UWU2c2gzeG82OUNpdlJjMjd6UmZpMEowUnZuNlEwWDNRcUt5ZHB5R3MwT2dVbFNtcW90ZkNRZ0hsdXNuUGtMY2ZGSVhTdEVpSWVYNDVkcGZVMDJnVVMxbEZSc3Z3dkRNS1JsY3NwT2lWODB4ODVValY2TGl0T0NuREZUek91d1ZUQVNJVEtNWXBuMU5WdThSRjAzMXFiMUJNbUtVc1A0Q2l2SVN5TEx6S3p0UVhoMjFCMVowVEF5MUdNM1FUby0?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpthreatenstodoublemexicotariffsovermigrantcaravanssupply",
-   "title": "Trump threatens to double Mexico tariffs over migrant caravans - Supply Chain Dive",
-   "source": "Supply Chain Dive",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDQ1d0hsM05hdEd0OEZ3WXhqREZXdDhHLVdvc1FSZkE2VEhrRFVRREZpV1czYnRmdTJfbGFwaFJuM3NJMmF5b0JycHdWZlBLd2p2Q2JmN3FNZUJ2YTdPbHFybGVQbGI2STJEaG5iZHZkcGZXRHNFVnFoWFJkQ0FndVdUbmFJTDVuYWhXenlJcURSTkZZTGFXX0h0RS03MngxM05PVnNqLXluSUE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "sheinbaumdownplaysmigrantcaravansastrumpthreatensmoretariffs",
-   "title": "Sheinbaum downplays migrant caravans as Trump threatens more tariffs - Courthouse News",
-   "source": "Courthouse News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRIRmgtZkFPeHgxazlGbkRCZXJURGNmanc2ZGZMVHZzMkFndjltSVdMZHM1T1BNMGdGYTdIeFhtUFVJLU9ZcjBwcU03TjdXVWZnVm9FMnBzWG40U1laWFF2SFJaZG1rZmotbTh2WS0tenB0WXRtV1VLZU1fcURSdElaOVZjaHNkeGw5TzZVTkllbF95Ry1PUVVyZjVfMEx1?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -175,46 +186,10 @@
    "pts": 22
   },
   {
-   "key": "donaldtrumpreallywantstimcooktorunnvidiatheverge",
-   "title": "Donald Trump really wants Tim Cook to run Nvidia - The Verge",
-   "source": "The Verge",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFpxUHJVbTZhcDdlZlFDd0VoQzVOWUJwblF5S05WZmtrdGF4STMxOWs4azZTdjVUYWFsamxHa2E2Sl9rNC1qV1VYUlNjeWhJbzVPYWV0RVRrN29wNTN4Um45RGNybVA2bmV6bGNrMlYwSmpMSW5wWHJBdWVZUTBVNWY4Z1dFb05NWFVCSWlSZm5BU3M?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysapplestimcookshouldreplacejensenhuangasnvidiaceousa",
-   "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpsaysnoneedforadealwithiranasoilpricesjumpmorethan26bren",
    "title": "Trump Says 'No Need for a Deal With Iran' as Oil Prices Jump More Than 2.6%, Brent Nears $96 - BigGo Finance",
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYkNjaGVZc3c4LTBoNWE4R0VCaTZuLTR4Q1dVZEVEWVVrZDNRamJhdlRGdHFPU19tQ3ZkTDQycTNsd3ZwdjVlOXFkQ1NPaGtESnRTRTd3SjRDdk5UNUNMOFphWUJTLTc5M0pER0tIZUIxRE9ncHc?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
-   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
    "themes": [
     "energy"
    ],
@@ -235,6 +210,18 @@
    "pts": 22
   },
   {
+   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
+   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
    "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -245,48 +232,60 @@
    "trump": true,
    "trusted": false,
    "pts": 22
+  },
+  {
+   "key": "nvidiascandaldrawsincommercesecretarylutnickwhoreportedlyagr",
+   "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWlh6TnhLcnZhOGZPc0Zudjg5aGlJWGpmZWFDNUdvSjhIeTBfSmNXd2p4WDRxM2hRaV9oMzgtdm5wWEVubWJ5bHlJanJMbGtBSk94UVdUaWg0MDU1NnNLOUF5cm5FUUdKTWVJbEM4YzNWN243bUxpZUQzbk91R3PSAX9BVV95cUxNTFpYek54S3J2YThmT3NGbnY4OWhpSVhqZmVhQzVHb0o4SHkwX0pjV3dqeFg0cTNoUWlfaDM4LXZucFhFbm1ieWx5SWpyTGxrQUpPeFFXVGloNDA1NTZzSzlBeXJuRVFHSk1lSWxDOGMzVjduN21MaWVEM25PdUdz?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 46
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 81
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 86
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 81
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 83
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 47
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 65
   },
   {
    "sym": "QQQ",
-   "why": "position size under 1 share",
-   "score": 76
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 57
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 855 min old)",
+   "why": "stale quote / market closed (last price 909 min old)",
    "score": 54
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "CVX",
@@ -295,48 +294,48 @@
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 855 min old)",
+   "why": "stale quote / market closed (last price 909 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 857 min old)",
+   "why": "stale quote / market closed (last price 911 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "reward/risk after costs only 0.37",
-   "score": 73
+   "why": "reward/risk after costs only 0.39",
+   "score": 77
   },
   {
    "sym": "AMD",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 58
+   "score": 56
   },
   {
    "sym": "SOXX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 64
+   "score": 55
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 73
+   "why": "volume not confirmed (1.5x normal)",
+   "score": 80
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 68
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 72
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 51
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 56
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 72
   }
  ],
  "paper": {
@@ -350,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 06:26 AM AEDT",
+  "last_scan": "Sat 14 Nov 2026 07:21 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
