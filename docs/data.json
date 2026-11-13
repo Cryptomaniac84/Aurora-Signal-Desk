@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 01:02 AM AEDT",
- "fx_audusd": 0.6793,
+ "generated": "Sat 14 Nov 2026 01:56 AM AEDT",
+ "fx_audusd": 0.6797,
  "signals": [],
  "events": [
   {
@@ -29,30 +29,6 @@
    "pts": 30
   },
   {
-   "key": "trumpthreatenstodoubletariffsonmexicooverillegalimmigrationf",
-   "title": "Trump threatens to double tariffs on Mexico over illegal immigration - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3k2NzNQSnkyWkZxMEdENmMtNnRReHJfakhUWkNUNF9RRUZiTllLSzh5THQ4TzZ4QVZiVVpxTU5iNGIzM2ZMVXFpajM2dUY4NGJVRTJkZGJsc05hVmR4cHExVXN0NWN3Q1dtNlFkejRXZ3MzX3FPTGNqRlJBQzU3OERuQ0Q?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumpthreatenstodoubletariffsonmexicoovermigrantsbloombergco",
-   "title": "Trump Threatens to Double Tariffs on Mexico Over Migrants - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnJ4S0x3TmVXb1NReEMzUU1uNU1NNmdmaXpQN0RKdFY3cUR0TmxEUFRMdk4tenRfY1Y2VDBTN1ZUSWFMandoSU9KcFhrcnF0QnZ2WVktRzZiRlZnTEVMY2xpUUU2d3lab1dILTR0alIzdDZvaThKMlcxMHQ0c3ljTDNhSG9mbTluT1NDUDhheHZnTGlXQzF3S1lBNk4yUThVQm11cE95TnEtZTFwU0VKeXVLTy1iZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "trumpstariffsfaceanewthreatrepublicanscnn",
    "title": "Trump\u2019s tariffs face a new threat: Republicans - CNN",
    "source": "CNN",
@@ -69,6 +45,18 @@
    "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
    "source": "DW.com",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDZiZE45WHB4blJhMlo1Q2JQbUJQYkEtZmFuSWNFU2R2U05PZTFZeGd6cWhNTS1Oa05zQ2gwSkxTbW1Qc00xVXl6ZnV3OXRiblo1RzBCRHhEOXJBUE1hNXZoUk1zdE0xR1hjMEhWbEtnR3UxUHBKT1VLYVlsOW12eXpkQXJWQ0dQR1VqbEtOOUktbjBpRkJkSU1wQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "afterthemidtermroutcantrumpchangecoursewithoutgivinguptariff",
+   "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - www.wita.org",
+   "source": "www.wita.org",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnJmWmFsVWxKdlZUNEFKaUhjOTJLVXViWXg1YTdxTlctUlhFUTY5NDFNMFdsZ2RyeDhxV1ZUNlVwRlU5ZklBQ1MwNm9nUlJObjlvSjYwUnNoYVhPVGFlQmdVcVdySmc2V3h6NTFiRjBTU0c1QmpqOEZKX3ZtNmhjZlE2d3FfX2QyTU9oRmdwYUM4MXlIWG9uT1lB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,6 +149,18 @@
    "pts": 22
   },
   {
+   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
+   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpcallsfortimcooktoreplacejensenhuangatnvidiathehill",
    "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
    "source": "The Hill",
@@ -185,52 +185,28 @@
    "pts": 22
   },
   {
-   "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
-   "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+   "key": "trumpsaysnoneedforadealwithiranasoilpricesjumpmorethan26bren",
+   "title": "Trump Says 'No Need for a Deal With Iran' as Oil Prices Jump More Than 2.6%, Brent Nears $96 - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYkNjaGVZc3c4LTBoNWE4R0VCaTZuLTR4Q1dVZEVEWVVrZDNRamJhdlRGdHFPU19tQ3ZkTDQycTNsd3ZwdjVlOXFkQ1NPaGtESnRTRTd3SjRDdk5UNUNMOFphWUJTLTc5M0pER0tIZUIxRE9ncHc?oc=5",
    "themes": [
-    "semiconductors"
+    "energy"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "trumpfinallystopstherussiaukrainewarwrongtrumprightresultthe",
-   "title": "Trump Finally Stops the Russia-Ukraine War. Wrong Trump, Right Result. - The Warwick Valley Dispatch",
-   "source": "The Warwick Valley Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnpiRm1VZFpfY0EtMW12Mjc3ZlJfZlJJaVV1Qmh5LVFBOVloWVA2NzlaTVI0a2FXc0RwMl8yT0JVLS1aczdvNTR0Y3F5UnZhb2VHSUpQSVNvTFB5M1M3ei1tellQNy1icEdFZ19RX1o2c2xia2M2V1ZvMmJqczQtWmx6ZHdJWTUzdzJwdHZEbmZaLUU3SUpsdl9MdDFFSjZrdU1wdFFB?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
    "themes": [
-    "geopolitics"
+    "energy"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "nvidiascandaldrawsincommercesecretarylutnickwhoreportedlyagr",
-   "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWlh6TnhLcnZhOGZPc0Zudjg5aGlJWGpmZWFDNUdvSjhIeTBfSmNXd2p4WDRxM2hRaV9oMzgtdm5wWEVubWJ5bHlJanJMbGtBSk94UVdUaWg0MDU1NnNLOUF5cm5FUUdKTWVJbEM4YzNWN243bUxpZUQzbk91R3PSAX9BVV95cUxNTFpYek54S3J2YThmT3NGbnY4OWhpSVhqZmVhQzVHb0o4SHkwX0pjV3dqeFg0cTNoUWlfaDM4LXZucFhFbm1ieWx5SWpyTGxrQUpPeFFXVGloNDA1NTZzSzlBeXJuRVFHSk1lSWxDOGMzVjduN21MaWVEM25PdUdz?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "ministryofdefencedelaysdecisionon2bnmilitarysatellitecontest",
-   "title": "Ministry of Defence delays decision on \u00a32bn military satellite contest - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXNDOGlyQkFwcmRDNU5iR3Z4NHc1aUVyekFvZEZmQTRMeFpUekhvLW8xWUZHNWhYWWlOSFl3bHNZZ2ZWbC1PanRfb21OSy1sT0NORnRxcldPNV9hUzlsTmNObWhBb2g2UENFVXQ3cTE2MWF4eXNrMW5NNjR5R0FVU2ZYN1o?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   },
   {
    "key": "fedswilliamssayscentralbankhasworktodotogetinflationbackonta",
@@ -243,78 +219,122 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "peruraisesinterestratesforfirsttimeinnearlyfouryearsbloomber",
+   "title": "Peru Raises Interest Rates for First Time in Nearly Four Years - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnpBVEEyQ0tNeWJSdmZGcXVzVEJ1OHVZSFhxb3VnM0l0UTdPeXJURElWZGZKS3JOTXFtMWZHc25uZUpjbXZ2YzIxY1lOd1BnZ2F2Q0F4LTd2M2NZT09KaFZIenZqSDhnOGhhR2FlNUpPLXdUTEpzYlZqNndIN0tVYjg1b19WUm9naWRlSTBpcUtTNlRaakNaLVhvOXFoUzZjVUo0YVFiTDVDUHA2VlRQbE5yNA?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "exclusivehuangexitandusscrutinyimperil3billioninchineseaipro",
+   "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 65
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 84
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 65
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 46
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 64
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 55
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 65
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 49
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 81
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 74
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 43
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 79
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 56
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 46
   },
   {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 55
+   "sym": "XOM",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 46
   },
   {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 55
+   "sym": "CVX",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
   },
   {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 60
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 585 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 587 min old)",
+   "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 55
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 39
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1023 min old)",
-   "score": 86
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 37
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 531 min old)",
+   "why": "stale quote / market closed (last price 585 min old)",
    "score": 52
+  },
+  {
+   "sym": "LMT",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 28
+  },
+  {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 28
+  },
+  {
+   "sym": "NOC",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 28
   }
  ],
  "paper": {
@@ -328,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 01:02 AM AEDT",
+  "last_scan": "Sat 14 Nov 2026 01:56 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
