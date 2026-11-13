@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 13 Nov 2026 10:37 AM AEDT",
- "fx_audusd": 0.6809,
+ "generated": "Fri 13 Nov 2026 11:23 AM AEDT",
+ "fx_audusd": 0.6807,
  "signals": [],
  "events": [
   {
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "canadasambassadorwarnedtrumpstariffsareraisingthecostofinves",
-   "title": "Canada's ambassador warned Trump's tariffs are raising the cost of investment - Quartz",
-   "source": "Quartz",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oaHVtNDNtdDZnUE5lS0V2ZDNfdHRIVC1VdXJhNERsZnRWYS1tenFIMDNmWW1xd2JqUzgtNzZMZ1FnaW9CMnlyZm1UeDNnSlY3dzlTRUNNSkt6Y3ZqSjN0dW5PbzR3dTdWRzBxLVF6c19YbGpRSGx6aXlB?oc=5",
+   "key": "bipartisanpushpossibletocurbtrumptariffsmanufacturingdive",
+   "title": "Bipartisan push possible to curb Trump tariffs - Manufacturing Dive",
+   "source": "Manufacturing Dive",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHZfWVlRVlczZnd4MnM2QjEtd2FkbTNvWkdpUWRGWWdiZV92eXBXVEZ2STZ1bjRZLWxrMWcyRzU1cTZWaWVyWG1FTm1pRDZWeFdxU3ltS0NNZUhWc0hULXZBVXhVMDZLaUYwZllUbVMyaFB4bFFDMG05QkMxeEFveHRXYjFWVzZPWDRfbTRSeG9kalQzZnVTVA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,10 +113,34 @@
    "pts": 22
   },
   {
+   "key": "canadasambassadorwarnedtrumpstariffsareraisingthecostofinves",
+   "title": "Canada's ambassador warned Trump's tariffs are raising the cost of investment - Quartz",
+   "source": "Quartz",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oaHVtNDNtdDZnUE5lS0V2ZDNfdHRIVC1VdXJhNERsZnRWYS1tenFIMDNmWW1xd2JqUzgtNzZMZ1FnaW9CMnlyZm1UeDNnSlY3dzlTRUNNSkt6Y3ZqSjN0dW5PbzR3dTdWRzBxLVF6c19YbGpRSGx6aXlB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpthreatenstodoubletariffsonmexicocallsmidtermsaperceived",
    "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A \u2018Perceived Loss\u2019 - Yahoo News New Zealand",
    "source": "Yahoo News New Zealand",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
+   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,18 +161,6 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffthreatdrawsmutedglobalresponse",
-   "title": "Trump's Tariff Threat Draws Muted Global Response - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXFaOUFRbHl6YTBxQUhIX1RKWXZWVktJTFo0QjYxb0d6cjBwejltWmxtaG5JSFhzcGY1cDAwMEdDc2wzcTViUTY3S3lkbEV1QThMT19kMGI0bkFyX2k3S0xRc2Y2X0FwUVdfUXdBWEZKS2p1Ti1ZeWdaelFfTkYzakp3RmU?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "democratsprobetrumpsnvidiachinachipexportdealthedefiant",
    "title": "Democrats Probe Trump\u2019s Nvidia China Chip Export Deal - The Defiant",
    "source": "The Defiant",
@@ -161,10 +173,10 @@
    "pts": 22
   },
   {
-   "key": "trumptariffsbackfireascanadawarnsofdamagetouseconomynewsweek",
-   "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
+   "key": "trumpstariffthreatdrawsmutedglobalresponse",
+   "title": "Trump's Tariff Threat Draws Muted Global Response - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXFaOUFRbHl6YTBxQUhIX1RKWXZWVktJTFo0QjYxb0d6cjBwejltWmxtaG5JSFhzcGY1cDAwMEdDc2wzcTViUTY3S3lkbEV1QThMT19kMGI0bkFyX2k3S0xRc2Y2X0FwUVdfUXdBWEZKS2p1Ti1ZeWdaelFfTkYzakp3RmU?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -231,90 +243,78 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "trumpfinallystopstherussiaukrainewarwrongtrumprightresultthe",
-   "title": "Trump Finally Stops the Russia-Ukraine War. Wrong Trump, Right Result. - The Warwick Valley Dispatch",
-   "source": "The Warwick Valley Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnpiRm1VZFpfY0EtMW12Mjc3ZlJfZlJJaVV1Qmh5LVFBOVloWVA2NzlaTVI0a2FXc0RwMl8yT0JVLS1aczdvNTR0Y3F5UnZhb2VHSUpQSVNvTFB5M1M3ei1tellQNy1icEdFZ19RX1o2c2xia2M2V1ZvMmJqczQtWmx6ZHdJWTUzdzJwdHZEbmZaLUU3SUpsdl9MdDFFSjZrdU1wdFFB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 157 min old)",
-   "score": 56
+   "why": "stale quote / market closed (last price 204 min old)",
+   "score": 53
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 157 min old)",
-   "score": 64
+   "why": "stale quote / market closed (last price 204 min old)",
+   "score": 63
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 157 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 204 min old)",
+   "score": 58
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 157 min old)",
-   "score": 61
+   "why": "stale quote / market closed (last price 204 min old)",
+   "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 157 min old)",
+   "why": "stale quote / market closed (last price 204 min old)",
    "score": 80
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 157 min old)",
+   "why": "stale quote / market closed (last price 204 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 157 min old)",
-   "score": 87
+   "why": "stale quote / market closed (last price 204 min old)",
+   "score": 83
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 157 min old)",
+   "why": "stale quote / market closed (last price 204 min old)",
    "score": 64
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 157 min old)",
+   "why": "stale quote / market closed (last price 204 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 157 min old)",
+   "why": "stale quote / market closed (last price 204 min old)",
    "score": 46
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 157 min old)",
+   "why": "stale quote / market closed (last price 204 min old)",
    "score": 55
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 157 min old)",
-   "score": 39
+   "why": "stale quote / market closed (last price 204 min old)",
+   "score": 40
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 157 min old)",
+   "why": "stale quote / market closed (last price 204 min old)",
    "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "score 69 below 70",
-   "score": 69
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 58
   }
  ],
  "paper": {
@@ -328,7 +328,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 13 Nov 2026 10:37 AM AEDT",
+  "last_scan": "Fri 13 Nov 2026 11:23 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
