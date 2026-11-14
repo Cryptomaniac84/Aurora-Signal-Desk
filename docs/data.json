@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 11:04 PM AEDT",
+ "generated": "Sat 14 Nov 2026 11:58 PM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -77,18 +77,6 @@
    "pts": 22
   },
   {
-   "key": "mexicossheinbaumsaysmigrantcaravannotmovingtowardusnowastrum",
-   "title": "Mexico's Sheinbaum says migrant caravan not moving toward US now as Trump threatens tariffs - Sight Magazine",
-   "source": "Sight Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMHFKa3c2QlFxaUtwZVZiXy1zM1luOW5CMVZRREpTVUI5ellvdmtLb2JKV2tKUVFVdEdqNjRDdWFtOUs3RWgxTWZQSzdscVhHa0EtWXBtbVM2M2xCMHM2S25SWlVJSUhWZ0pzci13endRdEQyWWlLREViTk9xWWlfR3VIcnNuVmpWX0xDdVBWWmltV2hRdFlmMjlhOHZRc2lBVkwtWjAtMzh5d0xqaURwVklwWkNTTm5PaEQtQjlOYU5NRjg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "howcongressmighttakebackitstradepowersandlimittrumpstariffsp",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "source": "Peterson Institute for International Economics",
@@ -105,6 +93,18 @@
    "title": "Dow Jones Forecast: Trump\u2019s Mexico Tariff Remarks Test the Rally - FXEmpire",
    "source": "FXEmpire",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjZtQi1oVzBmVW1RUXFVMDVSWGtRWDI5di1CRWtmVUFMdXE2Yk52N3ZZQVFEUllXQTlic2IycExISWozVzZXZVFQbnVPd2NKNjBlWXhRTlhUR1M3LUR3X2l0eENiQW5Ca29uWDI5OFA1OS1UVVJHN1IyZk9xVkJvZk54eW5MQnVUM3J0NjZyNy1YdktwTFZRV3Zqems0OFQ1TWFqR1ZzRnBnSTgzN2ptVkJSaw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratswanttokillsomeoftrumpstariffsbutthatmightnotendthet",
+   "title": "Democrats want to kill some of Trump\u2019s tariffs \u2014 but that might not end the trade war - Toronto Star",
+   "source": "Toronto Star",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNU5GQ0I0R3JSdkMzYWhNTUVNV3BkcXE0SUY5V25nMXNCQzZIZUkyOFBnT29DSEtfNmRwYjJ0WnRmRzJpTlNOaGdhcHhhemdReVZuYllZYi1CSlNPbkxobncxZUd3ZjU2OWJ3b29PbWhpX0N1QTIyOENvak5RMnpXellWdkZtclY3dTlCbl85a2dYUEN6VEJnYVJQdERvMGxYcWVfRmN2cmJ2LVNWZnFuMmdLYTUxeEpLRmlBbmdaNW9rQmsxVDNsQkdzNGxZaWhkRkpUS0VnWU50ZzJMUkNtSXpHY0lwSTBHWExIZjZDVnJ1MkRtbXl0TnNvOENuQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,30 +137,6 @@
    "pts": 22
   },
   {
-   "key": "democratswanttokillsomeoftrumpstariffsbutthatmightnotendthet",
-   "title": "Democrats want to kill some of Trump\u2019s tariffs \u2014 but that might not end the trade war - Toronto Star",
-   "source": "Toronto Star",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNU5GQ0I0R3JSdkMzYWhNTUVNV3BkcXE0SUY5V25nMXNCQzZIZUkyOFBnT29DSEtfNmRwYjJ0WnRmRzJpTlNOaGdhcHhhemdReVZuYllZYi1CSlNPbkxobncxZUd3ZjU2OWJ3b29PbWhpX0N1QTIyOENvak5RMnpXellWdkZtclY3dTlCbl85a2dYUEN6VEJnYVJQdERvMGxYcWVfRmN2cmJ2LVNWZnFuMmdLYTUxeEpLRmlBbmdaNW9rQmsxVDNsQkdzNGxZaWhkRkpUS0VnWU50ZzJMUkNtSXpHY0lwSTBHWExIZjZDVnJ1MkRtbXl0TnNvOENuQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffsfaceanewthreatrepublicansrnz",
-   "title": "Trump\u2019s tariffs face a new threat: Republicans - RNZ",
-   "source": "RNZ",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXNXNHlyZXltbmNJTGVoek54Zi12cl9LSzZBX0R3YzJqaFdRSUlhTVlrZ092ckY0SWpXeEJHMzNQcTJaTGpTeVQzdURoeXFXbjJCaFpSeWQydy1TWjdWNWpCQm5yakNuU2JDekVPcVhWQU5BVDIxQUM4dTl2a3JBN3lPQ0lmSWdsSXotdkFzWQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "chinausdiscusstariffsandfarmtradeaheadofxitrumpmeetingthestr",
    "title": "China, US discuss tariffs and farm trade ahead of Xi-Trump meeting - The Straits Times",
    "source": "The Straits Times",
@@ -185,12 +161,36 @@
    "pts": 22
   },
   {
+   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingtradingvi",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - TradingView",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXNfb1I3RVRQby1UNVBzMGJVZGhacEp2RWVBTFhwTkpmSlZ1cE9ZNC1tajNrOXE2UWhCc1h5bHFwaXNFTzdVNUNmX2k0eTRYdUZybUx2TUdsOWhfM2VTVFctNUVSWDJvSFpfWDdZRWdnZVpqM0d4OS1JTkJIQzlVUDU0eVY5UU1LY3lrckJNZHg3RG82N3psT0gwM2hYSUtwTkRneHBjaktHTVRpeHI5eXNZamZ5UHM5amhlMThHYlktc3VOemFCZVh0SQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpkeepssignalinganendtoiranwarbutexpertwarnsacrucialpiece",
    "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing - Fox News",
    "source": "Fox News",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWJuc0RtNzJfUGxQdWRNNlJfeGkyTEpMLTNkU2hITkNlWEo1aGxkUy0zelNTNkJFemRVSmk3WG9aR2hLNXNqcTVjVFlYVnZCaEFYbXFvcnJ0LXRIM3puUTJRcjV6V3VCY2wzSU5HNThzWEt3WmlJdGxvOE1jSlVmQW9LVGVxRDBRZXZLMW5DYkNJOUZ1aDZ6S1QyV21mQWlqYkVCTlYwR1llUFBUcXlKeklCcnpXZ9IBuwFBVV95cUxPTGRPaE9ld0pFd3BXc0l4UHFqNmhFeVpqNjk4MFFBeS1ZSEQ3TXdYNUdaUDRRbkZ6eFlZenRsUmhiMHdyWV9sTEVodWg4cnp1eWdBcWVOcEFfdnNmM1NJNmpSX0MwdS1jdnZkZ3ZzYm82UERLcTZFNnd3eVl4cXI1cGgwc3Y1V0YxSlhSZVlUbjY4ckc1bTFsN09TaDFMdnY2ZFZMdUplSFRHSWp3Z0NRR0VVWkJxcnlxdnZr?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
+   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -209,16 +209,16 @@
    "pts": 22
   },
   {
-   "key": "ministryofdefencedelaysdecisionon2bnukmilitarysatelliteconte",
-   "title": "Ministry of Defence delays decision on \u00a32bn UK military satellite contest - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXNDOGlyQkFwcmRDNU5iR3Z4NHc1aUVyekFvZEZmQTRMeFpUekhvLW8xWUZHNWhYWWlOSFl3bHNZZ2ZWbC1PanRfb21OSy1sT0NORnRxcldPNV9hUzlsTmNObWhBb2g2UENFVXQ3cTE2MWF4eXNrMW5NNjR5R0FVU2ZYN1o?oc=5",
+   "key": "whitehousestafftoneedpriorapprovaltomeetwithlobbyistsunderst",
+   "title": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3dHc2ViRDJ5enlsdV9maUlpanNXR01Ua1JwaDgzQ0hKMzR0ektzbG5RamJ1bUJsM2o3ZVZzWmp5cU9tV3Fyc3AzakxNSEh5UHoyOVVLMVlQS0YwM190SVZSSWJCTVVseHQxQW9aNHF5OE1CbW9NZ3YtRjV4aW51ZlF5OHAzcTZONUZxTW93T2RMRTQ0aUdSNdIBngFBVV95cUxPOFNGdTdLNkFOVi1EdDhpMERXNjBYUmwySnF5cTBFLXJBQlBDZV8xNjg5cHFvWFNKWUpjcVFWTTFFRFpVUjFsZWduWWRfQWxYeUdBYXZudTNUX2xGQU0ybDlVN051dUE2RlJsMTh2eWFHMmFzb3pQOC1lNmVETkFoNExOTG9jeFZMaU9EdXNqNXVqSkt1U3VIUXItVkhpQQ?oc=5",
    "themes": [
-    "defence"
+    "pharma"
    ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "pearlbonegetsfdaclearanceforworldslargestorthopaedicmarketab",
@@ -248,88 +248,108 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 100
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 94
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 100
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 83
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 93
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 80
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 95
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 99
   },
   {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 90
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 77
   },
   {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 90
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 77
   },
   {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 90
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 1906 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 1908 min old)",
+   "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 62
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 48
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 905 min old)",
-   "score": 90
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 82
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 905 min old)",
+   "why": "stale quote / market closed (last price 958 min old)",
    "score": 80
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1853 min old)",
+   "why": "stale quote / market closed (last price 1906 min old)",
    "score": 52
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 82
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 82
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 958 min old)",
+   "score": 82
   }
  ],
  "paper": {
@@ -343,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 11:04 PM AEDT",
+  "last_scan": "Sat 14 Nov 2026 11:58 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
