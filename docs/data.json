@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 12:33 PM AEDT",
+ "generated": "Sat 14 Nov 2026 01:28 PM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -23,30 +23,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHVKMEx1YS01XzdGLVozd0haNlpLVWNaOXR2bGR1Vl9JcWYxbkVkbmNQMDNldnd4RHVESmJjNUZCekZ6Ym5iTERCQlBwa0hrX2dfUEJBNnA5aUp6RWVkNjc0TlpGSktuSTI1YzQwV29pSTJPb1dVVmVDWlJiRkZCeUJLbVRvbjh0WTN5a0lncG9zY2YzV2FTc0VpYXNDd3Y3dTBRZWFoMUhHYkhxWURTQjlpenVJUzZLMXlSNGVPWXp4c1k?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "mexicossheinbaumsaysmigrantcaravannotmovingtowardusnowastrum",
-   "title": "Mexico's Sheinbaum says migrant caravan not moving toward US now as Trump threatens tariffs - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmR4MUpicDNxbGdzTmVfWG5fWTQ0bjF1dlljUHF3RnRiNVZJb2JRdEF4Q0Q5Y01QZFV5T3lkODFNR3BXQmc4Q1Q0b1ZFeHBxWEVKZlE5ZV9LTnhoRzVMeGNpenBqMUNsTlJ1Z0JaRmpLZzZQX2YtUGlZbUhWVFM0b0V1Tk5NdUlZZElDUU0wR0VFYkp4dHF1NUdRQnBTaElFbUhQUg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "nvidiashuangturnstopaulweisslawfirmthatinkeddealwithtrumpreu",
-   "title": "Nvidia's Huang turns to Paul Weiss, law firm that inked deal with Trump - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGw1N002MEg5dkpaaGZfeDVtSEd0dWswbERkbFZ3TEQtclVqNDNiTUdnZmUzSFF2Yms4TXctSmZTYXB1NGUwbUxXMmtKaDJhbTNsLW5DUmRiNFkwOEEtT1FwejgybEs5TF8tOHJoY2swRGVUOU12MzhJTGd0cFZraVFnamFRTzVLRE9WU21NZ01zRnJtSXNJOHgwU0JBQ1drVDhjSVF6bzBoQlpjTGsyeFVWejhXTDNkQkg4TFJfOA?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": true,
@@ -125,12 +101,11 @@
    "pts": 22
   },
   {
-   "key": "twoviewstrumpsfailedimporttariffpolicyaddedtoinflationameric",
-   "title": "Two Views: Trump\u2019s Failed Import Tariff Policy Added to Inflation - American Enterprise Institute - AEI",
-   "source": "American Enterprise Institute - AEI",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXlHNFJIcnZpQjFiQ0R3R2duemtldV9zVEJPdXB2THdxMnNSX3BLeTQzWWJEbGsxTlpJMVdvSHd5c0E5TExkSl9IQmpka2xpcENMeUZ4dkdNLUdRSUZmQ2JhbHNJcXhDc3lCUFoyYjUzR05RQzlsNGRXVjVSVUJ0UUFTeE9HamhkdXVkVWVkTkhFTWpnWjRQbTYyWQ?oc=5",
+   "key": "formerustradeofficialschallengetrumpscanadatariffsnewsweek",
+   "title": "Former US Trade Officials Challenge Trump's Canada Tariffs - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjV2VXkzYm9qT25kRzFoLU9kR3hHREQ3WURkaDNITFNESGhQWGROOUYzUXR4ZHRjdEJxOHVoeUtKc2gtaG5tWU9nOEdrV19pWlRxUUFUQ21fdHc5R0gxVlVycl9ZQ0pqTXN4NDlBMkRuZWJXakE3WU1jWnR0dnlMUmwxdFA5TVg3RXA5OQ?oc=5",
    "themes": [
-    "rates",
     "geopolitics"
    ],
    "trump": true,
@@ -138,11 +113,24 @@
    "pts": 22
   },
   {
-   "key": "bipartisanpushpossibletocurbtrumptariffsmedtechdive",
-   "title": "Bipartisan push possible to curb Trump tariffs - MedTech Dive",
-   "source": "MedTech Dive",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSERNSXdXU0hvcEg2NGVuZDNPVm0zNUJVVUdtdlJaNEpJYjVDVkYzdWo0UnRQVzhJUG1NR1JQN2dXNWxyd0VTQXVWYVo5RmpNY3JkUzNFQXZ4dFc2OE1jMWtuV3dFY1RHT093Q3pzOGpBRUd1bE91TEFaLTd1RmZSR1BTelpRdnplb0ExV09KSnU?oc=5",
+   "key": "statessueoverlatesttrumptariffattemptenergynewstopheadlinesc",
+   "title": "States Sue Over Latest Trump Tariff Attempt - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZFZGNjRycXRRS3BFX1FUMi1VTk5icTlUYlJzWE1JS01NT2NCZl9aajJ6VmtZcElZcGQtekx5SmxkMFA0a0hUamlIUzl4UDhDMGJSTk1JaXhWa19GSnI4RFc1Ull4ZUtkRTV5VUJNRGMwaG90a3BFRFZjVnE1LVE?oc=5",
    "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "twoviewstrumpsfailedimporttariffpolicyaddedtoinflationameric",
+   "title": "Two Views: Trump\u2019s Failed Import Tariff Policy Added to Inflation - American Enterprise Institute - AEI",
+   "source": "American Enterprise Institute - AEI",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXlHNFJIcnZpQjFiQ0R3R2duemtldV9zVEJPdXB2THdxMnNSX3BLeTQzWWJEbGsxTlpJMVdvSHd5c0E5TExkSl9IQmpka2xpcENMeUZ4dkdNLUdRSUZmQ2JhbHNJcXhDc3lCUFoyYjUzR05RQzlsNGRXVjVSVUJ0UUFTeE9HamhkdXVkVWVkTkhFTWpnWjRQbTYyWQ?oc=5",
+   "themes": [
+    "rates",
     "geopolitics"
    ],
    "trump": true,
@@ -174,18 +162,6 @@
    "pts": 22
   },
   {
-   "key": "trumppullsvancefromirantalksamidmidtermclashoverwarnews24",
-   "title": "Trump pulls Vance from Iran talks amid midterm clash over war - News24",
-   "source": "News24",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWlBSlY1c001YlMtdFIxTDdoT1V4TGUzYUg2N0xWNG1wbFVEeEdXbGZhUm1CdFNMOWZ3UjRyZjlVbl9FampXbFJtNlRtSnpqXzF6bnN5bWtDd0RqOG01WnR1VWx1bUFSRGtNemtiMGkxRThYUjhfUjNkTm5mblFNdkFCaUtybGpCdTJsdmw3UXQxOXV4Tk9fX1k1QmttTUxMYXhRd0dqUnJZUVJiQkc1NkRVNk1RRVAtRWFQREpqZXZUNF84OWV3cVJBWlhoZkxFbWJDTDNTLW41UmpIeFQ2d0Y4YkLSAeQBQVVfeXFMTVlpQUpWNXNNNWJTLXRSMUw3aE9VeExlM2FINjdMVjRtcGxVRHhHV2xmYVJtQnRTTDlmd1I0cmY5VW5fRWpqV2xSbTZUbUp6al8xem5zeW1rQ3dEajhtNVp0dVVsdW1BUkRrTXprYjBpMUU4WFI4X1IzZE5uZm5RTXZBQmlLcmxqQnUybHZsN1F0MTl1eE5PX19ZNUJrbU1MTGF4UXdHalJyWVFSYkJHNTZEVTZNUUVQLUVhUERKamV2VDRfODlld3FSQVpYaGZMRW1iQ0wzUy1uNVJqSHhUNndGOGJC?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpthreatensdoublingmexicotariffsovermigrantclaimslaw360",
    "title": "Trump Threatens Doubling Mexico Tariffs Over Migrant Claims - Law360",
    "source": "Law360",
@@ -210,16 +186,16 @@
    "pts": 22
   },
   {
-   "key": "whitehousestaffmustreceiveapprovalbeforemeetingwithlobbyists",
-   "title": "White House staff must receive approval before meeting with lobbyists: Stephen Miller memo - NBC 15 WPMI",
-   "source": "NBC 15 WPMI",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNk40eTZZZll1YlFha0pMcV9vTmF5TnhLcU9FSFhBeTNYSTYyOHJEc2k2Zi1mT3BKaWY5TmxuWUNRc0dWb1M3OGhycFlNQ0xVZlh5blVZOEJacllENC12RUVGaUNqaDhIZ2ZFaHZ6anFhdlhWRjBidEJEREd0TWR1LVBVdUxCcU1DZk9OOURBWlRxSVVwUFZHSF9ybm91bk5iMTA1TXhydjdIUzNCcHBkemxCT01wX0hXUE9MTUtJZVBWdEVRaG5NMThwODRhbkFkdzg4dVZqWVhIckdmdGlTVEszcXQ5SzkyY3BScW9aZTMxamRNemhYVXFIblhmR1lpTlJRb0hFV3lVN1FsTVE?oc=5",
+   "key": "houseandsenaterepublicanscallonhowardlutnickjensenhuangtotes",
+   "title": "House and Senate Republicans call on Howard Lutnick, Jensen Huang to testify about Nvidia - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3VHUlM1bnI2RGtLVnBDamZoMy1TMU1fa1J4SWJIZDR6R2VpaWFsQzMyZ09KY3NxQjQ5MDBFY1hZYXpleDNTSUk2TlByblRtT2NCSFg5V2kxMmNlcnVLMHZ4U0NUcWxLZ0F5b1VfMGFMZktkdXF4bE5OZWVobWJOVzFINHUwb0VlU0VBN3pWVmdkY19yLWdTVVhwbjVLRlJaOEl4WWVjNXnSAa4BQVVfeXFMT2JLQTl4dXl3dTJ4SktaVFZ4Skd0TlY0ZDNEVzJJR244ZXVNNDRiWEllNVdSNnJyMXpjYmptQlVwNlpQX1hVOGVYd1pHcDBGUWJaX3RPNHFRa0NHNDdFUzdyZUQ1R3JXcFNVajIyUjhlT2FuZTRyZlFmdXplcWNxa3BpdUhPRUN5eEVxdTNQZ3RlWjEtWU8zMFREYUkwZW1KaVlfT2w4UjZkTFZ4ei1B?oc=5",
    "themes": [
-    "pharma"
+    "semiconductors"
    ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "ministryofdefencedelaysdecisionon2bnukmilitarysatelliteconte",
@@ -234,102 +210,126 @@
    "pts": 20
   },
   {
-   "key": "fedswilliamssayscentralbankhasworktodotogetinflationbackonta",
-   "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
+   "key": "pearlbonegetsfdaclearanceforworldslargestorthopaedicmarketab",
+   "title": "PearlBone gets FDA clearance for world's largest orthopaedic market - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWFVSXJEMG5BZW1QYU9ITFVuYVNncFpOaEFGUGZ6ZXhELTZwV3E3MmpMWmFOd2RrbWNrTVpVTDNMM3dvbjVoZEI4dGdMc1B6QTRUYzZaWTBDVWlLOU8ySTMxb2R1M1B6MzhFYk5mdkJZTWVDeXdBaWJuZWNWMV84anJVaXczWUJkVkthWV9saHhWX01fUDc3djlsVFNsbkgtQnJDdlFtR3hFQQ?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "mexicoratecutfuelsspeculationofficialswantaweakerfxbloomberg",
+   "title": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker FX - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjBORFI3VVJEVHo3S3l2VDdDdWNCNkg5WHhWc0RpdlRvTURNOGJZX0U0Q0FHdi1jRFotdkNqeEVGYmxQYnlCWmtWVGxvMDNlek83UzhVcEFGeVR6UlhuQ0R0YlJUbUVxbUJjblY4dWJFTWduUnp6Y2M2Rk1nQkZoMkVraUtocUFjajEtTTdMOXNRWGVsNVF0ZW85c3F4S1FrZEFDM2psblhiSEJqeVptSWNkaw?oc=5",
    "themes": [
     "rates"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "tariffsdontdraintheswamptheyfillitcatoinstitute",
+   "title": "Tariffs Don\u2019t Drain the Swamp\u2014They Fill It - Cato Institute",
+   "source": "Cato Institute",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 65
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 100
   },
   {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 81
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 91
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 82
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 99
-  },
-  {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 77
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 74
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1222 min old)",
+   "why": "stale quote / market closed (last price 1276 min old)",
    "score": 54
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 75
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 72
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 87
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 91
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 53
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 90
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 79
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 90
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 274 min old)",
-   "score": 84
+   "why": "stale quote / market closed (last price 328 min old)",
+   "score": 90
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 274 min old)",
+   "why": "stale quote / market closed (last price 328 min old)",
    "score": 90
   }
  ],
@@ -344,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 12:33 PM AEDT",
+  "last_scan": "Sat 14 Nov 2026 01:28 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
