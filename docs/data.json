@@ -1,12 +1,12 @@
 {
  "mode": "LIVE",
- "generated": "Sun 15 Nov 2026 06:33 AM AEDT",
+ "generated": "Sun 15 Nov 2026 07:15 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
   {
-   "key": "trumptoruleontariffsforaustralianlambafterustradecommissione",
-   "title": "Trump to rule on tariffs for Australian lamb after US trade commissioners disagree - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "key": "trumptoruleontariffsforaustralianlambaftertradecommissioners",
+   "title": "Trump to rule on tariffs for Australian lamb after trade commissioners disagree - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0E2N05pSEpiM1JFNFFSYlZud0pjRFdUMGNJSVNpRVFsUHpUdE9TTmVZNWJNcmdrZTRHQTBjTnpsaFBXaFlMRTJiQjJ0WU03cXdtT0RDRm45R3JTbUhZbzR3ZllhcDZZZ3FiWUZVVHhpUE1vN0VZdzRST0NmdF9BQzRsUG14blFrS3RwOWNRbVVsM29CV3dZSnlQdUxscWpJb1N1U1RvaEJNOUhXZzZv?oc=5",
    "themes": [
@@ -21,6 +21,18 @@
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "bullyfeuderuptsbetweentrumpandontariosdougfordoveruscanadatr",
+   "title": "'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORng2eU5QQWk1a21qSHlmMjZGR1ExSDh6NXAyNW1HZkd3ZE9HWl81SFRyT0xEcjJQTVg4bFBoT3ZMekNwN3pHd1cxZXBvSndhRkpseFZOM2hpalJidkd4VUl6bUpuTHN6cFgzUkszSVdzeFdLYlZ4NTJ5TFozNWYxdG5sWVhYaVJSN1hydWk3RzlERE1HNHVGUNIBngFBVV95cUxNWmljYjB6Vms3NUV3Qzg0MWxQcUo5VFI2RzFTTzNmSmhYM0VMODlDTjhfT19uaXhaOVM5azhnNXlJTEV3aFk5M3NWdnFxaEZsRVV6VzdGbGdpeEF6UG84cS1kNFVNT01oN21SODg3ajZ1SzdYZVozd2RuczViT3VGeUtTYjY5TmpqVV9YLWFtZTBJd3JpVENwVGM4c21WUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -162,22 +174,10 @@
    "pts": 22
   },
   {
-   "key": "howthedemocratsplantostoptrumpstariffsthetimes",
-   "title": "How the Democrats plan to stop Trump\u2019s tariffs - The Times",
-   "source": "The Times",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHgtY012R0tMMEJMTUVVLTRkLVdIOXp1NnRCZEQ2Ui1zaGdhMW5ocnluTlRmR0dPWkRiNzBBT0RRM0l1R2JwMjY4bGE4T0k1aHpva0dWVFM3eHc5aHhsN2dwSFZFend1WU9oS1RGSm9YVXBqWUVWV195amptWG82WmRoQkdwTWhTVGtPSVhwODI?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "canadasambassadorwarnstrumpstariffsareraisingbusinesscostsun",
-   "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHVMQWJ5SkhjX0s0TEJ2MnNFMURIM2tJQkdCMDlvQ1RZMjVqcGlrYTZic1hXQ0JROFJ1T0FHX0NRT3dyQmVzZnRVREd3TzRrcV9DcUVsVGRQMXlhWnpMU3ZLNEdBVmltbTU5Nmk2MV9sY2l1QWRxM0dsOEVsajBlMmtPdXk2cmJrQTFvenFRZ2tPNi1MSHNFLTNLZC1jWS1JTVdFbg?oc=5",
+   "key": "chinausdiscusstariffsandfarmtradeaheadofxitrumpmeetingthestr",
+   "title": "China, US discuss tariffs and farm trade ahead of Xi-Trump meeting - The Straits Times",
+   "source": "The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFFyQllZYjRLMDRORV8tQkZvOF9HOVg5bTkzcTh1SWFjVnFCMFl3amlVUWhINDJyaDdMdTdmdXNWZUpmbDFUVk5nM1NWUzhSaEhsUEczeGpnUDE5bzAtNUFxZU9LMzBaYTM0S1pOSTVHeElNM25nN01MNkRCTVRaS0ROT0lRaUttTXVmZlZfQ3NsMlo1RXlSYWN3ZmY?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -192,6 +192,18 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWJuc0RtNzJfUGxQdWRNNlJfeGkyTEpMLTNkU2hITkNlWEo1aGxkUy0zelNTNkJFemRVSmk3WG9aR2hLNXNqcTVjVFlYVnZCaEFYbXFvcnJ0LXRIM3puUTJRcjV6V3VCY2wzSU5HNThzWEt3WmlJdGxvOE1jSlVmQW9LVGVxRDBRZXZLMW5DYkNJOUZ1aDZ6S1QyV21mQWlqYkVCTlYwR1llUFBUcXlKeklCcnpXZ9IBuwFBVV95cUxPTGRPaE9ld0pFd3BXc0l4UHFqNmhFeVpqNjk4MFFBeS1ZSEQ3TXdYNUdaUDRRbkZ6eFlZenRsUmhiMHdyWV9sTEVodWg4cnp1eWdBcWVOcEFfdnNmM1NJNmpSX0MwdS1jdnZkZ3ZzYm82UERLcTZFNnd3eVl4cXI1cGgwc3Y1V0YxSlhSZVlUbjY4ckc1bTFsN09TaDFMdnY2ZFZMdUplSFRHSWp3Z0NRR0VVWkJxcnlxdnZr?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
+   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -232,114 +244,122 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "boechiefeconomistsaysfurtherraterisesneededtocombatinflation",
-   "title": "BoE chief economist says further rate rises needed to combat inflation - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 83
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 80
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 95
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 99
   },
   {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 1396 min old)",
+   "score": 77
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 1396 min old)",
+   "score": 77
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 2344 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 2346 min old)",
+   "score": 57
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 82
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 80
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2302 min old)",
+   "why": "stale quote / market closed (last price 2344 min old)",
    "score": 52
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1354 min old)",
+   "why": "stale quote / market closed (last price 1396 min old)",
    "score": 82
   }
  ],
@@ -354,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 15 Nov 2026 06:33 AM AEDT",
+  "last_scan": "Sun 15 Nov 2026 07:15 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
