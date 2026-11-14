@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 10:30 AM AEDT",
+ "generated": "Sat 14 Nov 2026 11:17 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -17,9 +17,9 @@
    "pts": 30
   },
   {
-   "key": "trumptariffrebukeissettounlockfactoryinvestmentsbloombergcom",
-   "title": "Trump Tariff Rebuke Is Set to Unlock Factory Investments - Bloomberg.com",
-   "source": "Bloomberg.com",
+   "key": "trumptariffrebukeissettounlockfactoryinvestmentsbloomberg",
+   "title": "Trump Tariff Rebuke Is Set to Unlock Factory Investments - Bloomberg",
+   "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHVKMEx1YS01XzdGLVozd0haNlpLVWNaOXR2bGR1Vl9JcWYxbkVkbmNQMDNldnd4RHVESmJjNUZCekZ6Ym5iTERCQlBwa0hrX2dfUEJBNnA5aUp6RWVkNjc0TlpGSktuSTI1YzQwV29pSTJPb1dVVmVDWlJiRkZCeUJLbVRvbjh0WTN5a0lncG9zY2YzV2FTc0VpYXNDd3Y3dTBRZWFoMUhHYkhxWURTQjlpenVJUzZLMXlSNGVPWXp4c1k?oc=5",
    "themes": [
     "geopolitics"
@@ -77,6 +77,18 @@
    "pts": 22
   },
   {
+   "key": "canadasambassadorwarnstrumpstariffsareraisingbusinesscostsun",
+   "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHVMQWJ5SkhjX0s0TEJ2MnNFMURIM2tJQkdCMDlvQ1RZMjVqcGlrYTZic1hXQ0JROFJ1T0FHX0NRT3dyQmVzZnRVREd3TzRrcV9DcUVsVGRQMXlhWnpMU3ZLNEdBVmltbTU5Nmk2MV9sY2l1QWRxM0dsOEVsajBlMmtPdXk2cmJrQTFvenFRZ2tPNi1MSHNFLTNLZC1jWS1JTVdFbg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
    "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
    "source": "DW.com",
@@ -114,22 +126,10 @@
    "pts": 22
   },
   {
-   "key": "formerustradeofficialschallengetrumpscanadatariffsnewsweek",
-   "title": "Former US Trade Officials Challenge Trump's Canada Tariffs - Newsweek",
+   "key": "architectsofustradepolicyturnagainsttrumpovercanadatariffsne",
+   "title": "Architects of US Trade Policy Turn Against Trump Over Canada Tariffs - Newsweek",
    "source": "Newsweek",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjV2VXkzYm9qT25kRzFoLU9kR3hHREQ3WURkaDNITFNESGhQWGROOUYzUXR4ZHRjdEJxOHVoeUtKc2gtaG5tWU9nOEdrV19pWlRxUUFUQ21fdHc5R0gxVlVycl9ZQ0pqTXN4NDlBMkRuZWJXakE3WU1jWnR0dnlMUmwxdFA5TVg3RXA5OQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "bipartisanpushpossibletocurbtrumptariffsmedtechdive",
-   "title": "Bipartisan push possible to curb Trump tariffs - MedTech Dive",
-   "source": "MedTech Dive",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSERNSXdXU0hvcEg2NGVuZDNPVm0zNUJVVUdtdlJaNEpJYjVDVkYzdWo0UnRQVzhJUG1NR1JQN2dXNWxyd0VTQXVWYVo5RmpNY3JkUzNFQXZ4dFc2OE1jMWtuV3dFY1RHT093Q3pzOGpBRUd1bE91TEFaLTd1RmZSR1BTelpRdnplb0ExV09KSnU?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -174,18 +174,6 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatensdoublingmexicotariffsovermigrantclaimslaw360",
-   "title": "Trump Threatens Doubling Mexico Tariffs Over Migrant Claims - Law360",
-   "source": "Law360",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd19nOEdXdUNINFE5LTNKQW1teHMxZk9fTU51OUM5UTFZSlVvaE5RMU0tOXJ3Y2xpV21nRk9WVnRwUDZOd1NJU191STFxT0s4cDN6MEFid0FsSmw2UHhhQTl5X3ROMU9KcGpKQnllTk5yeTVCWFRVc2tNWExSbzRmQ3VxaWx5ZkN6QlBCMk1NaU9mVTZzaHZhMjBVamctNjFI0gFWQVVfeXFMT3NoNnZ1TjF1WmY4aEVRTlg4aDV4OEwxNXZNWWxBTWY3UlY4YVlaTWRjT1VzT3ZGNGdmS2txT29SelNkejd1UEZFRU40aUVrLTRDOFIyQkE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpsaysusdealwithsouthkoreaincludes84billionforoilrecovery",
    "title": "Trump Says US Deal With South Korea Includes $8.4 Billion for Oil Recovery - EnergyNow",
    "source": "EnergyNow",
@@ -198,22 +186,22 @@
    "pts": 22
   },
   {
+   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
+   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "houseandsenaterepublicanscallonhowardlutnickjensenhuangtotes",
    "title": "House and Senate Republicans call on Howard Lutnick, Jensen Huang to testify about Nvidia - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3VHUlM1bnI2RGtLVnBDamZoMy1TMU1fa1J4SWJIZDR6R2VpaWFsQzMyZ09KY3NxQjQ5MDBFY1hZYXpleDNTSUk2TlByblRtT2NCSFg5V2kxMmNlcnVLMHZ4U0NUcWxLZ0F5b1VfMGFMZktkdXF4bE5OZWVobWJOVzFINHUwb0VlU0VBN3pWVmdkY19yLWdTVVhwbjVLRlJaOEl4WWVjNXnSAa4BQVVfeXFMT2JLQTl4dXl3dTJ4SktaVFZ4Skd0TlY0ZDNEVzJJR244ZXVNNDRiWEllNVdSNnJyMXpjYmptQlVwNlpQX1hVOGVYd1pHcDBGUWJaX3RPNHFRa0NHNDdFUzdyZUQ1R3JXcFNVajIyUjhlT2FuZTRyZlFmdXplcWNxa3BpdUhPRUN5eEVxdTNQZ3RlWjEtWU8zMFREYUkwZW1KaVlfT2w4UjZkTFZ4ei1B?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "nvidiascandaldrawsincommercesecretarylutnickwhoreportedlyagr",
-   "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWlh6TnhLcnZhOGZPc0Zudjg5aGlJWGpmZWFDNUdvSjhIeTBfSmNXd2p4WDRxM2hRaV9oMzgtdm5wWEVubWJ5bHlJanJMbGtBSk94UVdUaWg0MDU1NnNLOUF5cm5FUUdKTWVJbEM4YzNWN243bUxpZUQzbk91R3PSAX9BVV95cUxNTFpYek54S3J2YThmT3NGbnY4OWhpSVhqZmVhQzVHb0o4SHkwX0pjV3dqeFg0cTNoUWlfaDM4LXZucFhFbm1ieWx5SWpyTGxrQUpPeFFXVGloNDA1NTZzSzlBeXJuRVFHSk1lSWxDOGMzVjduN21MaWVEM25PdUdz?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -244,97 +232,109 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "mexicoratecutfuelsspeculationofficialswantaweakerfxbloomberg",
+   "title": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker FX - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjBORFI3VVJEVHo3S3l2VDdDdWNCNkg5WHhWc0RpdlRvTURNOGJZX0U0Q0FHdi1jRFotdkNqeEVGYmxQYnlCWmtWVGxvMDNlek83UzhVcEFGeVR6UlhuQ0R0YlJUbUVxbUJjblY4dWJFTWduUnp6Y2M2Rk1nQkZoMkVraUtocUFjajEtTTdMOXNRWGVsNVF0ZW85c3F4S1FrZEFDM2psblhiSEJqeVptSWNkaw?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 63
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 87
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 98
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 72
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 73
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1099 min old)",
+   "why": "stale quote / market closed (last price 1145 min old)",
    "score": 54
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 73
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 92
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 74
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 79
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 64
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1099 min old)",
+   "why": "stale quote / market closed (last price 1145 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1101 min old)",
+   "why": "stale quote / market closed (last price 1147 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 87
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 90
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 197 min old)",
    "score": 90
   }
  ],
@@ -349,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 10:30 AM AEDT",
+  "last_scan": "Sat 14 Nov 2026 11:17 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
