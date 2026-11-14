@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 11:58 PM AEDT",
+ "generated": "Sun 15 Nov 2026 12:46 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -35,6 +35,18 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumpmediagroupstaresdown1bndebtcrunchasbitcoinbetfadesfinan",
+   "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZqX2ZESVVsSVVJMU1kR3czUU9wYzdyN3lpTkZsMms4azhnTVRyTkpEZ055c1BjQ1RiTDNLVWZTcHFLYkNQY0RhQVIydEthXzFpTFVvMGxPaXZPM0VFdzEzY1psNi1xOE5ZYzlaRjBrWVZQU1oyRkdCMzRfX2VyUVkwbXQ?oc=5",
+   "themes": [
+    "crypto"
    ],
    "trump": true,
    "trusted": true,
@@ -102,9 +114,21 @@
   },
   {
    "key": "democratswanttokillsomeoftrumpstariffsbutthatmightnotendthet",
-   "title": "Democrats want to kill some of Trump\u2019s tariffs \u2014 but that might not end the trade war - Toronto Star",
-   "source": "Toronto Star",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNU5GQ0I0R3JSdkMzYWhNTUVNV3BkcXE0SUY5V25nMXNCQzZIZUkyOFBnT29DSEtfNmRwYjJ0WnRmRzJpTlNOaGdhcHhhemdReVZuYllZYi1CSlNPbkxobncxZUd3ZjU2OWJ3b29PbWhpX0N1QTIyOENvak5RMnpXellWdkZtclY3dTlCbl85a2dYUEN6VEJnYVJQdERvMGxYcWVfRmN2cmJ2LVNWZnFuMmdLYTUxeEpLRmlBbmdaNW9rQmsxVDNsQkdzNGxZaWhkRkpUS0VnWU50ZzJMUkNtSXpHY0lwSTBHWExIZjZDVnJ1MkRtbXl0TnNvOENuQQ?oc=5",
+   "title": "Democrats want to kill some of Trump's tariffs \u2014 but that might not end the trade war - Castanet",
+   "source": "Castanet",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUZsRkhpbEd4RV9qNmo1ZzlrT2lFdEhyTHp0RjMwVmJOZDh5LU1TSXlZTlRheVV5VzFGdS11VU13aVhhb3ZqTUhMeXBCb0xFNnFmdXVTc01rZEhZNTZKZzhqbDhWblNtMjBhM0NMY3BUdDhHWl9vUmtXZDh5Vnp0c2s1RFFQLXUydXd4eUVYMVdoajlGYktIbGFzLWZZRHRLV2NYamlMNS1CQVV1cTNva1RHbmkzbHJzcEV3alAtcWk3U1NUMElCMQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "opinionwashingtoncanstartdeliveringonaffordabilitybyrejectin",
+   "title": "Opinion: Washington can start delivering on affordability by rejecting Trump\u2019s tariffs - MarketWatch",
+   "source": "MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnhtNmRTVGlrSVdlM29OajZSTjk0MGtSSTBla1Q3X1lCYlhEallWdU45a2w0NzFUeUNMRUFzNGhJaGxOWUFoUUQ2V1dUaUNTTEtZMnppZjI1Z0p1S1Jzd1ZMWlFyaGRqVWh2QllydFJEWm9PYUVVOVRacnk1bVQ2RUtBSVM3VkxVdDBXYTJlQVZJTWZlanROUGZDM1psbVRJWnFjQmRMcVZNQXFtZnpmQlFGWjJaUnZMRE5z?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,6 +161,18 @@
    "pts": 22
   },
   {
+   "key": "trumpstariffsfaceanewthreatrepublicansrnz",
+   "title": "Trump\u2019s tariffs face a new threat: Republicans - RNZ",
+   "source": "RNZ",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXNXNHlyZXltbmNJTGVoek54Zi12cl9LSzZBX0R3YzJqaFdRSUlhTVlrZ092ckY0SWpXeEJHMzNQcTJaTGpTeVQzdURoeXFXbjJCaFpSeWQydy1TWjdWNWpCQm5yakNuU2JDekVPcVhWQU5BVDIxQUM4dTl2a3JBN3lPQ0lmSWdsSXotdkFzWQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "chinausdiscusstariffsandfarmtradeaheadofxitrumpmeetingthestr",
    "title": "China, US discuss tariffs and farm trade ahead of Xi-Trump meeting - The Straits Times",
    "source": "The Straits Times",
@@ -153,18 +189,6 @@
    "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - Yahoo Finance",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHVMQWJ5SkhjX0s0TEJ2MnNFMURIM2tJQkdCMDlvQ1RZMjVqcGlrYTZic1hXQ0JROFJ1T0FHX0NRT3dyQmVzZnRVREd3TzRrcV9DcUVsVGRQMXlhWnpMU3ZLNEdBVmltbTU5Nmk2MV9sY2l1QWRxM0dsOEVsajBlMmtPdXk2cmJrQTFvenFRZ2tPNi1MSHNFLTNLZC1jWS1JTVdFbg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingtradingvi",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXNfb1I3RVRQby1UNVBzMGJVZGhacEp2RWVBTFhwTkpmSlZ1cE9ZNC1tajNrOXE2UWhCc1h5bHFwaXNFTzdVNUNmX2k0eTRYdUZybUx2TUdsOWhfM2VTVFctNUVSWDJvSFpfWDdZRWdnZVpqM0d4OS1JTkJIQzlVUDU0eVY5UU1LY3lrckJNZHg3RG82N3psT0gwM2hYSUtwTkRneHBjaktHTVRpeHI5eXNZamZ5UHM5amhlMThHYlktc3VOemFCZVh0SQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -219,136 +243,122 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "pearlbonegetsfdaclearanceforworldslargestorthopaedicmarketab",
-   "title": "PearlBone gets FDA clearance for world's largest orthopaedic market - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWFVSXJEMG5BZW1QYU9ITFVuYVNncFpOaEFGUGZ6ZXhELTZwV3E3MmpMWmFOd2RrbWNrTVpVTDNMM3dvbjVoZEI4dGdMc1B6QTRUYzZaWTBDVWlLOU8ySTMxb2R1M1B6MzhFYk5mdkJZTWVDeXdBaWJuZWNWMV84anJVaXczWUJkVkthWV9saHhWX01fUDc3djlsVFNsbkgtQnJDdlFtR3hFQQ?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "boechiefeconomistsaysfurtherraterisesneededtocombatinflation",
-   "title": "BoE chief economist says further rate rises needed to combat inflation - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 94
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 100
   },
   {
+   "sym": "COIN",
+   "why": "stale quote / market closed (last price 1006 min old)",
+   "score": 65
+  },
+  {
+   "sym": "MSTR",
+   "why": "stale quote / market closed (last price 1006 min old)",
+   "score": 65
+  },
+  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 93
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 80
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 95
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 99
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1906 min old)",
+   "why": "stale quote / market closed (last price 1954 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1908 min old)",
+   "why": "stale quote / market closed (last price 1956 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 48
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 82
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 80
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1906 min old)",
+   "why": "stale quote / market closed (last price 1954 min old)",
    "score": 52
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1006 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 958 min old)",
+   "why": "stale quote / market closed (last price 1007 min old)",
    "score": 82
   }
  ],
@@ -363,7 +373,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 11:58 PM AEDT",
+  "last_scan": "Sun 15 Nov 2026 12:46 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
