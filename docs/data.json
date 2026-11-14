@@ -1,26 +1,14 @@
 {
  "mode": "LIVE",
- "generated": "Sun 15 Nov 2026 02:19 AM AEDT",
+ "generated": "Sun 15 Nov 2026 03:05 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
   {
-   "key": "trumptoruleontariffsforaustralianlambaftertradecommissioners",
-   "title": "Trump to rule on tariffs for Australian lamb after trade commissioners disagree - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "key": "trumptoruleontariffsforaustralianlambafterustradecommissione",
+   "title": "Trump to rule on tariffs for Australian lamb after US trade commissioners disagree - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0E2N05pSEpiM1JFNFFSYlZud0pjRFdUMGNJSVNpRVFsUHpUdE9TTmVZNWJNcmdrZTRHQTBjTnpsaFBXaFlMRTJiQjJ0WU03cXdtT0RDRm45R3JTbUhZbzR3ZllhcDZZZ3FiWUZVVHhpUE1vN0VZdzRST0NmdF9BQzRsUG14blFrS3RwOWNRbVVsM29CV3dZSnlQdUxscWpJb1N1U1RvaEJNOUhXZzZv?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
-   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "democratswanttokillsomeoftrumpstariffsbutthatmightnotendthet",
-   "title": "Democrats want to kill some of Trump's tariffs \u2014 but that might not end the trade war - Castanet",
-   "source": "Castanet",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUZsRkhpbEd4RV9qNmo1ZzlrT2lFdEhyTHp0RjMwVmJOZDh5LU1TSXlZTlRheVV5VzFGdS11VU13aVhhb3ZqTUhMeXBCb0xFNnFmdXVTc01rZEhZNTZKZzhqbDhWblNtMjBhM0NMY3BUdDhHWl9vUmtXZDh5Vnp0c2s1RFFQLXUydXd4eUVYMVdoajlGYktIbGFzLWZZRHRLV2NYamlMNS1CQVV1cTNva1RHbmkzbHJzcEV3alAtcWk3U1NUMElCMQ?oc=5",
+   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingthenewara",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - The New Arab",
+   "source": "The New Arab",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVhXSU9VNTVyLUgzS0NsMUIxZXhQTFdfZFBjN3V1U2k0WEtZdm5JR0t1eWRxNndTWVJZQjJ4dDdreUFjWGhwZVdrRXBGWUVZSHJheWlURFViUlBTTHoycE5jdFB2SExkYmh1X29adnA4WGU1d1Z4QnN5a0JzTW8tTnR6UnhtS2hDaUlSRVVkaHk?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +77,22 @@
    "pts": 22
   },
   {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingthenewara",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - The New Arab",
-   "source": "The New Arab",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVhXSU9VNTVyLUgzS0NsMUIxZXhQTFdfZFBjN3V1U2k0WEtZdm5JR0t1eWRxNndTWVJZQjJ4dDdreUFjWGhwZVdrRXBGWUVZSHJheWlURFViUlBTTHoycE5jdFB2SExkYmh1X29adnA4WGU1d1Z4QnN5a0JzTW8tTnR6UnhtS2hDaUlSRVVkaHk?oc=5",
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratswanttokillsomeoftrumpstariffsbutthatmightnotendthet",
+   "title": "Democrats want to kill some of Trump's tariffs \u2014 but that might not end the trade war - Castanet",
+   "source": "Castanet",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUZsRkhpbEd4RV9qNmo1ZzlrT2lFdEhyTHp0RjMwVmJOZDh5LU1TSXlZTlRheVV5VzFGdS11VU13aVhhb3ZqTUhMeXBCb0xFNnFmdXVTc01rZEhZNTZKZzhqbDhWblNtMjBhM0NMY3BUdDhHWl9vUmtXZDh5Vnp0c2s1RFFQLXUydXd4eUVYMVdoajlGYktIbGFzLWZZRHRLV2NYamlMNS1CQVV1cTNva1RHbmkzbHJzcEV3alAtcWk3U1NUMElCMQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,117 +248,117 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1099 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1099 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 94
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 93
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 80
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 95
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 99
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 2048 min old)",
+   "why": "stale quote / market closed (last price 2094 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 2050 min old)",
+   "why": "stale quote / market closed (last price 2096 min old)",
    "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 48
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 82
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 80
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2048 min old)",
+   "why": "stale quote / market closed (last price 2094 min old)",
    "score": 52
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1100 min old)",
+   "why": "stale quote / market closed (last price 1146 min old)",
    "score": 82
   }
  ],
@@ -373,7 +373,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 15 Nov 2026 02:19 AM AEDT",
+  "last_scan": "Sun 15 Nov 2026 03:05 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
