@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 05:14 PM AEDT",
+ "generated": "Sat 14 Nov 2026 06:20 PM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -17,10 +17,10 @@
    "pts": 30
   },
   {
-   "key": "trumptariffrebukeissettounlockfactoryinvestmentsbloombergcom",
-   "title": "Trump Tariff Rebuke Is Set to Unlock Factory Investments - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHVKMEx1YS01XzdGLVozd0haNlpLVWNaOXR2bGR1Vl9JcWYxbkVkbmNQMDNldnd4RHVESmJjNUZCekZ6Ym5iTERCQlBwa0hrX2dfUEJBNnA5aUp6RWVkNjc0TlpGSktuSTI1YzQwV29pSTJPb1dVVmVDWlJiRkZCeUJLbVRvbjh0WTN5a0lncG9zY2YzV2FTc0VpYXNDd3Y3dTBRZWFoMUhHYkhxWURTQjlpenVJUzZLMXlSNGVPWXp4c1k?oc=5",
+   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -39,6 +39,18 @@
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "vietnamsrealtradetestliesbeyondtrumpstariffsasiatimes",
+   "title": "Vietnam\u2019s real trade test lies beyond Trump\u2019s tariffs - Asia Times",
+   "source": "Asia Times",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW9PNVRRcW9oWWlNc0dUODFHRXo2eERRUktrMHBnRzREUldPV2xPS2FzTWJsM1FUOE42dGlzUzl6RGpLNUZzR0ROcy1jQkc5NkIyeTVOTHV0a1dLM01FQ3JHVHZ5OXRka2NxaXV4UDJYbmdhdk1LNWcxQVAxT3hhd3ZTOVJUZmV6?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "howcongressmighttakebackitstradepowersandlimittrumpstariffsp",
@@ -65,18 +77,6 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffsfaceanewthreatrepublicanscnn",
-   "title": "Trump\u2019s tariffs face a new threat: Republicans - CNN",
-   "source": "CNN",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "howthedemocratsplantostoptrumpstariffsthetimes",
    "title": "How the Democrats plan to stop Trump\u2019s tariffs - The Times",
    "source": "The Times",
@@ -89,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "makingglobalisationworktrumpstarifffiascocouldsavefreetradet",
-   "title": "Making Globalisation Work: Trump\u2019s Tariff Fiasco Could Save Free Trade - The Edge Malaysia",
-   "source": "The Edge Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10dnZBQlVYcm04eU82aGVaazFPTWtWbktvaENhWVRiTXFGZEplQmRMbEZ1bzI0XzNkc294X0JxUFNYS0Ztb0lfZUpHV3BTeVZK?oc=5",
+   "key": "trumpstariffsfaceanewthreatrepublicanscnn",
+   "title": "Trump\u2019s tariffs face a new threat: Republicans - CNN",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNbmJUVFdDTUN5ZXd6cm9BYnAwV0dyMzVVSTJucUQ2dW0wd3RBR1ExY3ZTSlVFaFlpaHdkeTlzaXp4ajFZNlBqMURSdWczZENmcFhva2ZoR0dxazRtbllOMFluOEtyRjlTeTViRG5jYlRmdw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "canadasambassadorwarnstrumpstariffsareraisingbusinesscostsun",
-   "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHVMQWJ5SkhjX0s0TEJ2MnNFMURIM2tJQkdCMDlvQ1RZMjVqcGlrYTZic1hXQ0JROFJ1T0FHX0NRT3dyQmVzZnRVREd3TzRrcV9DcUVsVGRQMXlhWnpMU3ZLNEdBVmltbTU5Nmk2MV9sY2l1QWRxM0dsOEVsajBlMmtPdXk2cmJrQTFvenFRZ2tPNi1MSHNFLTNLZC1jWS1JTVdFbg?oc=5",
+   "key": "makingglobalisationworktrumpstarifffiascocouldsavefreetradet",
+   "title": "Making Globalisation Work: Trump\u2019s Tariff Fiasco Could Save Free Trade - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10dnZBQlVYcm04eU82aGVaazFPTWtWbktvaENhWVRiTXFGZEplQmRMbEZ1bzI0XzNkc294X0JxUFNYS0Ztb0lfZUpHV3BTeVZK?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -128,19 +128,7 @@
    "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
    "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
    "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDZiZE45WHB4blJhMlo1Q2JQbUJQYkEtZmFuSWNFU2R2U05PZTFZeGd6cWhNTS1Oa05zQ2gwSkxTbW1Qc00xVXl6ZnV3OXRiblo1RzBCRHhEOXJBUE1hNXZoUk1zdE0xR1hjMEhWbEtnR3UxUHBKT1VLYVlsOW12eXpkQXJWQ0dQR1VqbEtOOUktbjBpRkJkSU1wQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uslambtariffreviewleavesaustraliafacingtrumpdecisiontradersu",
-   "title": "U.S. lamb tariff review leaves Australia facing Trump decision - Traders Union",
-   "source": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclEtenVQS2tzZEItem1OdWVoSlRVc21FTWFjSW9ieHZpSHJVSW5ub2NMVk5xdW56MHc1NnlRTHZKQnF2ZTdJT1ZYNHc1ZnZBSHFlcDZRb1pKM3o3TmNDZExON2dQd0ptZEZFUm5lb2toOFJsUXRuNWZMUTEwdE1ZSFAyTy1jdDA4QmUydThTcTI0RU81WWRZSmdoRHViY2hwZTFF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzZBV1p1ZGV4V0YtWllIY3N4Y1h4Vk5zTHh4dnhnU3RNUGNZV3BoNTJFcHpVLXNBOWNITnlkVFU2WFZVZmlxVFRzNklxLWpxYnJ4NFJsT3p4Y0lLc0tJRlpQNWUwbnVwb1cxQ1JndS04VmUza1FweEY4TVpudWQ5Q0tHOWJDYS1pWGozS0ZISzVuWm5OMmlxWXJ6TQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,10 +149,10 @@
    "pts": 22
   },
   {
-   "key": "asiahopesdemocratscanproviderelieffromtrumpsiranwartariffsru",
-   "title": "Asia Hopes Democrats Can Provide Relief From Trump\u2019s Iran War, Tariffs: Russell - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHFrMmpXZWJBdEdQV01fZHBzN21reUhIUGwwWkVUM1pycmpCejZRdjEtS1gybTl4R1MxbTVNdWh1aWI4MFdDSFpNVzBOazdWNDJsbDJsWWNkOUZJYk1YZ2dHbVIyMHJfQlRkUUYxc3dLSVFoQ2pWWUczbUJZZElQQmFuVE8yUUxUQU1qRm1fSWx3VkxQUHpuN3dsQ2dyMVBVUVNhUmE3eVNMUQ?oc=5",
+   "key": "uslambtariffreviewleavesaustraliafacingtrumpdecisiontradersu",
+   "title": "U.S. lamb tariff review leaves Australia facing Trump decision - Traders Union",
+   "source": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclEtenVQS2tzZEItem1OdWVoSlRVc21FTWFjSW9ieHZpSHJVSW5ub2NMVk5xdW56MHc1NnlRTHZKQnF2ZTdJT1ZYNHc1ZnZBSHFlcDZRb1pKM3o3TmNDZExON2dQd0ptZEZFUm5lb2toOFJsUXRuNWZMUTEwdE1ZSFAyTy1jdDA4QmUydThTcTI0RU81WWRZSmdoRHViY2hwZTFF?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -173,12 +161,12 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysjensenhuangisgoingthroughhellafternvidiaexittoutsti",
-   "title": "Trump Says Jensen Huang Is 'Going Through Hell' After Nvidia Exit\u2014Touts Tim Cook As Replacement Again - Forbes",
-   "source": "Forbes",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOHhxYzN1NTVhUU9FY1UtY0xaY2h0RWcxUVBKLUs5LWxlYVpLemJzTmNxYXVYUm5yT2N5ZUtWZW9SNjBxU1c4MGkwQTBzd2RHUVFDcjJZRkVYLWs3U240V0hxLURZZE1PeXpIanFnZ3JlQXZacFFqMWtxZjNlMVA5aHBWVFJEcUI1a2hvczJSX2tuUXdZZTBWNjJlNDc2ekVlVjNfT2M2X2dXT0VIeGh6RlFYVUw0LWNTSGVKQ1FfekFHMllkbW5MTElyVXlRa1VGVXJOakhDaDFud2RaNlVKVk9MQnhPcnpn?oc=5",
+   "key": "trumptomeetputinandxiinchinabutwontdiscussrussiaswarinukrain",
+   "title": "Trump to Meet Putin and Xi in China, But Won\u2019t Discuss Russia\u2019s War in Ukraine, White House Says - Kyiv Post",
+   "source": "Kyiv Post",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzOTAzRmdMbjRoLUJ2LTJmRUIyblJyVUtfMWdQMHVqbjVUdFA4bEZQLUxlSjQtUmdJald6c1k1NmJmQ0NaQ1IwLVUzWQ?oc=5",
    "themes": [
-    "semiconductors"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -233,10 +221,22 @@
    "pts": 20
   },
   {
-   "key": "tariffsdontdraintheswamptheyfillitcatoinstitute",
-   "title": "Tariffs Don\u2019t Drain the Swamp\u2014They Fill It - Cato Institute",
-   "source": "Cato Institute",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tTjA0d3NqcGFyM2tCV0gtTzNoQzJrQWEwQnZXY2dSNWlUTGhwMW1SZGFGbzVISG9kRWdORFoyZVV2dkNVSF9kdWhzY1QwQk5wdnlFUUlUbkExVTVVaXRPQ3ZGSVpray1CMncwZWQzS2g?oc=5",
+   "key": "mexicoratecutfuelsspeculationofficialswantaweakerfxbloomberg",
+   "title": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker FX - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjBORFI3VVJEVHo3S3l2VDdDdWNCNkg5WHhWc0RpdlRvTURNOGJZX0U0Q0FHdi1jRFotdkNqeEVGYmxQYnlCWmtWVGxvMDNlek83UzhVcEFGeVR6UlhuQ0R0YlJUbUVxbUJjblY4dWJFTWduUnp6Y2M2Rk1nQkZoMkVraUtocUFjajEtTTdMOXNRWGVsNVF0ZW85c3F4S1FrZEFDM2psblhiSEJqeVptSWNkaw?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "tariffspushedpricesupwhyretailandindustrialinvestorsshouldnt",
+   "title": "Tariffs Pushed Prices Up. Why Retail and Industrial Investors Shouldn't Expect a Quick Reversal - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnVEdXpvTnRDdG1aNmw0MWo4SC0xXzUyOXAwMGFIRUZWS0g0MHlDaEdUQktGcFZ5cmFhR2lCOHF2ekFwTmVlc1ZUWDM2OURkUnF1RzM5RlNZR01JWlNfMWZnUlhTTUM1bldFNWpCZWJtSXRKQU9va2FGYm5aaTVRaUl0b29LTWM0NWkyZEEtNzlBb04zdUVURDhZQk5FQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -248,87 +248,87 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 554 min old)",
-   "score": 94
+   "why": "stale quote / market closed (last price 620 min old)",
+   "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 100
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 554 min old)",
-   "score": 93
+   "why": "stale quote / market closed (last price 620 min old)",
+   "score": 83
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 80
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 95
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 99
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 554 min old)",
-   "score": 48
+   "why": "stale quote / market closed (last price 620 min old)",
+   "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 90
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 90
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 82
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 554 min old)",
+   "why": "stale quote / market closed (last price 620 min old)",
    "score": 80
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1502 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 52
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 05:14 PM AEDT",
+  "last_scan": "Sat 14 Nov 2026 06:20 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
