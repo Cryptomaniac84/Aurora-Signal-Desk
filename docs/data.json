@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 11:17 AM AEDT",
+ "generated": "Sat 14 Nov 2026 12:33 PM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -41,22 +41,22 @@
    "pts": 30
   },
   {
+   "key": "nvidiashuangturnstopaulweisslawfirmthatinkeddealwithtrumpreu",
+   "title": "Nvidia's Huang turns to Paul Weiss, law firm that inked deal with Trump - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOGw1N002MEg5dkpaaGZfeDVtSEd0dWswbERkbFZ3TEQtclVqNDNiTUdnZmUzSFF2Yms4TXctSmZTYXB1NGUwbUxXMmtKaDJhbTNsLW5DUmRiNFkwOEEtT1FwejgybEs5TF8tOHJoY2swRGVUOU12MzhJTGd0cFZraVFnamFRTzVLRE9WU21NZ01zRnJtSXNJOHgwU0JBQ1drVDhjSVF6bzBoQlpjTGsyeFVWejhXTDNkQkg4TFJfOA?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
    "key": "howcongressmighttakebackitstradepowersandlimittrumpstariffsp",
    "title": "How Congress might take back its trade powers and limit Trump's tariffs - Peterson Institute for International Economics",
    "source": "Peterson Institute for International Economics",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3dkbjI5MjdTckFXd2lKQk5VWTJybnlhMzVIVWRNLTdjQXA5aEQ2U2g0SjdETDRTSEtiLXBQS2JpQWwzQXNPNVhKMXpfRm16ckJNYTdTUl9iRnBqTmFrRnptLW1NWmVVUzd6QUVPTl90QlR6MUdBVEVINDJ3VG9lWDBEbWMwQjZTcUhxTThDeXlOREFBcEc3QTk2Qlo1QUZkd29kT3FsMG8wNkhpRzVnZWVDTQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "howthedemocratsplantostoptrumpstariffsthetimes",
-   "title": "How the Democrats plan to stop Trump\u2019s tariffs - The Times",
-   "source": "The Times",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHgtY012R0tMMEJMTUVVLTRkLVdIOXp1NnRCZEQ2Ui1zaGdhMW5ocnluTlRmR0dPWkRiNzBBT0RRM0l1R2JwMjY4bGE4T0k1aHpva0dWVFM3eHc5aHhsN2dwSFZFend1WU9oS1RGSm9YVXBqWUVWV195amptWG82WmRoQkdwTWhTVGtPSVhwODI?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,6 +77,18 @@
    "pts": 22
   },
   {
+   "key": "howthedemocratsplantostoptrumpstariffsthetimes",
+   "title": "How the Democrats plan to stop Trump\u2019s tariffs - The Times",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHgtY012R0tMMEJMTUVVLTRkLVdIOXp1NnRCZEQ2Ui1zaGdhMW5ocnluTlRmR0dPWkRiNzBBT0RRM0l1R2JwMjY4bGE4T0k1aHpva0dWVFM3eHc5aHhsN2dwSFZFend1WU9oS1RGSm9YVXBqWUVWV195amptWG82WmRoQkdwTWhTVGtPSVhwODI?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "canadasambassadorwarnstrumpstariffsareraisingbusinesscostsun",
    "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - Yahoo Finance",
    "source": "Yahoo Finance",
@@ -89,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
-   "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
-   "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzZBV1p1ZGV4V0YtWllIY3N4Y1h4Vk5zTHh4dnhnU3RNUGNZV3BoNTJFcHpVLXNBOWNITnlkVFU2WFZVZmlxVFRzNklxLWpxYnJ4NFJsT3p4Y0lLc0tJRlpQNWUwbnVwb1cxQ1JndS04VmUza1FweEY4TVpudWQ5Q0tHOWJDYS1pWGozS0ZISzVuWm5OMmlxWXJ6TQ?oc=5",
+   "key": "trumpstariffsoncanadafacepressurefromuslawmakersastradetalks",
+   "title": "Trump\u2019s Tariffs on Canada Face Pressure From U.S. Lawmakers as Trade Talks Continue - Culture Alberta",
+   "source": "Culture Alberta",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlR6QTJJNzBUSU5QUDlKSnNEZmoyMFlrblQ5d1ZQOFdCSnhNZkFocjF2STF1MFVIbXlwMjJDVkdMZm1TREMzTVlDWmhkRjJGYmFhMWtua3V6Z2tMUk9tZUpDUW5sT1R1UXcxenlTcU9UT1h2N01uSlU0a3kxandlMDFyLTlXZThwZ2l0Y0J4bEJtbUJmc0dqdGlFX3FXc1NWR3Q3OTcwaF8xcXFxS1JTZ2oxS3J5WkZiTldLTA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffsoncanadafacepressurefromuslawmakersastradetalks",
-   "title": "Trump\u2019s Tariffs on Canada Face Pressure From U.S. Lawmakers as Trade Talks Continue - Culture Alberta",
-   "source": "Culture Alberta",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlR6QTJJNzBUSU5QUDlKSnNEZmoyMFlrblQ5d1ZQOFdCSnhNZkFocjF2STF1MFVIbXlwMjJDVkdMZm1TREMzTVlDWmhkRjJGYmFhMWtua3V6Z2tMUk9tZUpDUW5sT1R1UXcxenlTcU9UT1h2N01uSlU0a3kxandlMDFyLTlXZThwZ2l0Y0J4bEJtbUJmc0dqdGlFX3FXc1NWR3Q3OTcwaF8xcXFxS1JTZ2oxS3J5WkZiTldLTA?oc=5",
+   "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
+   "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
+   "source": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDZiZE45WHB4blJhMlo1Q2JQbUJQYkEtZmFuSWNFU2R2U05PZTFZeGd6cWhNTS1Oa05zQ2gwSkxTbW1Qc00xVXl6ZnV3OXRiblo1RzBCRHhEOXJBUE1hNXZoUk1zdE0xR1hjMEhWbEtnR3UxUHBKT1VLYVlsOW12eXpkQXJWQ0dQR1VqbEtOOUktbjBpRkJkSU1wQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -126,10 +138,22 @@
    "pts": 22
   },
   {
-   "key": "architectsofustradepolicyturnagainsttrumpovercanadatariffsne",
-   "title": "Architects of US Trade Policy Turn Against Trump Over Canada Tariffs - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjV2VXkzYm9qT25kRzFoLU9kR3hHREQ3WURkaDNITFNESGhQWGROOUYzUXR4ZHRjdEJxOHVoeUtKc2gtaG5tWU9nOEdrV19pWlRxUUFUQ21fdHc5R0gxVlVycl9ZQ0pqTXN4NDlBMkRuZWJXakE3WU1jWnR0dnlMUmwxdFA5TVg3RXA5OQ?oc=5",
+   "key": "bipartisanpushpossibletocurbtrumptariffsmedtechdive",
+   "title": "Bipartisan push possible to curb Trump tariffs - MedTech Dive",
+   "source": "MedTech Dive",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSERNSXdXU0hvcEg2NGVuZDNPVm0zNUJVVUdtdlJaNEpJYjVDVkYzdWo0UnRQVzhJUG1NR1JQN2dXNWxyd0VTQXVWYVo5RmpNY3JkUzNFQXZ4dFc2OE1jMWtuV3dFY1RHT093Q3pzOGpBRUd1bE91TEFaLTd1RmZSR1BTelpRdnplb0ExV09KSnU?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysgulfalliesaskedhimtoholdbackiniranastariffsfaceveto",
+   "title": "Trump Says Gulf Allies Asked Him to Hold Back in Iran as Tariffs Face Veto Fight - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13SHJhMFZuM2c2b1ZTX2JCZGdpMGJkTXFCYXJSMVRzcWdPUU5iSHRfcWVHZVprcG50NnQ2dV9EQW9xNE9TOVFmM1RXUGpQWjMtMlNJU29tcjBfamM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -162,10 +186,10 @@
    "pts": 22
   },
   {
-   "key": "trumpremovesvicepresidentfromhandlingthewariniranbalticnewsn",
-   "title": "Trump removes Vice President from handling the war in Iran - Baltic News Network",
-   "source": "Baltic News Network",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGQzelhIQ1EtZk9RdWcwcDRfNDB4cG9MRm9YNjMzUnlYTFFUUjFyaGFlWFM1V2pQRUFzQmpwdndQRDNUd1ljeEFiTHQwckxiZlFTV0JMVGVUSlNCbXJtemtWUU84OGh4ZTZDTnpBTFhlWHBhMnp5eXR6bGZWUkN3VG8yV1hiaUN4YXBXM3hZTEdKZ1E5NHdTdQ?oc=5",
+   "key": "trumpthreatensdoublingmexicotariffsovermigrantclaimslaw360",
+   "title": "Trump Threatens Doubling Mexico Tariffs Over Migrant Claims - Law360",
+   "source": "Law360",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd19nOEdXdUNINFE5LTNKQW1teHMxZk9fTU51OUM5UTFZSlVvaE5RMU0tOXJ3Y2xpV21nRk9WVnRwUDZOd1NJU191STFxT0s4cDN6MEFid0FsSmw2UHhhQTl5X3ROMU9KcGpKQnllTk5yeTVCWFRVc2tNWExSbzRmQ3VxaWx5ZkN6QlBCMk1NaU9mVTZzaHZhMjBVamctNjFI0gFWQVVfeXFMT3NoNnZ1TjF1WmY4aEVRTlg4aDV4OEwxNXZNWWxBTWY3UlY4YVlaTWRjT1VzT3ZGNGdmS2txT29SelNkejd1UEZFRU40aUVrLTRDOFIyQkE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -174,40 +198,28 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysusdealwithsouthkoreaincludes84billionforoilrecovery",
-   "title": "Trump Says US Deal With South Korea Includes $8.4 Billion for Oil Recovery - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDJBLW1ZRXd5MGZBdXc5VmZFTkpDTGZWYTBOLWlDQU9CcVYyWTFVV2ZXSm4wQklINTlLMkJYMWJyZjQ0NjlvMHBLaXBtWnNXbzRpenlFOUlJWThmV1d3clhhT1RsdVdMeXh0X25Fa3Rna2NtRWF5Z1VrajB0VC1BNFlXdjlLZU5kOXpVYTJTUjM1d3dSZk5kcnpaRUx0R05CTi1yZVB3?oc=5",
+   "key": "whitehousestafftoneedpriorapprovaltomeetwithlobbyistsunderst",
+   "title": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3dHc2ViRDJ5enlsdV9maUlpanNXR01Ua1JwaDgzQ0hKMzR0ektzbG5RamJ1bUJsM2o3ZVZzWmp5cU9tV3Fyc3AzakxNSEh5UHoyOVVLMVlQS0YwM190SVZSSWJCTVVseHQxQW9aNHF5OE1CbW9NZ3YtRjV4aW51ZlF5OHAzcTZONUZxTW93T2RMRTQ0aUdSNdIBngFBVV95cUxPOFNGdTdLNkFOVi1EdDhpMERXNjBYUmwySnF5cTBFLXJBQlBDZV8xNjg5cHFvWFNKWUpjcVFWTTFFRFpVUjFsZWduWWRfQWxYeUdBYXZudTNUX2xGQU0ybDlVN051dUE2RlJsMTh2eWFHMmFzb3pQOC1lNmVETkFoNExOTG9jeFZMaU9EdXNqNXVqSkt1U3VIUXItVkhpQQ?oc=5",
    "themes": [
-    "energy"
+    "pharma"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
+   "key": "whitehousestaffmustreceiveapprovalbeforemeetingwithlobbyists",
+   "title": "White House staff must receive approval before meeting with lobbyists: Stephen Miller memo - NBC 15 WPMI",
+   "source": "NBC 15 WPMI",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNk40eTZZZll1YlFha0pMcV9vTmF5TnhLcU9FSFhBeTNYSTYyOHJEc2k2Zi1mT3BKaWY5TmxuWUNRc0dWb1M3OGhycFlNQ0xVZlh5blVZOEJacllENC12RUVGaUNqaDhIZ2ZFaHZ6anFhdlhWRjBidEJEREd0TWR1LVBVdUxCcU1DZk9OOURBWlRxSVVwUFZHSF9ybm91bk5iMTA1TXhydjdIUzNCcHBkemxCT01wX0hXUE9MTUtJZVBWdEVRaG5NMThwODRhbkFkdzg4dVZqWVhIckdmdGlTVEszcXQ5SzkyY3BScW9aZTMxamRNemhYVXFIblhmR1lpTlJRb0hFV3lVN1FsTVE?oc=5",
    "themes": [
-    "energy"
+    "pharma"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "houseandsenaterepublicanscallonhowardlutnickjensenhuangtotes",
-   "title": "House and Senate Republicans call on Howard Lutnick, Jensen Huang to testify about Nvidia - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3VHUlM1bnI2RGtLVnBDamZoMy1TMU1fa1J4SWJIZDR6R2VpaWFsQzMyZ09KY3NxQjQ5MDBFY1hZYXpleDNTSUk2TlByblRtT2NCSFg5V2kxMmNlcnVLMHZ4U0NUcWxLZ0F5b1VfMGFMZktkdXF4bE5OZWVobWJOVzFINHUwb0VlU0VBN3pWVmdkY19yLWdTVVhwbjVLRlJaOEl4WWVjNXnSAa4BQVVfeXFMT2JLQTl4dXl3dTJ4SktaVFZ4Skd0TlY0ZDNEVzJJR244ZXVNNDRiWEllNVdSNnJyMXpjYmptQlVwNlpQX1hVOGVYd1pHcDBGUWJaX3RPNHFRa0NHNDdFUzdyZUQ1R3JXcFNVajIyUjhlT2FuZTRyZlFmdXplcWNxa3BpdUhPRUN5eEVxdTNQZ3RlWjEtWU8zMFREYUkwZW1KaVlfT2w4UjZkTFZ4ei1B?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   },
   {
    "key": "ministryofdefencedelaysdecisionon2bnukmilitarysatelliteconte",
@@ -232,109 +244,92 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "mexicoratecutfuelsspeculationofficialswantaweakerfxbloomberg",
-   "title": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker FX - Bloomberg",
-   "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMjBORFI3VVJEVHo3S3l2VDdDdWNCNkg5WHhWc0RpdlRvTURNOGJZX0U0Q0FHdi1jRFotdkNqeEVGYmxQYnlCWmtWVGxvMDNlek83UzhVcEFGeVR6UlhuQ0R0YlJUbUVxbUJjblY4dWJFTWduUnp6Y2M2Rk1nQkZoMkVraUtocUFjajEtTTdMOXNRWGVsNVF0ZW85c3F4S1FrZEFDM2psblhiSEJqeVptSWNkaw?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 63
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 87
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 197 min old)",
+   "why": "stale quote / market closed (last price 274 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 98
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 72
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 73
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1145 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 100
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 73
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 81
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 92
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 91
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 74
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 82
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 79
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 99
   },
   {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 64
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 197 min old)",
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 274 min old)",
    "score": 77
   },
   {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1145 min old)",
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 74
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 1222 min old)",
+   "score": 54
+  },
+  {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 53
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 274 min old)",
    "score": 57
   },
   {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1147 min old)",
-   "score": 57
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 197 min old)",
-   "score": 87
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 197 min old)",
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 274 min old)",
    "score": 90
   },
   {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 79
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 274 min old)",
+   "score": 84
+  },
+  {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 197 min old)",
+   "why": "stale quote / market closed (last price 274 min old)",
    "score": 90
   }
  ],
@@ -349,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 11:17 AM AEDT",
+  "last_scan": "Sat 14 Nov 2026 12:33 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
