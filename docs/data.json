@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 14 Nov 2026 01:28 PM AEDT",
+ "generated": "Sat 14 Nov 2026 02:17 PM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -17,9 +17,9 @@
    "pts": 30
   },
   {
-   "key": "trumptariffrebukeissettounlockfactoryinvestmentsbloomberg",
-   "title": "Trump Tariff Rebuke Is Set to Unlock Factory Investments - Bloomberg",
-   "source": "Bloomberg",
+   "key": "trumptariffrebukeissettounlockfactoryinvestmentsbloombergcom",
+   "title": "Trump Tariff Rebuke Is Set to Unlock Factory Investments - Bloomberg.com",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHVKMEx1YS01XzdGLVozd0haNlpLVWNaOXR2bGR1Vl9JcWYxbkVkbmNQMDNldnd4RHVESmJjNUZCekZ6Ym5iTERCQlBwa0hrX2dfUEJBNnA5aUp6RWVkNjc0TlpGSktuSTI1YzQwV29pSTJPb1dVVmVDWlJiRkZCeUJLbVRvbjh0WTN5a0lncG9zY2YzV2FTc0VpYXNDd3Y3dTBRZWFoMUhHYkhxWURTQjlpenVJUzZLMXlSNGVPWXp4c1k?oc=5",
    "themes": [
     "geopolitics"
@@ -65,6 +65,18 @@
    "pts": 22
   },
   {
+   "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
+   "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
+   "source": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzZBV1p1ZGV4V0YtWllIY3N4Y1h4Vk5zTHh4dnhnU3RNUGNZV3BoNTJFcHpVLXNBOWNITnlkVFU2WFZVZmlxVFRzNklxLWpxYnJ4NFJsT3p4Y0lLc0tJRlpQNWUwbnVwb1cxQ1JndS04VmUza1FweEY4TVpudWQ5Q0tHOWJDYS1pWGozS0ZISzVuWm5OMmlxWXJ6TQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "canadasambassadorwarnstrumpstariffsareraisingbusinesscostsun",
    "title": "Canada\u2019s Ambassador Warns Trump\u2019s Tariffs Are Raising Business Costs: \u2018Uncertainty Increases Your Cost of Capital\u2019 - Yahoo Finance",
    "source": "Yahoo Finance",
@@ -89,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
-   "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
-   "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDZiZE45WHB4blJhMlo1Q2JQbUJQYkEtZmFuSWNFU2R2U05PZTFZeGd6cWhNTS1Oa05zQ2gwSkxTbW1Qc00xVXl6ZnV3OXRiblo1RzBCRHhEOXJBUE1hNXZoUk1zdE0xR1hjMEhWbEtnR3UxUHBKT1VLYVlsOW12eXpkQXJWQ0dQR1VqbEtOOUktbjBpRkJkSU1wQQ?oc=5",
+   "key": "asiahopesdemocratscanproviderelieffromtrumpsiranwartariffsru",
+   "title": "Asia Hopes Democrats Can Provide Relief From Trump\u2019s Iran War, Tariffs: Russell - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHFrMmpXZWJBdEdQV01fZHBzN21reUhIUGwwWkVUM1pycmpCejZRdjEtS1gybTl4R1MxbTVNdWh1aWI4MFdDSFpNVzBOazdWNDJsbDJsWWNkOUZJYk1YZ2dHbVIyMHJfQlRkUUYxc3dLSVFoQ2pWWUczbUJZZElQQmFuVE8yUUxUQU1qRm1fSWx3VkxQUHpuN3dsQ2dyMVBVUVNhUmE3eVNMUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -138,18 +150,6 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysgulfalliesaskedhimtoholdbackiniranastariffsfaceveto",
-   "title": "Trump Says Gulf Allies Asked Him to Hold Back in Iran as Tariffs Face Veto Fight - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13SHJhMFZuM2c2b1ZTX2JCZGdpMGJkTXFCYXJSMVRzcWdPUU5iSHRfcWVHZVprcG50NnQ2dV9EQW9xNE9TOVFmM1RXUGpQWjMtMlNJU29tcjBfamM?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumppitchesapplestimcookasnewnvidiaceoafterhuangresignsaxio",
    "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
    "source": "Axios",
@@ -162,12 +162,12 @@
    "pts": 22
   },
   {
-   "key": "trumpthreatensdoublingmexicotariffsovermigrantclaimslaw360",
-   "title": "Trump Threatens Doubling Mexico Tariffs Over Migrant Claims - Law360",
-   "source": "Law360",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd19nOEdXdUNINFE5LTNKQW1teHMxZk9fTU51OUM5UTFZSlVvaE5RMU0tOXJ3Y2xpV21nRk9WVnRwUDZOd1NJU191STFxT0s4cDN6MEFid0FsSmw2UHhhQTl5X3ROMU9KcGpKQnllTk5yeTVCWFRVc2tNWExSbzRmQ3VxaWx5ZkN6QlBCMk1NaU9mVTZzaHZhMjBVamctNjFI0gFWQVVfeXFMT3NoNnZ1TjF1WmY4aEVRTlg4aDV4OEwxNXZNWWxBTWY3UlY4YVlaTWRjT1VzT3ZGNGdmS2txT29SelNkejd1UEZFRU40aUVrLTRDOFIyQkE?oc=5",
+   "key": "trumpsaysjensenhuangisgoingthroughhellafternvidiaexittoutsti",
+   "title": "Trump Says Jensen Huang Is 'Going Through Hell' After Nvidia Exit\u2014Touts Tim Cook As Replacement Again - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOHhxYzN1NTVhUU9FY1UtY0xaY2h0RWcxUVBKLUs5LWxlYVpLemJzTmNxYXVYUm5yT2N5ZUtWZW9SNjBxU1c4MGkwQTBzd2RHUVFDcjJZRkVYLWs3U240V0hxLURZZE1PeXpIanFnZ3JlQXZacFFqMWtxZjNlMVA5aHBWVFJEcUI1a2hvczJSX2tuUXdZZTBWNjJlNDc2ekVlVjNfT2M2X2dXT0VIeGh6RlFYVUw0LWNTSGVKQ1FfekFHMllkbW5MTElyVXlRa1VGVXJOakhDaDFud2RaNlVKVk9MQnhPcnpn?oc=5",
    "themes": [
-    "geopolitics"
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -184,18 +184,6 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "houseandsenaterepublicanscallonhowardlutnickjensenhuangtotes",
-   "title": "House and Senate Republicans call on Howard Lutnick, Jensen Huang to testify about Nvidia - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3VHUlM1bnI2RGtLVnBDamZoMy1TMU1fa1J4SWJIZDR6R2VpaWFsQzMyZ09KY3NxQjQ5MDBFY1hZYXpleDNTSUk2TlByblRtT2NCSFg5V2kxMmNlcnVLMHZ4U0NUcWxLZ0F5b1VfMGFMZktkdXF4bE5OZWVobWJOVzFINHUwb0VlU0VBN3pWVmdkY19yLWdTVVhwbjVLRlJaOEl4WWVjNXnSAa4BQVVfeXFMT2JLQTl4dXl3dTJ4SktaVFZ4Skd0TlY0ZDNEVzJJR244ZXVNNDRiWEllNVdSNnJyMXpjYmptQlVwNlpQX1hVOGVYd1pHcDBGUWJaX3RPNHFRa0NHNDdFUzdyZUQ1R3JXcFNVajIyUjhlT2FuZTRyZlFmdXplcWNxa3BpdUhPRUN5eEVxdTNQZ3RlWjEtWU8zMFREYUkwZW1KaVlfT2w4UjZkTFZ4ei1B?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   },
   {
    "key": "ministryofdefencedelaysdecisionon2bnukmilitarysatelliteconte",
@@ -244,92 +232,104 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "lithuaniareceivesmorecarlgustafrecoillessriflesjanesdefencei",
+   "title": "Lithuania receives more Carl-Gustaf recoilless rifles - Janes Defence Intelligence",
+   "source": "Janes Defence Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGZ4M01JaUxGR1hzV3pyeVVIX3MtYUcyODh2T3pkSjhhSVc2Z2VicGo0b1FUbzlkR3dVSG96Y0YwSkJwSkVGTHd0U3FheDZISFJyVHZfa2N6RUs3eUhueGdDWnpYWWxzdmV0T2pfYlNlRkhiVFFJUldJSFh3azlnTmwzdmhxVzZINTBHRHNWOUh0S29VdFpTck9lRm4ySEk2TlZTYzRSU2htbkNRSlVSRnJlTV9xUVgyNUc5Rk5taC1EcnNl?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1276 min old)",
+   "why": "stale quote / market closed (last price 1326 min old)",
    "score": 54
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 92
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 90
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 90
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 328 min old)",
+   "why": "stale quote / market closed (last price 378 min old)",
    "score": 90
   }
  ],
@@ -344,7 +344,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 14 Nov 2026 01:28 PM AEDT",
+  "last_scan": "Sat 14 Nov 2026 02:17 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
