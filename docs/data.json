@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 15 Nov 2026 05:51 AM AEDT",
+ "generated": "Sun 15 Nov 2026 06:33 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -77,11 +77,12 @@
    "pts": 22
   },
   {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingthenewara",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - The New Arab",
-   "source": "The New Arab",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVhXSU9VNTVyLUgzS0NsMUIxZXhQTFdfZFBjN3V1U2k0WEtZdm5JR0t1eWRxNndTWVJZQjJ4dDdreUFjWGhwZVdrRXBGWUVZSHJheWlURFViUlBTTHoycE5jdFB2SExkYmh1X29adnA4WGU1d1Z4QnN5a0JzTW8tTnR6UnhtS2hDaUlSRVVkaHk?oc=5",
+   "key": "nvidiascandaldealsblowtotrumpstariffstrategynewsweek",
+   "title": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
    "themes": [
+    "semiconductors",
     "geopolitics"
    ],
    "trump": true,
@@ -89,12 +90,11 @@
    "pts": 22
   },
   {
-   "key": "nvidiascandaldealsblowtotrumpstariffstrategynewsweek",
-   "title": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
+   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingthenewara",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - The New Arab",
+   "source": "The New Arab",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVhXSU9VNTVyLUgzS0NsMUIxZXhQTFdfZFBjN3V1U2k0WEtZdm5JR0t1eWRxNndTWVJZQjJ4dDdreUFjWGhwZVdrRXBGWUVZSHJheWlURFViUlBTTHoycE5jdFB2SExkYmh1X29adnA4WGU1d1Z4QnN5a0JzTW8tTnR6UnhtS2hDaUlSRVVkaHk?oc=5",
    "themes": [
-    "semiconductors",
     "geopolitics"
    ],
    "trump": true,
@@ -234,112 +234,112 @@
    "pts": 20
   },
   {
-   "key": "admeyesonasiadefendtexdrone40winsjapanesecontractaustraliand",
-   "title": "ADM Eyes on Asia: DefendTex Drone40 wins Japanese contract - Australian Defence Magazine",
-   "source": "Australian Defence Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTRRbDRFUTZndTdMNDJ4WHk3djhOR1FyaTZVYXZkS0k5WUNmQUtpTFFmSXFadGFFLUhHc3VMYVBwZTVQUFo0RGpIank3bHVwLTlQYmV4LV9QS2ZRYk4zeUUxdGZXbjNWUEN6TUdnanVSbTl3X1JyX3RIZVRUN1loTE5YcDhjUHhsakd0UjV6WTBMeG0wVnVqai1ERjVOQXR6dTFYWTFXYlhMc3M?oc=5",
+   "key": "boechiefeconomistsaysfurtherraterisesneededtocombatinflation",
+   "title": "BoE chief economist says further rate rises needed to combat inflation - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
    "themes": [
-    "defence"
+    "rates"
    ],
    "trump": false,
-   "trusted": false,
-   "pts": 12
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 83
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 80
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 95
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 99
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 90
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 82
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 80
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2259 min old)",
+   "why": "stale quote / market closed (last price 2302 min old)",
    "score": 52
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1311 min old)",
+   "why": "stale quote / market closed (last price 1354 min old)",
    "score": 82
   }
  ],
@@ -354,7 +354,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 15 Nov 2026 05:51 AM AEDT",
+  "last_scan": "Sun 15 Nov 2026 06:33 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
