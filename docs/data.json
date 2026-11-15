@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 07:02 AM AEDT",
+ "generated": "Mon 16 Nov 2026 07:46 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -9,6 +9,18 @@
    "title": "Opinion | The Success of President Trump\u2019s Tariff Policy - WSJ",
    "source": "WSJ",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -42,18 +54,6 @@
    "pts": 22
   },
   {
-   "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
-   "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
-   "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzZBV1p1ZGV4V0YtWllIY3N4Y1h4Vk5zTHh4dnhnU3RNUGNZV3BoNTJFcHpVLXNBOWNITnlkVFU2WFZVZmlxVFRzNklxLWpxYnJ4NFJsT3p4Y0lLc0tJRlpQNWUwbnVwb1cxQ1JndS04VmUza1FweEY4TVpudWQ5Q0tHOWJDYS1pWGozS0ZISzVuWm5OMmlxWXJ6TQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "anewjerseyfoodimporterfilesalawsuitchallengingtrumps50tariff",
    "title": "A New Jersey food importer files a lawsuit challenging Trump's 50% tariffs on Canadian goods - Rutland Herald",
    "source": "Rutland Herald",
@@ -66,10 +66,10 @@
    "pts": 22
   },
   {
-   "key": "brazilianpresidentlulaonovercomingtrumpstariffsafterthetarif",
-   "title": "\ud83c\udde7\ud83c\uddf7 Brazilian President Lula on overcoming Trump's tariffs: \"After the tariffs, our trade with the United States now accounts for 9.2% of our global trade. It has fallen, but while our trade with the United States declined, our trade with China increased by almost 20 - X",
-   "source": "X",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dFJER3V2QnlsbVJYZjdtVjVrWW5YSGF1OFJKbmpBQ1hfUGIycTk2MW9RZXZJNnVIVklvS3NZZDlQYWxfMEVDWWRqbDdsYTIwc3ExTDNFZG9jeWJoMEktUzcxZEFIbW9oOTgxVg?oc=5",
+   "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
+   "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
+   "source": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzZBV1p1ZGV4V0YtWllIY3N4Y1h4Vk5zTHh4dnhnU3RNUGNZV3BoNTJFcHpVLXNBOWNITnlkVFU2WFZVZmlxVFRzNklxLWpxYnJ4NFJsT3p4Y0lLc0tJRlpQNWUwbnVwb1cxQ1JndS04VmUza1FweEY4TVpudWQ5Q0tHOWJDYS1pWGozS0ZISzVuWm5OMmlxWXJ6TQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -78,10 +78,10 @@
    "pts": 22
   },
   {
-   "key": "statessueoverlatesttrumptariffattemptenergynow",
-   "title": "States Sue Over Latest Trump Tariff Attempt - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTzFTWHo3XzNTN3lrTUdUM2lMMmVENWllUDdxeFQ5RTJKQVNBcXRnOFdtOFJYT09YNGFjMTVzTUs3eVdXaHdKR250SllKRDRYWVlQeXNvaDI4Sy1mWm9iUFFRLThNbi1aV1dKel9fbW96OEEtSGNfN2ZmQTdoUQ?oc=5",
+   "key": "brazilianpresidentlulaonovercomingtrumpstariffsafterthetarif",
+   "title": "\ud83c\udde7\ud83c\uddf7 Brazilian President Lula on overcoming Trump's tariffs: \"After the tariffs, our trade with the United States now accounts for 9.2% of our global trade. It has fallen, but while our trade with the United States declined, our trade with China increased by almost 20 - X",
+   "source": "X",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dFJER3V2QnlsbVJYZjdtVjVrWW5YSGF1OFJKbmpBQ1hfUGIycTk2MW9RZXZJNnVIVklvS3NZZDlQYWxfMEVDWWRqbDdsYTIwc3ExTDNFZG9jeWJoMEktUzcxZEFIbW9oOTgxVg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -162,18 +162,6 @@
    "pts": 22
   },
   {
-   "key": "lutnickunderfirehowtrumpscommercesecretarycultivatednvidiasc",
-   "title": "Lutnick under fire: How Trump\u2019s commerce secretary cultivated Nvidia\u2019s CEO while chip controls slipped - CNN",
-   "source": "CNN",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFRZSHdlc3JTOWRKaE83aXNqbWVPZU13Tjdsc0JMRGZYLUJSWWxqN3VBemJ6U0hLYWNpRTNEMl9TUlRNZGhPSHFpcVgzUUl1RVg5c3lLUG05T1JnbDJab1hWNkhoNFBKRmNOcUlaSjJZald1M2JBaVhTSzJpMEZhMEN3d3hEZw?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "crudeoilmayextendlossesnextweekbrentseentesting9092barrelana",
    "title": "Crude oil may extend losses next week, Brent seen testing $90-92/barrel: Analysts - CNBC TV18",
    "source": "CNBC TV18",
@@ -244,112 +232,124 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "elbitsystemswinsnewpulsrocketartillerycontractasiapacificdef",
+   "title": "Elbit Systems wins new PULS rocket artillery contract - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FPRDZpUXdDdGxPSndUSjNfYjgzMjhQR0dZZ3pUTFg0dlM0ZG9CZzl2ZmtiLWpSaDBUTlQzNEIwb1drdTR4YlRZTHlURVBablBFMXpZeWx0YWxuLWU0SGhIZjRTakg4d0gzM1p6ZnAySmZiY0MwUUs0MTQxd2Y0UkNla2p3c0V3emdaaEhyQ2ZwaS1sVlBYUnZWeG9jcGs?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2822 min old)",
-   "score": 92
+   "why": "stale quote / market closed (last price 2867 min old)",
+   "score": 86
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3770 min old)",
+   "why": "stale quote / market closed (last price 3815 min old)",
    "score": 54
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3770 min old)",
+   "why": "stale quote / market closed (last price 3815 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3772 min old)",
+   "why": "stale quote / market closed (last price 3817 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2822 min old)",
-   "score": 75
+   "why": "stale quote / market closed (last price 2867 min old)",
+   "score": 85
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2822 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 2867 min old)",
+   "score": 46
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2822 min old)",
+   "why": "stale quote / market closed (last price 2867 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 07:02 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 07:46 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
