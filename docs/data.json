@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 15 Nov 2026 09:57 PM AEDT",
+ "generated": "Sun 15 Nov 2026 10:34 PM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -23,6 +23,18 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZqX2ZESVVsSVVJMU1kR3czUU9wYzdyN3lpTkZsMms4azhnTVRyTkpEZ055c1BjQ1RiTDNLVWZTcHFLYkNQY0RhQVIydEthXzFpTFVvMGxPaXZPM0VFdzEzY1psNi1xOE5ZYzlaRjBrWVZQU1oyRkdCMzRfX2VyUVkwbXQ?oc=5",
    "themes": [
     "crypto"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "realitychecktrumpsvenezuelaoildealmayhavelittleimmediateimpa",
+   "title": "Reality check: Trump's Venezuela oil deal may have little immediate impact on US gas prices - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGxlT2YyYzQyRUFyTzc4a25QeXRzTHpQV0tTR05YZkZYWl9wd1JUT1Mwb1lJeTBNM2ItVjMwRlRtdDZLOVVCMG5CVWhkMjJCT3B6OHhQWkRDdWRLZUQ3Z2lPZGowaDhNNU9YWjhjdlpiekctM0tpb2JkbnZIQy1qV051Yk1VWmtPdmc4Y29NYUcwUFRFaUlubmUtZWtfc3Y5dzF3bmhHa9IBrAFBVV95cUxQM1hWaXRCS3NTUmd6UFY3MmpRajRiNkZuRkFwZ2ZrVTFYWjQybnF0WFpvbUd5cmw5VzNKU2k0TUI0X2luSllDZFozT2p3dmlFb0hyT2JELU1HSzVZRFVFc3RQOTR4WXNvZWRZQmxsTy1wM09TSng4dlk4TWM5WGtVR04xVWR3VTdPSDdxalNLYzFhMzY2ajRGV0FxY2xjdC1fR0M4LU1hRzVYbkUz?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": true,
@@ -78,12 +90,11 @@
    "pts": 22
   },
   {
-   "key": "nvidiascandaldealsblowtotrumpstariffstrategynewsweek",
-   "title": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
+   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetinginshenzhe",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting in Shenzhen - The Business Times",
+   "source": "The Business Times",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakhIRTdHV2RrNFA3dVFob2RaT3kxMEFNbDdJMXJGaDkxS0ZzUGNOOTZWeldCVXZvVjN6T05FTnR5X2ZwUUxGakFBelNfVHNkYkhQUUJKWUttbTA4R2Q0X0hieENyUnFDYlFyZ3RxOXQwM3poWC00blJERjZCcWxvbzRXZHB6RzFrcTRvbGpGLXRBMWFaeDlvMTJ5TVdHZXk0LUZSNlRfaFUwSHVNbFNMVzlCYW0?oc=5",
    "themes": [
-    "semiconductors",
     "geopolitics"
    ],
    "trump": true,
@@ -91,11 +102,12 @@
    "pts": 22
   },
   {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetinginshenzhe",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting in Shenzhen - The Business Times",
-   "source": "The Business Times",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakhIRTdHV2RrNFA3dVFob2RaT3kxMEFNbDdJMXJGaDkxS0ZzUGNOOTZWeldCVXZvVjN6T05FTnR5X2ZwUUxGakFBelNfVHNkYkhQUUJKWUttbTA4R2Q0X0hieENyUnFDYlFyZ3RxOXQwM3poWC00blJERjZCcWxvbzRXZHB6RzFrcTRvbGpGLXRBMWFaeDlvMTJ5TVdHZXk0LUZSNlRfaFUwSHVNbFNMVzlCYW0?oc=5",
+   "key": "nvidiascandaldealsblowtotrumpstariffstrategynewsweek",
+   "title": "Nvidia Scandal Deals Blow to Trump\u2019s Tariff Strategy - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZVJiaDRHX1dQZnd1aEkxRTVtNmdiWEw3NEZtMGtXYWE1ZkZ5Q1p6V1pKQW1EWjdvb3hYa1FyeFdsTk1GSXRFZG9keENHeTBtSjF3WTVYMzNHZktWR3RZNlJlaFVVSk52cHJVdEhjRmdFLUhvM3RMb3FGS001NzQ?oc=5",
    "themes": [
+    "semiconductors",
     "geopolitics"
    ],
    "trump": true,
@@ -163,12 +175,24 @@
    "pts": 22
   },
   {
-   "key": "trumpkeepssignalinganendtoiranwarbutexpertwarnsacrucialpiece",
-   "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing - Fox News",
-   "source": "Fox News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWJuc0RtNzJfUGxQdWRNNlJfeGkyTEpMLTNkU2hITkNlWEo1aGxkUy0zelNTNkJFemRVSmk3WG9aR2hLNXNqcTVjVFlYVnZCaEFYbXFvcnJ0LXRIM3puUTJRcjV6V3VCY2wzSU5HNThzWEt3WmlJdGxvOE1jSlVmQW9LVGVxRDBRZXZLMW5DYkNJOUZ1aDZ6S1QyV21mQWlqYkVCTlYwR1llUFBUcXlKeklCcnpXZ9IBuwFBVV95cUxPTGRPaE9ld0pFd3BXc0l4UHFqNmhFeVpqNjk4MFFBeS1ZSEQ3TXdYNUdaUDRRbkZ6eFlZenRsUmhiMHdyWV9sTEVodWg4cnp1eWdBcWVOcEFfdnNmM1NJNmpSX0MwdS1jdnZkZ3ZzYm82UERLcTZFNnd3eVl4cXI1cGgwc3Y1V0YxSlhSZVlUbjY4ckc1bTFsN09TaDFMdnY2ZFZMdUplSFRHSWp3Z0NRR0VVWkJxcnlxdnZr?oc=5",
+   "key": "trumpwantstoinstalltimcookasheadofnvidiakorben",
+   "title": "Trump wants to install Tim Cook as head of Nvidia - Korben",
+   "source": "Korben",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaV0t6Qkc5amg0R01yV0MwQWZGd0Nhb0xEaVk4WklPRU9qQ3NGTzRCWUh6VUZOakYyZFUzQjJwZ3R4RUNzcC1aZzhFNG5sZklTSDVsUTFON2JwY0EwZVVhQWJVV0RUVi1WWENUeQ?oc=5",
    "themes": [
-    "geopolitics"
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysusdealwithsouthkoreaincludes84billionforoilrecovery",
+   "title": "Trump Says US Deal With South Korea Includes $8.4 Billion for Oil Recovery - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEpoVkx3blIzY21yRmtxeU1GNHRqTmItQzZsZ1VLWThJczJzN2NrclJQcy1vZmV6SU1Oa0U5NGk2SmhfMmtQTDZ4UzRVdjdBb1Z5bDdBemI3NFpKT3JYcGppaXRDWWhRY3RKOEJjei1MNVptZTQzWDByX0tIemZXT1ZmaHR5U0swZjBTRXdKZWt3UDNpaElISnEwcFdQTmJTM3hBb2NnMA?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -179,6 +203,18 @@
    "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
    "source": "EnergyNow",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
+   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
    "themes": [
     "energy"
    ],
@@ -209,143 +245,107 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "trumpboughtupto5millionworthofnvidiastockbeforeeasingexportc",
-   "title": "\"Trump Bought Up to $5 Million Worth of NVIDIA Stock Before Easing Export Controls on China\" - \ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
-   "source": "\ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oQ3F6QkdCM19VMEE5N0pXTE9lTGJ0SVlHVWRPSlNicmN5MVpIU0pEOUUtQ1lvV1AtamlWX2lxal9vZmRCUXpudHUwYV92MHFlVGpHM0IzRG8?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "crudeoilmayextendlossesnextweekbrentseentesting9092barrelana",
-   "title": "Crude oil may extend losses next week, Brent seen testing $90-92/barrel: Analysts - CNBC TV18",
-   "source": "CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR1hLcWNZa0d2Vm5hQ3F6c2ZpRjdsX1JoNDQ3ckU0SEVHNU1kdHVWOWlZMnBCM21MaDh0NmtpNHRad1ZQNkZtLTluUjZ0TkRHaEtrSlVlMExET2l3NnZCSldQa3E2RWpOSjc4bEhTb3dvbFpnNFctTG1VOXNKRWh0U042Q3pDYU43ZzhjS3A5cEZLR2VlTFZKWkx6RmhzckhLVWRIUEF1ZEZqUjYybmViWjBBQkg1UE81N3RHd09DZElKV0hfSlY5cDdnQTE1SDhP0gHWAUFVX3lxTE9kWnp0ZzFycXNkM3lxdE9RMi1RbFdXMjJVVkZxdUdkbjhJZnA3b0F6aldSYTU4YjRFYk1CRjlVUUtic25hZFdvbGZ0TEJsbUFsSE5yVUZCenlNSG1lZ2ZUeXVCWmh2VG5VOVZRRmxhaTM1T1A3QjRNcDd5bmtiSnRaOEI4TnhOb1JTNHByZ1JIUElWeWFwS0xYMnZ3aDQ1RlJzU0xwUTFITXExelZ2b2FnbXRxRFNfUllJN3p2QmJoZ0dtejBGd2pGdV80QjJidFRERHcyOXc?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "elbitsystemswinsnewpulsrocketartillerycontractasiapacificdef",
-   "title": "Elbit Systems wins new PULS rocket artillery contract - Asia Pacific Defence Reporter",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FPRDZpUXdDdGxPSndUSjNfYjgzMjhQR0dZZ3pUTFg0dlM0ZG9CZzl2ZmtiLWpSaDBUTlQzNEIwb1drdTR4YlRZTHlURVBablBFMXpZeWx0YWxuLWU0SGhIZjRTakg4d0gzM1p6ZnAySmZiY0MwUUs0MTQxd2Y0UkNla2p3c0V3emdaaEhyQ2ZwaS1sVlBYUnZWeG9jcGs?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2278 min old)",
-   "score": 100
+   "why": "stale quote / market closed (last price 2315 min old)",
+   "score": 94
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
+   "score": 65
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 2315 min old)",
+   "score": 85
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 2315 min old)",
+   "score": 85
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 3263 min old)",
+   "score": 65
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 3265 min old)",
    "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3226 min old)",
+   "why": "stale quote / market closed (last price 3263 min old)",
    "score": 54
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2278 min old)",
-   "score": 75
+   "why": "stale quote / market closed (last price 2315 min old)",
+   "score": 85
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 91
   },
   {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 2278 min old)",
-   "score": 77
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 2278 min old)",
-   "score": 77
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3226 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3228 min old)",
-   "score": 57
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2278 min old)",
+   "why": "stale quote / market closed (last price 2315 min old)",
    "score": 82
   }
  ],
@@ -360,7 +360,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 15 Nov 2026 09:57 PM AEDT",
+  "last_scan": "Sun 15 Nov 2026 10:34 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
