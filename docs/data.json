@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 08:27 AM AEDT",
+ "generated": "Mon 16 Nov 2026 09:06 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -9,6 +9,18 @@
    "title": "Opinion | The Success of President Trump\u2019s Tariff Policy - WSJ",
    "source": "WSJ",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -54,10 +66,10 @@
    "pts": 22
   },
   {
-   "key": "havetrumpstariffsblockedchineseevsfromtheusmarketdwcom",
-   "title": "Have Trump's tariffs blocked Chinese EVs from the US market? - DW.com",
-   "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzZBV1p1ZGV4V0YtWllIY3N4Y1h4Vk5zTHh4dnhnU3RNUGNZV3BoNTJFcHpVLXNBOWNITnlkVFU2WFZVZmlxVFRzNklxLWpxYnJ4NFJsT3p4Y0lLc0tJRlpQNWUwbnVwb1cxQ1JndS04VmUza1FweEY4TVpudWQ5Q0tHOWJDYS1pWGozS0ZISzVuWm5OMmlxWXJ6TQ?oc=5",
+   "key": "uspresidenttrumpthreatenstodoubletariffsonmexicounlessitstop",
+   "title": "US President Trump threatens to double tariffs on Mexico unless it stops migrant caravans travelling towards United States | Akashvani News - News On AIR",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEFVN1ZSOHhTRUZLSlVWSjN3ZnVWcUwzVGh2YWxuLTBZT2F3b054QVh5NXlJT2pnVkZfdEhJNHVYLUxmZGxpMWdvdlNLVk5jbHNacG9qSnBmcV96bFNQVlk2el95NGFiXzB1bVh3U0xVbE9iN0ZaWFpnSThKVjcyTUlLdlNYLUg5b1ZpTWFPeVZ0djRSTFRKckRpQlZqXzc1QmJFR015UWt4Q0c2azFpbWp1YWdjMUVlUFB1RGZkSTJobExibG41NWp2aHNaREdGWlAxLTNDdnQ5S3hLb2VPZ0x3?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -70,18 +82,6 @@
    "title": "\ud83c\udde7\ud83c\uddf7 Brazilian President Lula on overcoming Trump's tariffs: \"After the tariffs, our trade with the United States now accounts for 9.2% of our global trade. It has fallen, but while our trade with the United States declined, our trade with China increased by almost 20 - X",
    "source": "X",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dFJER3V2QnlsbVJYZjdtVjVrWW5YSGF1OFJKbmpBQ1hfUGIycTk2MW9RZXZJNnVIVklvS3NZZDlQYWxfMEVDWWRqbDdsYTIwc3ExTDNFZG9jeWJoMEktUzcxZEFIbW9oOTgxVg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "statessueoverlatesttrumptariffattemptenergynow",
-   "title": "States Sue Over Latest Trump Tariff Attempt - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTzFTWHo3XzNTN3lrTUdUM2lMMmVENWllUDdxeFQ5RTJKQVNBcXRnOFdtOFJYT09YNGFjMTVzTUs3eVdXaHdKR250SllKRDRYWVlQeXNvaDI4Sy1mWm9iUFFRLThNbi1aV1dKel9fbW96OEEtSGNfN2ZmQTdoUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -126,12 +126,48 @@
    "pts": 22
   },
   {
+   "key": "donaldtrumpsexecutiveordercouldletcaliforniasoffshoreoilfirm",
+   "title": "Donald Trump's executive order could let California's offshore oil firms abandon drills on seabed - New York Post",
+   "source": "New York Post",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbE9sdDd1Rmp5Vmg0QllaZVZnbnZxbEhQS28xWmJDTElZLUxZek9EMFRGd25YSEpwQS1LTjhMRTFKWHhzZFpWUEg2ejZFbWJZcWdVWmdhRTgzX214QXhuWkFKdGgtdGdiWHktVDcydmVYZVR6WjFzVHJtN0lYUnFtOWJqSTFfeHA3dlc4WlZZdzA1eE5STl9nT0ZDakRTd1hXTXZqMjZGMEkxcGFvUjZDeVE4MTZTX0tqY216U2gwWC14QmhqRWhVMXNYSC1yNVE?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "senatehealthchairunsureiftrumpsfdapickhassupporttopasscommit",
+   "title": "Senate health chair unsure if Trump\u2019s FDA pick has support to pass committee\u2019s vote - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTg5b1hUSE41UHdpdXhfVnFmRHB5LTRVdG54QzdGWDJtZk1mcHg2MTBKSXp4YXhHWFAzV2RhcFhQUTluVTVtOUM0b1JTZVRISm80OFZhemROcDA1Xy1FczgyUDZENUFQNUxpRldPZ2w0YXZ3dkpzaTZtTWlxbUlTLUFudUZ3YWJQdGZGVktpOURPdWpISkppWDVOaVVaMG0yU0QteGVWTHZjdVYwdWZMbUFUeDM2cmk5aFJ6RTZ6RTU3VVNDNWlB?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "offshoreoilrigscouldbetoppledoffcaliforniaundertrumpplanlosa",
    "title": "Offshore oil rigs could be \u2018toppled\u2019 off California under Trump plan - Los Angeles Times",
    "source": "Los Angeles Times",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTBCLURkUEY1ZnNpOExLTERsNzdvMEx3eEV5Z3RTSGwzLXdZYU9rdVlEQXZhOHpkbms4dW1uOGVTcTRvME5zR1h5aFBGWmZpaE5qNnE0WGlGQ0V4Y2dsc3hGZkYtUE4zUFVZVmxWaHFCZVRwb3FUUXFvSEhrdTlJZWxrZHR4RTdkYkFXZG9oYUZqM3lQLWNLMExqQ3pjT2JfRkFXM0t1S1kwV3luR3JSb0hzRjlDSlBxYklF?oc=5",
    "themes": [
     "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "ftreportsnvidiasjensenhuangdiscussingreturnasceoattemptingto",
+   "title": "FT Reports Nvidia's Jensen Huang Discussing Return as CEO, Attempting to Persuade White House - news.sbs.co.kr",
+   "source": "news.sbs.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZkkwdS1sdVBwQVhiVFdDV3laYjZNSmtDS3NnaUhiNi1YejJOTy1lVjBuendma09uYUtiSTgwYUZqOXFMVjdzWWtueDYzXzJQZ1N5RGYxMzdROXZ6ak5QTHdURHBPQzNXeGkxZXJ3?oc=5",
+   "themes": [
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -208,148 +244,112 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "howlowercourtsbecamethelastlineofdefenseforthe2026electionst",
-   "title": "How lower courts became the last line of defense for the 2026 elections - The Hill",
-   "source": "The Hill",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVlTcmtvZHF0bGJmWDlfLUZXZkZzSjRwZy1oeVBDMnlVem4tb2FURmNCYXQwZXdRNUZBWDFUR1dyelhUd2JYOGg2dnk2ZUFVZWVEc2QzSS1vNEVyR2NiTVFBcVQzLW83djdwZ1BTb2I0TEZRMXh4TU9LdUpRVkROWHIyeHJ3YUFNS3JYdXF0WW5wOFNPV1l4QmMzc2ZYZ0dr0gGgAUFVX3lxTFB1WVNya29kcXRsYmZYOV8tRldmRnNKNHBnLWh5UEMyeVV6bi1vYVRGY0JhdDBld1E1RkFYMVRHV3J6WFR3Ylg4aDZ2eTZlQVVlZURzZDNJLW80RXJHY2JNUUFxVDMtbzd2N3BnUFNvYjRMRlExeHhNT0t1SlFWRE5YcjJ4cndhQU1Lclh1cXRZbnA4U09XWXhCYzNzZlhnR2s?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "houseandsenaterepublicanscallonhowardlutnickjensenhuangtotes",
-   "title": "House and Senate Republicans call on Howard Lutnick, Jensen Huang to testify about Nvidia - KVNU News Talk",
-   "source": "KVNU News Talk",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVm9PZjRRaTJaS3ptN1R5d0I1Q1ZBd3ZMWTZKVllwWl9HV1lHVDV2M3pvOE1RT3E5N0MzVlJtaERmQ3ZoZDFIMjlrMFVxM2tsZzRxVWUzc28wZmJiRUdlTE80ejZxaDE3aENZQ3dobGFnX1dGUTFTYTZMa0ItZG05NXZ1M0E0MmZOaTB3aHFyNW5QXzlhNC00ZTZiMDlpZUctZXRmLXkwNzdFbkJ1VUxv?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "denmarkallocates645millioneurosinnewmilitarysupporttoukraine",
-   "title": "Denmark allocates 645 million euros in new military support to Ukraine - Nordic Defence Sector",
-   "source": "Nordic Defence Sector",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0owNlM5NU0tUndhMXZwSmUxQm9vUjZWM2dEYjI5SE1SZHR5eXVZcFBSLVEtSUxFN1VFbDhmZGh3bkVtUE1iY3AxQm9iTURKMFZOZmhXQ1pUeklMN0hTTmlKSU9UQU1pRUdmdlRHLVBJVklnSXhxaDdDREtlZndQbnlWdlltblN0VzBTLTBNOHRFak9pWFRDRDlNT3VvTHo1UlVQSjlR?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 86
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3856 min old)",
+   "why": "stale quote / market closed (last price 3895 min old)",
    "score": 54
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3856 min old)",
+   "why": "stale quote / market closed (last price 3895 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3858 min old)",
+   "why": "stale quote / market closed (last price 3897 min old)",
    "score": 57
   },
   {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 2947 min old)",
+   "score": 64
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 2947 min old)",
+   "score": 48
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 2947 min old)",
+   "score": 92
+  },
+  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 85
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 91
   },
   {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 2908 min old)",
-   "score": 62
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 2908 min old)",
-   "score": 46
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 2908 min old)",
-   "score": 90
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2908 min old)",
+   "why": "stale quote / market closed (last price 2947 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 08:27 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 09:06 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
