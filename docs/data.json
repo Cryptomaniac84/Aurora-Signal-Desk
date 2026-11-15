@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 04:13 AM AEDT",
+ "generated": "Mon 16 Nov 2026 04:48 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -102,18 +102,6 @@
    "pts": 22
   },
   {
-   "key": "democratswanttokillsomeoftrumpstariffsbutthatmightnotendthet",
-   "title": "Democrats want to kill some of Trump\u2019s tariffs \u2014 but that might not end the trade war - The Lethbridge Herald",
-   "source": "The Lethbridge Herald",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWDA3QVB6cTA3dEEwZXJEQmcxNURLVC1FLTlvUHluM2htUkxxellJU2haYnh1MjY4S2NudmVra2lSOG0xeEVjYm55TXVRZVZBdVZLRzRxTnhFaWEtaWVDZEZNcGMtd09lMWM5cXZPT2VkRGtkaHpBaG0xc1NYd0RudmlSbGJwUlJKbzczVXV1bjlwVjkxaFpYMkZNMjEta2FvSmZKRDJKTUZfS0FLQ3ZGWmJIQW11NVJqQVh6Z1hZT1gyWTl6RmZmZEE0a1N4QzRmY0pqZ3puQ1ZLUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "offshoreoilrigscouldbetoppledoffcaliforniaundertrumpplanlosa",
    "title": "Offshore oil rigs could be \u2018toppled\u2019 off California under Trump plan - Los Angeles Times",
    "source": "Los Angeles Times",
@@ -138,16 +126,28 @@
    "pts": 22
   },
   {
-   "key": "nvidiaboardurgedtoconsiderpotentialreturnofjensenhuangbytwom",
-   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
+   "key": "nvidiascandalputstrumpscommercesecretaryunderpressureoverchi",
+   "title": "Nvidia scandal puts Trump\u2019s commerce secretary under pressure over China chip exports - Philenews",
+   "source": "Philenews",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUU3bHdNa2VaOGZFQWtzZHJRRVkzcXZDdFotdVFaZkhFdnhMWEdtWEhmXy1XbmdhQkw3VWFLNTNRQjRWQkZsa1pOSWcyT012VUdWRTlDcnNfeWIyeWNoVEdWQXM1aDgxdE9xYUc2MEdRcE5TZVljOWxyd0NqelN1MnJFN2ZldHNlaGJyRG83WExibnRSWGpxUE9R?oc=5",
    "themes": [
     "semiconductors"
    ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "lutnickunderfirehowtrumpscommercesecretarycultivatednvidiasc",
+   "title": "Lutnick under fire: How Trump\u2019s commerce secretary cultivated Nvidia\u2019s CEO while chip controls slipped - CNN",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFRZSHdlc3JTOWRKaE83aXNqbWVPZU13Tjdsc0JMRGZYLUJSWWxqN3VBemJ6U0hLYWNpRTNEMl9TUlRNZGhPSHFpcVgzUUl1RVg5c3lLUG05T1JnbDJab1hWNkhoNFBKRmNOcUlaSjJZald1M2JBaVhTSzJpMEZhMEN3d3hEZw?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "crudeoilmayextendlossesnextweekbrentseentesting9092barrelana",
@@ -210,6 +210,18 @@
    "pts": 12
   },
   {
+   "key": "tariffsaresupposedtopromotedomesticinvestmentsbuttransitioni",
+   "title": "Tariffs are supposed to promote domestic investments, but transitioning supply chains could take years - Tampa Bay 28",
+   "source": "Tampa Bay 28",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVEpsbmtyUGhTNS0wRnJnM19Ba2FFcldkR3E0ekJ6UlBEdWRUd1RrWHFYWHBEQWdrLU5ZNWRwS09YcUpqLXdUSVNCZEJ1WVZQMG03ZWEzV0dfQlhDRDlKT1gxMkdtbnVnVTZma1JVZDV4Yi1LNGNydGN4d3oxSTR3NW1VSmVjMGZfd3QySWVXV1IyeFlkQi1FRmpja1lPVzgwcDVNRXl6eUJ4aDA2QjFoWDVXQkY4R0NZMVRQb19OTmRMRkJzT3MtRk9hYkY3eGtfMk1UamppZHZGejl0Q1E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "howlowercourtsbecamethelastlineofdefenseforthe2026electionst",
    "title": "How lower courts became the last line of defense for the 2026 elections - The Hill",
    "source": "The Hill",
@@ -232,124 +244,112 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "elbitsystemswinsnewpulsrocketartillerycontractasiapacificdef",
-   "title": "Elbit Systems wins new PULS rocket artillery contract - Asia Pacific Defence Reporter",
-   "source": "Asia Pacific Defence Reporter",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FPRDZpUXdDdGxPSndUSjNfYjgzMjhQR0dZZ3pUTFg0dlM0ZG9CZzl2ZmtiLWpSaDBUTlQzNEIwb1drdTR4YlRZTHlURVBablBFMXpZeWx0YWxuLWU0SGhIZjRTakg4d0gzM1p6ZnAySmZiY0MwUUs0MTQxd2Y0UkNla2p3c0V3emdaaEhyQ2ZwaS1sVlBYUnZWeG9jcGs?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3601 min old)",
+   "why": "stale quote / market closed (last price 3637 min old)",
    "score": 54
   },
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 86
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3601 min old)",
+   "why": "stale quote / market closed (last price 3637 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3603 min old)",
+   "why": "stale quote / market closed (last price 3639 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 85
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 46
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2653 min old)",
+   "why": "stale quote / market closed (last price 2689 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 04:13 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 04:48 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
