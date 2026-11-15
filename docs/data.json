@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 01:15 AM AEDT",
+ "generated": "Mon 16 Nov 2026 02:08 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -126,18 +126,6 @@
    "pts": 22
   },
   {
-   "key": "trumpwantstoinstalltimcookasheadofnvidiakorben",
-   "title": "Trump wants to install Tim Cook as head of Nvidia - Korben",
-   "source": "Korben",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaV0t6Qkc5amg0R01yV0MwQWZGd0Nhb0xEaVk4WklPRU9qQ3NGTzRCWUh6VUZOakYyZFUzQjJwZ3R4RUNzcC1aZzhFNG5sZklTSDVsUTFON2JwY0EwZVVhQWJVV0RUVi1WWENUeQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "nvidiascandalsharpensuschinaairivalrybeforetrumpvisit1news",
    "title": "Nvidia scandal sharpens US-China AI rivalry before Trump visit - 1News",
    "source": "1News",
@@ -169,18 +157,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oQ3F6QkdCM19VMEE5N0pXTE9lTGJ0SVlHVWRPSlNicmN5MVpIU0pEOUUtQ1lvV1AtamlWX2lxal9vZmRCUXpudHUwYV92MHFlVGpHM0IzRG8?oc=5",
    "themes": [
     "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "behindjensenhuangsspyscandalashadowwarfortrumpsearonchinanew",
-   "title": "Behind Jensen Huang\u2019s spy scandal, a shadow war for Trump\u2019s ear on China - news.lavx.hu",
-   "source": "news.lavx.hu",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0F4MHRmSWYzWEhCMnFXSnFlcGJtVjNIQUN0OXUzMEJLWWhOcGVzOFJPNE1kSDQ5YnZKUDlNUlBRUTc3OEk2YjltNy1HMURXRDRXVS0yXzctdjR1QjRtVUhrU09udkVwZEl1TzEwTDFIS0RzVE1oaE5ZaG5uVVZSWENsdHhiVUpqRkFjdDdEY05UN1A1dHctN1dBVmxZM280LUE?oc=5",
-   "themes": [
-    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -223,6 +199,18 @@
    "pts": 20
   },
   {
+   "key": "usfdarejectssummitschinaoriginatedlungcancerdrugbloombergcom",
+   "title": "US FDA Rejects Summit\u2019s China-Originated Lung Cancer Drug - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "cananewcongressreinintariffsandborderfundingfightsalbuquerqu",
    "title": "Can a new Congress rein in tariffs and border funding fights? - Albuquerque Journal",
    "source": "Albuquerque Journal",
@@ -245,112 +233,124 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "howlowercourtsbecamethelastlineofdefenseforthe2026electionst",
+   "title": "How lower courts became the last line of defense for the 2026 elections - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVlTcmtvZHF0bGJmWDlfLUZXZkZzSjRwZy1oeVBDMnlVem4tb2FURmNCYXQwZXdRNUZBWDFUR1dyelhUd2JYOGg2dnk2ZUFVZWVEc2QzSS1vNEVyR2NiTVFBcVQzLW83djdwZ1BTb2I0TEZRMXh4TU9LdUpRVkROWHIyeHJ3YUFNS3JYdXF0WW5wOFNPV1l4QmMzc2ZYZ0dr0gGgAUFVX3lxTFB1WVNya29kcXRsYmZYOV8tRldmRnNKNHBnLWh5UEMyeVV6bi1vYVRGY0JhdDBld1E1RkFYMVRHV3J6WFR3Ylg4aDZ2eTZlQVVlZURzZDNJLW80RXJHY2JNUUFxVDMtbzd2N3BnUFNvYjRMRlExeHhNT0t1SlFWRE5YcjJ4cndhQU1Lclh1cXRZbnA4U09XWXhCYzNzZlhnR2s?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2476 min old)",
-   "score": 100
+   "why": "stale quote / market closed (last price 2528 min old)",
+   "score": 94
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 100
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3424 min old)",
+   "why": "stale quote / market closed (last price 3476 min old)",
    "score": 54
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3424 min old)",
+   "why": "stale quote / market closed (last price 3476 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3426 min old)",
+   "why": "stale quote / market closed (last price 3478 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2476 min old)",
-   "score": 75
+   "why": "stale quote / market closed (last price 2528 min old)",
+   "score": 85
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2476 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 2528 min old)",
+   "score": 46
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2476 min old)",
+   "why": "stale quote / market closed (last price 2528 min old)",
    "score": 82
   }
  ],
@@ -365,7 +365,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 01:15 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 02:08 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
