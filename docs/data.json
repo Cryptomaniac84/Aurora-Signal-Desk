@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 09:46 AM AEDT",
+ "generated": "Mon 16 Nov 2026 10:36 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -126,24 +126,24 @@
    "pts": 22
   },
   {
-   "key": "senatehealthchairunsureiftrumpsfdapickhassupporttopasscommit",
-   "title": "Senate health chair unsure if Trump\u2019s FDA pick has support to pass committee\u2019s vote - The Washington Post",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTg5b1hUSE41UHdpdXhfVnFmRHB5LTRVdG54QzdGWDJtZk1mcHg2MTBKSXp4YXhHWFAzV2RhcFhQUTluVTVtOUM0b1JTZVRISm80OFZhemROcDA1Xy1FczgyUDZENUFQNUxpRldPZ2w0YXZ3dkpzaTZtTWlxbUlTLUFudUZ3YWJQdGZGVktpOURPdWpISkppWDVOaVVaMG0yU0QteGVWTHZjdVYwdWZMbUFUeDM2cmk5aFJ6RTZ6RTU3VVNDNWlB?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "donaldtrumpsexecutiveordercouldletcaliforniasoffshoreoilfirm",
    "title": "Donald Trump's executive order could let California's offshore oil firms abandon drills on seabed - New York Post",
    "source": "New York Post",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbE9sdDd1Rmp5Vmg0QllaZVZnbnZxbEhQS28xWmJDTElZLUxZek9EMFRGd25YSEpwQS1LTjhMRTFKWHhzZFpWUEg2ejZFbWJZcWdVWmdhRTgzX214QXhuWkFKdGgtdGdiWHktVDcydmVYZVR6WjFzVHJtN0lYUnFtOWJqSTFfeHA3dlc4WlZZdzA1eE5STl9nT0ZDakRTd1hXTXZqMjZGMEkxcGFvUjZDeVE4MTZTX0tqY216U2gwWC14QmhqRWhVMXNYSC1yNVE?oc=5",
    "themes": [
     "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "senatehealthchairunsureiftrumpsfdapickhassupporttopasscommit",
+   "title": "Senate health chair unsure if Trump\u2019s FDA pick has support to pass committee\u2019s vote - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTg5b1hUSE41UHdpdXhfVnFmRHB5LTRVdG54QzdGWDJtZk1mcHg2MTBKSXp4YXhHWFAzV2RhcFhQUTluVTVtOUM0b1JTZVRISm80OFZhemROcDA1Xy1FczgyUDZENUFQNUxpRldPZ2w0YXZ3dkpzaTZtTWlxbUlTLUFudUZ3YWJQdGZGVktpOURPdWpISkppWDVOaVVaMG0yU0QteGVWTHZjdVYwdWZMbUFUeDM2cmk5aFJ6RTZ6RTU3VVNDNWlB?oc=5",
+   "themes": [
+    "pharma"
    ],
    "trump": true,
    "trusted": false,
@@ -249,107 +249,107 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2986 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2986 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 86
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2986 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2986 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2986 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3935 min old)",
-   "score": 54
-  },
-  {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 2987 min old)",
-   "score": 64
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 2987 min old)",
-   "score": 48
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 2987 min old)",
-   "score": 92
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3935 min old)",
-   "score": 57
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3937 min old)",
-   "score": 57
+   "why": "price not above VWAP and 20-bar average",
+   "score": 47
+  },
+  {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 3036 min old)",
+   "score": 64
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 3036 min old)",
+   "score": 48
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 3036 min old)",
+   "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 85
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 91
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2987 min old)",
+   "why": "stale quote / market closed (last price 3036 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 09:46 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 10:36 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
