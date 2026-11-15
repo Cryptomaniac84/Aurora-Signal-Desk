@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 04:48 AM AEDT",
+ "generated": "Mon 16 Nov 2026 05:30 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
+  {
+   "key": "opinionthesuccessofpresidenttrumpstariffpolicywsj",
+   "title": "Opinion | The Success of President Trump\u2019s Tariff Policy - WSJ",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "presidentdonaldtrumpclaimstariffsdontcauseinflationtheycause",
    "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - The Motley Fool",
@@ -58,6 +70,18 @@
    "title": "\ud83c\udde7\ud83c\uddf7 Brazilian President Lula on overcoming Trump's tariffs: \"After the tariffs, our trade with the United States now accounts for 9.2% of our global trade. It has fallen, but while our trade with the United States declined, our trade with China increased by almost 20 - X",
    "source": "X",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dFJER3V2QnlsbVJYZjdtVjVrWW5YSGF1OFJKbmpBQ1hfUGIycTk2MW9RZXZJNnVIVklvS3NZZDlQYWxfMEVDWWRqbDdsYTIwc3ExTDNFZG9jeWJoMEktUzcxZEFIbW9oOTgxVg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "statessueoverlatesttrumptariffattemptenergynow",
+   "title": "States Sue Over Latest Trump Tariff Attempt - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTzFTWHo3XzNTN3lrTUdUM2lMMmVENWllUDdxeFQ5RTJKQVNBcXRnOFdtOFJYT09YNGFjMTVzTUs3eVdXaHdKR250SllKRDRYWVlQeXNvaDI4Sy1mWm9iUFFRLThNbi1aV1dKel9fbW96OEEtSGNfN2ZmQTdoUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -210,18 +234,6 @@
    "pts": 12
   },
   {
-   "key": "tariffsaresupposedtopromotedomesticinvestmentsbuttransitioni",
-   "title": "Tariffs are supposed to promote domestic investments, but transitioning supply chains could take years - Tampa Bay 28",
-   "source": "Tampa Bay 28",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVEpsbmtyUGhTNS0wRnJnM19Ba2FFcldkR3E0ekJ6UlBEdWRUd1RrWHFYWHBEQWdrLU5ZNWRwS09YcUpqLXdUSVNCZEJ1WVZQMG03ZWEzV0dfQlhDRDlKT1gxMkdtbnVnVTZma1JVZDV4Yi1LNGNydGN4d3oxSTR3NW1VSmVjMGZfd3QySWVXV1IyeFlkQi1FRmpja1lPVzgwcDVNRXl6eUJ4aDA2QjFoWDVXQkY4R0NZMVRQb19OTmRMRkJzT3MtRk9hYkY3eGtfMk1UamppZHZGejl0Q1E?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "howlowercourtsbecamethelastlineofdefenseforthe2026electionst",
    "title": "How lower courts became the last line of defense for the 2026 elections - The Hill",
    "source": "The Hill",
@@ -232,124 +244,112 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "bessentdeclinestodefendlutnicksayscommercehadthepenonnvidiac",
-   "title": "Bessent Declines to Defend Lutnick, Says \u201cCommerce Had the Pen\u201d on Nvidia Chip Sales - 2paragraphs.com",
-   "source": "2paragraphs.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkFhR1V5dmJXUkZ2elZuU0pNc2tBZ3BBRW9LbnB1SDc1MWFFVW9UX0ZGcmZqT0phSW5EY1MwT2JzbTdEVG0ydDdGalJKbXdHZHVzczNLREtXRlBrS0JfUFh0VThzZi1aTTV5c1cxQWdRUTlUV2xLNi1ldWFRSDZKNXc3eDZSQzJDQ2lNWUZzdlhUTndKcmF1ckNGOExfUG5FOUV6ZmlaV2R0dkZRc0FlZXQteGk?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 2689 min old)",
-   "score": 84
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2689 min old)",
-   "score": 82
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3637 min old)",
-   "score": 54
-  },
-  {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2689 min old)",
-   "score": 86
+   "why": "stale quote / market closed (last price 2730 min old)",
+   "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 92
   },
   {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 2730 min old)",
+   "score": 84
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 2730 min old)",
+   "score": 82
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 3678 min old)",
+   "score": 54
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3637 min old)",
+   "why": "stale quote / market closed (last price 3678 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3639 min old)",
+   "why": "stale quote / market closed (last price 3680 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2689 min old)",
-   "score": 85
+   "why": "stale quote / market closed (last price 2730 min old)",
+   "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2689 min old)",
-   "score": 46
+   "why": "stale quote / market closed (last price 2730 min old)",
+   "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2689 min old)",
+   "why": "stale quote / market closed (last price 2730 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 04:48 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 05:30 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
