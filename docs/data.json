@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Sun 15 Nov 2026 12:40 PM AEDT",
+ "generated": "Sun 15 Nov 2026 01:31 PM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
-  {
-   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
-   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
    "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
@@ -210,28 +198,28 @@
    "pts": 22
   },
   {
-   "key": "trumpboughtupto5millionworthofnvidiastockbeforeeasingexportc",
-   "title": "\"Trump Bought Up to $5 Million Worth of NVIDIA Stock Before Easing Export Controls on China\" - \ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
-   "source": "\ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oQ3F6QkdCM19VMEE5N0pXTE9lTGJ0SVlHVWRPSlNicmN5MVpIU0pEOUUtQ1lvV1AtamlWX2lxal9vZmRCUXpudHUwYV92MHFlVGpHM0IzRG8?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
    "themes": [
-    "semiconductors"
+    "energy"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "pearlbonegetsfdaclearanceforworldslargestorthopaedicmarketab",
-   "title": "PearlBone gets FDA clearance for world's largest orthopaedic market - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWFVSXJEMG5BZW1QYU9ITFVuYVNncFpOaEFGUGZ6ZXhELTZwV3E3MmpMWmFOd2RrbWNrTVpVTDNMM3dvbjVoZEI4dGdMc1B6QTRUYzZaWTBDVWlLOU8ySTMxb2R1M1B6MzhFYk5mdkJZTWVDeXdBaWJuZWNWMV84anJVaXczWUJkVkthWV9saHhWX01fUDc3djlsVFNsbkgtQnJDdlFtR3hFQQ?oc=5",
+   "key": "jensenhuangresignationsparksuschinaallegationsovertrumpacces",
+   "title": "Jensen Huang Resignation Sparks U.S.-China Allegations Over Trump Access and Nvidia Chip Exports - NewsCord",
+   "source": "NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcE9PSmtpYTlwRnhUOEp3OFJ6Y3ViZGd3Y2dqbno4dFMwQUItYVlLb1FkMkVSTlM0NWhGUktIcS1iY1g0WlFtWGJLZk50by1Lb1lDX0pRUm91YmlJU3FUaFFtRUVKTkR2SE5qSHFkUHN0eEhsTUU5Y0t2R2JyRmVsOW4zWlh6SnhyQkw0SzdXTmVvNmM2OHpURGxUcU5wcG9ERUU3QnkwWE5CWE1IeUhyQmU0aG45U1hxN0gtYndydzRDOXNNek5fak4ySGtjb25tNnNvMm1PQm9kek5BdGxhVUpPYUpUQmhLMmc?oc=5",
    "themes": [
-    "pharma"
+    "semiconductors"
    ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "boechiefeconomistsaysfurtherraterisesneededtocombatinflation",
@@ -244,102 +232,119 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "domesticmunitionscontractunderfireaustraliandefencemagazine",
+   "title": "Domestic munitions contract under fire - Australian Defence Magazine",
+   "source": "Australian Defence Magazine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSm9weTRWTk84a0hFY0F3ekREVVZYcnp4OFZ0Q1o1YTRBTzNGd29YOFZXTS1tS09FQ2J0c056anduMV9Jdk5zZjZubmlUVDlvTF9vamhGM2swdG9oLUljRm02VUNUOFFkR1RWVGREUWc2TEpRTEQyRzVhQmM1T3ZycnI4d1EtdXFCcDRsREM2VEtQdw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 68
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 100
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 85
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 100
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 83
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 80
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 95
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 99
   },
   {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 1720 min old)",
-   "score": 62
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 1772 min old)",
+   "score": 77
   },
   {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 1720 min old)",
-   "score": 55
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 1772 min old)",
+   "score": 77
   },
   {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 1720 min old)",
-   "score": 90
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 2720 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 2722 min old)",
+   "score": 57
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 82
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 80
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2668 min old)",
+   "why": "stale quote / market closed (last price 2720 min old)",
    "score": 52
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1720 min old)",
+   "why": "stale quote / market closed (last price 1772 min old)",
    "score": 82
   }
  ],
@@ -354,7 +359,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 15 Nov 2026 12:40 PM AEDT",
+  "last_scan": "Sun 15 Nov 2026 01:31 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
