@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 02:08 AM AEDT",
+ "generated": "Mon 16 Nov 2026 02:47 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
-  {
-   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
-   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "presidentdonaldtrumpclaimstariffsdontcauseinflationtheycause",
    "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - The Motley Fool",
@@ -90,10 +78,10 @@
    "pts": 22
   },
   {
-   "key": "democratsaimtorollbacktrumptariffstradewarlingers650ckom",
-   "title": "Democrats aim to roll back Trump tariffs, trade war lingers - 650 CKOM",
-   "source": "650 CKOM",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGVsaGtHZzZhMjRZUUdtQ2dINDF3UVk5RHdTRnU1cmdVZURnWFBkN1BiQmZhdGtKdlNhNVRDRVVQcG9RLTNOZFZnOVE5R3YtcnRsMEEyeFZabGxVaEhuWUtPeXdWWjUzcmFhbEgtZHdPVzhTcThUQmtPVk9hWHBOZ182MmNuYnFKRGh6bkxpcEhyYXp2TVE?oc=5",
+   "key": "trumpxisummitputsussoybeanexportsand10chinatariffinfocusagro",
+   "title": "Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus - AgroLatam",
+   "source": "AgroLatam",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1lQMGUtaWN3ckNPVDBNODZUNGlLVkcxQXNxbTczeG5pWnFaelNiM2JIRGFCV1M1MURaZlg3V2cwUWpYTUoxZVNWMWs4TWdGM0h4N2ZtbDZyS3FTMDhxZnJvV1lOTFlQOGozTnRsUXZPZ1Ewd0ctRklMOVYtSkhYTE80N2s3eDdqOFo4?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -106,6 +94,18 @@
    "title": "Trade war takes focus at Asean summit ahead of Trump arrival - The Sun Malaysia",
    "source": "The Sun Malaysia",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUdZVWxVNXQwYzZYeEpCazZ6MzVJQXpfRFBTYWxTbkVJUjJjNXFYUUR0WlBwY09mRU9yNjVFZjFSQnZKRE1wYVJnanFlYkppV3NhOGx5MUVKMHFnbkI5UFVfWG1BdlVxZjdfenFPV0VONXBQb0JoUy1vczhGNzYzOHhKSFpuWmxIbVloeUg4ZDQ0Rm9IX2Z5QWtoemFIZFAyblE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratsaimtorollbacktrumptariffstradewarlingers650ckom",
+   "title": "Democrats aim to roll back Trump tariffs, trade war lingers - 650 CKOM",
+   "source": "650 CKOM",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOGVsaGtHZzZhMjRZUUdtQ2dINDF3UVk5RHdTRnU1cmdVZURnWFBkN1BiQmZhdGtKdlNhNVRDRVVQcG9RLTNOZFZnOVE5R3YtcnRsMEEyeFZabGxVaEhuWUtPeXdWWjUzcmFhbEgtZHdPVzhTcThUQmtPVk9hWHBOZ182MmNuYnFKRGh6bkxpcEhyYXp2TVE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -145,18 +145,6 @@
    "themes": [
     "semiconductors",
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpboughtupto5millionworthofnvidiastockbeforeeasingexportc",
-   "title": "\"Trump Bought Up to $5 Million Worth of NVIDIA Stock Before Easing Export Controls on China\" - \ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
-   "source": "\ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oQ3F6QkdCM19VMEE5N0pXTE9lTGJ0SVlHVWRPSlNicmN5MVpIU0pEOUUtQ1lvV1AtamlWX2lxal9vZmRCUXpudHUwYV92MHFlVGpHM0IzRG8?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -245,112 +233,124 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "elbitsystemswinsnewpulsrocketartillerycontractasiapacificdef",
+   "title": "Elbit Systems wins new PULS rocket artillery contract - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FPRDZpUXdDdGxPSndUSjNfYjgzMjhQR0dZZ3pUTFg0dlM0ZG9CZzl2ZmtiLWpSaDBUTlQzNEIwb1drdTR4YlRZTHlURVBablBFMXpZeWx0YWxuLWU0SGhIZjRTakg4d0gzM1p6ZnAySmZiY0MwUUs0MTQxd2Y0UkNla2p3c0V3emdaaEhyQ2ZwaS1sVlBYUnZWeG9jcGs?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "GLD",
-   "why": "stale quote / market closed (last price 2528 min old)",
-   "score": 68
-  },
-  {
-   "sym": "ITA",
-   "why": "stale quote / market closed (last price 2528 min old)",
-   "score": 94
-  },
-  {
-   "sym": "XLE",
-   "why": "stale quote / market closed (last price 2528 min old)",
-   "score": 85
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 2528 min old)",
-   "score": 100
-  },
-  {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3476 min old)",
+   "why": "stale quote / market closed (last price 3516 min old)",
    "score": 54
   },
   {
+   "sym": "GLD",
+   "why": "stale quote / market closed (last price 2568 min old)",
+   "score": 60
+  },
+  {
+   "sym": "ITA",
+   "why": "stale quote / market closed (last price 2568 min old)",
+   "score": 86
+  },
+  {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 2568 min old)",
+   "score": 77
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 2568 min old)",
+   "score": 92
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3476 min old)",
+   "why": "stale quote / market closed (last price 3516 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3478 min old)",
+   "why": "stale quote / market closed (last price 3518 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 85
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 46
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2528 min old)",
+   "why": "stale quote / market closed (last price 2568 min old)",
    "score": 82
   }
  ],
@@ -365,7 +365,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 02:08 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 02:47 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
