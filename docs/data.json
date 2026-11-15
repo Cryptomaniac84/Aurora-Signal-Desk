@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 06:20 AM AEDT",
+ "generated": "Mon 16 Nov 2026 07:02 AM AEDT",
  "fx_audusd": 0.6774,
  "signals": [],
  "events": [
@@ -126,10 +126,10 @@
    "pts": 22
   },
   {
-   "key": "offshoreoilrigscouldbetoppledoffcaliforniaundertrumpplanaolc",
-   "title": "Offshore oil rigs could be 'toppled' off California under Trump plan - AOL.com",
-   "source": "AOL.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDlyMmtkal9NcGVMU1VnZno2YWc0akdIMTN6YW1JWWwtVVAzdVFmODQ5NjJDTExBLUE3V2RpNDAyU0FtWXlka05ONVd6eWFfWU9ndkE1azFxTmZINXpRZXdlVmJSVWppSGR0SVRtaXVNYVpLVjlmczNWR2xaQXU0Sw?oc=5",
+   "key": "offshoreoilrigscouldbetoppledoffcaliforniaundertrumpplanlosa",
+   "title": "Offshore oil rigs could be \u2018toppled\u2019 off California under Trump plan - Los Angeles Times",
+   "source": "Los Angeles Times",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTBCLURkUEY1ZnNpOExLTERsNzdvMEx3eEV5Z3RTSGwzLXdZYU9rdVlEQXZhOHpkbms4dW1uOGVTcTRvME5zR1h5aFBGWmZpaE5qNnE0WGlGQ0V4Y2dsc3hGZkYtUE4zUFVZVmxWaHFCZVRwb3FUUXFvSEhrdTlJZWxrZHR4RTdkYkFXZG9oYUZqM3lQLWNLMExqQ3pjT2JfRkFXM0t1S1kwV3luR3JSb0hzRjlDSlBxYklF?oc=5",
    "themes": [
     "energy"
    ],
@@ -198,6 +198,18 @@
    "pts": 20
   },
   {
+   "key": "usfdarejectssummitschinaoriginatedlungcancerdrugbloombergcom",
+   "title": "US FDA Rejects Summit\u2019s China-Originated Lung Cancer Drug - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "cananewcongressreinintariffsandborderfundingfightsalbuquerqu",
    "title": "Can a new Congress rein in tariffs and border funding fights? - Albuquerque Journal",
    "source": "Albuquerque Journal",
@@ -222,18 +234,6 @@
    "pts": 12
   },
   {
-   "key": "bessentdeclinestodefendlutnicksayscommercehadthepenonnvidiac",
-   "title": "Bessent Declines to Defend Lutnick, Says \u201cCommerce Had the Pen\u201d on Nvidia Chip Sales - 2paragraphs.com",
-   "source": "2paragraphs.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkFhR1V5dmJXUkZ2elZuU0pNc2tBZ3BBRW9LbnB1SDc1MWFFVW9UX0ZGcmZqT0phSW5EY1MwT2JzbTdEVG0ydDdGalJKbXdHZHVzczNLREtXRlBrS0JfUFh0VThzZi1aTTV5c1cxQWdRUTlUV2xLNi1ldWFRSDZKNXc3eDZSQzJDQ2lNWUZzdlhUTndKcmF1ckNGOExfUG5FOUV6ZmlaV2R0dkZRc0FlZXQteGk?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "houseandsenaterepublicanscallonhowardlutnickjensenhuangtotes",
    "title": "House and Senate Republicans call on Howard Lutnick, Jensen Huang to testify about Nvidia - KVNU News Talk",
    "source": "KVNU News Talk",
@@ -249,107 +249,107 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3729 min old)",
+   "why": "stale quote / market closed (last price 3770 min old)",
    "score": 54
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3729 min old)",
+   "why": "stale quote / market closed (last price 3770 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3731 min old)",
+   "why": "stale quote / market closed (last price 3772 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 90
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2781 min old)",
+   "why": "stale quote / market closed (last price 2822 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 06:20 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 07:02 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
