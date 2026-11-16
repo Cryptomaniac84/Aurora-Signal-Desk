@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 01:06 PM AEDT",
- "fx_audusd": 0.6771,
+ "generated": "Mon 16 Nov 2026 02:02 PM AEDT",
+ "fx_audusd": 0.677,
  "signals": [],
  "events": [
   {
@@ -66,10 +66,22 @@
    "pts": 22
   },
   {
-   "key": "anewjerseyfoodimporterfilesalawsuitchallengingtrumps50tariff",
-   "title": "A New Jersey food importer files a lawsuit challenging Trump's 50% tariffs on Canadian goods - Rutland Herald",
-   "source": "Rutland Herald",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNXZ3UkpwTjRabjU5SUh2eU44TDVPdlZNdlB1US14eU4tSzRobFFNcGN1dk1xbWpCcjJHbG9EeXBJVkNLTk45WEQxbmZMZkdITVdLVjR1MFdsVFRjYkh3U2JtSUJfVktsaDA1Q1JJNXJwYmxlOTJtbWdMOVdPRHlQSS1NYlhJT1doYUt5YjFTYkc1eTd1WU5WMVVpbGFMWTlJaU15eGNjRlpwQktTLVM5ajZXMU0xWWdTM3lvVDlVMV9sNmFsRVBPTUtoSXhsQVpDdHJCM3ktRS1rSmZYS1ZqQm96YTdTWW9hUk9VclpJWlUtdnNBRGNOTkxZb3pFYVU4aFZfSzlhSEpRLWNE?oc=5",
+   "key": "uspresidenttrumpthreatenstodoubletariffsonmexicounlessitstop",
+   "title": "US President Trump threatens to double tariffs on Mexico unless it stops migrant caravans travelling towards United States | Akashvani News - News On AIR",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEFVN1ZSOHhTRUZLSlVWSjN3ZnVWcUwzVGh2YWxuLTBZT2F3b054QVh5NXlJT2pnVkZfdEhJNHVYLUxmZGxpMWdvdlNLVk5jbHNacG9qSnBmcV96bFNQVlk2el95NGFiXzB1bVh3U0xVbE9iN0ZaWFpnSThKVjcyTUlLdlNYLUg5b1ZpTWFPeVZ0djRSTFRKckRpQlZqXzc1QmJFR015UWt4Q0c2azFpbWp1YWdjMUVlUFB1RGZkSTJobExibG41NWp2aHNaREdGWlAxLTNDdnQ5S3hLb2VPZ0x3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingnstonline",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - NST Online",
+   "source": "NST Online",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd090a05zSGF5dlhYUHlkZ215UDU4WU9IeWVkY2R4RnZtX0J5eHZiMnNreERQempIejR3ZGgzWkFueUxjbWh1YXBkQzlGNXdJNW1OM25zYWx1RHNMTWtYSmZ0NXpabVQyWU1yNlRBT0lOM3RvNzFxdWxRX2ZWeW1vaE1KQkxiOWd1dTJZdWFMcjc1U2x5WHdiZzUtX2ExcGdVeUVHWTlBR3MwVVBBTmxxa3NVenhjVTdsWVHSAboBQVVfeXFMTXdPdGtOc0hheXZYWFB5ZGdteVA1OFlPSHllZGNkeEZ2bV9CeXh2YjJza3hEUHpqSHo0d2RoM1pBbnlMY21odWFwZEM5RjV3STVtTjNuc2FsdURzTE1rWEpmdDV6Wm1UMllNcjZUQU9JTjN0bzcxcXVsUV9mVnltb2hNSkJMYjlndXUyWXVhTHI3NVNseVh3Ymc1LV9hMXBnVXlFR1k5QUdzMFVQQU5scWtzVXp4Y1U3bFlR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -90,22 +102,10 @@
    "pts": 22
   },
   {
-   "key": "uspresidenttrumpthreatenstodoubletariffsonmexicounlessitstop",
-   "title": "US President Trump threatens to double tariffs on Mexico unless it stops migrant caravans travelling towards United States | Akashvani News - News On AIR",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEFVN1ZSOHhTRUZLSlVWSjN3ZnVWcUwzVGh2YWxuLTBZT2F3b054QVh5NXlJT2pnVkZfdEhJNHVYLUxmZGxpMWdvdlNLVk5jbHNacG9qSnBmcV96bFNQVlk2el95NGFiXzB1bVh3U0xVbE9iN0ZaWFpnSThKVjcyTUlLdlNYLUg5b1ZpTWFPeVZ0djRSTFRKckRpQlZqXzc1QmJFR015UWt4Q0c2azFpbWp1YWdjMUVlUFB1RGZkSTJobExibG41NWp2aHNaREdGWlAxLTNDdnQ5S3hLb2VPZ0x3?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingnstonline",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - NST Online",
-   "source": "NST Online",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd090a05zSGF5dlhYUHlkZ215UDU4WU9IeWVkY2R4RnZtX0J5eHZiMnNreERQempIejR3ZGgzWkFueUxjbWh1YXBkQzlGNXdJNW1OM25zYWx1RHNMTWtYSmZ0NXpabVQyWU1yNlRBT0lOM3RvNzFxdWxRX2ZWeW1vaE1KQkxiOWd1dTJZdWFMcjc1U2x5WHdiZzUtX2ExcGdVeUVHWTlBR3MwVVBBTmxxa3NVenhjVTdsWVHSAboBQVVfeXFMTXdPdGtOc0hheXZYWFB5ZGdteVA1OFlPSHllZGNkeEZ2bV9CeXh2YjJza3hEUHpqSHo0d2RoM1pBbnlMY21odWFwZEM5RjV3STVtTjNuc2FsdURzTE1rWEpmdDV6Wm1UMllNcjZUQU9JTjN0bzcxcXVsUV9mVnltb2hNSkJMYjlndXUyWXVhTHI3NVNseVh3Ymc1LV9hMXBnVXlFR1k5QUdzMFVQQU5scWtzVXp4Y1U3bFlR?oc=5",
+   "key": "anewjerseyfoodimporterfilesalawsuitchallengingtrumps50tariff",
+   "title": "A New Jersey food importer files a lawsuit challenging Trump's 50% tariffs on Canadian goods - Rutland Herald",
+   "source": "Rutland Herald",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNXZ3UkpwTjRabjU5SUh2eU44TDVPdlZNdlB1US14eU4tSzRobFFNcGN1dk1xbWpCcjJHbG9EeXBJVkNLTk45WEQxbmZMZkdITVdLVjR1MFdsVFRjYkh3U2JtSUJfVktsaDA1Q1JJNXJwYmxlOTJtbWdMOVdPRHlQSS1NYlhJT1doYUt5YjFTYkc1eTd1WU5WMVVpbGFMWTlJaU15eGNjRlpwQktTLVM5ajZXMU0xWWdTM3lvVDlVMV9sNmFsRVBPTUtoSXhsQVpDdHJCM3ktRS1rSmZYS1ZqQm96YTdTWW9hUk9VclpJWlUtdnNBRGNOTkxZb3pFYVU4aFZfSzlhSEpRLWNE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -234,10 +234,10 @@
    "pts": 20
   },
   {
-   "key": "nvidiasceosearchdrawsfirewithbessentsshakeupcallbloomberg",
-   "title": "Nvidia\u2019s CEO Search Draws Fire With Bessent\u2019s \u2018Shakeup\u2019 Call - Bloomberg",
-   "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVBETnNKak9BME5HaDEzOXN3TzctS3kzWUVadDVaem9wVDExVFJqb0NSMEdoZG01cXFmLTJSaFJzSkhxOTRYelRQcXYxSTl6OUdzaTE3LW9KM3FTRWh0bUZWY1BKMmNaUWVvN1luaTczdVhWTXZHVnFJSWwzZ3Z5R1JIYVljbUl5UmY3bGZfWW1tZnJOaUMwYnpQVElIekFHMjJyUDR3a0NBYVNKZkhtbGdJSQ?oc=5",
+   "key": "suspectedchinaspylinkedtonvidiasexbossleftin2025megaspeedsay",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJV1pWdW9NZ0tRcjE1U21pVTVyUnpvSGVqZ2RqZ2VpSlNER3Q0WGcta0piOEp3NmZURS1DT3BEd0ZPM3p1Q2pBM3B0ZkttNVRLc0hCaGlqSXlwRUU?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -249,107 +249,107 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 59
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 65
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 91
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3187 min old)",
+   "why": "stale quote / market closed (last price 3243 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 01:06 PM AEDT",
+  "last_scan": "Mon 16 Nov 2026 02:02 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
