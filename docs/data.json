@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 07:08 PM AEDT",
- "fx_audusd": 0.6759,
+ "generated": "Mon 16 Nov 2026 09:16 PM AEDT",
+ "fx_audusd": 0.6756,
  "signals": [],
  "events": [
   {
@@ -17,10 +17,22 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffscastshadowoverapectalksfreemalaysiatoday",
-   "title": "Trump\u2019s tariffs cast shadow over Apec talks - Free Malaysia Today",
-   "source": "Free Malaysia Today",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3huejdHaWh0ejF0NjdWZmU0TnlnWXM2MEdnVjl6ZW1wRVZ3Ul8xWXRVanJwUXhMUXFZVVl6bHgySXNxRUtaX20zN1VrVkNFRU1JRUZnRnFlUFFtOVJLWml1a0xEeko4cVY5VHBhNGxJNzlZeG8zcEZMTXMtSGlKVGp2b0dLdnVPclBlQnZ3V1Nldl9oaG01eXZrd0Z4SVJiRV9XRHR3?oc=5",
+   "key": "democratstargettrumpstariffscantheyagreeonwhatsnextthechrist",
+   "title": "Democrats target Trump\u2019s tariffs. Can they agree on what\u2019s next? - The Christian Science Monitor",
+   "source": "The Christian Science Monitor",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VYUklFWlJPYklZMWJhZ0x5R29ZRmhPSmV2Sm9GbkY4cjhmTy02ZGpNbS1VY2xtUTBwaXgzbnFWUTBZakNWX291cGtuQU8wM1lDYk03Nl9jMnZxLVpIZV9CNkU3ZkFDazlpMTI5UElZX0Z0d2RHTWJSRjE5QmxHRFZURlJBUzBOWWVXSA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffscastshadowoverapectalksthestraitstimes",
+   "title": "Trump\u2019s tariffs cast shadow over APEC talks - The Straits Times",
+   "source": "The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazVKcWhyQWZrODBEeUktaFdWdTVvZG1WTzBiU285LTcxQVdUeUdqdkNMNjJwaE8xU0gwT1B5bXlNR2pSUkRoZ0dNV0haSFIxbHRHd1ptVkFobzBScWRpdkQ5LU5ndjNXWUVITkhrUmo2bzhPSDlCbnN1Rng1dzBFUFhScHY5MUxBZ1VyeExRSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,10 +65,34 @@
    "pts": 22
   },
   {
+   "key": "watchthefutureoftrumpsautomotivetariffsafterthemidtermssuppl",
+   "title": "Watch: The Future of Trump's Automotive Tariffs After the Midterms - SupplyChainBrain",
+   "source": "SupplyChainBrain",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTEyTlhpazFJcURBc1pUSU9TVzlUV2FiQ1BwUERoNzV4d0NaT2JING5DZTBjMjQ1S25lZDF5QU1xWHNuVHo3U0lLaDBRamZMOUI3MmFIY1lBMlBudkZpQ2dsU1lQSlVEMmlpb05FQ0o0TUZrSE52ckc3eW5TRzlsdzN2U1c0dzVLdkV2RUpza0lhamZPVGN4bmsyOHAtVUxKRmFCalF2LUZfXzFnSEZ0STFaVzVlaVFiTTdsRDBGWWs0cjBwbkFGQWU1a240QQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpstradetariffstakecenterstageataseansummitasleadersseekn",
    "title": "Trump\u2019s trade tariffs take center stage at ASEAN summit as leaders seek new markets - Philippine Canadian Inquirer",
    "source": "Philippine Canadian Inquirer",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOHNjZmtUMTBUWjhsMWV1c3NhQW01VTN3aHF3bmlGVTQ3ckMySmQ1NEdFN2VOcFZaanZfLWdjV1VQRl9TNDQyUWNqZDcyREpqY1I2eWQ0MW9JZTRBNjZ0enFzcndVUjZQeklkRGpmVlc1dFBKeTloMmJMVVlyM2dCR2g5RExHY1NjUEJUOFdoSUpOQUNMODFDcnVKV0RBX2hwSmt1WDFSTzhVeWtvX29tcHQ1dGlDazRleDBnNzh4WlQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptariffstotopagendawhendemocratstakecontrolstricklandaju",
+   "title": "Trump tariffs to top agenda when Democrats take control: Strickland - Aju Press",
+   "source": "Aju Press",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84QUlrVUptWnpCQkpnQ3BLZ3lWeXZWbkhCVjJUanZQTW5xM2hHZjc0WU5wU2dwbC15VzBWWUYwUHFLVl9ZV0V6cVRpU2lsUDJVbW1fX0U4QUJxekU?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,47 +113,22 @@
    "pts": 22
   },
   {
+   "key": "aseantoremainsupplychainpriorityforusfirmsevenastrumpstariff",
+   "title": "ASEAN to remain supply chain priority for US firms even as Trump\u2019s tariffs face pushback - The Straits Times",
+   "source": "The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm9yNG5hVzBUSlFSYi1UbjhWQ3FHMmdZSkk5S0ZYX1hrY2ZQN3BwQ1U3Z1JweUVxb3NVMFZnN0lydVdxbkZsZEc0SEkzcy1mVGZmVU5XRWphSlJ1aUtGVGlMVkJIZzNvVHBIZndyVVhESHEwVjNHOEJkbzg3X2hZUTBnbElSQktaQ1NyUmlqRW5tOFVUNHRMVW4tUjJUQzMzQnZhVDhzQVJMZGJpbGVMbDJUdDJRanZXYzV2VjlBYjhHbnFtQzU4MjdjRldRUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
    "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
    "source": "EnergyNow",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "presidentdonaldtrumpclaimstariffsdontcauseinflationtheycause",
-   "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
-   "themes": [
-    "rates",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "marcostopresstrumponlifting125ustariffonphilippineexportsman",
-   "title": "Marcos to press Trump on lifting 12.5% US tariff on Philippine exports - Manila Bulletin",
-   "source": "Manila Bulletin",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTnhMRkI4NzFMa3lIbkpRbnRDaFFwZFBVSUJQbkkwX05jVmFhWU95eTluMFd1MkxCSWx2bWNIanBaLUc2TXM1VUxWQ1BMdlJ4R3B1M2RXa0ZZVnh4V3RqbXo1LTVIdkloRlpMRXZlX0g2YTZlWVdCQ0MyTlU0azdXZlloT3l2bmFRdGhKVkJYWFJzaUhJcE1yOFRKS2daQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingnstonline",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - NST Online",
-   "source": "NST Online",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1pHaFAteGItYkVkRGgwaGV0NHROYi1fSFBfM25xNTJmdUhaeEJBb0k5TF84VUl0SHVZTnZ0NHg3UTFPYnZCUmRoRld5STRsZjh3NmFqWTFKU3Nzc0QzUWN2aW5qaTBVY2JGQ1JJNDVzeG14S2YtS0E2TjJWbkZFNV81SWlmTUxPSHV0QmZlbkVmekc5dlZ0cnlhTUh4WEdBSjRtSm1BTFlBcUhGQnVGdjN6MEHSAboBQVVfeXFMTXdPdGtOc0hheXZYWFB5ZGdteVA1OFlPSHllZGNkeEZ2bV9CeXh2YjJza3hEUHpqSHo0d2RoM1pBbnlMY21odWFwZEM5RjV3STVtTjNuc2FsdURzTE1rWEpmdDV6Wm1UMllNcjZUQU9JTjN0bzcxcXVsUV9mVnltb2hNSkJMYjlndXUyWXVhTHI3NVNseVh3Ymc1LV9hMXBnVXlFR1k5QUdzMFVQQU5scWtzVXp4Y1U3bFlR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -211,6 +222,19 @@
    "pts": 22
   },
   {
+   "key": "commentarywartornpresentcloudssaudiarabiaspostoilfuturereute",
+   "title": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek1oaDQwcHhPSlhNTmNsZDhJc1dSQ1BwODVvWDBsdlhpUUxfVUJnUUdlQnNmTUFtYWlhblk4N1c1YWJFdEVqNmIzYjZSWTFsSjRXc1FhRzRIME90alJDb2pMeHlzbjVjWWdYb2FUbGIza3NkWmhLOFE4WHhOeXdhaHh6NjhtS0pENGtzc1RUMmVIZ0t2cnJ2WHA1alNwMzgzWEVZR3RnU0ZJMFVxcWNOWUdwOFRlRXhhQllPZmd6MA?oc=5",
+   "themes": [
+    "energy",
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "usfdadeclinestoapprovesummitlungcancerdrugaftertrialmisseske",
    "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal - Reuters",
    "source": "Reuters",
@@ -221,137 +245,98 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "usfdarejectssummitschinaoriginatedlungcancerdrugbloombergcom",
-   "title": "US FDA Rejects Summit\u2019s China-Originated Lung Cancer Drug - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "indiafacesamorepainfulreturntohigherinterestratesbloombergco",
-   "title": "India Faces a More Painful Return to Higher Interest Rates - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0hiVjJXTXBPbzllUFZhcVRzZ3RQX1JfNlllelBnV3BKVHltWmIyS1JKelNpaGFGQUhfQnZqamRDcjhUZnlZT0JKOVJPNEJaWGlNY2FGWUlHRl9lSl9taUptVXpydVp0Y0dWQllEd0g4RGpDWU84b2hycWRUa2J1aDY4ZW9WNnNpZnBoZHN1cDBvTW5uREhNaUpWbk5Pa3NaU1Ryd0VIX1U3OWhISWc?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 92
   },
   {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 3548 min old)",
-   "score": 84
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3548 min old)",
-   "score": 82
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 176 min old)",
-   "score": 48
-  },
-  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 178 min old)",
+   "why": "stale quote / market closed (last price 307 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 178 min old)",
+   "why": "stale quote / market closed (last price 307 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 90
   },
   {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 3548 min old)",
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 3677 min old)",
    "score": 82
   },
   {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 3548 min old)",
-   "score": 82
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 3677 min old)",
+   "score": 80
   },
   {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 3548 min old)",
-   "score": 82
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 305 min old)",
+   "score": 46
   }
  ],
  "paper": {
@@ -365,7 +350,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 07:08 PM AEDT",
+  "last_scan": "Mon 16 Nov 2026 09:16 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
