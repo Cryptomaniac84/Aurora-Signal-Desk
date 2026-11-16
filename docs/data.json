@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 09:14 AM AEDT",
- "fx_audusd": 0.674,
+ "generated": "Tue 17 Nov 2026 10:00 AM AEDT",
+ "fx_audusd": 0.6736,
  "signals": [],
  "events": [
+  {
+   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiareuters",
    "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
@@ -15,18 +27,6 @@
    "trump": true,
    "trusted": true,
    "pts": 30
-  },
-  {
-   "key": "severalcompaniesareusingtrumptariffrefundsforcorporatebonuse",
-   "title": "Several companies are using Trump tariff refunds for corporate bonuses - The Guardian",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
   },
   {
    "key": "afterthebluetsunamigettingridoftrumpstariffspetersoninstitut",
@@ -53,10 +53,34 @@
    "pts": 22
   },
   {
+   "key": "congresscouldsoonreinintrumpstariffsoncanadahereswhatthatcou",
+   "title": "Congress could soon rein in Trump\u2019s tariffs on Canada. Here\u2019s what that could look like. - Atlantic Council",
+   "source": "Atlantic Council",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGsxeTZ5RFpTVXJJM0RTMy00eHZneGpYQWRwbjhhWmR3UDFQMzV3dEYtVWM2MUNBMnM1VUdHdk1IMGRaVHZsWkZSX1d6QThrNVhzT29mZktBTGR5YXY2dGlheTJZandFZTc5WG84ZlJPaHV6Qzlrekt1a0dCVjZrQnpRRG9ncHRNY1FNTGd2MHR6azFJbDY2eEJVRUVfdzQtdkJhWGMzSm52dE9aZ0hLajZfQ3NINUM0VU1fR00zclN0TVlyOVV2Tmc1emNFZlhIQzl3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "democratstargettrumpstariffscantheyagreeonwhatsnextthechrist",
    "title": "Democrats target Trump\u2019s tariffs. Can they agree on what\u2019s next? - The Christian Science Monitor",
    "source": "The Christian Science Monitor",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VYUklFWlJPYklZMWJhZ0x5R29ZRmhPSmV2Sm9GbkY4cjhmTy02ZGpNbS1VY2xtUTBwaXgzbnFWUTBZakNWX291cGtuQU8wM1lDYk03Nl9jMnZxLVpIZV9CNkU3ZkFDazlpMTI5UElZX0Z0d2RHTWJSRjE5QmxHRFZURlJBUzBOWWVXSA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
+   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - AP News",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
-   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - AP News",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
+   "key": "bipartisanpushpossibletocurbtrumptariffsconstructiondive",
+   "title": "Bipartisan push possible to curb Trump tariffs - Construction Dive",
+   "source": "Construction Dive",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTJobkhYVS1Xb1lWUEFKb3hLdzNyUHRmV0QwcWRZVUZHX2x5LUZLazNOMWNKRkdKT2NiZ3JEU2xvTlZLTzNTTkx4dllQVVJSeDlYamgySUIwSVcxYzhYRlBPWXBSb2MzV29XaXdqOGZNSlBQa01JajVxNGI2Z3hQeVVyMmlhcE9iVjlFNVV2ejNXQlE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -105,6 +129,18 @@
    "title": "Surprise! You\u2019re Never Seeing a Dollar From Trump\u2019s Tariff Refunds - The New Republic",
    "source": "The New Republic",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEtDcmhBNklxeHhZWF9CNWVtYnpRWkxlZVRhMkUwblF4NDQxbHNQUU1pSVhpQkNMc0VScjJJb1NlbngxUmRrS1NsSV82ZWQtLW5MQXFwOXdCTE5vb05jQ3ZRMmFRTTZ6dE5TWFNacjJqUWhkWXdtRTk1RlF1c19qd09zYTdsTjZDNGREbG4tbFNZQWVEWEE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "dtichiefswishduringtrumpvisitlowertariffsinquirernet",
+   "title": "DTI chief\u2019s wish during Trump visit: Lower tariffs - Inquirer.net",
+   "source": "Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1c0OUlVSDl0YW1MVFRHajI4QzJOaWRRMFRKUVV2YlBtWnBhUUdwVWFGYXViazBpa1o5Sy1rMElSU3RDMzlsQTBKZlNXeVFIeVlIRTRKWkhlWHVIcHB5NnlFOUxkYnVseTAxcnBCYWNNVWxmd2d6b3doVnhoMXdwQmhja2VIXzJoRWtWUFZB0gGTAUFVX3lxTE5MbnIzSElURXdSR2lhUUgtOFRaemhsN1FMR2RwYWk5MjR6S1dZUEZ5N2JyUVJHNVZrYndUNTVXOXk2Y3FWeVBycEw2MzdVUGVVLVJlM3JyQ2FnWXNTdi1UbzN3a1FmQTloM21pOHctMDZDOWZ0RVBKZ3FGWloteEpid2xZTTA3REZaZWpEVkVmMlprVQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,18 +185,6 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffscastshadowoverapectalksthestraitstimes",
-   "title": "Trump\u2019s tariffs cast shadow over APEC talks - The Straits Times",
-   "source": "The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazVKcWhyQWZrODBEeUktaFdWdTVvZG1WTzBiU285LTcxQVdUeUdqdkNMNjJwaE8xU0gwT1B5bXlNR2pSUkRoZ0dNV0haSFIxbHRHd1ptVkFobzBScWRpdkQ5LU5ndjNXWUVITkhrUmo2bzhPSDlCbnN1Rng1dzBFUFhScHY5MUxBZ1VyeExRSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
    "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -179,18 +203,6 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
    "themes": [
     "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpadministrationmovestocloseaichiploopholeaheadofchinatri",
-   "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip - The New York Times",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -221,106 +233,93 @@
    "pts": 22
   },
   {
-   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiayahoo",
-   "title": "US to curb China's access to AI chips as Trump heads to Asia - Yahoo",
-   "source": "Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jcHN2Z3FaM3JiTUNLOHNZRFdoSHBWTzdnS205RkEta1gxUWNPUnlLaC1lcHRwZW5SM1VkYzZ1SmZ4T3padndKXzFpam9LM3c4bC1MUXNTWU9fS1VQdEhWX2Y1ajNWQ0lKVTNCUFg1WmZtbjNlUVIzLWNfdw?oc=5",
+   "key": "trumpadministrationmovestocloseaichiploopholeaheadofchinatri",
+   "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip - The New York Times",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
    "themes": [
     "semiconductors"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "thedelicatebalanceinamericasaichipwarwithchinafinancialtimes",
-   "title": "The delicate balance in America\u2019s AI chip war with China - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHhFdVFnWVI1cVRKdHE1N295Ymk2dXotUm4yb2RQeFJRSXdDMjZlYU1TbUkzZWlVRHdVVUIwZzR0NzJqMjgwdDhTVE85TjQycGtRVnVVMFZIRWlYMEd3RTRGUDZDTnJaa1RiX2VZOWkteEJBd0NYLUJVZ1hfdmFQYmhUX28?oc=5",
-   "themes": [
-    "semiconductors",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
+   "sym": "GLD",
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 53
+  },
+  {
+   "sym": "ITA",
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 78
+  },
+  {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 65
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 61
+  },
+  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 75 min old)",
+   "why": "stale quote / market closed (last price 121 min old)",
    "score": 46
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 75 min old)",
+   "why": "stale quote / market closed (last price 121 min old)",
    "score": 62
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 53
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 64
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 49
-  },
-  {
-   "sym": "GLD",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 43
-  },
-  {
-   "sym": "ITA",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 72
-  },
-  {
-   "sym": "XLE",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 57
-  },
-  {
-   "sym": "FXI",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 53
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 63
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 75 min old)",
+   "why": "stale quote / market closed (last price 121 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 75 min old)",
+   "why": "stale quote / market closed (last price 121 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1025 min old)",
+   "why": "stale quote / market closed (last price 1070 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1025 min old)",
+   "why": "stale quote / market closed (last price 1070 min old)",
    "score": 57
   },
   {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 54
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 46
   },
   {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 62
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 43
   },
   {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 75 min old)",
-   "score": 62
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 121 min old)",
+   "score": 55
   }
  ],
  "paper": {
@@ -334,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 09:14 AM AEDT",
+  "last_scan": "Tue 17 Nov 2026 10:00 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
