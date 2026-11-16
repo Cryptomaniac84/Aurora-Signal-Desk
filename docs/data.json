@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 02:02 PM AEDT",
- "fx_audusd": 0.677,
+ "generated": "Mon 16 Nov 2026 03:21 PM AEDT",
+ "fx_audusd": 0.6768,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "APEC showdown puts China's trade ambitions against Trump's tariffs - IntelliNews",
    "source": "IntelliNews",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaThWbHZfZVVXWVRldW0xdjhTel9TMzctbktRQ3FCdjNQeUJHWURMUF9fSzc3aXJQUkxIdW1CSjAxNmd3NkdQYXZxSWpVX2dKMnU4X0lxcWs1b1lQekZacUFPM1N4SmlxTnpIVG5Pb1ZKLU43MVdnTnFjMEFrWTRNcjBQb3dueDlXbVBqcmtPNXBKek4zSmp3eFc4bWNpeENiY2Q2dTZIcERzT1p4cGVOMkYycHk3aFk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffscastshadowoverapectalksewn",
+   "title": "Trump's tariffs cast shadow over APEC talks - EWN",
+   "source": "EWN",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTk1PVG1wTG5MbmdqcERnRGl5dDFpWVlkQ1VJaFhFejJEcjQzQklkQ0xMWmV3Vi0xamlZYUkwcjVFaXVwdm5OYkU2b050UTVfcnduLTFZdW9xTEpONUFwaVVxODZ2NTdxbENLUTU5aGZsMUlDY0xOR244NUc1UlNYdA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,6 +53,18 @@
    "pts": 22
   },
   {
+   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingnstonline",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - NST Online",
+   "source": "NST Online",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1pHaFAteGItYkVkRGgwaGV0NHROYi1fSFBfM25xNTJmdUhaeEJBb0k5TF84VUl0SHVZTnZ0NHg3UTFPYnZCUmRoRld5STRsZjh3NmFqWTFKU3Nzc0QzUWN2aW5qaTBVY2JGQ1JJNDVzeG14S2YtS0E2TjJWbkZFNV81SWlmTUxPSHV0QmZlbkVmekc5dlZ0cnlhTUh4WEdBSjRtSm1BTFlBcUhGQnVGdjN6MEHSAboBQVVfeXFMTXdPdGtOc0hheXZYWFB5ZGdteVA1OFlPSHllZGNkeEZ2bV9CeXh2YjJza3hEUHpqSHo0d2RoM1pBbnlMY21odWFwZEM5RjV3STVtTjNuc2FsdURzTE1rWEpmdDV6Wm1UMllNcjZUQU9JTjN0bzcxcXVsUV9mVnltb2hNSkJMYjlndXUyWXVhTHI3NVNseVh3Ymc1LV9hMXBnVXlFR1k5QUdzMFVQQU5scWtzVXp4Y1U3bFlR?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "presidentdonaldtrumpclaimstariffsdontcauseinflationtheycause",
    "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
    "source": "Yahoo Finance",
@@ -54,58 +78,22 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffwarbringscanadaandbrazilclosercarneys400millionb",
-   "title": "Trump's Tariff War Brings Canada And Brazil Closer; Carney's $400 Million Brazil Pledge - The Times of India",
+   "key": "usforcedlabortarifftofigureinmarcostrumptalksphilstarcom",
+   "title": "US forced-labor tariff to figure in Marcos-Trump talks - Philstar.com",
+   "source": "Philstar.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEs0Z3VveW1PMERJS0VydWwxR1ZRME9zc0pidG5FSDFWaDBaUnlDZ2FvWDYxQmIxZ2dwZi1HcEpDb1A3Q0FKMDRwejlVWVVJN2JyeW8waF9TdElrcXNIWDRRSTRwOTJNWUNOR2x0QXllclJweUdEUjlTbE12NlAzSDZTb01qWjdmMlNzZmpKYlk4TWNjUllSS3k0WmpDX2diVDg3NdIBqwFBVV95cUxPeDR4dExEenpLMGNiZVFtSnRZSC1fVVhwRWh2ei1NLS1DSm5ZSkNwMnVydnU3d2phTGFlTGVtcldoZElrZzhZQzRyTXZVQ05MbGhHNU8zWm9PT3IzdjVVeE41dTVPQWhhd2FIQll0MTFGVmRnWm8wcmc0MU5wMC1WOVczdEZWZlBhQTczT0tmVVpkZ3BGY091YXpNTzhqR1ktWmR1ZWkwTDU3eTA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "carneysdoubleblowtotrumpcanadasneaks2usalliesfromunderwashin",
+   "title": "Carney\u2019s Double Blow To Trump? Canada Sneaks 2 U.S. Allies From Under Washington\u2019s Nose | Tariff War - The Times of India",
    "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdVNrQ3diMDI5ejNRV3ROSnZraERSdXotWG5IVm5wOXRBUENtZl9hU0lNUVVuR1hSaGlidE9mV1lHMVVBSUhMc3p5ZE9vMllyUFNibElqR2M2Q0lUX2M3VHc0ZWNsdjNkaHZGVjJheTI2bm5HNjFUdVY1T0hEU2pfZ0FRS0k2ZnZDVlFSLTFCWTB3VGZ0LWgyb0tjaEQ0OW8zS0hvX1l2YXRib3BDM001b3RnUTNzaWF6SE1hZUxQb3VTTVQzQVk3ZlNPeGQ3VzRPLVJDSVdZMGpVMFpSRF9Ka3FaRHh0RTB6Y3BTRkd3di1pYnlJMS1R0gH8AUFVX3lxTE01dmllN2lPdUxGeDh1UHZ4aTFncUhoQlpnaV9qcjh5a0JFN3JfX1lld3VBd3l1STRTd2lSb0ZzNVV0MHBKSnVCNXROamVPandrTlluWWE5SFNLOHlzSUFfQUhZLW1GREd4S0dZYkZheDVaRTNqMWRERVFyTWp3aXI4Zl9GTnNmenJMU0VpVlpiak0ydE5weWZpb29DVThLdXFhemRiQ3BJQzF6akxjMVhJRVFhSWVlaEpzb2hjVmhKRXJrS0ItdEZTcUxuUVdvZUVDdjBmMGl4azNhUkxtUmZqSktTOENJYzFsTlptNXFfaVdqdTRNTDc5bGpHUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uspresidenttrumpthreatenstodoubletariffsonmexicounlessitstop",
-   "title": "US President Trump threatens to double tariffs on Mexico unless it stops migrant caravans travelling towards United States | Akashvani News - News On AIR",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEFVN1ZSOHhTRUZLSlVWSjN3ZnVWcUwzVGh2YWxuLTBZT2F3b054QVh5NXlJT2pnVkZfdEhJNHVYLUxmZGxpMWdvdlNLVk5jbHNacG9qSnBmcV96bFNQVlk2el95NGFiXzB1bVh3U0xVbE9iN0ZaWFpnSThKVjcyTUlLdlNYLUg5b1ZpTWFPeVZ0djRSTFRKckRpQlZqXzc1QmJFR015UWt4Q0c2azFpbWp1YWdjMUVlUFB1RGZkSTJobExibG41NWp2aHNaREdGWlAxLTNDdnQ5S3hLb2VPZ0x3?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetingnstonline",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - NST Online",
-   "source": "NST Online",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd090a05zSGF5dlhYUHlkZ215UDU4WU9IeWVkY2R4RnZtX0J5eHZiMnNreERQempIejR3ZGgzWkFueUxjbWh1YXBkQzlGNXdJNW1OM25zYWx1RHNMTWtYSmZ0NXpabVQyWU1yNlRBT0lOM3RvNzFxdWxRX2ZWeW1vaE1KQkxiOWd1dTJZdWFMcjc1U2x5WHdiZzUtX2ExcGdVeUVHWTlBR3MwVVBBTmxxa3NVenhjVTdsWVHSAboBQVVfeXFMTXdPdGtOc0hheXZYWFB5ZGdteVA1OFlPSHllZGNkeEZ2bV9CeXh2YjJza3hEUHpqSHo0d2RoM1pBbnlMY21odWFwZEM5RjV3STVtTjNuc2FsdURzTE1rWEpmdDV6Wm1UMllNcjZUQU9JTjN0bzcxcXVsUV9mVnltb2hNSkJMYjlndXUyWXVhTHI3NVNseVh3Ymc1LV9hMXBnVXlFR1k5QUdzMFVQQU5scWtzVXp4Y1U3bFlR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffsfaceanewthreatrepublicanswxow",
-   "title": "Trump\u2019s tariffs face a new threat: Republicans - WXOW",
-   "source": "WXOW",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGxmOUFJdTk4el9JV3QwcHJxeVlwZ182c1FyS200dk9lVGVidHFfcVN1VjlXWk9NN0pRckdpSGtJNm9tX3ZXQ1FEdmYxeFZ6V3g4bmN1dG5UNjFHS2JoVmhSRGxIWDdqb01aUENKVXdxNHg4emQ0TnQ3d2lYdTdxOTFnOGZJdHBEbURqMFJGX2FzU0xYcVV4SnhtaUo2cVVXU2w0ZDRBaENLMUZMZm8zcnJlUm10SUdzUUZlVFU2N3B0dlA2Vmx3WnhUaWlISk04UXBqQ1hn?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "anewjerseyfoodimporterfilesalawsuitchallengingtrumps50tariff",
-   "title": "A New Jersey food importer files a lawsuit challenging Trump's 50% tariffs on Canadian goods - Rutland Herald",
-   "source": "Rutland Herald",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNXZ3UkpwTjRabjU5SUh2eU44TDVPdlZNdlB1US14eU4tSzRobFFNcGN1dk1xbWpCcjJHbG9EeXBJVkNLTk45WEQxbmZMZkdITVdLVjR1MFdsVFRjYkh3U2JtSUJfVktsaDA1Q1JJNXJwYmxlOTJtbWdMOVdPRHlQSS1NYlhJT1doYUt5YjFTYkc1eTd1WU5WMVVpbGFMWTlJaU15eGNjRlpwQktTLVM5ajZXMU0xWWdTM3lvVDlVMV9sNmFsRVBPTUtoSXhsQVpDdHJCM3ktRS1rSmZYS1ZqQm96YTdTWW9hUk9VclpJWlUtdnNBRGNOTkxZb3pFYVU4aFZfSzlhSEpRLWNE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3RkY1c0bUN2Z05DRHAtWVZTWGJ4bGkybXlrX1RmNlRlZF8tV1dKM0FTZjg4cFEtajZnMXVZUy13R2ZEYWNLNkFiUjg0V3Bjd0dGYmVteVB3anZwbzBXczNCM3BLUXdKT3hjTG5RQWJTdUwwdFdvbDRiUlB4UVhTQjN3dDloTXhjcVlnVEZKQkNSSnZqXzBwQktfRXhpMkhIaTVxX19kQmtLaFRxc2hqVUtSUlRMVU1aNjcyNDBMNjBxb0g3bHUzbG4yTWZ3QWhrYWN0Y1FFSnY2ZUZKQUtpLWZ2aVBhMUU1MlAzd1NjOEd4U1FTTTZybjJ0b1E2YmEwdlJyVWlB0gGLAkFVX3lxTE9aNWd2c181RWFMN3NaZVJwUXBUZFk2TEhGVjdpWUxxYjBiLVlhZHozOUNhcmNQNGxlM0htSXRxTlVsSWJCNTR5N2xfLXhjR2xPaGI1UThKa1pOSElLWHRjRnE1X2VPdVN1WC1fdWpoOGlyRk1fZE5RRkFSMFk2d2w3MmdiZV90SFQ4eDdxWkJKT0FqVVRCUy01dE5KZElTSVI5YzNZNlEyalpjUjZOZEUzZ2tXdTEwbFZGQzR1SXBVNlF0ZG12bkhHVXpEM0RnMzlvQnBaZl9KazZvZGlMbU9zX0RmeFM2THNyLXpvNk9EUm5XdnU3Rnh5SzBXd0RZUTRZekMyOEtMZnk0NA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -244,112 +232,124 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "nvidiasceosearchdrawsfirewithbessentsshakeupcallbloomberg",
+   "title": "Nvidia\u2019s CEO Search Draws Fire With Bessent\u2019s \u2018Shakeup\u2019 Call - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVBETnNKak9BME5HaDEzOXN3TzctS3kzWUVadDVaem9wVDExVFJqb0NSMEdoZG01cXFmLTJSaFJzSkhxOTRYelRQcXYxSTl6OUdzaTE3LW9KM3FTRWh0bUZWY1BKMmNaUWVvN1luaTczdVhWTXZHVnFJSWwzZ3Z5R1JIYVljbUl5UmY3bGZfWW1tZnJOaUMwYnpQVElIekFHMjJyUDR3a0NBYVNKZkhtbGdJSQ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 37
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 59
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 65
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 39
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 91
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3243 min old)",
+   "why": "stale quote / market closed (last price 3322 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 02:02 PM AEDT",
+  "last_scan": "Mon 16 Nov 2026 03:21 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
