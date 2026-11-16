@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 10:36 AM AEDT",
- "fx_audusd": 0.6774,
+ "generated": "Mon 16 Nov 2026 11:32 AM AEDT",
+ "fx_audusd": 0.6775,
  "signals": [],
  "events": [
+  {
+   "key": "apecshowdownputschinastradeambitionsagainsttrumpstariffsinte",
+   "title": "APEC showdown puts China's trade ambitions against Trump's tariffs - IntelliNews",
+   "source": "IntelliNews",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaThWbHZfZVVXWVRldW0xdjhTel9TMzctbktRQ3FCdjNQeUJHWURMUF9fSzc3aXJQUkxIdW1CSjAxNmd3NkdQYXZxSWpVX2dKMnU4X0lxcWs1b1lQekZacUFPM1N4SmlxTnpIVG5Pb1ZKLU43MVdnTnFjMEFrWTRNcjBQb3dueDlXbVBqcmtPNXBKek4zSmp3eFc4bWNpeENiY2Q2dTZIcERzT1p4cGVOMkYycHk3aFk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "opinionthesuccessofpresidenttrumpstariffpolicywsj",
    "title": "Opinion | The Success of President Trump\u2019s Tariff Policy - WSJ",
@@ -66,6 +78,18 @@
    "pts": 22
   },
   {
+   "key": "trumpstariffsfaceanewthreatrepublicanswxow",
+   "title": "Trump\u2019s tariffs face a new threat: Republicans - WXOW",
+   "source": "WXOW",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGxmOUFJdTk4el9JV3QwcHJxeVlwZ182c1FyS200dk9lVGVidHFfcVN1VjlXWk9NN0pRckdpSGtJNm9tX3ZXQ1FEdmYxeFZ6V3g4bmN1dG5UNjFHS2JoVmhSRGxIWDdqb01aUENKVXdxNHg4emQ0TnQ3d2lYdTdxOTFnOGZJdHBEbURqMFJGX2FzU0xYcVV4SnhtaUo2cVVXU2w0ZDRBaENLMUZMZm8zcnJlUm10SUdzUUZlVFU2N3B0dlA2Vmx3WnhUaWlISk04UXBqQ1hn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "uspresidenttrumpthreatenstodoubletariffsonmexicounlessitstop",
    "title": "US President Trump threatens to double tariffs on Mexico unless it stops migrant caravans travelling towards United States | Akashvani News - News On AIR",
    "source": "News On AIR",
@@ -82,42 +106,6 @@
    "title": "\ud83c\udde7\ud83c\uddf7 Brazilian President Lula on overcoming Trump's tariffs: \"After the tariffs, our trade with the United States now accounts for 9.2% of our global trade. It has fallen, but while our trade with the United States declined, our trade with China increased by almost 20 - X",
    "source": "X",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54dFJER3V2QnlsbVJYZjdtVjVrWW5YSGF1OFJKbmpBQ1hfUGIycTk2MW9RZXZJNnVIVklvS3NZZDlQYWxfMEVDWWRqbDdsYTIwc3ExTDNFZG9jeWJoMEktUzcxZEFIbW9oOTgxVg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffsfaceanewthreatrepublicanswxow",
-   "title": "Trump\u2019s tariffs face a new threat: Republicans - WXOW",
-   "source": "WXOW",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGxmOUFJdTk4el9JV3QwcHJxeVlwZ182c1FyS200dk9lVGVidHFfcVN1VjlXWk9NN0pRckdpSGtJNm9tX3ZXQ1FEdmYxeFZ6V3g4bmN1dG5UNjFHS2JoVmhSRGxIWDdqb01aUENKVXdxNHg4emQ0TnQ3d2lYdTdxOTFnOGZJdHBEbURqMFJGX2FzU0xYcVV4SnhtaUo2cVVXU2w0ZDRBaENLMUZMZm8zcnJlUm10SUdzUUZlVFU2N3B0dlA2Vmx3WnhUaWlISk04UXBqQ1hn?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "chinausdiscusstariffsfarmtradeaheadofxitrumpmeetinginshenzhe",
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting in Shenzhen - The Business Times",
-   "source": "The Business Times",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakhIRTdHV2RrNFA3dVFob2RaT3kxMEFNbDdJMXJGaDkxS0ZzUGNOOTZWeldCVXZvVjN6T05FTnR5X2ZwUUxGakFBelNfVHNkYkhQUUJKWUttbTA4R2Q0X0hieENyUnFDYlFyZ3RxOXQwM3poWC00blJERjZCcWxvbzRXZHB6RzFrcTRvbGpGLXRBMWFaeDlvMTJ5TVdHZXk0LUZSNlRfaFUwSHVNbFNMVzlCYW0?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "tradewartakesfocusataseansummitaheadoftrumparrivalthesunmala",
-   "title": "Trade war takes focus at Asean summit ahead of Trump arrival - The Sun Malaysia",
-   "source": "The Sun Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUdZVWxVNXQwYzZYeEpCazZ6MzVJQXpfRFBTYWxTbkVJUjJjNXFYUUR0WlBwY09mRU9yNjVFZjFSQnZKRE1wYVJnanFlYkppV3NhOGx5MUVKMHFnbkI5UFVfWG1BdlVxZjdfenFPV0VONXBQb0JoUy1vczhGNzYzOHhKSFpuWmxIbVloeUg4ZDQ0Rm9IX2Z5QWtoemFIZFAyblE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -174,18 +162,6 @@
    "pts": 22
   },
   {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumptostaysilentonjensenhuangscandalatuschinasummitsemicond",
    "title": "Trump to Stay Silent on 'Jensen Huang Scandal' at U.S.-China Summit; Semiconductor Curbs Off the Table - BigGo Finance",
    "source": "BigGo Finance",
@@ -202,18 +178,6 @@
    "title": "Nvidia scandal sharpens US-China AI rivalry before Trump visit - 1News",
    "source": "1News",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEV4NGpZbXVUb3BCRDBMdEVjUDZQX3F4dkV5WUNkM2c3RHE5bVU0Z3RfRTYya25iZG1PZW9ndnlFZVZsckNkRVFGSUIzVHpac1UyZkxnZ2J5aER0bjhEZi1Vb3BlQm01NjQ3V0NwM2VwcXRyWjB6VDF6LWFzT3BoUm1FeXlYLWhDSzdzNngxWTJ3RGJiT0xoaXFXUW9zXzQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "nvidiascandalputstrumpscommercesecretaryunderpressureoverchi",
-   "title": "Nvidia scandal puts Trump\u2019s commerce secretary under pressure over China chip exports - Philenews",
-   "source": "Philenews",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUU3bHdNa2VaOGZFQWtzZHJRRVkzcXZDdFotdVFaZkhFdnhMWEdtWEhmXy1XbmdhQkw3VWFLNTNRQjRWQkZsa1pOSWcyT012VUdWRTlDcnNfeWIyeWNoVEdWQXM1aDgxdE9xYUc2MEdRcE5TZVljOWxyd0NqelN1MnJFN2ZldHNlaGJyRG83WExibnRSWGpxUE9R?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -244,112 +208,148 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "usfdarejectssummitschinaoriginatedlungcancerdrugbloombergcom",
+   "title": "US FDA Rejects Summit\u2019s China-Originated Lung Cancer Drug - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "cananewcongressreinintariffsandborderfundingfightsalbuquerqu",
+   "title": "Can a new Congress rein in tariffs and border funding fights? - Albuquerque Journal",
+   "source": "Albuquerque Journal",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTFONWtmWnlXS1pkUGFuNV9maWJOcHp1ZlBPUGtNSUYxSE5icXpkZFJIYm9HYVN3UFBMamVBUHhfZTJqVHNUSUFIZXlQTkxFU19WTGYxNHpRcFNJeHBncC0wbGYzUU9xZUcwU0FFUVE2OEZDOTZsZVZONDZMSjVDc1JBY0tZb29aZG1iQ1hlX05lbDBzSklHQmJFaDJveVVoNVRR?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "howlowercourtsbecamethelastlineofdefenseforthe2026electionst",
+   "title": "How lower courts became the last line of defense for the 2026 elections - The Hill",
+   "source": "The Hill",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVlTcmtvZHF0bGJmWDlfLUZXZkZzSjRwZy1oeVBDMnlVem4tb2FURmNCYXQwZXdRNUZBWDFUR1dyelhUd2JYOGg2dnk2ZUFVZWVEc2QzSS1vNEVyR2NiTVFBcVQzLW83djdwZ1BTb2I0TEZRMXh4TU9LdUpRVkROWHIyeHJ3YUFNS3JYdXF0WW5wOFNPV1l4QmMzc2ZYZ0dr0gGgAUFVX3lxTFB1WVNya29kcXRsYmZYOV8tRldmRnNKNHBnLWh5UEMyeVV6bi1vYVRGY0JhdDBld1E1RkFYMVRHV3J6WFR3Ylg4aDZ2eTZlQVVlZURzZDNJLW80RXJHY2JNUUFxVDMtbzd2N3BnUFNvYjRMRlExeHhNT0t1SlFWRE5YcjJ4cndhQU1Lclh1cXRZbnA4U09XWXhCYzNzZlhnR2s?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3036 min old)",
-   "score": 86
+   "why": "stale quote / market closed (last price 3092 min old)",
+   "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 82
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 53
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "STO.AX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 47
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 75
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 64
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3036 min old)",
-   "score": 48
+   "why": "stale quote / market closed (last price 3092 min old)",
+   "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 3036 min old)",
-   "score": 85
+   "why": "stale quote / market closed (last price 3092 min old)",
+   "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 91
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 82
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3036 min old)",
+   "why": "stale quote / market closed (last price 3092 min old)",
    "score": 82
   }
  ],
@@ -364,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 10:36 AM AEDT",
+  "last_scan": "Mon 16 Nov 2026 11:32 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
