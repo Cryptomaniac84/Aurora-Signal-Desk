@@ -1,9 +1,33 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 04:22 AM AEDT",
- "fx_audusd": 0.6753,
+ "generated": "Tue 17 Nov 2026 05:18 AM AEDT",
+ "fx_audusd": 0.6744,
  "signals": [],
  "events": [
+  {
+   "key": "severalcompaniesareusingtrumptariffrefundsforcorporatebonuse",
+   "title": "Several companies are using Trump tariff refunds for corporate bonuses - The Guardian",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "afterthebluetsunamigettingridoftrumpstariffspetersoninstitut",
+   "title": "After the Blue Tsunami: Getting rid of Trump\u2019s tariffs - Peterson Institute for International Economics",
+   "source": "Peterson Institute for International Economics",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "doespresidenttrumpneedanofframponlambtariffssheepcentral",
    "title": "Does President Trump need an \u2018off ramp\u2019 on lamb tariffs? - Sheep Central",
@@ -29,10 +53,22 @@
    "pts": 22
   },
   {
-   "key": "ustoysellerspintariffhopesonthirdtrumpximeetingthisyearnikke",
-   "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year - Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVYwVDg5MXZXMnJqM2dieklWMm82aEdtZnJjVDFhZEtOMktkUzgydnEzT2lOOU1VX0R5ajd0Z25jQzhPRFJMT1FmZUNwNkJMVWxRcERrQ05SSEVMOUcxV1gxeEo2U295ZjNuMEd0VUpoTGowOWY4TE80RS1KbGNIYjFUYjZMZ19CbXpSYmE5bVo2SmVWWHROa2JxUHFsVnphREhTVEt2MDZhU3IxYl9ueUhGZmQ5T3lZNEpUMERZeFM?oc=5",
+   "key": "thesecompaniesareusingtrumpstariffrefundsforexecutivebonuses",
+   "title": "These Companies Are Using Trump\u2019s Tariff Refunds for Executive Bonuses - ProPublica",
+   "source": "ProPublica",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "surpriseyoureneverseeingadollarfromtrumpstariffrefundsthenew",
+   "title": "Surprise! You\u2019re Never Seeing a Dollar From Trump\u2019s Tariff Refunds - The New Republic",
+   "source": "The New Republic",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEtDcmhBNklxeHhZWF9CNWVtYnpRWkxlZVRhMkUwblF4NDQxbHNQUU1pSVhpQkNMc0VScjJJb1NlbngxUmRrS1NsSV82ZWQtLW5MQXFwOXdCTE5vb05jQ3ZRMmFRTTZ6dE5TWFNacjJqUWhkWXdtRTk1RlF1c19qd09zYTdsTjZDNGREbG4tbFNZQWVEWEE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,6 +89,18 @@
    "pts": 22
   },
   {
+   "key": "ustoysellerspintariffhopesonthirdtrumpximeetingthisyearnikke",
+   "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year - Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVYwVDg5MXZXMnJqM2dieklWMm82aEdtZnJjVDFhZEtOMktkUzgydnEzT2lOOU1VX0R5ajd0Z25jQzhPRFJMT1FmZUNwNkJMVWxRcERrQ05SSEVMOUcxV1gxeEo2U295ZjNuMEd0VUpoTGowOWY4TE80RS1KbGNIYjFUYjZMZ19CbXpSYmE5bVo2SmVWWHROa2JxUHFsVnphREhTVEt2MDZhU3IxYl9ueUhGZmQ5T3lZNEpUMERZeFM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
    "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - AP News",
    "source": "AP News",
@@ -65,22 +113,10 @@
    "pts": 22
   },
   {
-   "key": "surpriseyoureneverseeingadollarfromtrumpstariffrefundsyahoof",
-   "title": "Surprise! You\u2019re Never Seeing a Dollar From Trump\u2019s Tariff Refunds - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hSZ3d0NlZneHMyakVyLXpmVk1jc3E3WS1tNEFOVHpDQ3U4WWlGeVpPWGJNUXNyOWlQQzktV0N6RTU1VVFSeFlteWhSRUtYMkt1cFk5Z1pCa3dmZXB1aGdoUUZRSTAzSThjREdfWGNlRUkzMXlXU3d4NVpqdTU0aXl2RUd2M3NGdFVSakxBOWVCOGxnU2hGS2dzSmxLQnlf?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffscastshadowoverapectalksfreemalaysiatoday",
-   "title": "Trump\u2019s tariffs cast shadow over Apec talks - Free Malaysia Today",
-   "source": "Free Malaysia Today",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3huejdHaWh0ejF0NjdWZmU0TnlnWXM2MEdnVjl6ZW1wRVZ3Ul8xWXRVanJwUXhMUXFZVVl6bHgySXNxRUtaX20zN1VrVkNFRU1JRUZnRnFlUFFtOVJLWml1a0xEeko4cVY5VHBhNGxJNzlZeG8zcEZMTXMtSGlKVGp2b0dLdnVPclBlQnZ3V1Nldl9oaG01eXZrd0Z4SVJiRV9XRHR3?oc=5",
+   "key": "trumpstariffscastshadowoverapectalksthestraitstimes",
+   "title": "Trump\u2019s tariffs cast shadow over APEC talks - The Straits Times",
+   "source": "The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazVKcWhyQWZrODBEeUktaFdWdTVvZG1WTzBiU285LTcxQVdUeUdqdkNMNjJwaE8xU0gwT1B5bXlNR2pSUkRoZ0dNV0haSFIxbHRHd1ptVkFobzBScWRpdkQ5LU5ndjNXWUVITkhrUmo2bzhPSDlCbnN1Rng1dzBFUFhScHY5MUxBZ1VyeExRSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,48 +149,24 @@
    "pts": 22
   },
   {
-   "key": "ptvptvnewsnowbrazilianpresidentluladasilvadefendsmultilatera",
-   "title": "PTV. . #PTVNewsNow | Brazilian President Lula da Silva defends multilateralism amid rising U.S. tariffs and Trump\u2019s political retaliation - Facebook",
-   "source": "Facebook",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMXd3bW5URVlicVhRbDZ2UWN1UzQ0TmJFQlN6N2NkQWJmSjRER0k0RS1sV0t6OG5sUzRqZFBzRzlMekFLVWQxZWZJUmFuX0ctQ2JBeGhqUmNpVlhPVm1RZlJvcG52S2wwb0RnMlN2dXJ4Q0xpS0xQYTFJcnF4eXZRaGduUGxTTHdoSGl2bllOT0dGa2Y3UXRsbE9IZEJFbG55UU1jb0RkNlA5VGF5Mmh6LXBhOXZUbC1sMXNIbVFodXBEX1ZMWmlPUDd1UTVVUTRkN3c?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "apecshowdownputschinastradeambitionsagainsttrumpstariffsinte",
-   "title": "APEC showdown puts China's trade ambitions against Trump's tariffs - IntelliNews",
-   "source": "IntelliNews",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEF2LTRSSTNOLVRyZzd1dmlSNmRuclMwOFhNaHl5Q01SWWJrZHZ3ZUQ0MldzWkozMWtSNDRYV3RLZGpBejNKck9EQmRuZDRBYnBoQndrckItdFRkQm9FUmVSenI2ajFPTVBONDEteWJ0SC1qU2ZxTExva0c5d3ZFZHNiOURVQVRLcUNSUmpteDhBSGZZcGgxYVBUQjdFVy1vNDdHRA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "aseantoremainsupplychainpriorityforusfirmsevenastrumpstariff",
-   "title": "ASEAN to remain supply chain priority for US firms even as Trump\u2019s tariffs face pushback - The Straits Times",
-   "source": "The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm9yNG5hVzBUSlFSYi1UbjhWQ3FHMmdZSkk5S0ZYX1hrY2ZQN3BwQ1U3Z1JweUVxb3NVMFZnN0lydVdxbkZsZEc0SEkzcy1mVGZmVU5XRWphSlJ1aUtGVGlMVkJIZzNvVHBIZndyVVhESHEwVjNHOEJkbzg3X2hZUTBnbElSQktaQ1NyUmlqRW5tOFVUNHRMVW4tUjJUQzMzQnZhVDhzQVJMZGJpbGVMbDJUdDJRanZXYzV2VjlBYjhHbnFtQzU4MjdjRldRUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "donaldtrumpsexecutiveordercouldletcaliforniasoffshoreoilfirm",
    "title": "Donald Trump's executive order could let California's offshore oil firms abandon drills on seabed - New York Post",
    "source": "New York Post",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbE9sdDd1Rmp5Vmg0QllaZVZnbnZxbEhQS28xWmJDTElZLUxZek9EMFRGd25YSEpwQS1LTjhMRTFKWHhzZFpWUEg2ejZFbWJZcWdVWmdhRTgzX214QXhuWkFKdGgtdGdiWHktVDcydmVYZVR6WjFzVHJtN0lYUnFtOWJqSTFfeHA3dlc4WlZZdzA1eE5STl9nT0ZDakRTd1hXTXZqMjZGMEkxcGFvUjZDeVE4MTZTX0tqY216U2gwWC14QmhqRWhVMXNYSC1yNVE?oc=5",
    "themes": [
     "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumppostsaigeneratedslopvideoaftercbsairsiranwarreportyahoo",
+   "title": "Trump Posts AI-Generated Slop Video After CBS Airs Iran War Report - Yahoo",
+   "source": "Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTk4V1ZUckx0TjIwSms2MDdSV0ZVd1ZqMDF6S09MTG1PNGZyUGpYY2hoY0h5RlJMeTRvbFZpZk5lNWRTSkNNanM4UWpXeW1pRTFPc2RSQm9IbmtfM2hZMDNEQXBfemY5R0wwaFJ5NE5xUjJjbG1xVWxqcDgzVXlVZDlnbTRneUVtUWcwY0hGdV9fdzg?oc=5",
+   "themes": [
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -185,12 +197,24 @@
    "pts": 22
   },
   {
-   "key": "trumpadministrationdiscussestakingstakeinvenezuelaoilenergyn",
-   "title": "Trump Administration Discusses Taking Stake in Venezuela Oil - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2xRdFJUaDZpcGpQUm9qSUZyN1h5cmFnd0dlLVktOFVqanRsQ0UxSzI4MEl1YWRzLXVyUk04bWYtZk1HMUsyRmxzdV9HQW9nQVFhZUk0bFdRa3p2MVFtM3A0LU5MdUs2eHVTc3dPeEQ1YU5NR0V6Q2Q5VUREelVmdHhFel8yRUFVZmFEZk5VWWNUdzUxYnBwYkxFOFQwZ2NXQmVGZEdWZw?oc=5",
+   "key": "trumpannouncestemporarypauseofbeefimporttariffsinefforttolow",
+   "title": "Trump announces temporary pause of beef import tariffs in effort to lower prices ahead of midterms - ABC30 Fresno",
+   "source": "ABC30 Fresno",
+   "link": "https://news.google.com/rss/articles/CBMi4AhBVV95cUxPY05VdGJ0a2ZxckpnRS1wNEk4RnJ1bndPVmtXT0tyRGRUcTBwaFZlN0F2MnFJSVZoZmppbkxGUk5jTHBHM0FHTHdkTGFRc0NvYTZGb2t2SVBqd0JSQ1NDS09ma2ducUpINVRWOFVBbmNsTjhBRVdMdnNubUt6VnRoVGl5bEdEVWhhQ3BaWVpzNkliZ2dnT2NPc0EwMEF5cGk3RTBoVXdxNnQ1NE5PT0pISm9ZMXJWUE41eS1OZGQ1XzhtSmZQbjVBanlkWnZOa3ExbzFmbmpBNGNXdXdVSWE0U28tQ3pZc2NyMF9FZDJrbjRPOGRQRzA0c3VfSERlYXZZZUpTQlZ1Z0gydVBMN1J1TWNqZUlNdzNhN2Q2eWdMYjFuZnA4ai1pY0ExMkZmX0h1UjBpaVBkYlczTFdOYW5BOUN1TmY4am1SQV93alBsUy1SZ2xXeUFpNGEzOEpJQ1VTLXlkQTZKZHJWN3hMTk0tV0xpM2s2X1BOVFpyaFRWb2ZxZkE0WkdPVy1EN09yVnNsRmdyemhhSURMdGM2TzdIQkxhM3Rac0MtWUg3M2hTcmc4VjhRVHAzM2N0VGZONGdUek1zamoteHRuWlBqN1NMVWxKdWJac0F1Wklua1BPMUplcTFkZC1LaThmWnVEdEJsdElTT1JRb0RKZzgxaHBmZks5bDFaOG84ODk5TWlFdGJ5dmNsVHhHQ28wSjBTWk9UNjlYZlhQQ1lyanN6eGJLSkN4S3I0dGR5ODlXdFZhUXMwS2VXQVVfMmdjUnNDbFNYWmp2UzM2UUs1bFByRnZqYmRwV1FQbHE2Vk4wTXRfaHpnR1I4a1hFUGdLbkpIU1VhTDNrMDh2c25UT1o4clh3Vm15bjhKbUhGOEVCRWNMbVRkN180RVNoa1FhZERCdk5pQk1WWWNvNkNpbkJRS0FlSUhPOFpHdE1zejFVQjVNMWhqSlJIVU9hSmNHNktNdWZSZVVPODBGU0YwSkV3S2dWY29yVXZzT2wxX3pWRWdTaG5na3pueDkzUHYzTnpSNmlVU2VGbWpHZjBOUml5NDdZQnJCZXBNQmRzVE1WNUhZaElUUldXWDRyanROdzJKejNIaERSNWxKNlJDYk85NkhRSXFFMG5sWFZHRnVaNzRIcTRyZFhIdTl2VkxjZEtYTUxhckJmZ0FQSHNTNjcza1ZMWkJBdzJTV0dFX1UxMXhhSkF6aUdwMHEyZ3RRcUp3UEFBNDdBck5JSExMUERlMlZ2NUhjendJSXM3Nzc5T2JFNFhpVUMyOFE3MklKZnZaVTdoN0VlODBNeG1SMDFWVUpfakFrVWtDT3d3bjZjb1RXMmozNFBOWGhZYkJfaDRXQ3c2eWx3dHR0d1p2NnlLdGtXMktqRTBMeVNmWVdtVXlmUjRWeEVTTDdVekdaZEdzSmFnLWJySndMYVVXazVzN0hfVDN2VUdaM21wRzliZUFQTllXUVlJakxIRkFXSVZueEZs?oc=5",
    "themes": [
-    "energy"
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "ustightensaichipexportcontrolsbeforetrumpschinatripmezhanet",
+   "title": "US tightens AI chip export controls before Trump\u2019s China trip - Mezha.net",
+   "source": "Mezha.net",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aOVROQ0twUlRlcWR2UldhOVhHaFlxZzZQdmhOX3JZR19oVExvekZhemJCS2ZjNF9KQ2ZOOU5DTk45MWFVbHQtVlVZNjNXcTV4dGU5YnRfWV8weGhKVmgtdVhUUjdkWmpUMVdfekFKWkZVWndXc2taRWdCdDBjZw?oc=5",
+   "themes": [
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -219,52 +243,28 @@
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiafreemalaysiat",
-   "title": "US to curb China\u2019s access to AI chips as Trump heads to Asia - Free Malaysia Today",
-   "source": "Free Malaysia Today",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnhGNmxHaU1vTGd4U1lybTF6VU15QXg3SnVJMDh4dFppdXg4NElybXJfMkI4ek5CZlFkWG95MDI4c3JrQzJQbFlGanROb2VmWHh1VFQ4cVpCa1V0ay1wUzlCaXk5Z0tOUGdsRng1ZjVLdU5TNzRPXy04SlY0UEtwSnZiSy0tYUJjVlpuWjZmVWpxanZnMEZfemdxczQwd2NfOFFfaDd3Z1RGS0Jfa0swXzhvN2NYV1p0NFlMcQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "usfdarejectssummitschinaoriginatedlungcancerdrugbloomberg",
-   "title": "US FDA Rejects Summit\u2019s China-Originated Lung Cancer Drug - Bloomberg",
-   "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 65
+   "score": 38
   },
   {
    "sym": "ITA",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 57
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 58
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
   },
   {
    "sym": "XOM",
@@ -273,68 +273,53 @@
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 58
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 733 min old)",
+   "why": "stale quote / market closed (last price 789 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 733 min old)",
+   "why": "stale quote / market closed (last price 789 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.0x normal)",
    "score": 37
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "why": "volume not confirmed (1.5x normal)",
+   "score": 45
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.1x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 36
   },
   {
    "sym": "PFE",
    "why": "volume not confirmed (0.2x normal)",
    "score": 51
-  },
-  {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 44
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 65
   }
  ],
  "paper": {
@@ -348,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 04:22 AM AEDT",
+  "last_scan": "Tue 17 Nov 2026 05:18 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
