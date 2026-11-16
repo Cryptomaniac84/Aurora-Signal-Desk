@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 03:11 AM AEDT",
- "fx_audusd": 0.6754,
+ "generated": "Tue 17 Nov 2026 04:22 AM AEDT",
+ "fx_audusd": 0.6753,
  "signals": [],
  "events": [
-  {
-   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiareuters",
-   "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "doespresidenttrumpneedanofframponlambtariffssheepcentral",
    "title": "Does President Trump need an \u2018off ramp\u2019 on lamb tariffs? - Sheep Central",
@@ -69,6 +57,18 @@
    "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - AP News",
    "source": "AP News",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "surpriseyoureneverseeingadollarfromtrumpstariffrefundsyahoof",
+   "title": "Surprise! You\u2019re Never Seeing a Dollar From Trump\u2019s Tariff Refunds - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hSZ3d0NlZneHMyakVyLXpmVk1jc3E3WS1tNEFOVHpDQ3U4WWlGeVpPWGJNUXNyOWlQQzktV0N6RTU1VVFSeFlteWhSRUtYMkt1cFk5Z1pCa3dmZXB1aGdoUUZRSTAzSThjREdfWGNlRUkzMXlXU3d4NVpqdTU0aXl2RUd2M3NGdFVSakxBOWVCOGxnU2hGS2dzSmxLQnlf?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,6 +137,18 @@
    "pts": 22
   },
   {
+   "key": "aseantoremainsupplychainpriorityforusfirmsevenastrumpstariff",
+   "title": "ASEAN to remain supply chain priority for US firms even as Trump\u2019s tariffs face pushback - The Straits Times",
+   "source": "The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm9yNG5hVzBUSlFSYi1UbjhWQ3FHMmdZSkk5S0ZYX1hrY2ZQN3BwQ1U3Z1JweUVxb3NVMFZnN0lydVdxbkZsZEc0SEkzcy1mVGZmVU5XRWphSlJ1aUtGVGlMVkJIZzNvVHBIZndyVVhESHEwVjNHOEJkbzg3X2hZUTBnbElSQktaQ1NyUmlqRW5tOFVUNHRMVW4tUjJUQzMzQnZhVDhzQVJMZGJpbGVMbDJUdDJRanZXYzV2VjlBYjhHbnFtQzU4MjdjRldRUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "donaldtrumpsexecutiveordercouldletcaliforniasoffshoreoilfirm",
    "title": "Donald Trump's executive order could let California's offshore oil firms abandon drills on seabed - New York Post",
    "source": "New York Post",
@@ -149,12 +161,12 @@
    "pts": 22
   },
   {
-   "key": "trumpslatestpostcauseduneasetheimageofsoldiersheightenedfear",
-   "title": "Trump's latest post caused unease! The image of soldiers heightened fears of war. - Haberler.com",
-   "source": "Haberler.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY21SbDdldFFZV2lXdHJGOFhFdm1lNmRYaDBzbVhaRTVpTmNQQkFwNGxIUnlUSHRHeDhUQVdvVzExbnZUcHQ2cFdydS1VVy1DNjV6SzVMbl9ReHZiVEsybUNueTY5RzBHcmJicWQ5VkFvcHVUMmJhV01hNWNleTBTc0ZEZVY0QQ?oc=5",
+   "key": "trumpsayshedidnotjumpthegunonsouthkoreaalaskalnginvestmentan",
+   "title": "Trump Says He Did not \u2018Jump the Gun\u2019 on South Korea Alaska LNG Investment Announcement - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIa2xUQ0p6Vk9VVVpESWc1OHU4WjhJWV96LVhreUNVbTk0azBub2RhLTdYQ0cwdWYzUXZfUjUwNzdnY2g5Xy13T3lrWjcwcG1tWWIwZks5dXpfMHN3cnZsUDFNNjJ4ZDNzSzhnNGFlc25XblZFTjlsU0NSWFBFbU84ZFdsNUZxLXdVMGZKemd3aHN6N29ncVFRMDdCN2xPbE81ejlOWVlVOHpieHQzbGRRa0g4QQ?oc=5",
    "themes": [
-    "geopolitics"
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -173,24 +185,24 @@
    "pts": 22
   },
   {
-   "key": "trumpadministrationtoannounceainationalchampionssoonincludin",
-   "title": "Trump administration to announce AI national champions soon, including Nvidia and more than 20 others - \ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkdXWVFBQVYzWGJvZXRYa1NHby1IWkl5cW9ORXRPSlVZMF9YZ2dlaGpGakthTGpMYTFOa25ZSDBBbDhpWmhIbGd3VnMzRGdEcVM0UTFLQy1wVU5EMkJBMG5SYkZPQzV3WkxYVkIyTkZoOURlRjVULU5PMHlBeG4xdzlfemRRbXNEVlBSQXVTeFZaVm43MXE3bzFDcFR2cWJ3OWVjVVZQVVJlZ0JyRXJBZkVBR0lZd2ZmRUNxUWFmUGpKcXllOE1hbVJVVkt6Ym5oOGFkTFNRekNFQjM1dmFj?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpadministrationdiscussestakingstakeinvenezuelaoilenergyn",
    "title": "Trump Administration Discusses Taking Stake in Venezuela Oil - EnergyNow",
    "source": "EnergyNow",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2xRdFJUaDZpcGpQUm9qSUZyN1h5cmFnd0dlLVktOFVqanRsQ0UxSzI4MEl1YWRzLXVyUk04bWYtZk1HMUsyRmxzdV9HQW9nQVFhZUk0bFdRa3p2MVFtM3A0LU5MdUs2eHVTc3dPeEQ1YU5NR0V6Q2Q5VUREelVmdHhFel8yRUFVZmFEZk5VWWNUdzUxYnBwYkxFOFQwZ2NXQmVGZEdWZw?oc=5",
    "themes": [
     "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumponchipcontrolsandchinatwodifferentviewsandillmakeadecis",
+   "title": "Trump on chip controls and China: \u201cTwo different views,\u201d and \u201cI\u2019ll make a decision,\u201d as Bessent and Lutnick clash over Megaspeed - Plataforma Media",
+   "source": "Plataforma Media",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTRNUWMtTzkyQllBelJWNUVDOGZXcW01emVmNHhlT0h2NHN0b1JCVUZBX1NVR2NPc0NQcEdCVHdNZkpBczZteThZWkk4dVJEbWh2bUxMZ3FRSkNYVnl6bDNEeXdKdHI4ZEpxUUJfd242Z0toc2U0bE43VS1LblFCNllHX2tvbFFyRktDam51NGVuZDR5bFBwZ1E4aWxPT3ppTml4ZHl1a2hHemJXQl9kNXlLa05adXZVLXJwXy13?oc=5",
+   "themes": [
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -221,19 +233,6 @@
    "pts": 22
   },
   {
-   "key": "commentarywartornpresentcloudssaudiarabiaspostoilfuturereute",
-   "title": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek1oaDQwcHhPSlhNTmNsZDhJc1dSQ1BwODVvWDBsdlhpUUxfVUJnUUdlQnNmTUFtYWlhblk4N1c1YWJFdEVqNmIzYjZSWTFsSjRXc1FhRzRIME90alJDb2pMeHlzbjVjWWdYb2FUbGIza3NkWmhLOFE4WHhOeXdhaHh6NjhtS0pENGtzc1RUMmVIZ0t2cnJ2WHA1alNwMzgzWEVZR3RnU0ZJMFVxcWNOWUdwOFRlRXhhQllPZmd6MA?oc=5",
-   "themes": [
-    "energy",
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "usfdarejectssummitschinaoriginatedlungcancerdrugbloomberg",
    "title": "US FDA Rejects Summit\u2019s China-Originated Lung Cancer Drug - Bloomberg",
    "source": "Bloomberg",
@@ -248,94 +247,94 @@
  ],
  "rejected": [
   {
-   "sym": "NVDA",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 72
-  },
-  {
-   "sym": "AMD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
-  },
-  {
-   "sym": "SOXX",
-   "why": "reward/risk after costs only 0.87",
-   "score": 100
-  },
-  {
-   "sym": "TSM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 62
-  },
-  {
    "sym": "GLD",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 65
   },
   {
    "sym": "ITA",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
+  },
+  {
+   "sym": "XLE",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 58
+  },
+  {
+   "sym": "FXI",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 41
+  },
+  {
+   "sym": "XOM",
    "why": "volume not confirmed (0.1x normal)",
    "score": 38
   },
   {
-   "sym": "XLE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 65
-  },
-  {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
-  },
-  {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 74
-  },
-  {
    "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 58
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 662 min old)",
+   "why": "stale quote / market closed (last price 733 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 662 min old)",
+   "why": "stale quote / market closed (last price 733 min old)",
    "score": 57
   },
   {
-   "sym": "XBI",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 55
+   "sym": "NVDA",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
   },
   {
-   "sym": "LLY",
+   "sym": "AMD",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "score": 38
   },
   {
-   "sym": "PFE",
+   "sym": "SOXX",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
+  },
+  {
+   "sym": "TSM",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
+  },
+  {
+   "sym": "XBI",
    "why": "volume not confirmed (0.3x normal)",
    "score": 37
   },
   {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
+   "sym": "LLY",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 36
   },
   {
-   "sym": "RTX",
+   "sym": "PFE",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 28
+   "score": 51
+  },
+  {
+   "sym": "LMT",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 44
+  },
+  {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 44
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 65
   }
  ],
  "paper": {
@@ -349,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 03:11 AM AEDT",
+  "last_scan": "Tue 17 Nov 2026 04:22 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
