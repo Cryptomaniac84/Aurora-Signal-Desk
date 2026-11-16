@@ -1,14 +1,14 @@
 {
  "mode": "LIVE",
- "generated": "Mon 16 Nov 2026 10:43 PM AEDT",
- "fx_audusd": 0.6758,
+ "generated": "Tue 17 Nov 2026 01:09 AM AEDT",
+ "fx_audusd": 0.6754,
  "signals": [],
  "events": [
   {
-   "key": "doespresidenttrumpneedanofframponlambtariffssheepcentral",
-   "title": "Does President Trump need an \u2018off ramp\u2019 on lamb tariffs? - Sheep Central",
-   "source": "Sheep Central",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM3VkR09uSXpXWnFOR0tuWUhCSE1Rb3lCQ0F1RjZ3TWtBYW1ULWJtd2FDWlJlTUJ0VUpSbllqY1JXaWlBZzg1WlJXcUtKakc3R0dzam9aUGNnaGtucXdidVlvLVZWNGx3X1I5MV9XZEtSUmhrNzdsdkxfbkEydWs3VTNZOXJRRVlEdmFr?oc=5",
+   "key": "democratstargettrumpstariffscantheyagreeonwhatsnextthechrist",
+   "title": "Democrats target Trump\u2019s tariffs. Can they agree on what\u2019s next? - The Christian Science Monitor",
+   "source": "The Christian Science Monitor",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VYUklFWlJPYklZMWJhZ0x5R29ZRmhPSmV2Sm9GbkY4cjhmTy02ZGpNbS1VY2xtUTBwaXgzbnFWUTBZakNWX291cGtuQU8wM1lDYk03Nl9jMnZxLVpIZV9CNkU3ZkFDazlpMTI5UElZX0Z0d2RHTWJSRjE5QmxHRFZURlJBUzBOWWVXSA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -17,10 +17,10 @@
    "pts": 22
   },
   {
-   "key": "democratstargettrumpstariffscantheyagreeonwhatsnextthechrist",
-   "title": "Democrats target Trump\u2019s tariffs. Can they agree on what\u2019s next? - The Christian Science Monitor",
-   "source": "The Christian Science Monitor",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VYUklFWlJPYklZMWJhZ0x5R29ZRmhPSmV2Sm9GbkY4cjhmTy02ZGpNbS1VY2xtUTBwaXgzbnFWUTBZakNWX291cGtuQU8wM1lDYk03Nl9jMnZxLVpIZV9CNkU3ZkFDazlpMTI5UElZX0Z0d2RHTWJSRjE5QmxHRFZURlJBUzBOWWVXSA?oc=5",
+   "key": "ustoysellerspintariffhopesonthirdtrumpximeetingthisyearnikke",
+   "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year - Nikkei Asia",
+   "source": "Nikkei Asia",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVYwVDg5MXZXMnJqM2dieklWMm82aEdtZnJjVDFhZEtOMktkUzgydnEzT2lOOU1VX0R5ajd0Z25jQzhPRFJMT1FmZUNwNkJMVWxRcERrQ05SSEVMOUcxV1gxeEo2U295ZjNuMEd0VUpoTGowOWY4TE80RS1KbGNIYjFUYjZMZ19CbXpSYmE5bVo2SmVWWHROa2JxUHFsVnphREhTVEt2MDZhU3IxYl9ueUhGZmQ5T3lZNEpUMERZeFM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,34 +53,22 @@
    "pts": 22
   },
   {
+   "key": "ptvptvnewsnowbrazilianpresidentluladasilvadefendsmultilatera",
+   "title": "PTV. . #PTVNewsNow | Brazilian President Lula da Silva defends multilateralism amid rising U.S. tariffs and Trump\u2019s political retaliation - Facebook",
+   "source": "Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMXd3bW5URVlicVhRbDZ2UWN1UzQ0TmJFQlN6N2NkQWJmSjRER0k0RS1sV0t6OG5sUzRqZFBzRzlMekFLVWQxZWZJUmFuX0ctQ2JBeGhqUmNpVlhPVm1RZlJvcG52S2wwb0RnMlN2dXJ4Q0xpS0xQYTFJcnF4eXZRaGduUGxTTHdoSGl2bllOT0dGa2Y3UXRsbE9IZEJFbG55UU1jb0RkNlA5VGF5Mmh6LXBhOXZUbC1sMXNIbVFodXBEX1ZMWmlPUDd1UTVVUTRkN3c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "chinaaseantout1trilliontradetiesastrumptariffsloomovermanila",
    "title": "China, ASEAN Tout $1 Trillion Trade Ties as Trump Tariffs Loom Over Manila Summit - BigGo Finance",
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQSFBDR1ZOOXB1amhVV2Z3RG1SQjVXNWJNQjNvSmxQZVpLcFd3cmR4cVdya1dldEhlUVVBM2JBSUxPNV9qd1lPTW9zNVIya0F3ajJnZTY2VGJLdmpaR0pRekRuM2JBTFpnQy1oeGNTYVZrNUpZVVE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "watchthefutureoftrumpsautomotivetariffsafterthemidtermssuppl",
-   "title": "Watch: The Future of Trump's Automotive Tariffs After the Midterms - SupplyChainBrain",
-   "source": "SupplyChainBrain",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTEyTlhpazFJcURBc1pUSU9TVzlUV2FiQ1BwUERoNzV4d0NaT2JING5DZTBjMjQ1S25lZDF5QU1xWHNuVHo3U0lLaDBRamZMOUI3MmFIY1lBMlBudkZpQ2dsU1lQSlVEMmlpb05FQ0o0TUZrSE52ckc3eW5TRzlsdzN2U1c0dzVLdkV2RUpza0lhamZPVGN4bmsyOHAtVUxKRmFCalF2LUZfXzFnSEZ0STFaVzVlaVFiTTdsRDBGWWs0cjBwbkFGQWU1a240QQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "apecshowdownputschinastradeambitionsagainsttrumpstariffsinte",
-   "title": "APEC showdown puts China's trade ambitions against Trump's tariffs - IntelliNews",
-   "source": "IntelliNews",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaThWbHZfZVVXWVRldW0xdjhTel9TMzctbktRQ3FCdjNQeUJHWURMUF9fSzc3aXJQUkxIdW1CSjAxNmd3NkdQYXZxSWpVX2dKMnU4X0lxcWs1b1lQekZacUFPM1N4SmlxTnpIVG5Pb1ZKLU43MVdnTnFjMEFrWTRNcjBQb3dueDlXbVBqcmtPNXBKek4zSmp3eFc4bWNpeENiY2Q2dTZIcERzT1p4cGVOMkYycHk3aFk?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,46 +89,22 @@
    "pts": 22
   },
   {
+   "key": "philippinestoasktrumptocuttariffsonexportsmanilastandard",
+   "title": "Philippines to ask Trump to cut tariffs on exports - Manila Standard",
+   "source": "Manila Standard",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlNzZmphcWNScnllQzZ5bTRjOVZrWkYtUkdnM2pINEpHLXdDZUJBTmU4UzYzNGYtd1JxX2VDYnZ5RVA0alU0T2ppajJ3QjhlQnF2WE9kODV3TE9lcUF5amVBcnlQYk5SSy1jOWs2dXotU0hVN05INzB6dEVnTlQwS1pWTmNZV0EtNjVBSkJRT014cGtBOFgzWmdYRHlGa2paUFZZ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumptariffscongresschronicleonlinecom",
    "title": "Trump Tariffs Congress - chronicleonline.com",
    "source": "chronicleonline.com",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEczaUxFMGQzTExzNUtuRGs4SDgyZ29BRGw1bU42Q3NONjg4T25zU2NlaTM4Q3M5U3N5QTBhbG1sX09WOEgxMEJJTlN5cmwwY2RhYzl0U21NX3R5YXRqMTc0Y1I4THZSd0tkMHRiSlpuZlIwaFZMRlU5UGt6bkxscGFacXhkb1NsY2RTMHBOa1gwZktXcm5aaXkyNldLRTF3RlMtbndyU3BSMHpXMHhSN1JvNW82NGs?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "aseantoremainsupplychainpriorityforusfirmsevenastrumpstariff",
-   "title": "ASEAN to remain supply chain priority for US firms even as Trump\u2019s tariffs face pushback - The Straits Times",
-   "source": "The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm9yNG5hVzBUSlFSYi1UbjhWQ3FHMmdZSkk5S0ZYX1hrY2ZQN3BwQ1U3Z1JweUVxb3NVMFZnN0lydVdxbkZsZEc0SEkzcy1mVGZmVU5XRWphSlJ1aUtGVGlMVkJIZzNvVHBIZndyVVhESHEwVjNHOEJkbzg3X2hZUTBnbElSQktaQ1NyUmlqRW5tOFVUNHRMVW4tUjJUQzMzQnZhVDhzQVJMZGJpbGVMbDJUdDJRanZXYzV2VjlBYjhHbnFtQzU4MjdjRldRUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstradetariffstakecenterstageataseansummitasleadersseekn",
-   "title": "Trump\u2019s trade tariffs take center stage at ASEAN summit as leaders seek new markets - Philippine Canadian Inquirer",
-   "source": "Philippine Canadian Inquirer",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOHNjZmtUMTBUWjhsMWV1c3NhQW01VTN3aHF3bmlGVTQ3ckMySmQ1NEdFN2VOcFZaanZfLWdjV1VQRl9TNDQyUWNqZDcyREpqY1I2eWQ0MW9JZTRBNjZ0enFzcndVUjZQeklkRGpmVlc1dFBKeTloMmJMVVlyM2dCR2g5RExHY1NjUEJUOFdoSUpOQUNMODFDcnVKV0RBX2hwSmt1WDFSTzhVeWtvX29tcHQ1dGlDazRleDBnNzh4WlQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumptariffstotopagendawhendemocratstakecontrolstricklandaju",
-   "title": "Trump tariffs to top agenda when Democrats take control: Strickland - Aju Press",
-   "source": "Aju Press",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84QUlrVUptWnpCQkpnQ3BLZ3lWeXZWbkhCVjJUanZQTW5xM2hHZjc0WU5wU2dwbC15VzBWWUYwUHFLVl9ZV0V6cVRpU2lsUDJVbW1fX0U4QUJxekU?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -186,9 +150,9 @@
   },
   {
    "key": "scandalhitnvidiaamongtrumpsplannedainationalchampionsreports",
-   "title": "Scandal-Hit Nvidia Among Trump's Planned AI \u2018National Champions,\u2019 Report Says - Yahoo! Finance Canada",
-   "source": "Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2d1Si1QNUN6VHB2OVRVWjBMZHFia0VWSldVLWdCQmQzbWpDaVBhcHVMSndrNGd4RVNUMEtmeXk2YndFLXRZVG01MXh1M3ZNZjFGSlZnT3VxOFJzRXdxUGJ3OGJWc0RNNWtaeGpTODk0TmkwaW9OeGJtUTFQa3c4WVpCY0dZdnM?oc=5",
+   "title": "Scandal-Hit Nvidia Among Trump's Planned AI \u2018National Champions,\u2019 Report Says - Forbes Middle East",
+   "source": "Forbes Middle East",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEFwRDZiSWF0a1ZtVm9TQ2ZXSU1JaHdiMkllVGV4ZlhKamVoT0cyVFlrNXo3VF9NWnB0NHh3V3o0RVV0M19rNWY5NGdkYi1uNFhScmFIeGZZSDl4TERfTjBIQzZiSC1zZDBZTzVES0tiak95N0s3Y2w3UWx1U1JZajJqTDltdERlUTljd3pxOWMya1k0UFdWYU1wbDFxNHN6Y1BGWjdjdVd2Uk1DY1QyOWZuTTFrZUdrNkczUkpfVjFfM1ZpdFVJcDcwN0FQMEhFc1hCZi1HWQ?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -222,10 +186,10 @@
    "pts": 22
   },
   {
-   "key": "commentarytrumpbrokeopechemayregretitboussoenergynowcom",
-   "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVFJONE9NeE5JNGU1V2FSN0JOV0JSTWVDUFJRNjJEZTdSWjlJZWhrM0RvZlJoZ0ZUY3pidU9ZQUsyMTNhLW9yY09ZemN2c2VjNXBiNmlUWGxCbGhhUmY2UWo5cllpVkpyS01EeUtwanpQYlk1dE1vYlc2Zw?oc=5",
+   "key": "trumpadministrationdiscussestakingstakeinvenezuelaoilenergyn",
+   "title": "Trump Administration Discusses Taking Stake in Venezuela Oil - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2xRdFJUaDZpcGpQUm9qSUZyN1h5cmFnd0dlLVktOFVqanRsQ0UxSzI4MEl1YWRzLXVyUk04bWYtZk1HMUsyRmxzdV9HQW9nQVFhZUk0bFdRa3p2MVFtM3A0LU5MdUs2eHVTc3dPeEQ1YU5NR0V6Q2Q5VUREelVmdHhFel8yRUFVZmFEZk5VWWNUdzUxYnBwYkxFOFQwZ2NXQmVGZEdWZw?oc=5",
    "themes": [
     "energy"
    ],
@@ -234,93 +198,159 @@
    "pts": 22
   },
   {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
+   "key": "usfdarejectssummitschinaoriginatedlungcancerdrugbloombergcom",
+   "title": "US FDA Rejects Summit\u2019s China-Originated Lung Cancer Drug - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5",
    "themes": [
-    "energy"
+    "pharma"
    ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "summitsharesdropafterusfdadeclinestoapprovelungcancerdrugreu",
+   "title": "Summit shares drop after US FDA declines to approve lung cancer drug - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnVuV1FiMXVQazFndWxxWWxkdmRuQ2RaSE9LMVRocXA2SVY2Q09mWlFBTXhNSmxQN1U1Qm5sWFpSd0s4UXMtR1BQd2hwWWlOMEtic0ZFbWxSeHVFaFlQaU9UM25XQ25OcmlKS1lFVkprTFNEdXgwQWh4VWpEdjFick96ak9QRnNzNE5nbnFzNjNFR0xGRFktZ2dkQjZsQTFtRWhrcXNRWXVBbFB3dlRHNEtQZzl6ZmUtbGc?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "indiafacesamorepainfulreturntohigherinterestratesbloombergco",
+   "title": "India Faces a More Painful Return to Higher Interest Rates - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0hiVjJXTXBPbzllUFZhcVRzZ3RQX1JfNlllelBnV3BKVHltWmIyS1JKelNpaGFGQUhfQnZqamRDcjhUZnlZT0JKOVJPNEJaWGlNY2FGWUlHRl9lSl9taUptVXpydVp0Y0dWQllEd0g4RGpDWU84b2hycWRUa2J1aDY4ZW9WNnNpZnBoZHN1cDBvTW5uREhNaUpWbk5Pa3NaU1Ryd0VIX1U3OWhISWc?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "suspectedchinaspylinkedtonvidiasexbossleftin2025megaspeedsay",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJV1pWdW9NZ0tRcjE1U21pVTVyUnpvSGVqZ2RqZ2VpSlNER3Q0WGcta0piOEp3NmZURS1DT3BEd0ZPM3p1Q2pBM3B0ZkttNVRLc0hCaGlqSXlwRUU?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 60
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 92
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 77
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 77
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 77
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 393 min old)",
+   "why": "stale quote / market closed (last price 540 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 393 min old)",
+   "why": "stale quote / market closed (last price 540 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 75
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 72
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 87
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 91
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 62
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 55
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3763 min old)",
+   "why": "stale quote / market closed (last price 3910 min old)",
    "score": 90
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 3910 min old)",
+   "score": 82
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 3910 min old)",
+   "score": 80
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 538 min old)",
+   "score": 46
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 3910 min old)",
+   "score": 82
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 3910 min old)",
+   "score": 82
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 3910 min old)",
+   "score": 82
   }
  ],
  "paper": {
@@ -334,7 +364,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 16 Nov 2026 10:43 PM AEDT",
+  "last_scan": "Tue 17 Nov 2026 01:09 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
