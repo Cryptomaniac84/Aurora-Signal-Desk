@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 09:34 AM AEDT",
- "fx_audusd": 0.6739,
+ "generated": "Wed 18 Nov 2026 10:30 AM AEDT",
+ "fx_audusd": 0.6743,
  "signals": [],
  "events": [
   {
@@ -29,18 +29,6 @@
    "pts": 30
   },
   {
-   "key": "carneylookstochinaastrumptariffssqueezecanadascarindustrybbc",
-   "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40OVhmZGxMRFhrSkM5MWotUjh5alE0V3FkLUZOeXFOTmx3cVlUMk44U2c2QkV6Rjg2U3RHeV9qZlpuN0sxRkp6UEZYRDVUb2pWWGEzZkcxby1WNkRFOGc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "trumpmediainvestorslearnthetruthaboutbettingonbitcoinfinanci",
    "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
    "source": "Financial Times",
@@ -51,6 +39,30 @@
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "congresspasseswarpowersresolutionofferingrarerebukeoftrumpab",
+   "title": "Congress passes war powers resolution, offering rare rebuke of Trump - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "washingtoncanstartdeliveringonaffordabilitybyrejectingtrumps",
+   "title": "Washington Can Start Delivering on Affordability by Rejecting Trump\u2019s Tariffs - Tax Foundation",
+   "source": "Tax Foundation",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhRRFhsa2d6d0NORXVyMEloRFU4b3J5al83QnNnXzlBYWcxSmZKWGJLZUlqQnVBWDd5ckR2STZ2WVNrN29YWGxKZFRlNVdVUEpraWFfM1RiU2owZTB3TFhlUjNZQXR0OW1PWkR5NTg3R01pZExLQjFQaFZRM0ZpWUQzVGM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "opinionthebrokenpromisesbehindtrumpstariffswsj",
@@ -186,10 +198,10 @@
    "pts": 20
   },
   {
-   "key": "stlouisfedsmusalemsaysfourmoreratehikesmaybeneededincomingmo",
-   "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zd1ptOVBmWHRWbVFNZWhHUWpUelhIUHltUURraG1kOC1HWkJPNWtkNEdZQlJhTHJ5dGQ1N1dmVk1FZW4zQ29UOU0yU3FqbVpNbVB6dFhXN1FTd2pVRHYtNWp4QlFlVkpEaWtEaUJuME9Fc3dVdE85dUhTSdIBgAFBVV95cUxNYzdaNndIR09janNlbVpSX1Fya2VfVnlYSTU5M3hmTUFkcm1MVzNnMngwZ0lMQmJXb0ZEQXZOci1VS3M2SjRfMUdOcnQ2VlRmQmNaZmhqT0RVSGtGNmZTaS03VW9IRFE3aDctTU9VWG9IQXhFd0J2SHBuelJaV2gtWg?oc=5",
+   "key": "fedchairjeromepowellsayshewillstayoncentralbanksboardafterte",
+   "title": "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTRuNnNUUkdLNnBuVk9RQTBiS25xcTVBVVpjeFpTaDFUWjJuWFl4QjBkUnp0YkozM3ZXUXRfQ1RSTW1kU2h0OXZiU0M2MHJUQWZBdDNnWVU1am1yb1UxRWlpYWlpN1Y5VUFwd1oxUjF0UlFMeEt3SUx4UURpb1ZpYXY1c0lkYThrLUZtVlpUSWnSAZYBQVVfeXFMUEQwcFlXdjlTV3lqejM2WFFIQ25UWlhUM1FQNjIzTGtGV2ZQaElPZ2Izd0gwR2lLZ1pSdTZhWDVXMTg4d0V6RGxZdnZSak9walllOHRDOFlUT2pYSUJrdjc0NFYyekpfdjVIQUpVaDZjRGpJMlVwLXFHdFhnYzN5b2g3cWpZNkl5Ty11U29pbHllLUNLVjdR?oc=5",
    "themes": [
     "rates"
    ],
@@ -198,10 +210,10 @@
    "pts": 20
   },
   {
-   "key": "fedholdsinterestratessteadyasinflationhits3yearhighabcnewsbr",
-   "title": "Fed holds interest rates steady as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+   "key": "stlouisfedsmusalemsaysfourmoreratehikesmaybeneededincomingmo",
+   "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zd1ptOVBmWHRWbVFNZWhHUWpUelhIUHltUURraG1kOC1HWkJPNWtkNEdZQlJhTHJ5dGQ1N1dmVk1FZW4zQ29UOU0yU3FqbVpNbVB6dFhXN1FTd2pVRHYtNWp4QlFlVkpEaWtEaUJuME9Fc3dVdE85dUhTSdIBgAFBVV95cUxNYzdaNndIR09janNlbVpSX1Fya2VfVnlYSTU5M3hmTUFkcm1MVzNnMngwZ0lMQmJXb0ZEQXZOci1VS3M2SjRfMUdOcnQ2VlRmQmNaZmhqT0RVSGtGNmZTaS03VW9IRFE3aDctTU9VWG9IQXhFd0J2SHBuelJaV2gtWg?oc=5",
    "themes": [
     "rates"
    ],
@@ -232,114 +244,102 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "hownewuschiprestrictionsonsoutheastasiawillhitchinabbc",
-   "title": "How new US chip restrictions on South East Asia will hit China - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84d091enloLWRNWnlIWF9OLVhQSVdyMXVwanVsdEZoaHBxMEdvYTI2aG40NDIzQzVrbG1lWnJPb1ZzLTNOenVzaVJLeDVmeXk2WEc0Yk8tNlkxVGFoLUE?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 57
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 66
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 53
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 69
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 65
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1042 min old)",
-   "score": 52
+   "why": "price not above VWAP and 20-bar average",
+   "score": 72
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 58
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 77
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 67
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 94 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 61
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 95 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 82
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 95 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 71
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 95 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 70
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 95 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 57
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 95 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 77
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 95 min old)",
+   "why": "stale quote / market closed (last price 151 min old)",
    "score": 79
   }
  ],
@@ -354,7 +354,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 09:34 AM AEDT",
+  "last_scan": "Wed 18 Nov 2026 10:30 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
