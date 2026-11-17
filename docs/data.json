@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 11:42 AM AEDT",
- "fx_audusd": 0.6741,
+ "generated": "Tue 17 Nov 2026 12:56 PM AEDT",
+ "fx_audusd": 0.6739,
  "signals": [],
  "events": [
   {
@@ -53,18 +53,6 @@
    "pts": 22
   },
   {
-   "key": "thesecompaniesareusingtrumpstariffrefundsforexecutivebonuses",
-   "title": "These Companies Are Using Trump\u2019s Tariff Refunds for Executive Bonuses - ProPublica",
-   "source": "ProPublica",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "congresscouldsoonreinintrumpstariffsoncanadahereswhatthatcou",
    "title": "Congress could soon rein in Trump\u2019s tariffs on Canada. Here\u2019s what that could look like. - Atlantic Council",
    "source": "Atlantic Council",
@@ -77,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
-   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - AP News",
-   "source": "AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
+   "key": "thesecompaniesareusingtrumpstariffrefundsforexecutivebonuses",
+   "title": "These Companies Are Using Trump\u2019s Tariff Refunds for Executive Bonuses - ProPublica",
+   "source": "ProPublica",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,6 +113,18 @@
    "pts": 22
   },
   {
+   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
+   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - AP News",
+   "source": "AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlFhSVZELUZUeUhzNmZtN0tSS0V4QVdwZnpjRUZsQXZLc1N2dENaLTdUSXY4YWdFMmJlXzQ4UENJQndKVVBMel91OS01NVNqSHluSG9hMF9wdHNLWWthU0tDRERMc2EtM2s0ZGZ0VEZhQzBXMnVfaGNaQ3lsUnAyQ2haUEl4U0d2djVRR0JnV0w2TS1vNHIwckNNdzVoZmhrM2pBSWgtRU8?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "ussoybeanfarmerspushtrumptoendchinas10tariffaheadofximeeting",
    "title": "U.S. Soybean Farmers Push Trump to End China's 10% Tariff Ahead of Xi Meeting - AgroLatam",
    "source": "AgroLatam",
@@ -161,24 +161,12 @@
    "pts": 22
   },
   {
-   "key": "ustoysellerspintariffhopesonthirdtrumpximeetingthisyearnikke",
-   "title": "US toy sellers pin tariff hopes on third Trump-Xi meeting this year - Nikkei Asia",
-   "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVYwVDg5MXZXMnJqM2dieklWMm82aEdtZnJjVDFhZEtOMktkUzgydnEzT2lOOU1VX0R5ajd0Z25jQzhPRFJMT1FmZUNwNkJMVWxRcERrQ05SSEVMOUcxV1gxeEo2U295ZjNuMEd0VUpoTGowOWY4TE80RS1KbGNIYjFUYjZMZ19CbXpSYmE5bVo2SmVWWHROa2JxUHFsVnphREhTVEt2MDZhU3IxYl9ueUhGZmQ5T3lZNEpUMERZeFM?oc=5",
+   "key": "ustightensaichipcurbshowtrumpplanstoblockchinasindirectacces",
+   "title": "US tightens AI chip curbs: How Trump plans to block China's indirect access to American technology - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOXpjVFM1WDJWSVBJYUNEYThmRWZwQXl6Q0JFX2FWMlJZZm1qMjlpUjBKcjVMOWY3amhkc0dkdGx4RXRYbl9oSXYxQ0hHQzV5QXlBX1ktd1FZbFNxQU4xMlBVZmVrT3JjQnN2YkktUFh6WkJsV2Y1VC1NQmx1VmtZbHRqN1E4TFlSdE53TVkzY25lNF9HMWxkc1pGZml0Ry1KNE5CQzcyN09YQkJqVDZKV0VkdEl0VFN2ZGpwX3BTWTJwR1gyZmFVQ2E5UDAwLVQtR29BVzNDenNoQnROMXV6UjJxMjZrUExMXzhIeTdpd2VaWFZfcGk4QjM1d9IBgAJBVV95cUxQaUdvWlc3SjdLV2dkanU5UnM0U3lhX1ZXTlNKZ1VnZE1xaEhHUXZkWmZPTDZfVTV0Tk9DUTl6YkVlMGQyVHBjcGh3djJ0NC01YVhqNU8wWDc5QmJ6RVJxNndHZEl2ZzUtRGo4eEhXdWhNN1JGYkpIckFsenBMMkZpU1VYVFNEaHJEM0FUcXVhWlc4MHk5SEtvQldjMkZPUGV1V25FVGFLbDRfX3FxWHBHMGdaZl9jU0ZoTGhtR1AzMW1YRzFsQklsYkUteUtVZW00amVJYlZCcnpDTlpDbW5kNm9NdFBGTUlUUTVYcE1Ecm1VNnlvWl96ZWhzMXpvNjJn?oc=5",
    "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
-   "themes": [
-    "energy"
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -209,18 +197,6 @@
    "pts": 22
   },
   {
-   "key": "trumpsnewchipexportruletargetschinabutexemptstiktoksparentco",
-   "title": "Trump's New Chip Export Rule Targets China but Exempts TikTok's Parent Company - Reason Magazine",
-   "source": "Reason Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnpVMnhfT1pJblV5SlJjVmxSamlrVldLb0NNZUN2RlVLZmRnS3hWT3hrTTNydnF2X3N2TzNSMHFxb2x4ZjRiVGw0cFpiZTVDblVpQmlLVE1ZMng0SThaUHVINTA3aWJXMjUxcllQQXhJV29XUjBzRlI0VUtta0tuQWl6cXRycnlQbHRkTm1abUdIWFlnRXRCaFltWXkyTTVCVjF3UjY3eS1FTzQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "opecofficialsmeettodiscussoilproductioncapacityreviewreuters",
    "title": "OPEC officials meet to discuss oil production capacity review - Reuters",
    "source": "Reuters",
@@ -243,97 +219,122 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "usmovestocurbremoteaccesstonvidiasadvancedaichipsbloombergco",
+   "title": "US Moves to Curb Remote Access to Nvidia\u2019s Advanced AI Chips - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "thedelicatebalanceinamericasaichipwarwithchinafinancialtimes",
+   "title": "The delicate balance in America\u2019s AI chip war with China - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHhFdVFnWVI1cVRKdHE1N295Ymk2dXotUm4yb2RQeFJRSXdDMjZlYU1TbUkzZWlVRHdVVUIwZzR0NzJqMjgwdDhTVE85TjQycGtRVnVVMFZIRWlYMEd3RTRGUDZDTnJaa1RiX2VZOWkteEJBd0NYLUJVZ1hfdmFQYmhUX28?oc=5",
+   "themes": [
+    "semiconductors",
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 51
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 61
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 46
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 62
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 53
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 49
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 223 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 297 min old)",
+   "score": 55
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 223 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 297 min old)",
+   "score": 55
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 75
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 43
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 43
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 54
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 62
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 223 min old)",
+   "why": "stale quote / market closed (last price 297 min old)",
    "score": 62
   }
  ],
@@ -348,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 11:42 AM AEDT",
+  "last_scan": "Tue 17 Nov 2026 12:56 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
