@@ -1,20 +1,188 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 03:41 PM AEDT",
- "fx_audusd": 0.6744,
+ "generated": "Tue 17 Nov 2026 04:40 PM AEDT",
+ "fx_audusd": 0.6747,
  "signals": [],
  "events": [
   {
-   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiareuters",
-   "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+   "key": "supremecourtinvalidatesmostoftrumpstariffsabcnewsbreakingnew",
+   "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
    "themes": [
-    "semiconductors"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "severalcompaniesareusingtrumptariffrefundsforcorporatebonuse",
+   "title": "Several companies are using Trump tariff refunds for corporate bonuses - The Guardian",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "afterthebluetsunamigettingridoftrumpstariffspetersoninstitut",
+   "title": "After the Blue Tsunami: Getting rid of Trump\u2019s tariffs - Peterson Institute for International Economics",
+   "source": "Peterson Institute for International Economics",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffscastshadowoverapectalksthejakartapost",
+   "title": "Trump's tariffs cast shadow over APEC talks - The Jakarta Post",
+   "source": "The Jakarta Post",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzdlRDAweG1YSGM5RGZ6RU84c2dnVWViWXhDaWFDTXRhTmVrV29sdEN4OXRoTV9jbjlITGhMY2s2Sm45VENRWFpJNWlTdHRnZG1SbU50aFlfMmw4ckplZnBNbjlubEctSnl5V2ZuTkRUVk1WM0lCTU1RV1RhR1R3NmNQaDlJcFF0VVRISFlQU1NXNEU2MGs3YS1TSlpUeFU5NGFtR2xJMno0MGxDcjJWanltOFdpM1A3NjBRcTJLWHR3RFNEWEJfUkd1cVlvYUpaU0dxenkzMjE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "congresscouldsoonreinintrumpstariffsoncanadahereswhatthatcou",
+   "title": "Congress could soon rein in Trump\u2019s tariffs on Canada. Here\u2019s what that could look like. - Atlantic Council",
+   "source": "Atlantic Council",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGsxeTZ5RFpTVXJJM0RTMy00eHZneGpYQWRwbjhhWmR3UDFQMzV3dEYtVWM2MUNBMnM1VUdHdk1IMGRaVHZsWkZSX1d6QThrNVhzT29mZktBTGR5YXY2dGlheTJZandFZTc5WG84ZlJPaHV6Qzlrekt1a0dCVjZrQnpRRG9ncHRNY1FNTGd2MHR6azFJbDY2eEJVRUVfdzQtdkJhWGMzSm52dE9aZ0hLajZfQ3NINUM0VU1fR00zclN0TVlyOVV2Tmc1emNFZlhIQzl3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thesecompaniesareusingtrumpstariffrefundsforexecutivebonuses",
+   "title": "These Companies Are Using Trump\u2019s Tariff Refunds for Executive Bonuses - ProPublica",
+   "source": "ProPublica",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
+   "title": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win - Aurora Sentinel",
+   "source": "Aurora Sentinel",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakVVX2NOMndES2dhRFl0SVQ5OTFIWmZBWnlWb2xZY2x1NEpPY3hMc0FTSzV2elk4RVlqRTZZaU4xWlVPVE9xamowbmdBOHg5ZjFreVp0NDBNNHg1cTFQVm5DSmZJcHZSWjVPSmVpd3JJekVHYmZGQWQybEVsUUJLbjhnXzBqSXozcHlQRENfb0FXWnJ1WjVGTFkyeGJHelNrV3ZVdVN3b2NwX09SR3JBV1VzTVp0WlRxWFZtSGpHNEJKZ1NIZnQtM2JwWVZnbFU?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "bipartisanpushpossibletocurbtrumptariffsconstructiondive",
+   "title": "Bipartisan push possible to curb Trump tariffs - Construction Dive",
+   "source": "Construction Dive",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTJobkhYVS1Xb1lWUEFKb3hLdzNyUHRmV0QwcWRZVUZHX2x5LUZLazNOMWNKRkdKT2NiZ3JEU2xvTlZLTzNTTkx4dllQVVJSeDlYamgySUIwSVcxYzhYRlBPWXBSb2MzV29XaXdqOGZNSlBQa01JajVxNGI2Z3hQeVVyMmlhcE9iVjlFNVV2ejNXQlE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "makingglobalisationworktrumpstarifffiascocouldsavefreetradet",
+   "title": "Making Globalisation Work: Trump\u2019s Tariff Fiasco Could Save Free Trade - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10dnZBQlVYcm04eU82aGVaazFPTWtWbktvaENhWVRiTXFGZEplQmRMbEZ1bzI0XzNkc294X0JxUFNYS0Ztb0lfZUpHV3BTeVZK?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "chinasecuritytariffstrumpsthreedaysinananxiousasiathetimes",
+   "title": "China, security, tariffs: Trump\u2019s three days in an anxious Asia - The Times",
+   "source": "The Times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHU2NFpoWnN1U29SMVNxMmZQNXZLLWhFR3Z3MWg1d1Zlb0xjZ0JLcFRHcGZTajRVVGpzRVBWNExoWjZWem5GeEJMdkQ4S2pzVEtfTmdONU05MkRrd2RzaVRMbXE0RXA4UFgwS3NYTjVjcm9kS3BUYVhZLUU4X3RYR19BOFA3b3FUYkZnY3hkbE9XekFxeXN3NndqLWtRa05HbzUw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "ussoybeanfarmerspushtrumptoendchinas10tariffaheadofximeeting",
+   "title": "U.S. Soybean Farmers Push Trump to End China's 10% Tariff Ahead of Xi Meeting - AgroLatam",
+   "source": "AgroLatam",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5VGxiV0hQMW9mLVNaYmFyZjAwSlcyV0x6SVE1Z3pMd1BhZGk0RzRZcE5DOVhtUzZESS1ULW5RcFBJUW1relhJblcyWWlUZkxtYkY4Wk90SWNLemNfQkRnOFZfWFI1akxiMjF1TFhyVHVSOEY5OGRHVlNyY1U1dw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "dtichiefswishduringtrumpvisitlowertariffsinquirernet",
+   "title": "DTI chief\u2019s wish during Trump visit: Lower tariffs - Inquirer.net",
+   "source": "Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1c0OUlVSDl0YW1MVFRHajI4QzJOaWRRMFRKUVV2YlBtWnBhUUdwVWFGYXViazBpa1o5Sy1rMElSU3RDMzlsQTBKZlNXeVFIeVlIRTRKWkhlWHVIcHB5NnlFOUxkYnVseTAxcnBCYWNNVWxmd2d6b3doVnhoMXdwQmhja2VIXzJoRWtWUFZB0gGTAUFVX3lxTE5MbnIzSElURXdSR2lhUUgtOFRaemhsN1FMR2RwYWk5MjR6S1dZUEZ5N2JyUVJHNVZrYndUNTVXOXk2Y3FWeVBycEw2MzdVUGVVLVJlM3JyQ2FnWXNTdi1UbzN3a1FmQTloM21pOHctMDZDOWZ0RVBKZ3FGWloteEpid2xZTTA3REZaZWpEVkVmMlprVQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "brazildefiestrumptariffsastradewithchinaandothernationsmoder",
+   "title": "Brazil defies Trump tariffs as trade with China and other nations - Modern Ghana",
+   "source": "Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YLTVvckhHUTZPdGVoZmJLLVZHelFoMUhSYUhFbHctQ2xIQjk1NHJqVGtCVnlEWkxtaTRuMGs4Z3U2Q29CV3l5b0YxN2pDb2MzbGZ1U0ZQVUZkQTdyQmpqN9IBXEFVX3lxTE9sMm9IMkxlMkZ2UFJMR0QwUm9seXR5aW02a1B5NGI3Wl8yRnpxZ1ZaRXZlM2VDUlY2SEdvc0pfNzVqQzB5U3ltNnFFZm54dnhZbWVjak4yZmdVYndF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
+   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "howtrumpandxiwentfromtariffwartotradetrucethestraitstimes",
@@ -29,48 +197,12 @@
    "pts": 22
   },
   {
-   "key": "usimposesstricteraichipexportrulesonchinaamidtrumpasiatripgl",
-   "title": "US Imposes Stricter AI Chip Export Rules on China Amid Trump Asia Trip - Global Banking & Finance Review",
-   "source": "Global Banking & Finance Review",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEk0NlIxZTdfaXRPRnMtdF9xWS1wZXV6QlZPVENzamxkWW9RbXl2STZPOUpsRDdRUEhBZUZnZWlrVV9Da0RscGtLYUdBRUdtTXotOGVwTTZsaDc0YWtYejVHYzk4c3prNXF6SncwX0hvbDZPNEJjRnJtMHF5bzc0cXppQ2NZeHlnN1NRcjhGU256NmYzS3R6M0ZTalU?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "usfdaapprovesrochesoraltreatmentforadvancedbreastcancerreute",
    "title": "US FDA approves Roche's oral treatment for advanced breast cancer - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSms5YU82MmpDRXFMeFduTDF3WUM5cjFIOGM4QU1lX3ZxSHBUNWY1endvNHp2bkkyODF1S0lUNDJPTE13ZDM2cGxsY0QtVVBKZWdlY1VNanEtV3U5U1hWdExMQjJnSnFISHZibWhiRWoza0JXNVRWTkR2YTZpOHJnamgyOEY3TUpwU2FTMXhTZV83Q2NqamRGNFVoNDl5UkdqRDNhYWkxWFhNTXRmWDdXQ0d4OHpIYW9oajhSdGphTmNJOHJHQkNUenRNWHQ?oc=5",
    "themes": [
     "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "rbaraisedratesaspricerisksremainedtoupsideminutesshowbloombe",
-   "title": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlFZVjVmUU9tcW0yX0lPQjJJbkFjdW1uVml5aGFyMmQ4V1NUYmZpZ3ROUS11Rl9mUzJscVlxbVVNYjBVSU42bncxSmpiVGxJNHBSNVVfRWYyN3hoZ3hrSnVmUUZkSTVxV0lwcmR4VnJPRmRWUFVLeHQyR0hjWDIxMVJpbC1VdzNJQm43RUhFNHRndlFHdTlVVW5KZWhRXzZJSTh0TjZaTU1TSGw5VWhHQjFMcFc?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "usmovestocurbremoteaccesstonvidiasadvancedaichipsbloombergco",
-   "title": "US Moves to Curb Remote Access to Nvidia\u2019s Advanced AI Chips - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": false,
    "trusted": true,
@@ -90,6 +222,18 @@
    "pts": 20
   },
   {
+   "key": "tariffrefundsaregoingtoexecutivebonusesatthesecompaniesrepor",
+   "title": "Tariff Refunds Are Going To Executive Bonuses At These Companies, Report Says - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON1B1eDlkSXBjWUxaNWFoUFVCUUZqOWtOYk1tNWgtSzFOUE1tVlRJVkl2R0FlNjlDOWdpYzFraDNaeDh5emZ1aHhjVW16b0NfeVJFbHFMQldyRGVfNVlySDVSbWdDdUVwRVRZUDNFUUFCUlhVZ3AzU2VoYnh0NjhNY0trV0tYd1NuMVExNFF0WnJkTkhRREJObktMZ0c1WnRMb0xWNTI2Ykc0a2x0d2pldHpkN3ZPb3hybThtSTl1c2hZa29ZQ0RoYTNYSUhlMlRBazFJOURVWDFtSFRhb3pRVWhXeDBMQklxclE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "trkiyeawardsotokara44armouredvehiclecontractasiapacificdefen",
    "title": "T\u00fcrkiye awards Otokar a 4\u00d74 armoured vehicle contract - Asia Pacific Defence Reporter",
    "source": "Asia Pacific Defence Reporter",
@@ -100,236 +244,97 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "elbitsystemswinsrocketartillerysystemscontractaustraliandefe",
-   "title": "Elbit Systems wins rocket artillery systems contract - Australian Defence Magazine",
-   "source": "Australian Defence Magazine",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamo1TUVmRHRmdzJTZ0tLSDhMZExfRzdvV0M2Q3VZSXJoYTdYcmliX2VEVnRjUy03am9GMjg3Tm9xaENRR1lnd2phUFlTdUFGeGh1bEMzTV83c1ZvTy1KV3hvLVZtM2NrYmwyZ0tUQkgyM1JNVmVKX21ScXZUQnJOWmZkN1RhS2xxc0hzU1ZVVVlBZmhNX2tzcXBZcUNHS2hP?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "synecticsannounces2milliondefencecontractawardandmaintenance",
-   "title": "Synectics Announces \u00a32 Million Defence Contract Award And Maintenance Extension - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORVFPX3dndWJGT1ZCblR3T1lnVUlPWjlDZlBMM255aFB1cGlKYldHY0FIWFV0VXVScGZXbUp0LVVGMEliLWhjMVlUei12VDBuT2doSHNTNktRaGJJZTh2cU10NmNFSFFJSWh5cmpqZmFVMVZiSjBCZjVBcTUtVjJZTnFaZnhaV2dILVJaY1RjSmp1VXlRQlRnLVVDWE43QVlXcjN5ZkZnVHFReXVmaHk2bm92SFZLR1BITEhLdkhTU0NJblB3Zlctd2x5aTJaanlIM0xJR3UyNy1MdUJlMlVOdExB?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "aselsansignsitslargesteverexportdeal11billioninairdefencesys",
-   "title": "ASELSAN Signs Its Largest-Ever Export Deal: $1.1 Billion in Air Defence Systems - Envanter Medya",
-   "source": "Envanter Medya",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzN4WUJPc2JwS0FPemplQTdxR2F2TmpKT2MzTUN3THNicHRRR29NdXUtWXU1azZ3WVdRTHFMZUxkVGJBZlRSU0tKRzJnZ1R3MDlZTldCRnNocXd2ZTQwZnRscDFWTFZ5SERLZzR2TG81TWlpdFlBcHNJRzFGSWp5eDNVWQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "synecticssecures20milliondefencecontractandmaintenanceextens",
-   "title": "Synectics Secures \u00a32.0 Million Defence Contract and Maintenance Extension Through 2030 - Yahoo Finance UK",
-   "source": "Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSndVMy1hX2dzQUFkVGtKVlRGYzE4SGROTjNmRFRJdjEybld4ZlcyVW1TSUZxSVpWVGVVdGJtd3NrVXY2RW1zd05DallUOHpwc3JmZDRWX1FwZGtyN09ucXd2MmRoNXdGcjdUS1dKclRsVjRrZG55LUc4bWtRZlBsZmcyQWk?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "unionurgesburnhamnottohand2bnmilitarycontracttousdefencegian",
-   "title": "Union urges Burnham not to hand \u00a32bn military contract to US defence giant - The Telegraph",
-   "source": "The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWpKRmFoWXZrR09NaEg5QTM1WTMxb2dsR0JVMHRyc2E1bHZveXl3YTVUR3ZoN0RERm00LVRDcTZvZVEtTWl2d29SdDhLMDlSZUZyUWdmRWtHcFJJLXloa2VzRDBra0lhM21hWXEtdDFNZElqYlA5Vms3eHQ4eUlOTW1MdlRxWVctN19JbkJYYzcxeXpFYU1SaXlhQUtaOTI0cVVLT0F1RWljWDA?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "defenceministrysignsover810crorecontractwithbdlfor160satsaaw",
-   "title": "Defence Ministry signs over \u20b9810 crore contract with BDL for 160 SAT-SAAW systems - News On AIR",
-   "source": "News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkV0UGFUM2pGZTBhWFJJT2dMdTFSNkphazBVMmdWbjR2UGlpMDVtVmYwWkwwQTlYenpnQUJTZzhPcEhJVkhxR08yTWVCSlY3c0ZoUTBHRVdBTGZVd3dISFdRX1pkdlN0OGhEZmMxVV9xTkdOUUdXQWlTQXZJUUJMMFBYenRBNEhaSUxTTDhTcU8wQWxKZzVja1pTZ0YyNlYtejhFOEpZM2lnNE91dWM2eC1ranRJdw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "synecticsreveals2mdefencecontractawardandmaintenanceextensio",
-   "title": "Synectics reveals \u00a32m defence contract award and maintenance extension - Yorkshire Post",
-   "source": "Yorkshire Post",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPal9BSVFlcVo2dVhNU25zM0t5ZXhHbmZYMlBlREVGNXpxbUpCb2NSdG1UQXY5aUJDaHFGSVprM1g4X1N3bkQ3dGpxZTVwZ1lxTGJnQXcyVFgxbGt6aEsxcWEzSXFBZTRHaUIySGJOT0x3dXRmVHN3S2o3OXNsV2RjTTVtVndMbEJpblJaUkxPenlzSjBkSHZhb2ZLeFVZMmp0YW85NWdtM1ljUkFlNVhOeFJXWS1wdHFuSUJfcQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "volatusaerospaceinctsxfltreportssequentialrevenuereboundasde",
-   "title": "Volatus Aerospace Inc. (TSX:FLT) Reports Sequential Revenue Rebound as Defence Drone Programs Gather Pace - kalkine.ca",
-   "source": "kalkine.ca",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWjdjOHBDTVE0ZVlMVEtQeEpvVjlSV0xwLXdyTW1YRk1DSmZ3QVU3bkUwOHFYV1dTR3hqY3RMalRfWE9jcm4wMFdpbHA0WTZJWGtSUEczbXA0UF9hczJLWHZwamFXVjVRM2ZySElHRHRkRjdhMWdId3UyOUlCMmw2cm1OZE5EaDdCTGZadWJNUWxrTVo2MXFqM1RxT09lNnNJUmdNTWctQ3ExQ3ZOaE92ckpydkxuVTJiVVo4YkN5MkFQX2twaThWWGotUFYxaktBSUdz?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "financeministerdirectsfundingforsouthkoreanairdefencesystems",
-   "title": "Finance Minister Directs Funding for South Korean Air Defence Systems Contract \u00bb Iraqi News Agency - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
-   "source": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 (\u0648\u0627\u0639)",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkFDbWhkSG5SaGlDcEp6SXhYUEREZzNyYTcxOFBZWF9ndUhOb0RpRFVwNEVIV1RRYnh6ek82RVMyVDBFelVCaTNGZV9ieWNBcEhOOXFwX3pBcFpwVE9zWTEyb0stRmZMNlZQamhUZGg2QTlGaWJ4SWNZTGVKcVRkT3NZeVlTSGdpSmJhTW5jbGpYTG91Nkdid3Q2ZnRwY0RzV3NJQ2VOVzFiNTRjNEhWeHRjSQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "acuityrmgroupentersfurthercontractforinternationaldefencepro",
-   "title": "Acuity RM Group Enters Further Contract For International Defence Programme - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcDhOdmx0Y2RKcG1LeUVNZmNsTTRpeEkxcXE0dTYzUmxXM09XbkRJekRXQnhnOU9qTEk1RWFBVlVobEZzQzZSTXVOVmtYV3dzOTI3Nll1eEZ6RlE3cUNXY3RaWkF4Y0xnM3JsTU9rN2Q5dEJGYzhSaW81OThkSHlaTDlBckpDZDdZbERIN1lNQnlZQ3JqeWt2d2tGUFVZcWlMQUdMMGsxMG93Tk9oNHRQZlBnaTVmS0cyZEFOMFNLeEI1SGVUSFVDajNtdW9tMUtRNExXQ2psc2VPR3dpd3c?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "defencecontractorroshellookingtobuildcapacitymeetdemandwithp",
-   "title": "Defence contractor Roshel looking to build capacity, meet demand with plant purchase - Toronto Star",
-   "source": "Toronto Star",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMTZmeWdPaTZpaVlhaVdMREkzZEV2WXM0MVBFT1g5QWVpa0VCak90WHprdjZaTFUxSlZVdG9ELTB5YWhxUm9lbjYwV3VjQ01lN2Nrc2w3TDVSNG1mVVZDRFJ3Q0ZMaU9YNkN5dExDYzRhU0RsYkF6S2RMc0N4Ri12VkJKeGEwVFg4QkprS0tGTWxCZE50enEyQ3I4a2hMc2lOeDRhRndaem5aa1F0b0dQRThvOWlqaGl4VHlPMk9uQl9kUEJNcmg3LTNRQzdnMjJYV2lUclpweFBTVW9RaEsyQ21RUVJrelFvc3hPZXlVQmwwYndod1N1Uldn?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "fdaapprovesbosstenttrialforpulsatiletinnitushearingpractitio",
-   "title": "FDA approves BosSTENT trial for pulsatile tinnitus - Hearing Practitioner Australia",
-   "source": "Hearing Practitioner Australia",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWhMZUZ3Z1RKQXlvLUdwdmJURWFJVmgyc0F6dFpsTVdjWXJnaWx4ZzR5aDNsNVRWUU5EcS1Jbk84QzFHUml2TnFKYjgyOUM0Zm0tUzl3cmExdHlBQm8xazh1cUtSYng4UG1pdnZ2Q3ZVaTVnNDgtN3Y2SlhXSjdzY1RCS2o2M2V5UVQ5c3lRV2xhN2RP?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 58
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 62
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 64
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 63
-  },
-  {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 51
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 59
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 72
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 462 min old)",
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 65
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 521 min old)",
    "score": 57
   },
   {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 57
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 72
+  },
+  {
+   "sym": "STO.AX",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 72
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 462 min old)",
+   "why": "stale quote / market closed (last price 521 min old)",
    "score": 54
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 462 min old)",
+   "why": "stale quote / market closed (last price 521 min old)",
    "score": 48
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 462 min old)",
+   "why": "stale quote / market closed (last price 521 min old)",
    "score": 55
   },
   {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 62
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 48
   },
   {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 462 min old)",
-   "score": 55
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 52
   },
   {
-   "sym": "IVV.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 36
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 54
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 521 min old)",
+   "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 462 min old)",
+   "why": "stale quote / market closed (last price 521 min old)",
    "score": 54
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 462 min old)",
+   "why": "stale quote / market closed (last price 521 min old)",
    "score": 62
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 462 min old)",
+   "why": "stale quote / market closed (last price 521 min old)",
    "score": 62
   }
  ],
@@ -344,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 03:41 PM AEDT",
+  "last_scan": "Tue 17 Nov 2026 04:40 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
