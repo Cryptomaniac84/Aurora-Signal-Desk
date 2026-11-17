@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 06:59 PM AEDT",
- "fx_audusd": 0.6734,
+ "generated": "Tue 17 Nov 2026 07:56 PM AEDT",
+ "fx_audusd": 0.6739,
  "signals": [],
  "events": [
   {
@@ -209,6 +209,30 @@
    "pts": 22
   },
   {
+   "key": "trumpadministrationtightensaichipexportrestrictionsaheadofch",
+   "title": "Trump Administration Tightens AI Chip Export Restrictions Ahead of China Visit - Politics Today",
+   "source": "Politics Today",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXg2bnljaW5QSjZISjEtZ2EwQWxiZ3ZWRWpVTmlCU2JlSDU1X2prVmo3ZUNrNG14ODlhV0Q4VEtqRExLTnhzNWJDQ3g4V21JOVg0eUxTd3ZLeDk3UkhqQ1FTRGRqTk5XQXg5NE11WUxDUkQyLVMxMVFxN2hlRnl3ZWJ6d0dtdnpzZUNMeENmWjNMWjYzdVp6YWE1SmV4cmdfWXJXczZJd2k?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "willtrumptightenuschipcontrolsonchinaaheadofhismeetingwithxi",
+   "title": "Will Trump Tighten US Chip Controls on China Ahead of His Meeting With Xi? - Modern Diplomacy",
+   "source": "Modern Diplomacy",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEpHTUNOclR2X1EzVk8tRmdoY05LNnlxVVk3clFua09nNF9DcEdTdlM2VElybU90MXpyRGFqVkZmZlpmRFhLU2p2eUpHWUcxNlB6blpBM3dkZnhMYU9mZVQ4eTBld2Z1N3EyN2JrRnUxSlNCMGdBbUNjNkRFZW9SZlg2ZVExR1BYdDEtMXBkRnFnZXJVMEFZcjR5Y2czQ3ZaNERmQ1BsYnNGLWdiQnNENmZ3?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "opecofficialsmeettodiscussoilproductioncapacityreviewreuters",
    "title": "OPEC officials meet to discuss oil production capacity review - Reuters",
    "source": "Reuters",
@@ -219,122 +243,83 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "usfdaapprovesrochesoraltreatmentforadvancedbreastcancerreute",
-   "title": "US FDA approves Roche's oral treatment for advanced breast cancer - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSms5YU82MmpDRXFMeFduTDF3WUM5cjFIOGM4QU1lX3ZxSHBUNWY1endvNHp2bkkyODF1S0lUNDJPTE13ZDM2cGxsY0QtVVBKZWdlY1VNanEtV3U5U1hWdExMQjJnSnFISHZibWhiRWoza0JXNVRWTkR2YTZpOHJnamgyOEY3TUpwU2FTMXhTZV83Q2NqamRGNFVoNDl5UkdqRDNhYWkxWFhNTXRmWDdXQ0d4OHpIYW9oajhSdGphTmNJOHJHQkNUenRNWHQ?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "nvidiawarnschipbuyersoflegalriskstiedtochinaaiaccesssourcest",
-   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 59
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 65
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 65
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 65
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 168 min old)",
+   "why": "stale quote / market closed (last price 224 min old)",
    "score": 80
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 168 min old)",
+   "why": "stale quote / market closed (last price 224 min old)",
    "score": 80
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 716 min old)",
+   "score": 50
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 716 min old)",
+   "score": 54
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 716 min old)",
+   "score": 56
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 716 min old)",
+   "score": 55
+  },
+  {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 54
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 48
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 660 min old)",
+   "why": "stale quote / market closed (last price 716 min old)",
    "score": 55
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 660 min old)",
-   "score": 40
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 660 min old)",
-   "score": 52
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 660 min old)",
-   "score": 54
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 660 min old)",
-   "score": 53
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 660 min old)",
-   "score": 54
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 660 min old)",
-   "score": 62
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 660 min old)",
-   "score": 62
   }
  ],
  "paper": {
@@ -348,7 +333,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 06:59 PM AEDT",
+  "last_scan": "Tue 17 Nov 2026 07:56 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
