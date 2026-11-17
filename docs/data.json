@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 09:52 PM AEDT",
- "fx_audusd": 0.6738,
+ "generated": "Tue 17 Nov 2026 10:40 PM AEDT",
+ "fx_audusd": 0.6745,
  "signals": [],
  "events": [
   {
@@ -17,12 +17,12 @@
    "pts": 30
   },
   {
-   "key": "howtrumpschiprestrictionsonsoutheastasiawillhitchinabbc",
-   "title": "How Trump's chip restrictions on South East Asia will hit China - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84d091enloLWRNWnlIWF9OLVhQSVdyMXVwanVsdEZoaHBxMEdvYTI2aG40NDIzQzVrbG1lWnJPb1ZzLTNOenVzaVJLeDVmeXk2WEc0Yk8tNlkxVGFoLUE?oc=5",
+   "key": "howtrumpandxiwentfromtariffwartotradetrucereuters",
+   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
    "themes": [
-    "semiconductors"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": true,
@@ -53,18 +53,6 @@
    "pts": 22
   },
   {
-   "key": "congresscouldsoonreinintrumpstariffsoncanadahereswhatthatcou",
-   "title": "Congress could soon rein in Trump\u2019s tariffs on Canada. Here\u2019s what that could look like. - Atlantic Council",
-   "source": "Atlantic Council",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGsxeTZ5RFpTVXJJM0RTMy00eHZneGpYQWRwbjhhWmR3UDFQMzV3dEYtVWM2MUNBMnM1VUdHdk1IMGRaVHZsWkZSX1d6QThrNVhzT29mZktBTGR5YXY2dGlheTJZandFZTc5WG84ZlJPaHV6Qzlrekt1a0dCVjZrQnpRRG9ncHRNY1FNTGd2MHR6azFJbDY2eEJVRUVfdzQtdkJhWGMzSm52dE9aZ0hLajZfQ3NINUM0VU1fR00zclN0TVlyOVV2Tmc1emNFZlhIQzl3?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpthreatensheavytariffsonmexicoovermigrantcaravansnews24",
    "title": "Trump threatens \u2018heavy tariffs\u2019 on Mexico over migrant caravans - News24",
    "source": "News24",
@@ -77,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "thesecompaniesareusingtrumpstariffrefundsforexecutivebonuses",
-   "title": "These Companies Are Using Trump\u2019s Tariff Refunds for Executive Bonuses - ProPublica",
-   "source": "ProPublica",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQVJIb1dqMmM2Yk43bkhQWmRmWllEWTV0UmgxY2RZN2IxRjJiUjZBNXZFV3BSR1dSeVFyUUZqRDRSN0Y3THh4c08xemhuXzk4MENMTmtKVjVzZzUwVUxBU0lCcHZSMUxEQTk3ODhpM0Fwa0Zud0R2clNIdHlWQQ?oc=5",
+   "key": "congresscouldsoonreinintrumpstariffsoncanadahereswhatthatcou",
+   "title": "Congress could soon rein in Trump\u2019s tariffs on Canada. Here\u2019s what that could look like. - Atlantic Council",
+   "source": "Atlantic Council",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGsxeTZ5RFpTVXJJM0RTMy00eHZneGpYQWRwbjhhWmR3UDFQMzV3dEYtVWM2MUNBMnM1VUdHdk1IMGRaVHZsWkZSX1d6QThrNVhzT29mZktBTGR5YXY2dGlheTJZandFZTc5WG84ZlJPaHV6Qzlrekt1a0dCVjZrQnpRRG9ncHRNY1FNTGd2MHR6azFJbDY2eEJVRUVfdzQtdkJhWGMzSm52dE9aZ0hLajZfQ3NINUM0VU1fR00zclN0TVlyOVV2Tmc1emNFZlhIQzl3?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +89,22 @@
    "pts": 22
   },
   {
-   "key": "dollarindextops1036tohit52weekhighfullyrecoveringtopretrumpt",
-   "title": "Dollar Index Tops 103.6 to Hit 52-Week High, Fully Recovering to Pre-Trump Tariff Shock Levels - BigGo Finance",
-   "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UeDVwUy16bG5yLXNUcmRaOUJOV1pmX3J6R0tFZnBYcnIwUXdnSVIzTVBLejFkMTl1NjZSVjI2R3NnQjktNTlWZjlIQ0ZkZ1BnOWp1bDVQZlo1VERHRldZSXJlRFppT3hUVUEzRW52UThyOTJmSkE?oc=5",
+   "key": "trumpscanadatariffsfacenewpressureafterdemocraticmidtermvict",
+   "title": "Trump\u2019s Canada Tariffs Face New Pressure After Democratic Midterm Victories - National Review",
+   "source": "National Review",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWREWDdKc2hYT01zbGU5UmlXYVhWaE1vbGZ5ZHh6OG9oRlNBSHpQWXlPZHdjcnBjck4xWU1iRWI3TTVISk8tWElHZE5KMTAtbjN3bTNjU1ZVVzRvXzMxbElXS3p1RWtCNE5mdjRuYWdkc21tUTd5dF9XbGE4ZXRMWlZPd3dnLTNwWmp3R2RfWQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thecountrytrumptariffsandtradeattheworlddairysummitnzherald",
+   "title": "The Country: Trump, tariffs and trade at the World Dairy Summit - NZ Herald",
+   "source": "NZ Herald",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT3dnci15R3VoOHBFQXktam5EU3dFcXhINTV5OUxGQWhIUzBFZ1lKaW9na21uVlhrc2FTMjNsblhVRkczUjMyVTRqNk1EQWo4VUJvOFBWeVd0NGwxN2twRW1PQ002RnBES0xNSGh2NTVlaDNjcExjU0RNaXNCWGtjYUdZaXNiRmV4cmxhMWRWTzdJd0ljWnpodThXTWg2VlllLVNoSDRuczJPUHk4RUdkbkRhNHM2aUJ5UzhJRVlkeVhJRnRFbXUyaUZVVXNrZXBxb1RmOXRuZy0?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,72 +125,12 @@
    "pts": 22
   },
   {
-   "key": "timelinehowtrumpandxiwentfromtariffwartotradetruceawaniinter",
-   "title": "TIMELINE - How Trump and Xi went from tariff war to trade truce - Awani International",
-   "source": "Awani International",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjVRMHJ2dWE1SUFrYjdEZUF2dTl1YkFpSXlvQUd0ZHc0MEtsYnh4RlpVc3U4d2g1LW1JM1lXQU1NcDVBd2NvNEhUMUFsMFV6bnFnbG95bmo2MGRzU1JpTDMxOWkyNXd2aXVrTmg0S1JyTHJyLU56VEdqT3RKX1VFdVF6b1RuZ3ktZkl0aGRwY2NCWUNrQnRBMTNTd3VmRC1VNnZKRw?oc=5",
+   "key": "dollarindextops1036tohit52weekhighfullyrecoveringtopretrumpt",
+   "title": "Dollar Index Tops 103.6 to Hit 52-Week High, Fully Recovering to Pre-Trump Tariff Shock Levels - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UeDVwUy16bG5yLXNUcmRaOUJOV1pmX3J6R0tFZnBYcnIwUXdnSVIzTVBLejFkMTl1NjZSVjI2R3NnQjktNTlWZjlIQ0ZkZ1BnOWp1bDVQZlo1VERHRldZSXJlRFppT3hUVUEzRW52UThyOTJmSkE?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "bipartisanpushpossibletocurbtrumptariffsconstructiondive",
-   "title": "Bipartisan push possible to curb Trump tariffs - Construction Dive",
-   "source": "Construction Dive",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTJobkhYVS1Xb1lWUEFKb3hLdzNyUHRmV0QwcWRZVUZHX2x5LUZLazNOMWNKRkdKT2NiZ3JEU2xvTlZLTzNTTkx4dllQVVJSeDlYamgySUIwSVcxYzhYRlBPWXBSb2MzV29XaXdqOGZNSlBQa01JajVxNGI2Z3hQeVVyMmlhcE9iVjlFNVV2ejNXQlE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "makingglobalisationworktrumpstarifffiascocouldsavefreetradet",
-   "title": "Making Globalisation Work: Trump\u2019s Tariff Fiasco Could Save Free Trade - The Edge Malaysia",
-   "source": "The Edge Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10dnZBQlVYcm04eU82aGVaazFPTWtWbktvaENhWVRiTXFGZEplQmRMbEZ1bzI0XzNkc294X0JxUFNYS0Ztb0lfZUpHV3BTeVZK?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "adamschiffslamscorporateexecutivesoverunreturnedtrumptariffm",
-   "title": "Adam Schiff Slams Corporate Executives Over Unreturned Trump Tariff Money: \u2018Companies Got Tariff Refunds, Consumers Got\u2026\u2019 - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPajlGMXREdHlycDRrWjF3UkNEQWMxaUJQcm5wbHByX2JJdFJsOXhrWmcxazlYQmtUSk41S0pEdkh1cTM5aGZ1REFRaTZMMWE2OFo4eTdaV21TSDVYczFjMnN5bVc1M3RaazZ6QXJNMHFfTXo1c0ZnRDNFT1hNREl4cF9CRWxvRVJXVmx2alFva3BDaFJsNE14bWQwTjhJa3VvQ0ZEbWZ0ckNZVDJkT2pHZFdQUy1ZU2RxZTFhUkItamVFQklBNjdQSWo1eFlvdGNRMEVWaDM0eWppdjZfR0hodVRxemhYMW9pY3czR3dZVkkxRjBLQVQ5ZlNSMlAtOVY1MWN5bTZ3?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "chinasecuritytariffstrumpsthreedaysinananxiousasiathetimes",
-   "title": "China, security, tariffs: Trump\u2019s three days in an anxious Asia - The Times",
-   "source": "The Times",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdHU2NFpoWnN1U29SMVNxMmZQNXZLLWhFR3Z3MWg1d1Zlb0xjZ0JLcFRHcGZTajRVVGpzRVBWNExoWjZWem5GeEJMdkQ4S2pzVEtfTmdONU05MkRrd2RzaVRMbXE0RXA4UFgwS3NYTjVjcm9kS3BUYVhZLUU4X3RYR19BOFA3b3FUYkZnY3hkbE9XekFxeXN3NndqLWtRa05HbzUw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
-   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -233,6 +173,18 @@
    "pts": 20
   },
   {
+   "key": "rochesbreastcancerpillwilserdlywinsusregulatoryapprovalbloom",
+   "title": "Roche\u2019s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "usfdaapprovesrochesoraltreatmentforadvancedbreastcancerreute",
    "title": "US FDA approves Roche's oral treatment for advanced breast cancer - Reuters",
    "source": "Reuters",
@@ -243,97 +195,145 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "nvidiawarnschipbuyersoflegalriskstiedtochinaaiaccesssourcest",
+   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvLUltN01zNnhQWHVEUWlEbWJoUXcyVjFlRUF0SU90cXZwU2FoT1J2NnNZTGthUjZOX1ozbHBaUnB3QVc2bl9LNHFEMDRiUXZJVEktNjRBUG81M0dpSzRKbFl5cjdNaXhGeHVIVDNDV2dITFVhZlBpME1n0gF_QVVfeXFMT3ZEaUU4Z1VBUm44S2Y3MmwyRlpsUjYyejJRTFlyMnU5aklRa3pGQW41MkRHb3RqTzh5a0l0dE9MbzdSeFpTRWlBajFvRllpa0VnX3RXUDJIR0tjUE1NOGsyazJRbEc1RGcyZmt5cGdwUUxjZXFYb252N2dUU1VWRQ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "nvidiaformsexportcontrolboardcommitteeafterchipcurbsbloomber",
+   "title": "Nvidia Forms Export Control Board Committee After Chip Curbs - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWxyajYtdjVkUkVrcGYzOVFNc0wzclpPdXZvZHIyUnEwU2VzNkF6ZENhZ3Y2aWMwaW9BQUF2RG1uVng2Tk5JR2wwZUJXcTRjVlRFbS1FUzhOYWZENnczaUN1WEtBVVlRTUZuTGtSbzhaUHh1ZDBvbGgyZGN2Y0QxbUxzR2tYOFR5WlQ3bXNWVGpQYlFZNG1jaGcyMzNieG14Z0x3cVNtcFJJd21lcWVsMQ?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "hownewuschiprestrictionsonsoutheastasiawillhitchinabbc",
+   "title": "How new US chip restrictions on South East Asia will hit China - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84d091enloLWRNWnlIWF9OLVhQSVdyMXVwanVsdEZoaHBxMEdvYTI2aG40NDIzQzVrbG1lWnJPb1ZzLTNOenVzaVJLeDVmeXk2WEc0Yk8tNlkxVGFoLUE?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "tariffrefundsaregoingtoexecutivebonusesatthesecompaniesrepor",
+   "title": "Tariff Refunds Are Going To Executive Bonuses At These Companies, Report Says - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON1B1eDlkSXBjWUxaNWFoUFVCUUZqOWtOYk1tNWgtSzFOUE1tVlRJVkl2R0FlNjlDOWdpYzFraDNaeDh5emZ1aHhjVW16b0NfeVJFbHFMQldyRGVfNVlySDVSbWdDdUVwRVRZUDNFUUFCUlhVZ3AzU2VoYnh0NjhNY0trV0tYd1NuMVExNFF0WnJkTkhRREJObktMZ0c1WnRMb0xWNTI2Ykc0a2x0d2pldHpkN3ZPb3hybThtSTl1c2hZa29ZQ0RoYTNYSUhlMlRBazFJOURVWDFtSFRhb3pRVWhXeDBMQklxclE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 59
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 65
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 833 min old)",
-   "score": 58
+   "why": "stale quote / market closed (last price 881 min old)",
+   "score": 50
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 833 min old)",
-   "score": 62
+   "why": "stale quote / market closed (last price 881 min old)",
+   "score": 54
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 833 min old)",
-   "score": 64
+   "why": "stale quote / market closed (last price 881 min old)",
+   "score": 56
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 833 min old)",
-   "score": 63
+   "why": "stale quote / market closed (last price 881 min old)",
+   "score": 55
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 833 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 881 min old)",
+   "score": 55
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 833 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 881 min old)",
+   "score": 55
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 341 min old)",
-   "score": 72
+   "why": "stale quote / market closed (last price 389 min old)",
+   "score": 70
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 341 min old)",
-   "score": 72
+   "why": "stale quote / market closed (last price 389 min old)",
+   "score": 70
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 54
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 48
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 54
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 62
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 833 min old)",
+   "why": "stale quote / market closed (last price 881 min old)",
    "score": 62
   }
  ],
@@ -348,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 09:52 PM AEDT",
+  "last_scan": "Tue 17 Nov 2026 10:40 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
