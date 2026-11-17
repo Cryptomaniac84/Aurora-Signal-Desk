@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Tue 17 Nov 2026 08:53 PM AEDT",
- "fx_audusd": 0.6737,
+ "generated": "Tue 17 Nov 2026 09:52 PM AEDT",
+ "fx_audusd": 0.6738,
  "signals": [],
  "events": [
   {
@@ -17,12 +17,12 @@
    "pts": 30
   },
   {
-   "key": "realitychecktrumpsvenezuelaoildealmayhavelittleimmediateimpa",
-   "title": "Reality check: Trump's Venezuela oil deal may have little immediate impact on US gas prices - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGxlT2YyYzQyRUFyTzc4a25QeXRzTHpQV0tTR05YZkZYWl9wd1JUT1Mwb1lJeTBNM2ItVjMwRlRtdDZLOVVCMG5CVWhkMjJCT3B6OHhQWkRDdWRLZUQ3Z2lPZGowaDhNNU9YWjhjdlpiekctM0tpb2JkbnZIQy1qV051Yk1VWmtPdmc4Y29NYUcwUFRFaUlubmUtZWtfc3Y5dzF3bmhHa9IBrAFBVV95cUxQM1hWaXRCS3NTUmd6UFY3MmpRajRiNkZuRkFwZ2ZrVTFYWjQybnF0WFpvbUd5cmw5VzNKU2k0TUI0X2luSllDZFozT2p3dmlFb0hyT2JELU1HSzVZRFVFc3RQOTR4WXNvZWRZQmxsTy1wM09TSng4dlk4TWM5WGtVR04xVWR3VTdPSDdxalNLYzFhMzY2ajRGV0FxY2xjdC1fR0M4LU1hRzVYbkUz?oc=5",
+   "key": "howtrumpschiprestrictionsonsoutheastasiawillhitchinabbc",
+   "title": "How Trump's chip restrictions on South East Asia will hit China - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84d091enloLWRNWnlIWF9OLVhQSVdyMXVwanVsdEZoaHBxMEdvYTI2aG40NDIzQzVrbG1lWnJPb1ZzLTNOenVzaVJLeDVmeXk2WEc0Yk8tNlkxVGFoLUE?oc=5",
    "themes": [
-    "energy"
+    "semiconductors"
    ],
    "trump": true,
    "trusted": true,
@@ -248,92 +248,92 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 59
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 65
-  },
-  {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 774 min old)",
-   "score": 65
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 774 min old)",
-   "score": 65
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 282 min old)",
-   "score": 80
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 282 min old)",
-   "score": 80
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 774 min old)",
-   "score": 42
+   "why": "stale quote / market closed (last price 833 min old)",
+   "score": 58
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 774 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 833 min old)",
+   "score": 62
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 774 min old)",
-   "score": 56
+   "why": "stale quote / market closed (last price 833 min old)",
+   "score": 64
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 774 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 833 min old)",
+   "score": 63
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 833 min old)",
+   "score": 57
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 833 min old)",
+   "score": 57
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 341 min old)",
+   "score": 72
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 341 min old)",
+   "score": 72
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 54
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 48
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 55
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 54
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 62
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 774 min old)",
+   "why": "stale quote / market closed (last price 833 min old)",
    "score": 62
   }
  ],
@@ -348,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 17 Nov 2026 08:53 PM AEDT",
+  "last_scan": "Tue 17 Nov 2026 09:52 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
