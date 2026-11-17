@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 03:52 AM AEDT",
- "fx_audusd": 0.6738,
+ "generated": "Wed 18 Nov 2026 04:53 AM AEDT",
+ "fx_audusd": 0.6742,
  "signals": [],
  "events": [
   {
@@ -23,6 +23,30 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
    "themes": [
     "pharma"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumpmediainvestorslearnthetruthaboutbettingonbitcoinfinanci",
+   "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5",
+   "themes": [
+    "crypto"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "congresspasseswarpowersresolutionofferingrarerebukeoftrumpab",
+   "title": "Congress passes war powers resolution, offering rare rebuke of Trump - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
+   "themes": [
+    "geopolitics"
    ],
    "trump": true,
    "trusted": true,
@@ -57,18 +81,6 @@
    "title": "Trump's tariffs cast shadow over APEC talks - The Jakarta Post",
    "source": "The Jakarta Post",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZzdlRDAweG1YSGM5RGZ6RU84c2dnVWViWXhDaWFDTXRhTmVrV29sdEN4OXRoTV9jbjlITGhMY2s2Sm45VENRWFpJNWlTdHRnZG1SbU50aFlfMmw4ckplZnBNbjlubEctSnl5V2ZuTkRUVk1WM0lCTU1RV1RhR1R3NmNQaDlJcFF0VVRISFlQU1NXNEU2MGs3YS1TSlpUeFU5NGFtR2xJMno0MGxDcjJWanltOFdpM1A3NjBRcTJLWHR3RFNEWEJfUkd1cVlvYUpaU0dxenkzMjE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "afterthebluetsunamigettingridoftrumpstariffspetersoninstitut",
-   "title": "After the Blue Tsunami: Getting rid of Trump\u2019s tariffs - Peterson Institute for International Economics",
-   "source": "Peterson Institute for International Economics",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,30 +149,6 @@
    "pts": 22
   },
   {
-   "key": "trumpmeetsregionalalliesinmanilaaheadofchinavisitthailandwil",
-   "title": "Trump meets regional allies in Manila ahead of China visit; Thailand will eliminate tariffs on US exports under deal to be signed soon - The Star",
-   "source": "The Star",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcWFTcXBfaS13N3R3SklLQmpBcWVQakxDb2RjZ3dmc19EbkFYeDMtYkF1em9aMmhXckh6UW1CdjFadTNTZ196N3Fkb253LUY3dE9rR2hZa3lOdUZLb3NaRGlNcWlkUDlJUVcwUmpqR1lQS1dneWpTV1JXMXdubDlaNzk1SmI5Y0xIR0Q2NDc4NS1EaHFvckJHMVdnZkxoc1FCUkVBNE9RbFZsVHgwMlZHZndkYk5hU2dxZzlNdlhRdkJCaFdhejY0ZlNfcXRVVDJqNXB4U195SE5RYjktRFUyTlhTUUZ4VkR2cE9IaXhYX2ZQY19rbzh2c1RVdGhFckNnSVRMZ2lFQ2Y1YldDSDFUTzZMeVNhV1V1UzZFcjRhdzh2Zw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpadministrationtightensaichipexportrestrictionsaheadofch",
    "title": "Trump Administration Tightens AI Chip Export Restrictions Ahead of China Visit - Politics Today",
    "source": "Politics Today",
@@ -185,18 +173,6 @@
    "pts": 22
   },
   {
-   "key": "opecofficialsmeettodiscussoilproductioncapacityreviewreuters",
-   "title": "OPEC officials meet to discuss oil production capacity review - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFlINkNORzd1R3llMVkzOVBmZWhsZEUwU0tjSDFXd2tNMWdBTzRiaFM4VnI2alRwYmxFS3Q3SjRUeG4yc3FkeUIweXBQTjZreHZka1E0eUhQZVhyOFBsZkRhU2xRMk9yVVB6ZHh1TmxlRmhQWGIxWVFTblJtV3hxUktRc3V3Tm9aNkVlTm90Qm0yQUZwbjQ0NlRHcFNvQ2I5RDdReHphcGRWNXFpaTJz?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "rochesbreastcancerpillwilserdlywinsusregulatoryapprovalbloom",
    "title": "Roche\u2019s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -209,22 +185,10 @@
    "pts": 20
   },
   {
-   "key": "usfdaproposestowithdrawapprovalforsalernoscholesterolmedicat",
-   "title": "US FDA proposes to withdraw approval for Salerno's cholesterol medication - Reuters",
+   "key": "fdagrantsacceleratedapprovaltogskslungcancerdrugreuters",
+   "title": "FDA grants accelerated approval to GSK's lung cancer drug - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTRKWjVOQnR5WDU4SS1Ob3RPYjhNN0twcGxwcFYwVkVxQlFQbUJzc1U5MFFtelY2WnA5Q0lFaEdBSm1QYm5CZVdlOUZsdXJ6cWxJRi1FLWUwT19rbEc3NTZCSnh1dGhzNmd2VXhZeUlEMUppazUyTnhrbGtaYU13S2ZRNGVFN3VCLTBOV0w1T05IWmpMc2M5SDdpYzRVVlEyY3NTNHpGQ0xkZU5vb0Radk5nS01jUktjMEE?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
-   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5",
    "themes": [
     "pharma"
    ],
@@ -243,113 +207,139 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "nvidiashuangsignalswillingnesstoreturnasceoboardcreatesnatio",
+   "title": "Nvidia's Huang signals willingness to return as CEO; board creates national security panel - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "nvidiacreatescommitteetooverseecompliancewithuschipexportcon",
+   "title": "Nvidia creates committee to oversee compliance with US chip export controls - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDFFUjBWM25ZRTRQcnFFOGRBVW1tM29XM2R6UlhFYnBKQmlvdTQ0TUVvSmF0Ny00anZieG1MeV8zUnA2bE5tUTdTQ2czcXBnYjRXMGhhM2ppUDBrNHA3LUFtZjR0NDhreVJvazJ5YXI3TFpSWTJiQ1ZyYlhVbGU1eWhHcHA?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "ascenttosupportusbasedraafsuperhornetandgrowlerfleetsaustral",
+   "title": "Ascent to support US-based RAAF Super Hornet and Growler fleets - Australian Defence Magazine",
+   "source": "Australian Defence Magazine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1pIQ0duY3JnME9GQ1Z3R05kSXhQOENYMDNHRUxLRllaQU5KTXkySXRMOG9QcjJUUUpSeHllTFAyeXFKeWFIb1dta3dZSEdQakE3clF6ck5OMnFkaUlvU2ZfekNhZWhMQ1RmZ2llTTZGd3VOZDZIRHBSbHczSDdOYTZTclI0d1B3dHE5RjF4dGg2X1F3RnFJRFZxRTVZRTdxdUloRjhKUjBvZlIzbHFr?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 47
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 45
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 58
-  },
-  {
-   "sym": "XLE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
-  },
-  {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
-  },
-  {
-   "sym": "XBI",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 61
   },
   {
-   "sym": "LLY",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 50
-  },
-  {
-   "sym": "PFE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 47
-  },
-  {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 41
-  },
-  {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 43
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 701 min old)",
-   "score": 72
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 701 min old)",
-   "score": 72
-  },
-  {
-   "sym": "NVDA",
+   "sym": "XLE",
    "why": "volume not confirmed (0.1x normal)",
    "score": 53
   },
   {
+   "sym": "FXI",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 60
+  },
+  {
+   "sym": "XBI",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 73
+  },
+  {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 61
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 61
+  },
+  {
+   "sym": "COIN",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 61
+  },
+  {
+   "sym": "MSTR",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 61
+  },
+  {
+   "sym": "NVDA",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 44
+  },
+  {
    "sym": "AMD",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "SOXX",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 72
+  },
+  {
+   "sym": "TSM",
    "why": "volume not confirmed (0.3x normal)",
    "score": 54
   },
   {
-   "sym": "TSM",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 55
-  },
-  {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 50
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (1.3x normal)",
-   "score": 59
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 70
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 701 min old)",
+   "why": "stale quote / market closed (last price 761 min old)",
    "score": 50
   },
   {
    "sym": "LMT",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "score": 43
   },
   {
    "sym": "RTX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "score": 43
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 66
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 63
   }
  ],
  "paper": {
@@ -363,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 03:52 AM AEDT",
+  "last_scan": "Wed 18 Nov 2026 04:53 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
