@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 04:53 AM AEDT",
- "fx_audusd": 0.6742,
+ "generated": "Wed 18 Nov 2026 05:47 AM AEDT",
+ "fx_audusd": 0.674,
  "signals": [],
  "events": [
   {
@@ -51,18 +51,6 @@
    "trump": true,
    "trusted": true,
    "pts": 30
-  },
-  {
-   "key": "severalcompaniesareusingtrumptariffrefundsforcorporatebonuse",
-   "title": "Several companies are using Trump tariff refunds for corporate bonuses - The Guardian",
-   "source": "The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
   },
   {
    "key": "congresscouldsoonreinintrumpstariffsoncanadahereswhatthatcou",
@@ -137,18 +125,6 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
-   "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - Inquirer.com",
-   "source": "Inquirer.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW1BY21nc1k4ZGNhWDJCNjFSV2dpQ3pmOURCVmZ4Y3lTYnZ6MXpNdEVJQy1sR0pCYVNVeGlwb3hHaFlmSUdITlh6UThnSmt2YTRhMW1TT1MydG5SZnk2Vms3YTRUMU9FdzhYZFlzRmdXdXBobHRsYTlJR0ZqVFRmX0g0UkFBRDNUdlFXYjdXdVJQeUFkT3V1WXZQeTBFM0E4?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpadministrationtightensaichipexportrestrictionsaheadofch",
    "title": "Trump Administration Tightens AI Chip Export Restrictions Ahead of China Visit - Politics Today",
    "source": "Politics Today",
@@ -185,8 +161,8 @@
    "pts": 20
   },
   {
-   "key": "fdagrantsacceleratedapprovaltogskslungcancerdrugreuters",
-   "title": "FDA grants accelerated approval to GSK's lung cancer drug - Reuters",
+   "key": "usfdaapprovesgskssecondlungcancerdrugfromhistoric11billionde",
+   "title": "US FDA approves GSK's second lung cancer drug from historic $11 billion deal - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5",
    "themes": [
@@ -209,8 +185,8 @@
    "pts": 20
   },
   {
-   "key": "nvidiashuangsignalswillingnesstoreturnasceoboardcreatesnatio",
-   "title": "Nvidia's Huang signals willingness to return as CEO; board creates national security panel - Reuters",
+   "key": "huangwouldbehonoredtoreturnasnvidiaceoafteraffairscandalforc",
+   "title": "Huang would 'be honored' to return as Nvidia CEO after affair scandal forced him out - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
    "themes": [
@@ -231,6 +207,30 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonusesscri",
+   "title": "Tariff refunds worth millions are helping fund corporate bonuses - Scripps News",
+   "source": "Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "gmplanningontariffsstickingaroundregardlessofnextpresidentth",
+   "title": "GM planning on tariffs sticking around, regardless of next president - The Detroit News",
+   "source": "The Detroit News",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMFZoQWdvTm5YU0ZrTDlBeFBzT1RRNkt4TkJsRWdZWEtfMFdZejcyRnRNZm1YRXlETVNZUjZaOHdzVFBCSlRFVDRmcUsyR1c2QVpENkhYUExLTGFKVm13NlV3LWJET3pvSW9jb2FNN2NlODR5NzZ0RUwxclkwR3ZpdlRGUkV2S21xUUFzbVRrTHVqaWRndzNmc1BwLUdkNTdZQ3luS1lRZTZ4SDZoYkVaczl5dG8zVmdhaGk5b2RCMmVsTkZLbWhKd1ZyVERIZWZpeDJlTmVRMHdkSjZiQ3hCRTU4ZVAzWXc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "ascenttosupportusbasedraafsuperhornetandgrowlerfleetsaustral",
@@ -254,91 +254,91 @@
   {
    "sym": "ITA",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 61
+   "score": 46
   },
   {
    "sym": "XLE",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 53
+   "score": 46
   },
   {
    "sym": "FXI",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 60
+   "score": 61
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 73
-  },
-  {
-   "sym": "LLY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 61
-  },
-  {
-   "sym": "PFE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 61
-  },
-  {
-   "sym": "COIN",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 61
-  },
-  {
-   "sym": "MSTR",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 61
-  },
-  {
-   "sym": "NVDA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 44
-  },
-  {
-   "sym": "AMD",
    "why": "volume not confirmed (0.2x normal)",
    "score": 53
   },
   {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 48
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 47
+  },
+  {
+   "sym": "COIN",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
+  },
+  {
+   "sym": "MSTR",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
+  },
+  {
+   "sym": "NVDA",
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 37
+  },
+  {
+   "sym": "AMD",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
+  },
+  {
    "sym": "SOXX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 72
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 39
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 50
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 35
   },
   {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 70
+   "score": 35
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 761 min old)",
+   "why": "stale quote / market closed (last price 815 min old)",
    "score": 50
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 28
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 64
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 63
   }
  ],
@@ -353,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 04:53 AM AEDT",
+  "last_scan": "Wed 18 Nov 2026 05:47 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
