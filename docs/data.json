@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 05:47 AM AEDT",
- "fx_audusd": 0.674,
+ "generated": "Wed 18 Nov 2026 06:55 AM AEDT",
+ "fx_audusd": 0.6738,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,30 @@
    "title": "Supreme Court invalidates most of Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTZyamI3Uks3N20wbnpWemxhQTh5NG9UODJyVHFXUE5KTGFmMWlYSVZpUW9Eb2JnUmFjU1RJMWYzOW5pX0l3UXlPdWpaaEJqOUNmU1pQa2dNQUtvUjhwQVdweno2bU9kbTVNams1SmhqY1FrZklQU3BTTnF1S0VJd2RMNTZ1VmJVamt0SUdYem9JZ9IBlwFBVV95cUxNa0dWUktjN181VDcyUThKWGIzLTU1VnBsdlhOb3p6NmJMWHpodDh0c2M1WHA2SHZKdTRSQmhNbUxXZW13RllnbS01cktCOWhYY19MZXJtR2w2WnVfZjBYVGRDQ2pnM2NLTGwtZnZOZGlpc3FNM3ZQSWdETHNMQzg3a3hWMTdnV25FQzkyMDlOVkoyR3l6SkZF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "howtrumpandxiwentfromtariffwartotradetrucereuters",
+   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "carneylookstochinaastrumptariffssqueezecanadascarindustrybbc",
+   "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40OVhmZGxMRFhrSkM5MWotUjh5alE0V3FkLUZOeXFOTmx3cVlUMk44U2c2QkV6Rjg2U3RHeV9qZlpuN0sxRkp6UEZYRDVUb2pWWGEzZkcxby1WNkRFOGc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,22 +65,34 @@
    "pts": 30
   },
   {
-   "key": "congresspasseswarpowersresolutionofferingrarerebukeoftrumpab",
-   "title": "Congress passes war powers resolution, offering rare rebuke of Trump - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
+   "key": "severalcompaniesareusingtrumptariffrefundsforcorporatebonuse",
+   "title": "Several companies are using Trump tariff refunds for corporate bonuses - The Guardian",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
    "themes": [
     "geopolitics"
    ],
    "trump": true,
-   "trusted": true,
-   "pts": 30
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "congresscouldsoonreinintrumpstariffsoncanadahereswhatthatcou",
    "title": "Congress could soon rein in Trump\u2019s tariffs on Canada. Here\u2019s what that could look like. - Atlantic Council",
    "source": "Atlantic Council",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGsxeTZ5RFpTVXJJM0RTMy00eHZneGpYQWRwbjhhWmR3UDFQMzV3dEYtVWM2MUNBMnM1VUdHdk1IMGRaVHZsWkZSX1d6QThrNVhzT29mZktBTGR5YXY2dGlheTJZandFZTc5WG84ZlJPaHV6Qzlrekt1a0dCVjZrQnpRRG9ncHRNY1FNTGd2MHR6azFJbDY2eEJVRUVfdzQtdkJhWGMzSm52dE9aZ0hLajZfQ3NINUM0VU1fR00zclN0TVlyOVV2Tmc1emNFZlhIQzl3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "opinionthebrokenpromisesbehindtrumpstariffswsj",
+   "title": "Opinion | The Broken Promises Behind Trump\u2019s Tariffs - WSJ",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUMwQXRZSWdndEs1S1NyNi03NjBxTGVJSnRhTm0xQ1RSeXFoWGJudFU4WGd0QV9aVFVzZWp4VmNOeXdZa1kwQlBPNFRoZ3ZYb0cyYnpndE5uQ29hV2x0bWpMd1VrRHI0d2FzeTU5OVgwU2J3bE0zRDEyc3c3Z1JMZTFWT1A?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,12 +149,12 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysthailandtoscraptariffsonusexportsundertradedealforb",
-   "title": "Trump Says Thailand To Scrap Tariffs On US Exports Under Trade Deal - Forbes Middle East",
-   "source": "Forbes Middle East",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORkduZEhnSzF5cjRFck9VLTZqbnRmTVlwZHhnUTM4YzFiSEs4cG1tWlBXMnBfNElNS01QWmYyZVpfT3B5S2ItSVRaZDQxdXh2TmF6ZF92V3p3Rlo5TWpySHRfSDVHZmppdDU0dGw0LW1BdmpLeVFmNEM2Z2RLemRxaXJSYmpNYmpUUkxJS2Y4b2VXOW44ZU80b1lGekZzTXp2eXRfdXFsWXJoc2ZIZFFkX0NnVS1aN1lWUUdYRGdkUDlQdG5LVHc?oc=5",
+   "key": "asthenvidiascandalthreatenstoreignitetradetensionsattrumpxit",
+   "title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths - Atlantic Council",
+   "source": "Atlantic Council",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
    "themes": [
-    "geopolitics"
+    "semiconductors"
    ],
    "trump": true,
    "trusted": false,
@@ -137,16 +173,16 @@
    "pts": 22
   },
   {
-   "key": "willtrumptightenuschipcontrolsonchinaaheadofhismeetingwithxi",
-   "title": "Will Trump Tighten US Chip Controls on China Ahead of His Meeting With Xi? - Modern Diplomacy",
-   "source": "Modern Diplomacy",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEpHTUNOclR2X1EzVk8tRmdoY05LNnlxVVk3clFua09nNF9DcEdTdlM2VElybU90MXpyRGFqVkZmZlpmRFhLU2p2eUpHWUcxNlB6blpBM3dkZnhMYU9mZVQ4eTBld2Z1N3EyN2JrRnUxSlNCMGdBbUNjNkRFZW9SZlg2ZVExR1BYdDEtMXBkRnFnZXJVMEFZcjR5Y2czQ3ZaNERmQ1BsYnNGLWdiQnNENmZ3?oc=5",
+   "key": "usfdaapprovesgskssecondlungcancerdrugfromhistoricnuvalentdea",
+   "title": "US FDA approves GSK's second lung cancer drug from historic Nuvalent deal - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5",
    "themes": [
-    "semiconductors"
+    "pharma"
    ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "rochesbreastcancerpillwilserdlywinsusregulatoryapprovalbloom",
@@ -161,22 +197,22 @@
    "pts": 20
   },
   {
-   "key": "usfdaapprovesgskssecondlungcancerdrugfromhistoric11billionde",
-   "title": "US FDA approves GSK's second lung cancer drug from historic $11 billion deal - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5",
+   "key": "stlouisfedsmusalemsaysfourmoreratehikesmaybeneededincomingmo",
+   "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zd1ptOVBmWHRWbVFNZWhHUWpUelhIUHltUURraG1kOC1HWkJPNWtkNEdZQlJhTHJ5dGQ1N1dmVk1FZW4zQ29UOU0yU3FqbVpNbVB6dFhXN1FTd2pVRHYtNWp4QlFlVkpEaWtEaUJuME9Fc3dVdE85dUhTSdIBgAFBVV95cUxNYzdaNndIR09janNlbVpSX1Fya2VfVnlYSTU5M3hmTUFkcm1MVzNnMngwZ0lMQmJXb0ZEQXZOci1VS3M2SjRfMUdOcnQ2VlRmQmNaZmhqT0RVSGtGNmZTaS03VW9IRFE3aDctTU9VWG9IQXhFd0J2SHBuelJaV2gtWg?oc=5",
    "themes": [
-    "pharma"
+    "rates"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
   },
   {
-   "key": "stlouisfedsmusalemsaysfourmoreratehikesmaybeneededincomingmo",
-   "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Zd1ptOVBmWHRWbVFNZWhHUWpUelhIUHltUURraG1kOC1HWkJPNWtkNEdZQlJhTHJ5dGQ1N1dmVk1FZW4zQ29UOU0yU3FqbVpNbVB6dFhXN1FTd2pVRHYtNWp4QlFlVkpEaWtEaUJuME9Fc3dVdE85dUhTSdIBgAFBVV95cUxNYzdaNndIR09janNlbVpSX1Fya2VfVnlYSTU5M3hmTUFkcm1MVzNnMngwZ0lMQmJXb0ZEQXZOci1VS3M2SjRfMUdOcnQ2VlRmQmNaZmhqT0RVSGtGNmZTaS03VW9IRFE3aDctTU9VWG9IQXhFd0J2SHBuelJaV2gtWg?oc=5",
+   "key": "fedholdsinterestratessteadyasinflationhits3yearhighabcnewsbr",
+   "title": "Fed holds interest rates steady as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
    "themes": [
     "rates"
    ],
@@ -207,114 +243,78 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonusesscri",
-   "title": "Tariff refunds worth millions are helping fund corporate bonuses - Scripps News",
-   "source": "Scripps News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "gmplanningontariffsstickingaroundregardlessofnextpresidentth",
-   "title": "GM planning on tariffs sticking around, regardless of next president - The Detroit News",
-   "source": "The Detroit News",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMFZoQWdvTm5YU0ZrTDlBeFBzT1RRNkt4TkJsRWdZWEtfMFdZejcyRnRNZm1YRXlETVNZUjZaOHdzVFBCSlRFVDRmcUsyR1c2QVpENkhYUExLTGFKVm13NlV3LWJET3pvSW9jb2FNN2NlODR5NzZ0RUwxclkwR3ZpdlRGUkV2S21xUUFzbVRrTHVqaWRndzNmc1BwLUdkNTdZQ3luS1lRZTZ4SDZoYkVaczl5dG8zVmdhaGk5b2RCMmVsTkZLbWhKd1ZyVERIZWZpeDJlTmVRMHdkSjZiQ3hCRTU4ZVAzWXc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "ascenttosupportusbasedraafsuperhornetandgrowlerfleetsaustral",
-   "title": "Ascent to support US-based RAAF Super Hornet and Growler fleets - Australian Defence Magazine",
-   "source": "Australian Defence Magazine",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1pIQ0duY3JnME9GQ1Z3R05kSXhQOENYMDNHRUxLRllaQU5KTXkySXRMOG9QcjJUUUpSeHllTFAyeXFKeWFIb1dta3dZSEdQakE3clF6ck5OMnFkaUlvU2ZfekNhZWhMQ1RmZ2llTTZGd3VOZDZIRHBSbHczSDdOYTZTclI0d1B3dHE5RjF4dGg2X1F3RnFJRFZxRTVZRTdxdUloRjhKUjBvZlIzbHFr?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 45
-  },
-  {
-   "sym": "ITA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 46
-  },
-  {
-   "sym": "XLE",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 46
-  },
-  {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 61
-  },
-  {
-   "sym": "XBI",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
-  },
-  {
-   "sym": "LLY",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 48
-  },
-  {
-   "sym": "PFE",
    "why": "volume not confirmed (0.3x normal)",
    "score": 47
   },
   {
+   "sym": "ITA",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 48
+  },
+  {
+   "sym": "XLE",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 47
+  },
+  {
+   "sym": "FXI",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 45
+  },
+  {
+   "sym": "XBI",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 47
+  },
+  {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 47
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 50
+  },
+  {
    "sym": "COIN",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 63
   },
   {
    "sym": "MSTR",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "score": 47
   },
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.0x normal)",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 37
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 46
   },
   {
    "sym": "SOXX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 37
+   "score": 38
   },
   {
    "sym": "TSM",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 39
+   "score": 38
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 35
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "QQQ",
@@ -323,23 +323,23 @@
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 815 min old)",
+   "why": "stale quote / market closed (last price 884 min old)",
    "score": 50
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 29
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 58
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 31
   }
  ],
  "paper": {
@@ -353,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 05:47 AM AEDT",
+  "last_scan": "Wed 18 Nov 2026 06:55 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
