@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 09:32 AM AEDT",
- "fx_audusd": 0.6718,
+ "generated": "Thu 19 Nov 2026 10:30 AM AEDT",
+ "fx_audusd": 0.6716,
  "signals": [],
  "events": [
   {
@@ -11,18 +11,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiareuters",
-   "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
-   "themes": [
-    "semiconductors"
    ],
    "trump": true,
    "trusted": true,
@@ -65,9 +53,21 @@
    "pts": 22
   },
   {
+   "key": "xiputinslamtariffsandsanctionsbeforetrumptalksnewcastleheral",
+   "title": "Xi, Putin slam tariffs and sanctions before Trump talks - Newcastle Herald",
+   "source": "Newcastle Herald",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVpKSV9ZbEtTWHJyUEp0YXdqYXI4akZFaUJFdE5LTXVwTVdGYmNLZ1BiNkpUYVlQQUFFellyZTRzRWJqWGl0Q0NzUDZsRm8tOHhYZzZSZ3h5UGVES25nQzZrZ09KWWZSV0JZUFZDYTMyUGx4dXdUWmU1cGpjeUZvYTZDS05rZ3NCWHZPQ2wwQmVTQThWMFdQcVh0V2trakdMbVZIZg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "thailandsbusinessesfretovertrumpszerotariffonusgoodsfarmersc",
-   "title": "Thailand\u2019s businesses fret over Trump\u2019s zero tariff on US goods, farmers comment - SCMP",
-   "source": "SCMP",
+   "title": "Thailand\u2019s businesses fret over Trump\u2019s zero tariff on US goods, farmers comment - South China Morning Post",
+   "source": "South China Morning Post",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTU3YUx2WXllSXpFVlNtTWJEbzZ5RkM0dGRtZGhUNzlPVjlEaXU0U2lsTGVYM2d3dEo3bWZJbUlTUVBnSnZjUEZyam5YVlhEOTdZOE1XeUJ1UDlxYUZaLU5mdjYwZWlFaWZwaHdjb1pJY0hxTkV0dk13WTM5aGMzZ09CeWhzMzU0SFZ1NGIzWnczWTZxd01nLXNhT01udUxtODBHN1l1YmxrUDE0OFBFT2t4ampSN0F2aHdMeWRtZmc4Uy0zU2o3cVZ5RdIBywFBVV95cUxOLWxKQ1ZtZlZfUFdKS1RCNWhFa1IwRHdxenZtLTNLYkF5bTJDb1otR1UzRWZhMk03QUhNSTZkaFU2YVhQOFloRTZpeU5pOUw1Y21jcE1iTmc5OUJvNFU2ZkZUSWtoZndJVWlXenBpaHVFek1uMVlWVE9BcFlPb2RZM0Y0eU5HWHl3b0p3OXVWUDhNSEt0WWYwRGgyQTZ1bDNfN1R3NU5DV0RkTEJTb2dBdkNxNXlMM0FoSTV2bTI5MjlzUXlIUEthQkh4WQ?oc=5",
    "themes": [
     "geopolitics"
@@ -149,6 +149,18 @@
    "pts": 20
   },
   {
+   "key": "fedsdalyurgesratehikeswithathoughtfulmeasuredapproachbloombe",
+   "title": "Fed\u2019s Daly Urges Rate Hikes With a Thoughtful, Measured Approach - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDJGNGRIU0Q3NE5tbW9qVUpjd2NCUTRuZTdERXEwY2Q5bEQtZ1NNVjFLQmwwdnVMRERPSnN4cm1TcXBLRWxDcWtxS0tZdXdBanJVNVhhRVBOVWtKYlplWXFwcHFkUmJTRWtVQjBUaGRZUGpiWU1acVdESEZvck9TSzBiNHVhdk5rNlZDMEpKYk5zS1dxSVpDdGxZWjEyOEJKTTdldVo2Q3Z6dHpPOVF0cWJGSW4?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "breakingviewscommentarychipcurbsthreatenuschinatradetrucereu",
    "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
    "source": "Reuters",
@@ -159,6 +171,30 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "welcometotheantitariffclubdemocratsnowtrulybeantitariffcatoi",
+   "title": "Welcome to the Anti-Tariff Club, Democrats\u2014Now Truly Be Anti-Tariff - Cato Institute",
+   "source": "Cato Institute",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmhja2s1VktlWGZkYUR4ZGJKTWhhb1pwd3V4ekdPMUdac1NaMVFDRVFFeFNYaFZPTEFYb3ZWSGtxc3VEWmh6Ty1QUkdmY04yUzA5VWtjZHFDcVNWc1A1ZTBaQTJKRS1WTlBaNUVsSnUxS1dBYldVVmlES0ZYc3l5Q1RPZlo3WjE0cExuQzZzOA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "l3harriswinsroughly28millionaustraliandefencecontractsecurit",
+   "title": "L3Harris Wins Roughly $28 Million Australian Defence Contract - Securities.io",
+   "source": "Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFB6RHJPajB3eVo2UnpJYWdLczYzVTdHVjhDV05TZkNsOVFFcmdWNmMxSU5CSEMta0pzWmhiYWRVNkVBcGdTck9WcllBSEszZUVWVTk5ZWJPVm5rVmw5b00ydDF2SlFiWG9tWGR2bXZRQzE4Wk5zQUhmWjRNWHhKdXBYVHlLUThEMmdtaHJZX2U?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "ascentwinssupportcontractforraafsuperhornetandgrowlerfleetsa",
@@ -207,149 +243,113 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "modinksrs197640crorebarakdefencemissileupgradecontractwithis",
-   "title": "MoD inks Rs 1,976.40 crore Barak Defence Missile upgrade contract with Israel Aerospace Industries - ANI News",
-   "source": "ANI News",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRFc3LVJfU0Y5SzNWZl9Deng1RWNBS25Tc1FseS1nSkdqQVRUaV9mYm9vbTBvd0JEd0dCVV8wdXNTRnY0MUdzbFpweTRNajd2aW1YUDdrR0hBUWlRMWN2MUVFV3d2OU9iMWd5cHhzMElQVGVUYm1sQ0pKa3o0T3MwSV9BZEZIRWttWTl3UFU0Ym5YYUNKMzRsaWtkNVMxcUh1eFZmVEhlYVd1Q2VzMVZ4YVBudnQ3N1dTTVpBX05Zek9MMWVLelY3QWtRcDZvQzNnRUxQbHM1elZrczFlSkktM1paMEUwaWVRWnNKeWxva3JoQQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "tonbowinsars3562croredefencethermalsightordermultibaggai",
-   "title": "Tonbo wins a Rs 35.62 crore Defence thermal-sight order - Multibagg AI",
-   "source": "Multibagg AI",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWVJTXhxUEF5RkJIRV80eUEycUNBak5LVmZLaXZVNEVnSHhQUjdLS25MRnNfWVFaNW96REcwazVrSUw4TXc1VmFsenozZF92MURuMnlQTWRHZWhkeWpFRklKckhEQm1FM2s1eWdiY3k1MjlUNE0wVVZOQTJnUENSNXBYbDZza0pmSW1FVHZYYUFyZC1vZmFWbzJ0WHBfTTZxeWwtWE4xY2tWa08wN3RzazAzZDRTcGFHb193?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "indiaisraelsignrs1976croredealtoupgradenavysbarakairdefences",
-   "title": "India, Israel sign Rs 1,976-crore deal to upgrade Navy's Barak air defence system - India Today",
-   "source": "India Today",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMXI1SzBVQllYbXNrSXNqdWItQjE0QXE5NEE0Y1RJbFNvWXlTTDJQZGgwX0V3dng4TDNkY1owM0pUWmxBbnhPamdFQkJfODlYS2M1TWVTMEN4RjFwV1RhQTI0SkRyblZiZHZseWY2N2NkU0ZQLUpmRjdGcnFuVktzSFhadkQ1WjVHclBnUlRQZ015SmtmMXFlTHFMN2tuZVlnRGJFVHJSV2VDcnFaR1VPekE4UDlfRHV1X1BNeFZfWnNtdTNrWWwwaS1XRdIB0AFBVV95cUxPVFM1SDlmelpmcEU2Nko4c0pKeF83R2J5UjJwbnAxZTUyZU1DZUZRdTZCQktRQ1FucFdOUDk3QnhKRk5hMTMxUXZBd2w1WlpfZDZZQmhUb1NfVFZieWVZR3FGS2g3eWJHWVRWTGF5Z01NeFg2U3RaR1g1VGljWjdiekVqdWpIcDFLbnJha3djenptblhUT1NXMG9TM291Uy04ZVA1TTMyMnRJS3d4RXZMQVZVcUxjam56SWpQU3ktREQxT0xBQzluYlFQbFU1OGp0?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 70
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 64
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 59
   },
   {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 93 min old)",
-   "score": 62
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 93 min old)",
-   "score": 90
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 93 min old)",
-   "score": 78
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 93 min old)",
-   "score": 76
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 83
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 88
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 92
   },
   {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 150 min old)",
+   "score": 54
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 150 min old)",
+   "score": 82
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 150 min old)",
+   "score": 70
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 150 min old)",
+   "score": 68
+  },
+  {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 55
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 42
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1041 min old)",
-   "score": 75
+   "why": "price not above VWAP and 20-bar average",
+   "score": 49
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1041 min old)",
-   "score": 90
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 40
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 51
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 60
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 48
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 93 min old)",
+   "why": "stale quote / market closed (last price 150 min old)",
    "score": 71
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1041 min old)",
-   "score": 44
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 76
   }
  ],
  "paper": {
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 09:32 AM AEDT",
+  "last_scan": "Thu 19 Nov 2026 10:30 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
