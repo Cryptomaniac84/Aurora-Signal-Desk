@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 04:53 PM AEDT",
+ "generated": "Wed 18 Nov 2026 05:57 PM AEDT",
  "fx_audusd": 0.6724,
  "signals": [],
  "events": [
@@ -65,11 +65,12 @@
    "pts": 22
   },
   {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "key": "thefedchangesthegamethedollarfinallywipesouttrumpstariffshoc",
+   "title": "The Fed changes the game: The dollar finally wipes out Trump's tariff shock - Cointribune",
+   "source": "Cointribune",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmdnN2RhTEViY3pYenpacVVEY210YXA5OW1ucnoyZTN2cGlFc3ZpbHRhSkFEQUhNOFp0b2l3MzVUOFctODlIeG94MDVnQ2JhTktnNldFY01hVjJyaUtVSnBOc2pTSkJXbmd4d1c1MzJrdVFXcm9HbHRVNDJIYWFudVlFZGRJQ2RY?oc=5",
    "themes": [
+    "rates",
     "geopolitics"
    ],
    "trump": true,
@@ -77,12 +78,11 @@
    "pts": 22
   },
   {
-   "key": "thefedchangesthegamethedollarfinallywipesouttrumpstariffshoc",
-   "title": "The Fed changes the game: The dollar finally wipes out Trump's tariff shock - Cointribune",
-   "source": "Cointribune",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmdnN2RhTEViY3pYenpacVVEY210YXA5OW1ucnoyZTN2cGlFc3ZpbHRhSkFEQUhNOFp0b2l3MzVUOFctODlIeG94MDVnQ2JhTktnNldFY01hVjJyaUtVSnBOc2pTSkJXbmd4d1c1MzJrdVFXcm9HbHRVNDJIYWFudVlFZGRJQ2RY?oc=5",
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
    "themes": [
-    "rates",
     "geopolitics"
    ],
    "trump": true,
@@ -132,18 +132,6 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmZheE96bU1GWTYwSEpKUTd3WUV2dW15YXpoMUZIWUg4Q2FnYU1McXZvRTF5bXFvcVRlenZwR3ZNWXZQM20tUjJDN0FqOTV3N3kwblZQMnFOeXVPcFF2aWtvb3h6eVAyV1ZBcEpVZGllam5sZGp3eVdWTmc2UU9OaVR4T29XbEdKcnNuemhURHFWaUV1RFE?oc=5",
    "themes": [
     "defence",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
-   "title": "Trump's Tariffs Are Unpopular \u2014 but They'll Be Tough to Repeal Despite Democrats' Landslide Win - Industrial Distribution",
-   "source": "Industrial Distribution",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbWxkcG8wNi1OUUxpam5fUEFnU2ZZNEkzMzNGUGoxU3FmSl84a0FtUTdxSHhRNmIzQkh3aFJ1YnZHX2x4QVd1R21zZFBMaThnZmRyLUlOSVhETWp6ZjVDRGJLOHlCaGEwYnBZc1B4bWdMTDJzdWJfUGhoV0lsVmh6MG81djdETkJPcVE4enZkUlh3T0EwUUVsZERHckVKdGlyeV9mVHhpSk1MN19Fc19aUV80WF9pTHNmSE93a0ZBT0JjU1J4eVBWNU1qTmVaelN2RjAwN3AwWmg?oc=5",
-   "themes": [
     "geopolitics"
    ],
    "trump": true,
@@ -245,102 +233,114 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "jensenhuangscandalfuelsbipartisanpushtoblockaichipsalestochi",
+   "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nLUhzZFRHWWtOOEdJNklsX0ZVYU5RX0xpZ2NnM2tvN0RjYW5DNzRCYzA0eXJnQkxFRmFzVkNKZlJ3TjQ3bUk1cWdfaEUyTTNtb1pKNjNkNWFmdDY5Vlp3OXh3RHl6emZWcG9VQXJyWGM5YThrQXdESjRBbGtQZ9IBgwFBVV95cUxOTlRFSTI5eVRPdkQ2LVFVM29weVdFZlhIbURBNURxcEVta0lGekJ2Ni11U0xLYXBYUDlnaTVpSktqSmYyV2gzdU52Mmc2OGRlQzRqNGx2UTlOdzV4MnBOaGtycHJsWGE4UjZDYi1najNkUFVRWUlXcDhyTDlvNWdLLTR3NA?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 57
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 80
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 65
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 73
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 42 min old)",
+   "why": "stale quote / market closed (last price 105 min old)",
    "score": 46
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 77
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 84
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 61
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 72
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 71
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 77
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 77
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 534 min old)",
+   "why": "stale quote / market closed (last price 597 min old)",
    "score": 72
   }
  ],
@@ -355,7 +355,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 04:53 PM AEDT",
+  "last_scan": "Wed 18 Nov 2026 05:57 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
