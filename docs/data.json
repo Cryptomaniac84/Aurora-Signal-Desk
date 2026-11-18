@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 03:43 AM AEDT",
- "fx_audusd": 0.6709,
+ "generated": "Thu 19 Nov 2026 04:39 AM AEDT",
+ "fx_audusd": 0.6721,
  "signals": [],
  "events": [
   {
@@ -11,18 +11,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumpmediainvestorslearnthetruthaboutbettingonbitcoinfinanci",
-   "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5",
-   "themes": [
-    "crypto"
    ],
    "trump": true,
    "trusted": true,
@@ -53,6 +41,18 @@
    "pts": 22
   },
   {
+   "key": "trumpcarneyexplorepathtotradedealamidtarifftensionstrtworld",
+   "title": "Trump, Carney explore path to trade deal amid tariff tensions - TRT World",
+   "source": "TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2X0hzdjhQaUVnNWZKd1o4UFpyaExUaGR5TGJLbVgzY3laR3ZjbDJSVlFIcWpwaThkUGZpTXUyOWE0R0Jwa2tqV29qZ1E1dndtVkJ4WlNGUE8?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "thaiministerrejectsfulltariffcutsonusgoodscontradictingtrump",
    "title": "Thai minister rejects full tariff cuts on US goods, contradicting Trump - Free Malaysia Today",
    "source": "Free Malaysia Today",
@@ -66,8 +66,8 @@
   },
   {
    "key": "thailandsbusinessesfretovertrumpszerotariffonusgoodsfarmersc",
-   "title": "Thailand\u2019s businesses fret over Trump\u2019s zero tariff on US goods, farmers comment - South China Morning Post",
-   "source": "South China Morning Post",
+   "title": "Thailand\u2019s businesses fret over Trump\u2019s zero tariff on US goods, farmers comment - SCMP",
+   "source": "SCMP",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTU3YUx2WXllSXpFVlNtTWJEbzZ5RkM0dGRtZGhUNzlPVjlEaXU0U2lsTGVYM2d3dEo3bWZJbUlTUVBnSnZjUEZyam5YVlhEOTdZOE1XeUJ1UDlxYUZaLU5mdjYwZWlFaWZwaHdjb1pJY0hxTkV0dk13WTM5aGMzZ09CeWhzMzU0SFZ1NGIzWnczWTZxd01nLXNhT01udUxtODBHN1l1YmxrUDE0OFBFT2t4ampSN0F2aHdMeWRtZmc4Uy0zU2o3cVZ5RdIBywFBVV95cUxOLWxKQ1ZtZlZfUFdKS1RCNWhFa1IwRHdxenZtLTNLYkF5bTJDb1otR1UzRWZhMk03QUhNSTZkaFU2YVhQOFloRTZpeU5pOUw1Y21jcE1iTmc5OUJvNFU2ZkZUSWtoZndJVWlXenBpaHVFek1uMVlWVE9BcFlPb2RZM0Y0eU5HWHl3b0p3OXVWUDhNSEt0WWYwRGgyQTZ1bDNfN1R3NU5DV0RkTEJTb2dBdkNxNXlMM0FoSTV2bTI5MjlzUXlIUEthQkh4WQ?oc=5",
    "themes": [
     "geopolitics"
@@ -81,18 +81,6 @@
    "title": "Washington Can Start Delivering on Affordability by Rejecting Trump\u2019s Tariffs - Tax Foundation",
    "source": "Tax Foundation",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhRRFhsa2d6d0NORXVyMEloRFU4b3J5al83QnNnXzlBYWcxSmZKWGJLZUlqQnVBWDd5ckR2STZ2WVNrN29YWGxKZFRlNVdVUEpraWFfM1RiU2owZTB3TFhlUjNZQXR0OW1PWkR5NTg3R01pZExLQjFQaFZRM0ZpWUQzVGM?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpszerotariffclaimaimedatpleasingamericanssuphajeesayskha",
-   "title": "Trump's zero-tariff claim aimed at pleasing Americans, Suphajee says - Khaosod English",
-   "source": "Khaosod English",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFdTcUxTUl82RmltMTZVWDgxNzV0MUZuY1BNRVVuMkVuNUFoRDBKYW1NbFhueGxpalRlTHZiVGVzMU5wNjZ2NWNCWEJYWm1sR09yRVdvTTNma1RrOHdscDNwRHhITTRBSUk5SW9iVzI3UFRELVhuTDE4Mmc2V1kzNDRGeXZ3My1ZVEpsd0pUTnNpencwbTNpaEszYnlVZmNmUEg0M0xJV0ZBSzVCODJhTmxvUHnSAboBQVVfeXFMTnlBX2Vod1Bsa2wzWXdXemY1cXUyd2ZVOU5JY2U4a0tqTWFZYUhITU9qM1BEUVpsYUh5TVdrZWkzZVB1ckNZUEFxZ0RPbGlFWklLUncxWm5yT2VtRTNYZ3A2Z1ozMXJLOUhJZ0FlWWdOUXJOX2Q5ZlB3SUxmVklFZXpfalFGanBWRmJWY0p4eFVhY2lpcUZTMWFDUHIwVmFkNkRZb2VmT1kzRGNYUjhKMzBVUElHM0JEWGlB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -119,18 +107,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRm8tSzhndUpVVEtkZ1R3T1E5bTlPSy1rakhPdk5rb0tPaU8yaGhnUnNQd0hqeHlOak9QVDlHdjRDSlBPdFV1TDdmVGpLbVEyNDlWVUIzejAzNklOQktKQm1zZWd0aFJRWXk0Y180Rm01ZFp4NnRFSUlnNWtEZEhhTXB3TlJxVjk4MGc4TDBqZFI4X1o4akNxYVBDVVhfZVlmZ01mLTJaNTJPbndHVlRiREZzLVBqelRXTGJXX1JneXpGSGE2bVVneU9HVkRfSkh4c2pucA?oc=5",
    "themes": [
     "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsfakeaivideoofustroopsamidiranwarbackfiresabsolutelysic",
-   "title": "Trump\u2019s fake AI video of US troops amid Iran war backfires: \u201cAbsolutely sickening\u201d - Dagens.com",
-   "source": "Dagens.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3lBeWQtZlF4TUVpRkhobHRhTmR6bXJrQWEzQjBtTWk3R0hnT0dZMzRqNGczQTFyMGZXYTFhMXAzekdwcVl3bTEyci0yTmdBcXVfNnhIREFEU2xQTGdMaHJiNTdmVFB6ZlM4WTE0T3VzWVM3cTlRZ2RkVzZwVkV4eHhmdGFRNmZoT0RqTWRtc2VkY2FWcTY0aC1RczU5NzFFWmhwLXEyaUN1dw?oc=5",
-   "themes": [
-    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -176,7 +152,7 @@
    "key": "uspanelproposestougheraichipexportrulesaheadofxitrumptalksso",
    "title": "US panel proposes tougher AI chip export rules ahead of Xi-Trump talks - South China Morning Post",
    "source": "South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEVFRjRMU2dhSkhOcmZXYjBqUGlpcEpJOUlmWldZN0pUbDJGV0FMTnZ5QkNaenNSN2dQV3lxR0lWUHRhdTV6bU1yVnktbXh2d3Y2VG14T2h4OTRWa3JudXI5bGIxS0FBbTV0cjVnQ0IxM2w5cEJtYldMcnZsNWZEeDA2UzJQOTZSOUhZS2dQQnpIR3ZYUUlrYnJDVkpNcWpuVnNEd0g4SUVVbklTa25DRERR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEVFRjRMU2dhSkhOcmZXYjBqUGlpcEpJOUlmWldZN0pUbDJGV0FMTnZ5QkNaenNSN2dQV3lxR0lWUHRhdTV6bU1yVnktbXh2d3Y2VG14T2h4OTRWa3JudXI5bGIxS0FBbTV0cjVnQ0IxM2w5cEJtYldMcnZsNWZEeDA2UzJQOTZSOUhZS2dQQnpIR3ZYUUlrYnJDVkpNcWpuVnNEd0g4SUVVbklTa25DRERR0gGyAUFVX3lxTE5OaHNPQVpOVzNNd0RQVHN1THRTSzI0NUl6WWxwR2pHc0lyaXg0anBaeE5lc3hTSzFpdTl0c0ZnWG16ZVV4dTNjb3JrWmVrZEx0Mm1sd2RLSFBRczZFVkszZGZmLU0yenlrNEI5U280ZFR0NU54dXk5ZmlHZXZCNEhKdFJRZnVwY21RZ3BFYnlvYWcwQzFXNmJRaTQtaTFjMDFkYVBhZUZ2VEpKTVFYaVVJUWc?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -243,123 +219,147 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "chinacanadaexpandtariffreliefaftercarneyximeetingaljazeera",
+   "title": "China, Canada expand tariff relief after Carney-Xi meeting - Al Jazeera",
+   "source": "Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFFEMlhHY2dRVWJNZlNnWTItTWJrSHFjdGhJQmV1ZWtpd0QyLUpLOXJlRnc4TW9ZYWUxWWc3bzFNVzJ1SWJ2QmlDYU1fLThPQ0NfNzBPaW9VRGpPZ0ROcWNub0VJWFY3ajBiT0YzRGJ1b1MwRXpycFlCOFFnMWhVZjhoUDZmVW1lZGVJcGtvUzhzYUdYbzk4VEJYb0hMUzk1Z2tIelB5d2JlQdIBqgFBVV95cUxPOFFEMlhHY2dRVWJNZlNnWTItTWJrSHFjdGhJQmV1ZWtpd0QyLUpLOXJlRnc4TW9ZYWUxWWc3bzFNVzJ1SWJ2QmlDYU1fLThPQ0NfNzBPaW9VRGpPZ0ROcWNub0VJWFY3ajBiT0YzRGJ1b1MwRXpycFlCOFFnMWhVZjhoUDZmVW1lZGVJcGtvUzhzYUdYbzk4VEJYb0hMUzk1Z2tIelB5d2JlQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "dividedappealscourtblockspentagonfromexpellingseveraltransge",
+   "title": "Divided appeals court blocks Pentagon from expelling several transgender troops from US military - The Straits Times",
+   "source": "The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTmFjZ1owRndCZU5OeWlIeUlnWldNbTcxUlRNQld0bVM3TUJhaGVwT1AxVko5a0lGUGdXZ0NhV2ZidTRhMWFIdmxPdXNtTURMV0NJc00xWC1CTnlKbDRlcUFyUTYtTzNQbkdlem5jUEpoTENIMXVaQk4ySnRzQ1pTTkFDalFIclJaYnpqdzJDYzZYOXo0d01qSzVxeWdVeEpkNlNLUTNLZjhla0JzZEJGQ3doT1NZXzJfUUxiRmVnTVVaWDk1ZkpEX19MSzlHSDdhZDl4a2t5Mjl1ZlpxS0E?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 61
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 74
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 48
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 62
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
-  },
-  {
-   "sym": "COIN",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 50
-  },
-  {
-   "sym": "MSTR",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 50
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 81
   },
   {
    "sym": "NVDA",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 46
+   "score": 61
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 84
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 62
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 61
+  },
+  {
+   "sym": "COIN",
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 61
+  },
+  {
+   "sym": "MSTR",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 67
   },
   {
    "sym": "XBI",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "LLY",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 39
+   "score": 73
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 49
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 42
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 54
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 54
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 691 min old)",
+   "why": "stale quote / market closed (last price 747 min old)",
    "score": 77
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 691 min old)",
+   "why": "stale quote / market closed (last price 747 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "score": 71
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 70
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 691 min old)",
+   "why": "stale quote / market closed (last price 747 min old)",
    "score": 44
   },
   {
    "sym": "LMT",
    "why": "volume not confirmed (0.4x normal)",
-   "score": 30
+   "score": 37
   },
   {
    "sym": "RTX",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 29
+   "score": 49
   },
   {
    "sym": "NOC",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 44
+   "score": 49
   }
  ],
  "paper": {
@@ -373,7 +373,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 03:43 AM AEDT",
+  "last_scan": "Thu 19 Nov 2026 04:39 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
