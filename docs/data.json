@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 04:39 AM AEDT",
- "fx_audusd": 0.6721,
+ "generated": "Thu 19 Nov 2026 05:29 AM AEDT",
+ "fx_audusd": 0.6724,
  "signals": [],
  "events": [
   {
@@ -29,10 +29,10 @@
    "pts": 30
   },
   {
-   "key": "xiputinslamtariffsandsanctionsbeforetrumptalksthecanberratim",
-   "title": "Xi, Putin slam tariffs and sanctions before Trump talks - The Canberra Times",
-   "source": "The Canberra Times",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NTTTEyQW9EUWFrN0ZiTmMxM1ZOTmtqbnVySHFZMkd0emFqU3ZvelEwcWdlS0I4NTlCbWVKVk91VFFLTnlNazhyeWt1NFZWMXppUDU2N1dDV2xsTFNkVmRTcFlvYVNoOW5sOEhfUE9ZQXFFYkZFa005QnNSNmMxVGNaMTJFaDJRb3QwQ01EbTRpc1hzSmJmcHIyYTNFN192bWlQbg?oc=5",
+   "key": "thesupremecourtblockedtrumpstariffsbutamericansarestillpayin",
+   "title": "The Supreme Court Blocked Trump\u2019s Tariffs, But Americans Are Still Paying the Price - Balls and Strikes",
+   "source": "Balls and Strikes",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3RPMGEyT1NWUXI3M1RvVFpEVkhUWlBPTENxb3VzRWFVU21TZlY1MDE4cjdaZHJtVmV3THJCWWdCWnhfYXRuejJXNE1aTUc0a2VPdWd2NFpVUXhlai0xUnR4M2xSOEQwRkdFRDJzM1dmbVZaWVFoR0M2ZWRiOGlMcmI2d1NuQkE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,18 +53,6 @@
    "pts": 22
   },
   {
-   "key": "thaiministerrejectsfulltariffcutsonusgoodscontradictingtrump",
-   "title": "Thai minister rejects full tariff cuts on US goods, contradicting Trump - Free Malaysia Today",
-   "source": "Free Malaysia Today",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYVZ5MnVfZm5QM2IwUjcwZWlFTGM5Q3M0QkRicEt1SlZaRFdDaDI4dFdJcEZhSzdLbXVmV3g1RGdBbFg5OXdLZ0xfTnpNUnZFZklwaEZLYTFsM0huOWZ1dzNHQVN0UmRfNWN3S09vLTJZTGZOUzhmdkpuVmQxUkRCbnBGdV9tTUNtaFdiY19iYU1mcFkxdjYteUdwODhJYXNUSzh5QnM3LW52eUViS3JsZ0U4VlFDb1NQNU8ybl83WWJQSzcwb2RRek9LMHRqUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "thailandsbusinessesfretovertrumpszerotariffonusgoodsfarmersc",
    "title": "Thailand\u2019s businesses fret over Trump\u2019s zero tariff on US goods, farmers comment - SCMP",
    "source": "SCMP",
@@ -77,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "washingtoncanstartdeliveringonaffordabilitybyrejectingtrumps",
-   "title": "Washington Can Start Delivering on Affordability by Rejecting Trump\u2019s Tariffs - Tax Foundation",
-   "source": "Tax Foundation",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhRRFhsa2d6d0NORXVyMEloRFU4b3J5al83QnNnXzlBYWcxSmZKWGJLZUlqQnVBWDd5ckR2STZ2WVNrN29YWGxKZFRlNVdVUEpraWFfM1RiU2owZTB3TFhlUjNZQXR0OW1PWkR5NTg3R01pZExLQjFQaFZRM0ZpWUQzVGM?oc=5",
+   "key": "thaiministerrejectsfulltariffcutsonusgoodscontradictingtrump",
+   "title": "Thai minister rejects full tariff cuts on US goods, contradicting Trump - Free Malaysia Today",
+   "source": "Free Malaysia Today",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYVZ5MnVfZm5QM2IwUjcwZWlFTGM5Q3M0QkRicEt1SlZaRFdDaDI4dFdJcEZhSzdLbXVmV3g1RGdBbFg5OXdLZ0xfTnpNUnZFZklwaEZLYTFsM0huOWZ1dzNHQVN0UmRfNWN3S09vLTJZTGZOUzhmdkpuVmQxUkRCbnBGdV9tTUNtaFdiY19iYU1mcFkxdjYteUdwODhJYXNUSzh5QnM3LW52eUViS3JsZ0U4VlFDb1NQNU8ybl83WWJQSzcwb2RRek9LMHRqUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +77,22 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
-   "title": "Trump's Tariffs Are Unpopular, but They'll Be Tough to Repeal Despite Democrats' Landslide Win - Arkansas Business",
-   "source": "Arkansas Business",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWhuNjdVd1lxUmVENDJsY3hrbHJDczd3UWFWVHg5a2tBanNQNHA4Rk0xSmc4N215b1RxUDJXTFp3d2YySFBaaTEwQmdYUE1CODlmMFhOT0RWVFB5OXVpbE9zd2FJblhBWUQwcEFjT2JMaHlYZ2l1ZlBaN2tYQzJZWVN6YWRHem9jbDlTcnRBODNRR3VaczJ0WjhsMG5FT0xVellVMTFmQnVSWS15dHFoNUNkdUtQUTRaUFRSRkxPcmRqSGlhME0yV2NzX0U?oc=5",
+   "key": "companiesarespendingtrumpstariffrefundsonbonusesnotreimbursi",
+   "title": "Companies are spending Trump's tariff refunds on bonuses \u2013 not reimbursing shoppers: report - New York Post",
+   "source": "New York Post",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZXI1OXhmeXF6SmVGbXE4UE9IMXN3WUwyTlhVV2VJZEsxeFBEdFB3SC04dElYYTdHSnliVVJ6UjI2X21CdDA1NnV2bHJVbm5qU3M1UnNjLW9RTTVpdXZOWjhiam56TUZndTZsRzNGMkptLTVScjRZRzJQX2tVM2ZweU9EVE9aTU1ENzVuUFZPcmttdm9zbmN0cF8tMF9raGpKOHNpM3drWnlHa1NpODVZV2x3UnlvLTFGNXcwZHNiZUZaMWRZY1E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "xiputinslamtariffsandsanctionsbeforetrumptalksthecanberratim",
+   "title": "Xi, Putin slam tariffs and sanctions before Trump talks - The Canberra Times",
+   "source": "The Canberra Times",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NTTTEyQW9EUWFrN0ZiTmMxM1ZOTmtqbnVySHFZMkd0emFqU3ZvelEwcWdlS0I4NTlCbWVKVk91VFFLTnlNazhyeWt1NFZWMXppUDU2N1dDV2xsTFNkVmRTcFlvYVNoOW5sOEhfUE9ZQXFFYkZFa005QnNSNmMxVGNaMTJFaDJRb3QwQ01EbTRpc1hzSmJmcHIyYTNFN192bWlQbg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -107,18 +107,6 @@
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRm8tSzhndUpVVEtkZ1R3T1E5bTlPSy1rakhPdk5rb0tPaU8yaGhnUnNQd0hqeHlOak9QVDlHdjRDSlBPdFV1TDdmVGpLbVEyNDlWVUIzejAzNklOQktKQm1zZWd0aFJRWXk0Y180Rm01ZFp4NnRFSUlnNWtEZEhhTXB3TlJxVjk4MGc4TDBqZFI4X1o4akNxYVBDVVhfZVlmZ01mLTJaNTJPbndHVlRiREZzLVBqelRXTGJXX1JneXpGSGE2bVVneU9HVkRfSkh4c2pucA?oc=5",
    "themes": [
     "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "whitehousepullsfdanomineebeforehearingaxiossaysthespokesmanr",
-   "title": "White House Pulls FDA Nominee Before Hearing, Axios Says - The Spokesman-Review",
-   "source": "The Spokesman-Review",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDhfOS0zdDBLSmpHbm9MQmZ0UEYwb0RFYVowUW1TcmZvWnEyMjdKUVlYdDU4cFRoOHk1RktWSkJqMFBVOVcyWlhvQUJJWjM1bTF1blZoUzZ4VXhDY0lIM0NIVXF1VTAtWTBzNFZmVVVzeXR5b1dmWDlmNEk1Sl9UZW0tUVpxbUZ4SG95REE2bThlMVdFY2FJQklSWlRXUQ?oc=5",
-   "themes": [
-    "pharma"
    ],
    "trump": true,
    "trusted": false,
@@ -141,18 +129,6 @@
    "title": "What's at stake for Trump and Xi in Shenzhen: A trade truce deadline, new export controls, and Iran - Fortune",
    "source": "Fortune",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTZGWjRrQUUwbjFIdkFjTzVfaXBIOFZ5bG11SW9hNDlOYUtCdldLVVd5azRjNHFPT2pxd2FDTjNrRzlmRFhVc0lEUUgtVkEyXzY2Mk9KSTVCM3NlbW9jcl9BdDJGVjBleHNmdEtxbHAzVncwNGZFemlBRUtyZXZSdXotaDdfcFhiNWs2azJOM05FUQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uspanelproposestougheraichipexportrulesaheadofxitrumptalksso",
-   "title": "US panel proposes tougher AI chip export rules ahead of Xi-Trump talks - South China Morning Post",
-   "source": "South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEVFRjRMU2dhSkhOcmZXYjBqUGlpcEpJOUlmWldZN0pUbDJGV0FMTnZ5QkNaenNSN2dQV3lxR0lWUHRhdTV6bU1yVnktbXh2d3Y2VG14T2h4OTRWa3JudXI5bGIxS0FBbTV0cjVnQ0IxM2w5cEJtYldMcnZsNWZEeDA2UzJQOTZSOUhZS2dQQnpIR3ZYUUlrYnJDVkpNcWpuVnNEd0g4SUVVbklTa25DRERR0gGyAUFVX3lxTE5OaHNPQVpOVzNNd0RQVHN1THRTSzI0NUl6WWxwR2pHc0lyaXg0anBaeE5lc3hTSzFpdTl0c0ZnWG16ZVV4dTNjb3JrWmVrZEx0Mm1sd2RLSFBRczZFVkszZGZmLU0yenlrNEI5U280ZFR0NU54dXk5ZmlHZXZCNEhKdFJRZnVwY21RZ3BFYnlvYWcwQzFXNmJRaTQtaTFjMDFkYVBhZUZ2VEpKTVFYaVVJUWc?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -221,6 +197,19 @@
    "pts": 20
   },
   {
+   "key": "nvidiastopssellingaichipstochinadespiteusapprovalbloombergco",
+   "title": "Nvidia Stops Selling AI Chips to China Despite US Approval - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5ZV2dpR3EyVEtJcVdSZTBCVGl6UE1qZ1gzNWdiaHJ3WGR1S3NUd2VRcWVzUWhjanFicXVzNi1zRWZNel9EdlVOaC1uMUFCckRXMkRGWkRZeHdZUnE4VTdtUkZ2N0dITkRYa040X29HanoxODdGVXV3NzEyOGhnR1VOb2VwcFNIcHFJQlFrNXM3T1hqQlN5WnB0MHJTU0R2cTZOUnBNbV9Ubm81clFKM0x5cHRxdw?oc=5",
+   "themes": [
+    "semiconductors",
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "chinacanadaexpandtariffreliefaftercarneyximeetingaljazeera",
    "title": "China, Canada expand tariff relief after Carney-Xi meeting - Al Jazeera",
    "source": "Al Jazeera",
@@ -243,123 +232,135 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "ascentwinssupportcontractforraafsuperhornetandgrowlerfleetsa",
+   "title": "Ascent wins support contract for RAAF Super Hornet and Growler fleets - Asia Pacific Defence Reporter",
+   "source": "Asia Pacific Defence Reporter",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWdBejZIcnlhSkthVDVxaWZXRVJmUWdUY21zNC1sMTdjc1RnYmpsZXFNQVlFZXJMOU8wd2RMaE9nRHdDWXhQOHhsaHdBWU1yRWF4OEVOc0paNXBJa1hXNjdLamJQbkQtTElhbk1uZ1VSWmpFRGViU0trTURQcmVwdFV6Qm1FbmRJZkVKY1Eyb0FYRHNNalRDcDl6Rko4Mm1MQ1pnb0tScUJFd09iOXhiR0Jwd0k?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 61
+   "score": 46
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 74
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 62
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 58
   },
   {
    "sym": "FXI",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 81
+   "score": 73
   },
   {
    "sym": "NVDA",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 61
+   "score": 45
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 84
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 81
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 62
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 46
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 61
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 46
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 61
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 45
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 67
-  },
-  {
-   "sym": "XBI",
    "why": "volume not confirmed (0.2x normal)",
    "score": 73
-  },
-  {
-   "sym": "LLY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
-  },
-  {
-   "sym": "PFE",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 46
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 747 min old)",
+   "why": "stale quote / market closed (last price 798 min old)",
    "score": 77
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 747 min old)",
+   "why": "stale quote / market closed (last price 798 min old)",
    "score": 92
   },
   {
-   "sym": "SPY",
+   "sym": "XBI",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 56
+  },
+  {
+   "sym": "LLY",
    "why": "volume not confirmed (0.1x normal)",
    "score": 71
   },
   {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
+  },
+  {
+   "sym": "SPY",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 63
+  },
+  {
    "sym": "QQQ",
    "why": "volume not confirmed (0.0x normal)",
-   "score": 70
+   "score": 62
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 747 min old)",
+   "why": "stale quote / market closed (last price 798 min old)",
    "score": 44
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 49
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 64
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 49
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 48
   }
  ],
  "paper": {
@@ -373,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 04:39 AM AEDT",
+  "last_scan": "Thu 19 Nov 2026 05:29 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
