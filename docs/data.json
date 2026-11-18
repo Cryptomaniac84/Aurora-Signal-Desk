@@ -1,10 +1,369 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 08:17 PM AEDT",
- "fx_audusd": 0.6723,
+ "generated": "Wed 18 Nov 2026 09:27 PM AEDT",
+ "fx_audusd": 0.6732,
  "signals": [],
- "events": [],
- "rejected": [],
+ "events": [
+  {
+   "key": "trumpmediainvestorslearnthetruthaboutbettingonbitcoinfinanci",
+   "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5",
+   "themes": [
+    "crypto"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "severalcompaniesareusingtrumptariffrefundsforcorporatebonuse",
+   "title": "Several companies are using Trump tariff refunds for corporate bonuses - The Guardian",
+   "source": "The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekN0WkJvZGRfZ29xaklOWk85SmhYM2FmYkRXbVRmYVNzdGwtTGpCMjlCbmkwcFRjeGd6MF9yR1VwLXU0bWlWQ2NKbzNGR05kRk5IcWtobXZkNncwZldTT0pieGkxMFFXNjM1MnpzemNtRk5xYngwcWNyMHFyajYxVEFBdlZoSldWU29OV3ZyeTVER3pHOTJQcXhCVDk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "xiputinslamtariffsandsanctionsbeforetrumptalksthecanberratim",
+   "title": "Xi, Putin slam tariffs and sanctions before Trump talks - The Canberra Times",
+   "source": "The Canberra Times",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NTTTEyQW9EUWFrN0ZiTmMxM1ZOTmtqbnVySHFZMkd0emFqU3ZvelEwcWdlS0I4NTlCbWVKVk91VFFLTnlNazhyeWt1NFZWMXppUDU2N1dDV2xsTFNkVmRTcFlvYVNoOW5sOEhfUE9ZQXFFYkZFa005QnNSNmMxVGNaMTJFaDJRb3QwQ01EbTRpc1hzSmJmcHIyYTNFN192bWlQbg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thailandsbusinessesfretovertrumpszerotariffonusgoodsfarmersc",
+   "title": "Thailand\u2019s businesses fret over Trump\u2019s zero tariff on US goods, farmers comment - South China Morning Post",
+   "source": "South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTU3YUx2WXllSXpFVlNtTWJEbzZ5RkM0dGRtZGhUNzlPVjlEaXU0U2lsTGVYM2d3dEo3bWZJbUlTUVBnSnZjUEZyam5YVlhEOTdZOE1XeUJ1UDlxYUZaLU5mdjYwZWlFaWZwaHdjb1pJY0hxTkV0dk13WTM5aGMzZ09CeWhzMzU0SFZ1NGIzWnczWTZxd01nLXNhT01udUxtODBHN1l1YmxrUDE0OFBFT2t4ampSN0F2aHdMeWRtZmc4Uy0zU2o3cVZ5RdIBywFBVV95cUxOLWxKQ1ZtZlZfUFdKS1RCNWhFa1IwRHdxenZtLTNLYkF5bTJDb1otR1UzRWZhMk03QUhNSTZkaFU2YVhQOFloRTZpeU5pOUw1Y21jcE1iTmc5OUJvNFU2ZkZUSWtoZndJVWlXenBpaHVFek1uMVlWVE9BcFlPb2RZM0Y0eU5HWHl3b0p3OXVWUDhNSEt0WWYwRGgyQTZ1bDNfN1R3NU5DV0RkTEJTb2dBdkNxNXlMM0FoSTV2bTI5MjlzUXlIUEthQkh4WQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "washingtoncanstartdeliveringonaffordabilitybyrejectingtrumps",
+   "title": "Washington Can Start Delivering on Affordability by Rejecting Trump\u2019s Tariffs - Tax Foundation",
+   "source": "Tax Foundation",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhRRFhsa2d6d0NORXVyMEloRFU4b3J5al83QnNnXzlBYWcxSmZKWGJLZUlqQnVBWDd5ckR2STZ2WVNrN29YWGxKZFRlNVdVUEpraWFfM1RiU2owZTB3TFhlUjNZQXR0OW1PWkR5NTg3R01pZExLQjFQaFZRM0ZpWUQzVGM?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpszerotariffclaimaimedatpleasingamericanssuphajeesayskha",
+   "title": "Trump's zero-tariff claim aimed at pleasing Americans, Suphajee says - Khaosod English",
+   "source": "Khaosod English",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFdTcUxTUl82RmltMTZVWDgxNzV0MUZuY1BNRVVuMkVuNUFoRDBKYW1NbFhueGxpalRlTHZiVGVzMU5wNjZ2NWNCWEJYWm1sR09yRVdvTTNma1RrOHdscDNwRHhITTRBSUk5SW9iVzI3UFRELVhuTDE4Mmc2V1kzNDRGeXZ3My1ZVEpsd0pUTnNpencwbTNpaEszYnlVZmNmUEg0M0xJV0ZBSzVCODJhTmxvUHnSAboBQVVfeXFMTnlBX2Vod1Bsa2wzWXdXemY1cXUyd2ZVOU5JY2U4a0tqTWFZYUhITU9qM1BEUVpsYUh5TVdrZWkzZVB1ckNZUEFxZ0RPbGlFWklLUncxWm5yT2VtRTNYZ3A2Z1ozMXJLOUhJZ0FlWWdOUXJOX2Q5ZlB3SUxmVklFZXpfalFGanBWRmJWY0p4eFVhY2lpcUZTMWFDUHIwVmFkNkRZb2VmT1kzRGNYUjhKMzBVUElHM0JEWGlB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "opinionthebrokenpromisesbehindtrumpstariffswsj",
+   "title": "Opinion | The Broken Promises Behind Trump\u2019s Tariffs - WSJ",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUMwQXRZSWdndEs1S1NyNi03NjBxTGVJSnRhTm0xQ1RSeXFoWGJudFU4WGd0QV9aVFVzZWp4VmNOeXdZa1kwQlBPNFRoZ3ZYb0cyYnpndE5uQ29hV2x0bWpMd1VrRHI0d2FzeTU5OVgwU2J3bE0zRDEyc3c3Z1JMZTFWT1A?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsecuresthailandtradedealasbangkokagreestoscraptariffson",
+   "title": "Trump Secures Thailand Trade Deal As Bangkok Agrees to Scrap Tariffs On US Goods, Buy $2.6 Billion In Far - Benzinga",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNcUN6Uk4xX1NyUVY2Z3kwdm1ndWZtbHJhQ200QjlXN1B4dzg5SWRnMnZpXzF3OVVHbWU3NGUwUU95dTZtTnpqNjVhWnRPeWxyaGZ2NTVEdjlkRG9qOTliZVB6SlJBbXUtV3hKc0plWFZFc1A1bERaU1owdXZaNmhWai1WblRldEl5dTdmaDJnZHNpNHA5V3lYc0lTUHRKUXlGQ0Z3c1d4R1d6bFktX3lnbFotWkRma1pTdTQxSl9yazRsc092UjhwSHlFQlFwZmRaTjdsNWVRY3ZSX2UyQW5GMkN6a2IzWDg1UnM5d09SWndUUGtCREpBcW1CTk9hcHo1UXRpc2lRaHFlX280cTBNcnZpQkxEN3VraDdQNGtoOU9kS0xnYThQMXZ3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "theworldbracesastrumpscanadatariffstandoffescalatesmcgeevere",
+   "title": "THE WORLD BRACES as Trump\u2019s Canada Tariff Stand-Off Escalates: McGeever - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thefedchangesthegamethedollarfinallywipesouttrumpstariffshoc",
+   "title": "The Fed changes the game: The dollar finally wipes out Trump's tariff shock - Cointribune",
+   "source": "Cointribune",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmdnN2RhTEViY3pYenpacVVEY210YXA5OW1ucnoyZTN2cGlFc3ZpbHRhSkFEQUhNOFp0b2l3MzVUOFctODlIeG94MDVnQ2JhTktnNldFY01hVjJyaUtVSnBOc2pTSkJXbmd4d1c1MzJrdVFXcm9HbHRVNDJIYWFudVlFZGRJQ2RY?oc=5",
+   "themes": [
+    "rates",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
+   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumptoutsindonesiantariffdefensedealsinaseantalksjakartaglo",
+   "title": "Trump Touts Indonesian Tariff, Defense Deals in ASEAN Talks - Jakarta Globe",
+   "source": "Jakarta Globe",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmZheE96bU1GWTYwSEpKUTd3WUV2dW15YXpoMUZIWUg4Q2FnYU1McXZvRTF5bXFvcVRlenZwR3ZNWXZQM20tUjJDN0FqOTV3N3kwblZQMnFOeXVPcFF2aWtvb3h6eVAyV1ZBcEpVZGllam5sZGp3eVdWTmc2UU9OaVR4T29XbEdKcnNuemhURHFWaUV1RFE?oc=5",
+   "themes": [
+    "defence",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "austinhiltonsaystrumpcanuseexecutiveorderstoadvancecryptopol",
+   "title": "Austin Hilton Says Trump Can Use Executive Orders To Advance Crypto Policy After 2026 Midterm Loss - OneBullEx",
+   "source": "OneBullEx",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRm8tSzhndUpVVEtkZ1R3T1E5bTlPSy1rakhPdk5rb0tPaU8yaGhnUnNQd0hqeHlOak9QVDlHdjRDSlBPdFV1TDdmVGpLbVEyNDlWVUIzejAzNklOQktKQm1zZWd0aFJRWXk0Y180Rm01ZFp4NnRFSUlnNWtEZEhhTXB3TlJxVjk4MGc4TDBqZFI4X1o4akNxYVBDVVhfZVlmZ01mLTJaNTJPbndHVlRiREZzLVBqelRXTGJXX1JneXpGSGE2bVVneU9HVkRfSkh4c2pucA?oc=5",
+   "themes": [
+    "crypto"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpslammedforabsolutelysickeningaigeneratedvideooftroopsas",
+   "title": "Trump slammed for 'absolutely sickening' AI-generated video of troops as Iran war drags - AOL.com",
+   "source": "AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhxbnJFbmxmTTBUcEFXc2RrZGw4VnktUVkxRHdCRTE4ZWRYQmNQT1NmOUV2V01PRkwtelJiQUVVcW5qaU5PenJVWmNjaTZhVkZvYmNsUjA3WGx2RC1UYXVXWE1ybk1tcGxGSEpwUzB5eFlKcVl0VzhBN3Rkbi1rN01wd0VucVhK?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whitehousepullsfdanomineebeforehearingaxiossaysthespokesmanr",
+   "title": "White House Pulls FDA Nominee Before Hearing, Axios Says - The Spokesman-Review",
+   "source": "The Spokesman-Review",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDhfOS0zdDBLSmpHbm9MQmZ0UEYwb0RFYVowUW1TcmZvWnEyMjdKUVlYdDU4cFRoOHk1RktWSkJqMFBVOVcyWlhvQUJJWjM1bTF1blZoUzZ4VXhDY0lIM0NIVXF1VTAtWTBzNFZmVVVzeXR5b1dmWDlmNEk1Sl9UZW0tUVpxbUZ4SG95REE2bThlMVdFY2FJQklSWlRXUQ?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "asthenvidiascandalthreatenstoreignitetradetensionsattrumpxit",
+   "title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths - Atlantic Council",
+   "source": "Atlantic Council",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiatheedgemalays",
+   "title": "US to curb China's access to AI chips as Trump heads to Asia - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QlkyNTRRaHlHY3RKcEh0UzVoNl9ORk1uVUpsQ0M2VUZqOFU0OTRjN1RLcVFBd1VLZ2o4dTZyQUd0ZFlOTkJ3bnpQT1RETzBN?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "nvidiaboarddoesnotintendtoreinstatejensenhuangabcnewsbreakin",
+   "title": "Nvidia board 'does not intend to reinstate' Jensen Huang - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWtjSE1NZ0dlck9UMFF1eUxQUGZLU09CRmY3TGZZcmQ3cFVKbWhlVjNoSFB2eTE1VzFZWDN1bEJwaFNURFgxZVBCMFNzSXJtbDhDRW1OTXp4YWNKRy00b3hlam40OWx3X3RWN2FQM3QteDdGbTNfR2R0TUoxVEdmcXJTRTIzZ25aOFFDSGFHVG40Y1d2dEM5VHBNWnBlZXBHcmNxYWloYUVjNDTSAbABQVVfeXFMTmhESzlMa1ljNzgyd3A5Wmd5QlhYQVBER094Y1RDeDRWZVJJZWxNUUl5NU1Sem1fcnZaNnhsQWlfNXJZT21iQnJfeFppcjJId3J6d1VnVHVJXzBrZE9LSllWc0UzSkUzRjNuSFNQazhNVUJYbndYanZNVUkxQmw0Z25RUlp1SjRNWFhnalVFTXJBVVpSVjVoSDR2TlJ6ZEozYU9LSFBJSl9KVnlIXzlCaV8?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "usfdaapprovesgskssecondlungcancerdrugfromhistoricnuvalentdea",
+   "title": "US FDA approves GSK's second lung cancer drug from historic Nuvalent deal - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  }
+ ],
+ "rejected": [
+  {
+   "sym": "COIN",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 65
+  },
+  {
+   "sym": "MSTR",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 65
+  },
+  {
+   "sym": "GLD",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 49
+  },
+  {
+   "sym": "ITA",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 72
+  },
+  {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 72
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 57
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 78
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 80
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 316 min old)",
+   "score": 46
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 77
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 92
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 92
+  },
+  {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 84
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 61
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 72
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 72
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 72
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 316 min old)",
+   "score": 77
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 316 min old)",
+   "score": 92
+  },
+  {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 71
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 77
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 77
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 808 min old)",
+   "score": 72
+  }
+ ],
  "paper": {
   "stats": {},
   "by": {
@@ -16,7 +375,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 08:17 PM AEDT",
+  "last_scan": "Wed 18 Nov 2026 09:27 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
