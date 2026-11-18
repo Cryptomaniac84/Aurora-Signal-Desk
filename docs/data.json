@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 10:25 PM AEDT",
- "fx_audusd": 0.6732,
+ "generated": "Wed 18 Nov 2026 11:20 PM AEDT",
+ "fx_audusd": 0.6735,
  "signals": [],
  "events": [
   {
@@ -9,18 +9,6 @@
    "title": "Trump slaps additional 50% tariff on certain Canadian goods - ABC News - Breaking News, Latest News and Videos",
    "source": "ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "bullyfeuderuptsbetweentrumpandontariosdougfordoveruscanadatr",
-   "title": "'Bully': Feud erupts between Trump and Ontario's Doug Ford over US-Canada trade war - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORng2eU5QQWk1a21qSHlmMjZGR1ExSDh6NXAyNW1HZkd3ZE9HWl81SFRyT0xEcjJQTVg4bFBoT3ZMekNwN3pHd1cxZXBvSndhRkpseFZOM2hpalJidkd4VUl6bUpuTHN6cFgzUkszSVdzeFdLYlZ4NTJ5TFozNWYxdG5sWVhYaVJSN1hydWk3RzlERE1HNHVGUNIBngFBVV95cUxNWmljYjB6Vms3NUV3Qzg0MWxQcUo5VFI2RzFTTzNmSmhYM0VMODlDTjhfT19uaXhaOVM5azhnNXlJTEV3aFk5M3NWdnFxaEZsRVV6VzdGbGdpeEF6UG84cS1kNFVNT01oN21SODg3ajZ1SzdYZVozd2RuczViT3VGeUtTYjY5TmpqVV9YLWFtZTBJd3JpVENwVGM4c21WUQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,6 +89,18 @@
    "pts": 22
   },
   {
+   "key": "thaiministerrejectsfulltariffcutsonusgoodscontradictingtrump",
+   "title": "Thai minister rejects full tariff cuts on US goods, contradicting Trump - Free Malaysia Today",
+   "source": "Free Malaysia Today",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYVZ5MnVfZm5QM2IwUjcwZWlFTGM5Q3M0QkRicEt1SlZaRFdDaDI4dFdJcEZhSzdLbXVmV3g1RGdBbFg5OXdLZ0xfTnpNUnZFZklwaEZLYTFsM0huOWZ1dzNHQVN0UmRfNWN3S09vLTJZTGZOUzhmdkpuVmQxUkRCbnBGdV9tTUNtaFdiY19iYU1mcFkxdjYteUdwODhJYXNUSzh5QnM3LW52eUViS3JsZ0U4VlFDb1NQNU8ybl83WWJQSzcwb2RRek9LMHRqUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "opinionthebrokenpromisesbehindtrumpstariffswsj",
    "title": "Opinion | The Broken Promises Behind Trump\u2019s Tariffs - WSJ",
    "source": "WSJ",
@@ -138,36 +138,12 @@
    "pts": 22
   },
   {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "austinhiltonsaystrumpcanuseexecutiveorderstoadvancecryptopol",
    "title": "Austin Hilton Says Trump Can Use Executive Orders To Advance Crypto Policy After 2026 Midterm Loss - OneBullEx",
    "source": "OneBullEx",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRm8tSzhndUpVVEtkZ1R3T1E5bTlPSy1rakhPdk5rb0tPaU8yaGhnUnNQd0hqeHlOak9QVDlHdjRDSlBPdFV1TDdmVGpLbVEyNDlWVUIzejAzNklOQktKQm1zZWd0aFJRWXk0Y180Rm01ZFp4NnRFSUlnNWtEZEhhTXB3TlJxVjk4MGc4TDBqZFI4X1o4akNxYVBDVVhfZVlmZ01mLTJaNTJPbndHVlRiREZzLVBqelRXTGJXX1JneXpGSGE2bVVneU9HVkRfSkh4c2pucA?oc=5",
    "themes": [
     "crypto"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpslammedforabsolutelysickeningaigeneratedvideooftroopsas",
-   "title": "Trump slammed for 'absolutely sickening' AI-generated video of troops as Iran war drags - Daily Express US",
-   "source": "Daily Express US",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUt2VjliTkFtM0NhcmhMbjRvclAxMHp3R1ZtVm1DMngxZlJDUlAyT0N3MF9oSnE3VzFlM1BYYjdwdThzYVdYR29lbFpyZm1QaXo4d3VVRTR0NkF3Rm9VTFdGTmw0czhNcWlJQlY4a0ZOOGNrSnFBeHUyX1F4VnNYTGxoSWZ2TjN5SnU4dEFvNW8tb2xsaEVwaU1B0gGfAUFVX3lxTE9aMEhDT2JDalEyeVZxN216ZnUwRlZCbUZkcEJOVlh3cjFMQ0wzcEFVY25sSEZwZkwwR184SDBsUkcxNWFpRXN0bVVKQlRRcXE2OUdSRTM3c1Y0TUMzNzJmaWY3TDluX0Mxd1hnb29jLW1Tenltc1psbl9wSlJVVEg4RlFPX1dybjNwa1FuY1hPbFp4cXhTOU9hNnNwUExJYw?oc=5",
-   "themes": [
-    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -222,16 +198,16 @@
    "pts": 22
   },
   {
-   "key": "nvidiaboarddoesnotintendtoreinstatejensenhuangabcnewsbreakin",
-   "title": "Nvidia board 'does not intend to reinstate' Jensen Huang - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWtjSE1NZ0dlck9UMFF1eUxQUGZLU09CRmY3TGZZcmQ3cFVKbWhlVjNoSFB2eTE1VzFZWDN1bEJwaFNURFgxZVBCMFNzSXJtbDhDRW1OTXp4YWNKRy00b3hlam40OWx3X3RWN2FQM3QteDdGbTNfR2R0TUoxVEdmcXJTRTIzZ25aOFFDSGFHVG40Y1d2dEM5VHBNWnBlZXBHcmNxYWloYUVjNDTSAbABQVVfeXFMTmhESzlMa1ljNzgyd3A5Wmd5QlhYQVBER094Y1RDeDRWZVJJZWxNUUl5NU1Sem1fcnZaNnhsQWlfNXJZT21iQnJfeFppcjJId3J6d1VnVHVJXzBrZE9LSllWc0UzSkUzRjNuSFNQazhNVUJYbndYanZNVUkxQmw0Z25RUlp1SjRNWFhnalVFTXJBVVpSVjVoSDR2TlJ6ZEozYU9LSFBJSl9KVnlIXzlCaV8?oc=5",
+   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiatheedgemalays",
+   "title": "US to curb China's access to AI chips as Trump heads to Asia - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QlkyNTRRaHlHY3RKcEh0UzVoNl9ORk1uVUpsQ0M2VUZqOFU0OTRjN1RLcVFBd1VLZ2o4dTZyQUd0ZFlOTkJ3bnpQT1RETzBN?oc=5",
    "themes": [
     "semiconductors"
    ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "usfdaapprovesgskssecondlungcancerdrugfromhistoricnuvalentdea",
@@ -244,122 +220,146 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "hownewuschiprestrictionsonsoutheastasiawillhitchinabbc",
+   "title": "How new US chip restrictions on South East Asia will hit China - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kZVJSX3o4UWtJT05KV0VUY1dPV3F3YUhYVHo5MkpQS0YzdUNDM2JmbXdERGRoTFduT3NlWWxaMUNYRkZxV1VyaUJRZ2dQVTVVekVvel85N2Zpa3c?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "breakingviewscommentarychipcurbsthreatenuschinatradetrucereu",
+   "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 57
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 80
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 65
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 84
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 73
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 429 min old)",
    "score": 46
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 84
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 61
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 72
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 72
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 72
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 429 min old)",
    "score": 77
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 429 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 71
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 77
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 77
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 72
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 67
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 82
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 866 min old)",
+   "why": "stale quote / market closed (last price 921 min old)",
    "score": 82
   }
  ],
@@ -374,7 +374,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 10:25 PM AEDT",
+  "last_scan": "Wed 18 Nov 2026 11:20 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
