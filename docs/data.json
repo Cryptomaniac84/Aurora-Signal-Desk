@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Wed 18 Nov 2026 10:30 AM AEDT",
- "fx_audusd": 0.6743,
+ "generated": "Wed 18 Nov 2026 11:31 AM AEDT",
+ "fx_audusd": 0.6736,
  "signals": [],
  "events": [
   {
@@ -17,36 +17,12 @@
    "pts": 30
   },
   {
-   "key": "howtrumpandxiwentfromtariffwartotradetrucereuters",
-   "title": "How Trump and Xi went from tariff war to trade truce - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
    "key": "trumpmediainvestorslearnthetruthaboutbettingonbitcoinfinanci",
    "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
    "source": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5",
    "themes": [
     "crypto"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "congresspasseswarpowersresolutionofferingrarerebukeoftrumpab",
-   "title": "Congress passes war powers resolution, offering rare rebuke of Trump - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1VYWQ2VlZubkFtWnd4QVhRS2JwejNON3VaNTJyVlNiRDVCcThzckZuY2ZjRmFJRTNuM3pnSExrSnNYUHhUYlVadVVSVmN1OFdCVHZqMURUUWpBRTdZNk1UeW1ZRUlBYWV6MkMtM1k1b3ptbXo5ZkZMTmxaUDVhVmVwa2g2eGJzSnVPWHB3ZnVQc1ZjTVdNekFGcUzSAaIBQVVfeXFMTnAxeW9TMDQ3dkxsNHYtVFFQNFdtdlBGZ1RZZHlJMlNWeFlITWNMdnp0aVZNRFVJeEltc1hUNk9MRjhVMFJsbkFGanZvRVFQRU11NnJ4MGVLZGdpejQ0NmVaSEdmR0dEQVBoRHBTdDBFbGU2MUJsS085c2ZtYThIWlQ2VUJGclVlVmwyUUR4WGNSTE5fQUUwUGRsQ1pIZm9MR21n?oc=5",
-   "themes": [
-    "geopolitics"
    ],
    "trump": true,
    "trusted": true,
@@ -210,6 +186,18 @@
    "pts": 20
   },
   {
+   "key": "fedswilliamssaysnoneedfordramaticratemovebloombergcom",
+   "title": "Fed\u2019s Williams Says No Need for \u2018Dramatic\u2019 Rate Move - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWFxRjVlcmJQWG9lS2R0eHhBbG5WYjJoNWQyTTJpS09TLTc3VXNMNDNHaXpienVaT0Exd2VHMDg0SzNIa0lhTVhXdXM0WlYybkNZcWR0SllXMjBiQVVEUXdVbG12OU5keW8wUXg5TEZKR3M5emZZdVpaa0NKaHNZdWpPWExYYk14dnZSa2RRWlh3MWxWXzVhTkVKVkhnWi1lcVZ3?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "stlouisfedsmusalemsaysfourmoreratehikesmaybeneededincomingmo",
    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC",
    "source": "CNBC",
@@ -244,102 +232,114 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "hownewuschiprestrictionsonsoutheastasiawillhitchinabbc",
+   "title": "How new US chip restrictions on South East Asia will hit China - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84d091enloLWRNWnlIWF9OLVhQSVdyMXVwanVsdEZoaHBxMEdvYTI2aG40NDIzQzVrbG1lWnJPb1ZzLTNOenVzaVJLeDVmeXk2WEc0Yk8tNlkxVGFoLUE?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 57
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 80
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 66
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 53
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 65
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 69
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 65
   },
   {
    "sym": "IVV.AX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 72
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 58
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 77
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 67
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 61
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 82
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 71
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 70
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 57
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 77
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 151 min old)",
+   "why": "stale quote / market closed (last price 212 min old)",
    "score": 79
   }
  ],
@@ -354,7 +354,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 18 Nov 2026 10:30 AM AEDT",
+  "last_scan": "Wed 18 Nov 2026 11:31 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
