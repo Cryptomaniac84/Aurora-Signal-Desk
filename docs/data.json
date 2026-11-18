@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 07:35 AM AEDT",
- "fx_audusd": 0.6717,
+ "generated": "Thu 19 Nov 2026 08:34 AM AEDT",
+ "fx_audusd": 0.6715,
  "signals": [],
  "events": [
   {
@@ -89,12 +89,12 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
-   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
+   "key": "xiputinslamtariffsandsanctionsbeforetrumptalksthecanberratim",
+   "title": "Xi, Putin slam tariffs and sanctions before Trump talks - The Canberra Times",
+   "source": "The Canberra Times",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NTTTEyQW9EUWFrN0ZiTmMxM1ZOTmtqbnVySHFZMkd0emFqU3ZvelEwcWdlS0I4NTlCbWVKVk91VFFLTnlNazhyeWt1NFZWMXppUDU2N1dDV2xsTFNkVmRTcFlvYVNoOW5sOEhfUE9ZQXFFYkZFa005QnNSNmMxVGNaMTJFaDJRb3QwQ01EbTRpc1hzSmJmcHIyYTNFN192bWlQbg?oc=5",
    "themes": [
-    "energy"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -137,6 +137,18 @@
    "pts": 20
   },
   {
+   "key": "usfdaapprovessanofisgeneticdisorderdrugreuters",
+   "title": "US FDA approves Sanofi's genetic disorder drug - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHpfNllEdVdGTWN5cmhTR1Q4XzlPYkxubEplQ0xkNGJzNE14QU5paFBQeXd5UXBYamEwZVAtaUFiZlhYSnNRYXlOR0NjQVRrYWx5YlZQd0F1SU5iT2NtdFE4bE5jTHJqeWpDTmhRRGlzMW5oa0RJaE14WWJfNjZkYldOeXdldHN5ckYxeWFYRTM4R3lybUJOUnNjaEZlWmJ1TDN4d3lONUhIdXJqaXhQSTZyTnAxNzhj?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "fedswallersayscentralbankmayneedtoshockpeoplewithhalfpointra",
    "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike - CNBC",
    "source": "CNBC",
@@ -147,30 +159,6 @@
    "trump": false,
    "trusted": true,
    "pts": 20
-  },
-  {
-   "key": "fedminutesshowalmostallofficialsexpectmoreratehikesbloomberg",
-   "title": "Fed Minutes Show Almost All Officials Expect More Rate Hikes - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JhS0Q0alA5RWNIWGxURDlLSWhic0NQQmY1MTJkTXlCclZDMWh4Z18xRGdhWXRsdWp2OTJjRExiSHZqRXFqSHU5VFB3WnNSV2hFWnNHdlRmRENzaDBsVGpWeTNGQU5ZRlJ0MzQza2tkUDFDdmxqMVlYNGlnM0dqajdnWVI3eVUxNVhibGhSXzZsQ2gxYlZuTk9MQ1VPUzV3ZWNxQ0NkRlZqOE9DUGpCbA?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "xipledgestariffcutsbutnotimelineasourbeefexporterswaittheaus",
-   "title": "Xi pledges tariff cuts, but no timeline as our beef exporters wait - The Australian",
-   "source": "The Australian",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR2dnejV1R2FJN2tETk9MbFo2M1czQ0t0RDRSVGR2b3VZOGI3UW5UeVB6UGdvY0tRSFhnREEtbW9wT0lIS3hfX2ZBZmRNWVdTaEM5NjgxVi1UdXM3OWRmV2E1b01iNTdjSThNZkpZaEFrTWRYZjZxVHg0aDVqZDd6UVR5Y2dITHYxcWhWeUNZMUZCZFFDaEpYb0Zjam84Z0laVHdVTUNld3BCT1dRODV4NTRxcVBoS19nM0w4azFOa2duZnJvRkZXVXFGSVhIeS1zWmU1SEREeUY?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   },
   {
    "key": "ascentwinssupportcontractforraafsuperhornetandgrowlerfleetsa",
@@ -243,97 +231,124 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "indiaisraelsignrs1976croredealtoupgradenavysbarakairdefences",
+   "title": "India, Israel sign Rs 1,976-crore deal to upgrade Navy's Barak air defence system - India Today",
+   "source": "India Today",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMXI1SzBVQllYbXNrSXNqdWItQjE0QXE5NEE0Y1RJbFNvWXlTTDJQZGgwX0V3dng4TDNkY1owM0pUWmxBbnhPamdFQkJfODlYS2M1TWVTMEN4RjFwV1RhQTI0SkRyblZiZHZseWY2N2NkU0ZQLUpmRjdGcnFuVktzSFhadkQ1WjVHclBnUlRQZ015SmtmMXFlTHFMN2tuZVlnRGJFVHJSV2VDcnFaR1VPekE4UDlfRHV1X1BNeFZfWnNtdTNrWWwwaS1XRdIB0AFBVV95cUxPVFM1SDlmelpmcEU2Nko4c0pKeF83R2J5UjJwbnAxZTUyZU1DZUZRdTZCQktRQ1FucFdOUDk3QnhKRk5hMTMxUXZBd2w1WlpfZDZZQmhUb1NfVFZieWVZR3FGS2g3eWJHWVRWTGF5Z01NeFg2U3RaR1g1VGljWjdiekVqdWpIcDFLbnJha3djenptblhUT1NXMG9TM291Uy04ZVA1TTMyMnRJS3d4RXZMQVZVcUxjam56SWpQU3ktREQxT0xBQzluYlFQbFU1OGp0?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 63
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 70
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 68
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 65
   },
   {
    "sym": "XLE",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 77
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 64
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 48
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 59
   },
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 46
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 62
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 83
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 90
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 78
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 81
-  },
-  {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 57
-  },
-  {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 54
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 923 min old)",
-   "score": 77
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 923 min old)",
-   "score": 92
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 76
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 57
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 81
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 58
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 86
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 66
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 90
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 55
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 42
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 982 min old)",
+   "score": 75
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 982 min old)",
+   "score": 90
+  },
+  {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 51
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 60
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 62
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 48
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 35
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 71
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 923 min old)",
+   "why": "stale quote / market closed (last price 982 min old)",
    "score": 44
   }
  ],
@@ -348,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 07:35 AM AEDT",
+  "last_scan": "Thu 19 Nov 2026 08:34 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
