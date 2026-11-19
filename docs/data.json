@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 03:53 PM AEDT",
- "fx_audusd": 0.6679,
+ "generated": "Thu 19 Nov 2026 04:52 PM AEDT",
+ "fx_audusd": 0.6691,
  "signals": [],
  "events": [
   {
@@ -9,6 +9,18 @@
    "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs - Al Jazeera",
    "source": "Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnRZZmk5aUVnWkxwOUx3YkE1S3ZwTlF1b2cwNE5RTjM1dE5tSERlZ0RObU8xTERqdUpaN0tMYWF3N1VZUTI1ZE1VQUNWY3BLb0VjbkRYQkoyajRBMjRuaEtrTzJuaGpLOERCcnNLbkVhUVRnOFlMbHhYU2duc2V3MWljcG81MUU0MEpzc3lOZFBhbDBSeGpJYjJNaWl3WjF1a002WGF2VVAtSERiX2NQOU8tZUNRalN60gG-AUFVX3lxTFBfY3BqSmFLU0RaVTh1VmVFeDdRLW83dXQ5OVItc2VTcXRHTDZ0ZG40N1I4cDJSMk1yLUlYM0tKb2JPVjQzdTNyU1pDUWRHM0lHb3NULWw2SjRwaFhPYjdUYXJtWmlFQ3p6NmE2VXRkVS1sM2V5ZHhnejlfOVZzX1dZVkFya2ljN3lRUXVUV3NYcFltSDN1SlhMT2g3Rm9YR1NxMEpZVDhheS05ZVJzSXhwMFFpRi1Wc1Q3THdqd3c?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "donaldtrumpstariffshavebroughtchinatothetablenews24",
+   "title": "Donald Trump\u2019s tariffs have \u2018brought China to the table\u2019 - News24",
+   "source": "News24",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0lSbFRUbUoxU2ZyUWVRZ3dWNFF1WV90QTNTdThQeFdzUGhkV3FXOXVyM1RlVm9JZDAtZHVldkoyYzZYZHFNMjc4NjAzV0hSNEFQM3pLNXJpMElKNGNfcWkzb25NTFgxQ1NVZlltSFZObWlNaTAzc2ZYOEZYYzg3S1JkT1A2RjhEUFpVTWd5OWUyYks0aTE1MEJFLTZpUFlUenVBMW1xRllTdnRfeUVnQVI4dWY5S242bFJRb1NYdXYwcWVjUnhFWDhYaHVFak44b2xTUNIB2gFBVV95cUxOZjlIS3J2elBzUEluN0UxU25tYzR0VzBKSTlNTzVobW1ua2tpVWk2ZXcxSDJJczY1T3BqVmFvWkJZVmtiZGpjaHJ1WGxTUlNhOXZVdFNnc0Mtd29uX0dMWUxtQ0dsOC1ITGhmRGo4a1pKZl9EV0xUQnN4OWpuQjNiYXhEbVM1WUY2eXVXc2toSXNZR1EzOTZOT2FPeExERWtuYnd2Y19sMW8xdkhJbVYybkhxZzlQc3dockZydDBoeGN0cExmZVQtSHhNUWQxXzFmaTV3UDA3cnhzQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,18 +113,6 @@
    "pts": 22
   },
   {
-   "key": "carneysaystrumpstradewarisgivingchinaanedgeonevspolitico",
-   "title": "Carney says Trump\u2019s trade war is giving China an edge on EVs - Politico",
-   "source": "Politico",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpadministrationtapstrmlabsin95millionpushtodisruptcrypto",
    "title": "Trump administration taps TRM Labs in $95 million push to disrupt crypto crime networks - Cryptonews.net",
    "source": "Cryptonews.net",
@@ -161,9 +161,21 @@
    "pts": 20
   },
   {
-   "key": "australiandollarsettoshed2026gainonrbaratecutbetsbloomberg",
-   "title": "Australian Dollar Set to Shed 2026 Gain on RBA Rate-Cut Bets - Bloomberg",
-   "source": "Bloomberg",
+   "key": "fedminuteshigherinterestratesneededindecemberasinflationworr",
+   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUR5MEc2YWZ1RlhNY2R6S0tQRzVYd1pocVNEN3NERWF2d2ZjbHNlc0p5LUVYTVo2Rm9jV1RSMnpaRGgxOG5FNVc4eWJ1M3Y4cWxmNDNSWVhCUU1taVRwOG1TQmZ5QTUtZVdEQXduLU53S1I0S2J5VlM1X1ZTWWVoSDhpYXV0NDhteXUzY3ZRTld0OGVwYXp1V2VtcW1ZYkFERkQxRtIBqgFBVV95cUxOanNuUmdXUVY2R2ZJeHY5SFhuVDZOX2tuSU9xQl9EUFdmZnZCTk51bHlZaEN5U1czYUJaQXlndGYwaDhCa3hCT1IxdTgtMzhVT2ljb1daTnFLQWxiTHdRYXRpaW80RXdFdW9YNmNUVzEwbHJsVDlTaGg5MkRTdFhzbmJJTjg3STVLMEt3Yjd4NkJqRDZvQ2pVOGVqYUxKMkppRFZBX0QxYUlUZw?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "australiandollarsettoshed2026gainonrbaratecutbetsbloombergco",
+   "title": "Australian Dollar Set to Shed 2026 Gain on RBA Rate-Cut Bets - Bloomberg.com",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWpXY0Npa2JnU2NRb0hZaE1jc01pR2V0ZFp4WkdfaTJGOTJ4UW8xaGN4YU55U0NyZktsbkFBV2JuNzVOQVl6MnpnTmhIaWYxMFN1OGlUbk44YmxfTlRaTnNZVXN2ZGx5c2VFT2hqckZBaklpSU5xM1ZURnZtWTNMb1VnbVZuU25wcTRQWXRBNFFwcW5ERG16MDRaWVRPOHAwSVM2VjVYSjZ6LXdDOC1iWg?oc=5",
    "themes": [
     "rates"
@@ -209,34 +221,22 @@
    "pts": 12
   },
   {
+   "key": "ministryofdefencesigns197640crorecontractwithisraelaerospace",
+   "title": "Ministry of Defence Signs \u20b91,976.40 Crore Contract with Israel Aerospace Industries for Barak Missile System Upgrade - SSBCrack",
+   "source": "SSBCrack",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWmxvREd3alhUdXVUZGtsUzhkcWNRbTYxRnU1ZVhrUzZ6UGU1Zk1aWjZFTmt3TkxKMkh0MzkwbUlVYnBfVjRWNkQyUDhhM2RyTldHZ0RVQzY4LTVOazBjN09DTF9nQjhKSENVOHpHbV9UT0JlSUdCZnp2WW5nTWRaYVMzZTIwY0lMUldNbGZrLUI1cmFPRmJiYVNmMS14NVpaMFNnMy1nSU93dlVhQVVqWE9mVTVROUVzaldJWV9STG93d0pTYk1tTFpFMFp4UjJFQjhDQUZTdnE1ZUpUdnZEN1VnZl9BMlpMTWRGY0dON1oySlE?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "franceawardsover15billionirissatellitecontractovertdefense",
    "title": "France Awards Over \u20ac1.5 Billion IRIS Satellite Contract - Overt Defense -",
    "source": "Overt Defense -",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpnRzREcjV2Vmw3STJtZHhCTGhUZTVZaEhFcHlSUzNoYmVrblExNzlnWHM1aGNuMVhjZDg4TnBkOXFyXy15elh1UEhBSmcyZmV3RndYVE04OWVNeG8tajkyUlU5QjBfMzliX2FHN1hrSVlxRzUySzlJQjJtd3JKRHRubGhWSHR5cGJMc2dQQzEyNHc2RFRvNF9FLXI?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "indiannavysbarakmissilesystemstoget1976croreupgrademodernisi",
-   "title": "Indian Navy's Barak missile systems to get \u20b91976 crore upgrade: Modernising air defence amid rising mariti.. - ET Government",
-   "source": "ET Government",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdVpSUHlmZmpSNDI2Vy0zSm81aW1rZHQtcXYzVnIyN1o5SlF0T0YzVF80MVZ5TEhzM1hXaVgzZUxsN1lEMFdsOHp5T09nZlE1X0dnQmNhR2lPcjVkdHQzZ21jc2ZlcGVXbm41cTg1ak1FNVRZMjNSRW95bVFNM1d1UFpheGl1ZlEycHNCWUFGVFIxb1o2TmlZZWV2SXRSRDhmTGxZOW9Oc203WUVwS0J1UWZXaDItdm9NQTA1aFNCN3VjQ3RiY1ZOVlRPQzgwQlRCMzlXOXAyWFY1YkdGLTRZbUo2U0c5bFRqSS1sNEhOYWNzQlJ5eXhDUl9NZzNQc1NaRHBsOHFoT1c0Q2o3c2Z3LWZQUUNEd9IBlgJBVV95cUxOdVpSUHlmZmpSNDI2Vy0zSm81aW1rZHQtcXYzVnIyN1o5SlF0T0YzVF80MVZ5TEhzM1hXaVgzZUxsN1lEMFdsOHp5T09nZlE1X0dnQmNhR2lPcjVkdHQzZ21jc2ZlcGVXbm41cTg1ak1FNVRZMjNSRW95bVFNM1d1UFpheGl1ZlEycHNCWUFGVFIxb1o2TmlZZWV2SXRSRDhmTGxZOW9Oc203WUVwS0J1UWZXaDItdm9NQTA1aFNCN3VjQ3RiY1ZOVlRPQzgwQlRCMzlXOXAyWFY1YkdGLTRZbUo2U0c5bFRqSS1sNEhOYWNzQlJ5eXhDUl9NZzNQc1NaRHBsOHFoT1c0Q2o3c2Z3LWZQUUNEdw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "generalmotorstargetshigherdefencerevenueasmilitarycontractse",
-   "title": "General Motors targets higher defence revenue as military contracts expand - Traders Union",
-   "source": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUt0WWw1UHVmWGdvUGVFV0hJZGw1MVh6cWRRc1FGOUtiMGNPam5LVnNydUJhVThEbWc3RFNheGtPX2ktdlpsQWVOaHlxUGRGeGlUOG9ZMTFBTllQTk16VEVva3RCWUtfOVhyOEw1WV8tLXRPMnZFX2lLd012aHZNTTQwNzNrOWxFSkZqdUJUN3Y?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,98 +248,98 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 474 min old)",
-   "score": 62
+   "why": "stale quote / market closed (last price 533 min old)",
+   "score": 72
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 56
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 57
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 57
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 92
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 82
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 474 min old)",
-   "score": 83
+   "why": "stale quote / market closed (last price 533 min old)",
+   "score": 73
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 474 min old)",
-   "score": 59
+   "why": "stale quote / market closed (last price 533 min old)",
+   "score": 60
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 474 min old)",
+   "why": "stale quote / market closed (last price 533 min old)",
    "score": 62
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 474 min old)",
-   "score": 79
+   "why": "stale quote / market closed (last price 533 min old)",
+   "score": 76
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 66
+   "why": "stale quote / market closed (last price 41 min old)",
+   "score": 35
   }
  ],
  "paper": {
@@ -353,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 03:53 PM AEDT",
+  "last_scan": "Thu 19 Nov 2026 04:52 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
