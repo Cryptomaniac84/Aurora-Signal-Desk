@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 20 Nov 2026 07:44 AM AEDT",
- "fx_audusd": 0.6664,
+ "generated": "Fri 20 Nov 2026 08:34 AM AEDT",
+ "fx_audusd": 0.6657,
  "signals": [],
  "events": [
   {
@@ -197,18 +197,6 @@
    "pts": 20
   },
   {
-   "key": "tsmcandsamsungsuspendsomechipshipmentstochinesecustomersfina",
-   "title": "TSMC and Samsung suspend some chip shipments to Chinese customers - Financial Times",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "thiscompanyturnsamericanmilkintocanadiancheesetariffsarecurd",
    "title": "This Company Turns American Milk Into Canadian Cheese. Tariffs Are Curdling Those Plans. - Reason Magazine",
    "source": "Reason Magazine",
@@ -233,12 +221,24 @@
    "pts": 12
   },
   {
-   "key": "chinapledgestariffcutsrussiacriticisessanctionsaheadoftalksw",
-   "title": "China pledges tariff cuts, Russia criticises sanctions ahead of talks with US - Asia News Network",
-   "source": "Asia News Network",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNDc1ZEJNVWE0ak80Z1E2eXdaT3F1Y2FNRDZmbDFXN3VHQU5CZU1RTWMzSFlaOEtyTDhkUDNnS2l3ZFUyOWZGWm03X29KRzlKSU51WlZ0aGdSdnRlRnFOWmZfZGZnWlNOaVpJbG1iRUNILVBDQVhoVmU0ajlmS1A5U2FtODFlVXp2X2M1bWJzM1JvdU04V1ZFRks1WG52VjlyaDhjY2dOVnRFQVZQbklaRi1fR2RBb0RCd0FRZlF4MkRtaDE3Rm5xNmczMHhRdnNiR0NfLVh0T0dTV2pDTXBkMFFWMjhBaDVIOHFZ?oc=5",
+   "key": "phuseye2billiondefenseloanexpandedtradetiesinquirernet",
+   "title": "PH, US eye $2-billion defense loan, expanded trade ties - Inquirer.net",
+   "source": "Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1FCVExrUl83N2R4cWZUaUMxeS05Mk1QMTZJY25Sb2c5Y3UyZ05JOWMyOWRjc3NzdkJia0xrNkZUV285TVhzZ0p2YXFTb04wdllCb3d5eGc3ekpXMjJGZTJrcFZydG15OUxwSHdHdXAwSW96c1BwTmVqZ3NDYTJyUy04OTh2eGlNcHhGUU0zQWJCRmRIaDJwS9IBngFBVV95cUxOUlY0QnRvd0c3alRVSU5lTUVkNnF3RmRaal95VzBNRkJDTm9iM0h2bVF0THZIcjVaLTRXeUxXRGxndzd5dzJXaXNHT2RsQXoxSEVFUGU0QTkxZUNvY05HR2t1RC1GTWVpME5jajMxWjRLNlFTSEllTzNhdlRYTGVkWTQ3MktNSWtxck5SQmJDaW9WVGU2RzZfbEU1TWZOQQ?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "l3harriswinsroughly28millionaustraliandefencecontractsecurit",
+   "title": "L3Harris Wins Roughly $28 Million Australian Defence Contract - Securities.io",
+   "source": "Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFB6RHJPajB3eVo2UnpJYWdLczYzVTdHVjhDV05TZkNsOVFFcmdWNmMxSU5CSEMta0pzWmhiYWRVNkVBcGdTck9WcllBSEszZUVWVTk5ZWJPVm5rVmw5b00ydDF2SlFiWG9tWGR2bXZRQzE4Wk5zQUhmWjRNWHhKdXBYVHlLUThEMmdtaHJZX2U?oc=5",
+   "themes": [
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -248,103 +248,83 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 40
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 50
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
-  },
-  {
-   "sym": "XLE",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 43
-  },
-  {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
-  },
-  {
-   "sym": "COIN",
-   "why": "volume not confirmed (1.3x normal)",
-   "score": 46
-  },
-  {
-   "sym": "MSTR",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
-  },
-  {
-   "sym": "LMT",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 47
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 41
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 45
-  },
-  {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.4x normal)",
+   "why": "stale quote / market closed (last price 35 min old)",
    "score": 55
   },
   {
+   "sym": "XLE",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 57
+  },
+  {
+   "sym": "FXI",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 57
+  },
+  {
+   "sym": "COIN",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 57
+  },
+  {
+   "sym": "MSTR",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 57
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 64
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 53
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 64
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 72
+  },
+  {
    "sym": "CVX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 92
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 934 min old)",
+   "why": "stale quote / market closed (last price 985 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 934 min old)",
+   "why": "stale quote / market closed (last price 985 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "stale quote / market closed (last price 35 min old)",
+   "score": 45
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 37
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 932 min old)",
+   "why": "stale quote / market closed (last price 35 min old)",
    "score": 38
   },
   {
-   "sym": "NVDA",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 55
-  },
-  {
-   "sym": "AMD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 43
-  },
-  {
-   "sym": "SOXX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 37
-  },
-  {
-   "sym": "TSM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 983 min old)",
+   "score": 38
   }
  ],
  "paper": {
@@ -358,7 +338,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 20 Nov 2026 07:44 AM AEDT",
+  "last_scan": "Fri 20 Nov 2026 08:34 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
