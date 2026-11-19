@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 07:19 PM AEDT",
- "fx_audusd": 0.6702,
+ "generated": "Thu 19 Nov 2026 08:32 PM AEDT",
+ "fx_audusd": 0.6707,
  "signals": [],
  "events": [
   {
@@ -185,10 +185,10 @@
    "pts": 20
   },
   {
-   "key": "fedswallersayscentralbankmayneedtoshockpeoplewithhalfpointra",
-   "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+   "key": "fedminuteshigherinterestratesneededindecemberasinflationworr",
+   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUR5MEc2YWZ1RlhNY2R6S0tQRzVYd1pocVNEN3NERWF2d2ZjbHNlc0p5LUVYTVo2Rm9jV1RSMnpaRGgxOG5FNVc4eWJ1M3Y4cWxmNDNSWVhCUU1taVRwOG1TQmZ5QTUtZVdEQXduLU53S1I0S2J5VlM1X1ZTWWVoSDhpYXV0NDhteXUzY3ZRTld0OGVwYXp1V2VtcW1ZYkFERkQxRtIBqgFBVV95cUxOanNuUmdXUVY2R2ZJeHY5SFhuVDZOX2tuSU9xQl9EUFdmZnZCTk51bHlZaEN5U1czYUJaQXlndGYwaDhCa3hCT1IxdTgtMzhVT2ljb1daTnFLQWxiTHdRYXRpaW80RXdFdW9YNmNUVzEwbHJsVDlTaGg5MkRTdFhzbmJJTjg3STVLMEt3Yjd4NkJqRDZvQ2pVOGVqYUxKMkppRFZBX0QxYUlUZw?oc=5",
    "themes": [
     "rates"
    ],
@@ -197,10 +197,22 @@
    "pts": 20
   },
   {
-   "key": "australiandollarsettoshed2026gainonrbaratecutbetsbloombergco",
-   "title": "Australian Dollar Set to Shed 2026 Gain on RBA Rate-Cut Bets - Bloomberg.com",
-   "source": "Bloomberg.com",
+   "key": "australiandollarsettoshed2026gainonrbaratecutbetsbloomberg",
+   "title": "Australian Dollar Set to Shed 2026 Gain on RBA Rate-Cut Bets - Bloomberg",
+   "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWpXY0Npa2JnU2NRb0hZaE1jc01pR2V0ZFp4WkdfaTJGOTJ4UW8xaGN4YU55U0NyZktsbkFBV2JuNzVOQVl6MnpnTmhIaWYxMFN1OGlUbk44YmxfTlRaTnNZVXN2ZGx5c2VFT2hqckZBaklpSU5xM1ZURnZtWTNMb1VnbVZuU25wcTRQWXRBNFFwcW5ERG16MDRaWVRPOHAwSVM2VjVYSjZ6LXdDOC1iWg?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "fedswallersayscentralbankmayneedtoshockpeoplewithhalfpointra",
+   "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
    "themes": [
     "rates"
    ],
@@ -231,134 +243,122 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "l3harriswinsroughly28millionaustraliandefencecontractsecurit",
-   "title": "L3Harris Wins Roughly $28 Million Australian Defence Contract - Securities.io",
-   "source": "Securities.io",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFB6RHJPajB3eVo2UnpJYWdLczYzVTdHVjhDV05TZkNsOVFFcmdWNmMxSU5CSEMta0pzWmhiYWRVNkVBcGdTck9WcllBSEszZUVWVTk5ZWJPVm5rVmw5b00ydDF2SlFiWG9tWGR2bXZRQzE4Wk5zQUhmWjRNWHhKdXBYVHlLUThEMmdtaHJZX2U?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 62
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 56
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 57
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 57
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 92
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 752 min old)",
    "score": 54
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 189 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 189 min old)",
+   "why": "stale quote / market closed (last price 262 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 82
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 83
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 59
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 62
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 679 min old)",
+   "why": "stale quote / market closed (last price 753 min old)",
    "score": 79
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 187 min old)",
+   "why": "stale quote / market closed (last price 261 min old)",
    "score": 36
   }
  ],
@@ -373,7 +373,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 07:19 PM AEDT",
+  "last_scan": "Thu 19 Nov 2026 08:32 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
