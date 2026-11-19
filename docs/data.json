@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Fri 20 Nov 2026 06:54 AM AEDT",
+ "generated": "Fri 20 Nov 2026 07:44 AM AEDT",
  "fx_audusd": 0.6664,
  "signals": [],
  "events": [
-  {
-   "key": "keytakeawayfromtrumpxiputinmeetinghowchinarespondstotighterc",
-   "title": "Key Takeaway from Trump-Xi-Putin meeting: How China responds to tighter chip exports controls - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbHM5N3NEanduaVVJVG5jV3paTTMyeW92WUhUSHBXRjRYc2o0V2VFM1pqMVZ6b0ZMdzRhc2YwVGVxSXlpSDMtLVB2dW5YNGRRaTFHQVMybHhBWExCSmRHX25RUWs2d2c0M0dHSzhheTRtbFFUQVRzbHpzMGZwSlo5TkpJN04yOEpvaHd3OU41ak13VVltSHJDSFRBZVhMMXkzZ0lBRTlmNzlVcXpyQW56RVZjakdTV1hPLUtxUTdlbWs3Z1JLZmVqb0NlT2Y5ZldR?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "undoingtrumpstariffswillbeharderthanitseemsamericasquarterly",
    "title": "Undoing Trump\u2019s Tariffs Will Be Harder Than It Seems - Americas Quarterly",
@@ -137,18 +125,6 @@
    "pts": 22
   },
   {
-   "key": "trumpstarifftroublescouldgivecarneyedgeonindiadealnewsweek",
-   "title": "Trump\u2019s Tariff Troubles Could Give Carney Edge on India Deal - Newsweek",
-   "source": "Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHhySTN1bGlfS2N5T1JDeEMzdE5MMS1IY19aODRwandTY2V4U3lnOUZnSXpXVUt2OUg2anBKLXItV3cwa0Z6b2wyZW5uX05UV2ZSamt6aUUtZl9qSnVTeWdQdFQ0Q0NyOGNrd3lSUEtnaUgzcl9kNXg3d2JNUXQ3YXV4cVdYUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpmediawantstoclear884millionofdebtwithoutsellingitsbitco",
    "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin (BTC) - CoinDesk",
    "source": "CoinDesk",
@@ -243,98 +219,102 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonusesscri",
+   "title": "Tariff refunds worth millions are helping fund corporate bonuses - Scripps News",
+   "source": "Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "chinapledgestariffcutsrussiacriticisessanctionsaheadoftalksw",
+   "title": "China pledges tariff cuts, Russia criticises sanctions ahead of talks with US - Asia News Network",
+   "source": "Asia News Network",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNDc1ZEJNVWE0ak80Z1E2eXdaT3F1Y2FNRDZmbDFXN3VHQU5CZU1RTWMzSFlaOEtyTDhkUDNnS2l3ZFUyOWZGWm03X29KRzlKSU51WlZ0aGdSdnRlRnFOWmZfZGZnWlNOaVpJbG1iRUNILVBDQVhoVmU0ajlmS1A5U2FtODFlVXp2X2M1bWJzM1JvdU04V1ZFRks1WG52VjlyaDhjY2dOVnRFQVZQbklaRi1fR2RBb0RCd0FRZlF4MkRtaDE3Rm5xNmczMHhRdnNiR0NfLVh0T0dTV2pDTXBkMFFWMjhBaDVIOHFZ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
-   "sym": "NVDA",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 45
-  },
-  {
-   "sym": "AMD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 61
-  },
-  {
-   "sym": "SOXX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
-  },
-  {
-   "sym": "TSM",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
-  },
-  {
    "sym": "GLD",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
-  },
-  {
-   "sym": "ITA",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
-  },
-  {
-   "sym": "XLE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 39
-  },
-  {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
-  },
-  {
-   "sym": "COIN",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 39
-  },
-  {
-   "sym": "MSTR",
-   "why": "volume not confirmed (0.4x normal)",
+   "why": "volume not confirmed (0.5x normal)",
    "score": 40
   },
   {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 42
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 39
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.7x normal)",
+   "sym": "ITA",
+   "why": "volume not confirmed (0.6x normal)",
    "score": 41
   },
   {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "sym": "XLE",
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 43
   },
   {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
+   "sym": "FXI",
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 41
+  },
+  {
+   "sym": "COIN",
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 46
+  },
+  {
+   "sym": "MSTR",
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 41
+  },
+  {
+   "sym": "LMT",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 47
+  },
+  {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 41
+  },
+  {
+   "sym": "NOC",
+   "why": "volume not confirmed (1.2x normal)",
    "score": 45
   },
   {
+   "sym": "XOM",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 55
+  },
+  {
+   "sym": "CVX",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
+  },
+  {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 884 min old)",
+   "why": "stale quote / market closed (last price 934 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 884 min old)",
+   "why": "stale quote / market closed (last price 934 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "QQQ",
@@ -343,8 +323,28 @@
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 882 min old)",
+   "why": "stale quote / market closed (last price 932 min old)",
    "score": 38
+  },
+  {
+   "sym": "NVDA",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 55
+  },
+  {
+   "sym": "AMD",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 43
+  },
+  {
+   "sym": "SOXX",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 37
+  },
+  {
+   "sym": "TSM",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
   }
  ],
  "paper": {
@@ -358,7 +358,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 20 Nov 2026 06:54 AM AEDT",
+  "last_scan": "Fri 20 Nov 2026 07:44 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
