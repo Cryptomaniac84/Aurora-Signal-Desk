@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 09:35 PM AEDT",
- "fx_audusd": 0.6713,
+ "generated": "Thu 19 Nov 2026 10:34 PM AEDT",
+ "fx_audusd": 0.6715,
  "signals": [],
  "events": [
   {
@@ -21,6 +21,18 @@
    "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - Japan Today",
    "source": "Japan Today",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdnF1cFdmQlEyYjI2bEVyRGhkVUxCSXNFSU1KdGs0S2NDTVpOS2l1NmQwemdLT09HV1dQZmhJUGVWYk5faHdtZEpsYk9QZEFsUjBFVHprZUhtZWgyU05YLWM2VEFraXB2RUtTV0w3WldNSE1pWHlicmlwTHU5bndQMHRJSjB5T2RENjlIRWxZWWM3U05ZRXlMc3dDdTR6Vm10czBLc0pzd3AtU3ZnczY2c3VYaVNwNFJicUg4Z1VvLVEyNUY2cVAtWHJEYWM2elBIWmlibHZpNTF1bG83WkYyMktJU3pZc1J5algyYjRNTUYyNHNsVnE2TGc0aHlIYlk?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "thebillfortrumpstradewariscomingdueathomeandabroadfortune",
+   "title": "The bill for Trump\u2019s trade war is coming due\u2014at home and abroad - Fortune",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVldTODA1VnhXU3N6SlR3SEhVX21UaEd6WDZQLW5zdDdybXJXTThQM04wcElBaXhIUDR5dFpqUkF6MVZLN2VyNFVWV2F3UTJjT3UwZE1yc3ZvZFlQQkxmem5UX2FIR096ZTBOOVVxWVU1QQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -81,18 +93,6 @@
    "title": "Donald Trump\u2019s tariffs have \u2018brought China to the table\u2019 - News24",
    "source": "News24",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZjlIS3J2elBzUEluN0UxU25tYzR0VzBKSTlNTzVobW1ua2tpVWk2ZXcxSDJJczY1T3BqVmFvWkJZVmtiZGpjaHJ1WGxTUlNhOXZVdFNnc0Mtd29uX0dMWUxtQ0dsOC1ITGhmRGo4a1pKZl9EV0xUQnN4OWpuQjNiYXhEbVM1WUY2eXVXc2toSXNZR1EzOTZOT2FPeExERWtuYnd2Y19sMW8xdkhJbVYybkhxZzlQc3dockZydDBoeGN0cExmZVQtSHhNUWQxXzFmaTV3UDA3cnhzQdIB2gFBVV95cUxOZjlIS3J2elBzUEluN0UxU25tYzR0VzBKSTlNTzVobW1ua2tpVWk2ZXcxSDJJczY1T3BqVmFvWkJZVmtiZGpjaHJ1WGxTUlNhOXZVdFNnc0Mtd29uX0dMWUxtQ0dsOC1ITGhmRGo4a1pKZl9EV0xUQnN4OWpuQjNiYXhEbVM1WUY2eXVXc2toSXNZR1EzOTZOT2FPeExERWtuYnd2Y19sMW8xdkhJbVYybkhxZzlQc3dockZydDBoeGN0cExmZVQtSHhNUWQxXzFmaTV3UDA3cnhzQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -197,18 +197,6 @@
    "pts": 20
   },
   {
-   "key": "canadiantariffstofurtherraisepricesatopconcernforvotersnewsf",
-   "title": "Canadian tariffs to further raise prices, a top concern for voters - News From The States",
-   "source": "News From The States",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEd4eFVVOUQ2VTRQd01md0h2clVBU0dSVUx0U0Nudmx4WFlVNm5VakYwaDRQUTZSYzZDS25PWjI0TjlEWVU3R0U1Qjh1OW56Tjd6MG8wQjZvQ2xaeWhMYzZuSmFkd1c3OWtfMVdmdEVIUC1LZHNHSXFhVEZnaGo0UEdfSW9IbzJmM05NbjNiYXd6OVdEQmRTYlJXaWRYa0U?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "tktkpagehedforcurrentpageseehowmuchcompaniesaregettingintari",
    "title": "TKTK-pageHed-for-current-page - See How Much Companies Are Getting in Tariff Refunds - ProPublica",
    "source": "ProPublica",
@@ -233,12 +221,24 @@
    "pts": 12
   },
   {
-   "key": "factcheckdidnvidiasufferacyberattackandfacethreatstoexposest",
-   "title": "Fact Check: Did NVIDIA suffer a cyberattack and face threats to expose stolen data? - MEAWW News",
-   "source": "MEAWW News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDN0Y2k0OHVvd0ZpdlFCZXVoamN2S2ZrZEtHNldmbW1aTXNPVkJfY29rNnhyNWphUUlPLVliVmIzTDFVZkZWeE84aWNoYWxhSmpiMHNMWmdXel9TZ0tpb3NVZUkxX1RtYjhaM2d3TWdfRFEyTWlrLWtzemNvTmtVOEktQk1BVEJ6ZEZpbXJrazhiRm1oSDhONk11cW5OMlpLS2dFdUdINA?oc=5",
+   "key": "politicalbacklashdroveesginvestingretreatnotwaroraisustainab",
+   "title": "Political backlash drove ESG investing retreat \u2014 not war or AI - Sustainable Views",
+   "source": "Sustainable Views",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZy1zNlJfRmcydWkzbzg3RUt4dkdpR09VYS1maXdHMWZwSHQxeElnUVhyMXowM1hTeGFZN3IxVlBqU1Z2aHFhTm9zM2Q0YmI1ekZqTzFJcWp0dmg1YW9GQURZdlg1OHJ3eUlBR3AyNzk0cHJTUXQ1T2Vac3ZJS1lnZC1SSmtrSW0zaHpPR3VuTHZUQll2ekFhdXp3Sml6dW10Y3N2R1l3?oc=5",
    "themes": [
-    "semiconductors"
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "l3harriswinsroughly28millionaustraliandefencecontractsecurit",
+   "title": "L3Harris Wins Roughly $28 Million Australian Defence Contract - Securities.io",
+   "source": "Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFB6RHJPajB3eVo2UnpJYWdLczYzVTdHVjhDV05TZkNsOVFFcmdWNmMxSU5CSEMta0pzWmhiYWRVNkVBcGdTck9WcllBSEszZUVWVTk5ZWJPVm5rVmw5b00ydDF2SlFiWG9tWGR2bXZRQzE4Wk5zQUhmWjRNWHhKdXBYVHlLUThEMmdtaHJZX2U?oc=5",
+   "themes": [
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -248,118 +248,118 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 816 min old)",
-   "score": 62
+   "why": "stale quote / market closed (last price 875 min old)",
+   "score": 72
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 56
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 57
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 57
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 92
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 92
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 54
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 326 min old)",
+   "why": "stale quote / market closed (last price 385 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 326 min old)",
+   "why": "stale quote / market closed (last price 385 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 82
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 816 min old)",
-   "score": 83
+   "why": "stale quote / market closed (last price 875 min old)",
+   "score": 73
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 816 min old)",
-   "score": 59
+   "why": "stale quote / market closed (last price 875 min old)",
+   "score": 60
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 816 min old)",
+   "why": "stale quote / market closed (last price 875 min old)",
    "score": 62
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 816 min old)",
-   "score": 79
+   "why": "stale quote / market closed (last price 875 min old)",
+   "score": 76
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 324 min old)",
-   "score": 36
+   "why": "stale quote / market closed (last price 383 min old)",
+   "score": 35
   }
  ],
  "paper": {
@@ -373,7 +373,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 09:35 PM AEDT",
+  "last_scan": "Thu 19 Nov 2026 10:34 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
