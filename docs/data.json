@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 02:47 PM AEDT",
- "fx_audusd": 0.6675,
+ "generated": "Thu 19 Nov 2026 03:53 PM AEDT",
+ "fx_audusd": 0.6679,
  "signals": [],
  "events": [
   {
@@ -93,6 +93,18 @@
    "title": "Trump, Carney explore path to trade deal amid tariff tensions - TRT World",
    "source": "TRT World",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2X0hzdjhQaUVnNWZKd1o4UFpyaExUaGR5TGJLbVgzY3laR3ZjbDJSVlFIcWpwaThkUGZpTXUyOWE0R0Jwa2tqV29qZ1E1dndtVkJ4WlNGUE8?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "carneysaystrumpstradewarisgivingchinaanedgeonevspolitico",
+   "title": "Carney says Trump\u2019s trade war is giving China an edge on EVs - Politico",
+   "source": "Politico",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXIzOUh4SnE0LS1VVmtEVHZjcG1ucUR0MzRzN1lNeXVjb1lKbXl3QjJjVlZkbDNJUXJtUWRFcE1VN0tkeTgwSHpfMlBXbWlnbTV4LUJyTkpjbGhkdFpLb2dJMTlMeE4tTmJsaEc5TDlxUjFSTWt3QTRsV2h3aWw3QlNxcFJ3WGMxX09vOQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -209,34 +221,22 @@
    "pts": 12
   },
   {
+   "key": "indiannavysbarakmissilesystemstoget1976croreupgrademodernisi",
+   "title": "Indian Navy's Barak missile systems to get \u20b91976 crore upgrade: Modernising air defence amid rising mariti.. - ET Government",
+   "source": "ET Government",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdVpSUHlmZmpSNDI2Vy0zSm81aW1rZHQtcXYzVnIyN1o5SlF0T0YzVF80MVZ5TEhzM1hXaVgzZUxsN1lEMFdsOHp5T09nZlE1X0dnQmNhR2lPcjVkdHQzZ21jc2ZlcGVXbm41cTg1ak1FNVRZMjNSRW95bVFNM1d1UFpheGl1ZlEycHNCWUFGVFIxb1o2TmlZZWV2SXRSRDhmTGxZOW9Oc203WUVwS0J1UWZXaDItdm9NQTA1aFNCN3VjQ3RiY1ZOVlRPQzgwQlRCMzlXOXAyWFY1YkdGLTRZbUo2U0c5bFRqSS1sNEhOYWNzQlJ5eXhDUl9NZzNQc1NaRHBsOHFoT1c0Q2o3c2Z3LWZQUUNEd9IBlgJBVV95cUxOdVpSUHlmZmpSNDI2Vy0zSm81aW1rZHQtcXYzVnIyN1o5SlF0T0YzVF80MVZ5TEhzM1hXaVgzZUxsN1lEMFdsOHp5T09nZlE1X0dnQmNhR2lPcjVkdHQzZ21jc2ZlcGVXbm41cTg1ak1FNVRZMjNSRW95bVFNM1d1UFpheGl1ZlEycHNCWUFGVFIxb1o2TmlZZWV2SXRSRDhmTGxZOW9Oc203WUVwS0J1UWZXaDItdm9NQTA1aFNCN3VjQ3RiY1ZOVlRPQzgwQlRCMzlXOXAyWFY1YkdGLTRZbUo2U0c5bFRqSS1sNEhOYWNzQlJ5eXhDUl9NZzNQc1NaRHBsOHFoT1c0Q2o3c2Z3LWZQUUNEdw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "generalmotorstargetshigherdefencerevenueasmilitarycontractse",
    "title": "General Motors targets higher defence revenue as military contracts expand - Traders Union",
    "source": "Traders Union",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUt0WWw1UHVmWGdvUGVFV0hJZGw1MVh6cWRRc1FGOUtiMGNPam5LVnNydUJhVThEbWc3RFNheGtPX2ktdlpsQWVOaHlxUGRGeGlUOG9ZMTFBTllQTk16VEVva3RCWUtfOVhyOEw1WV8tLXRPMnZFX2lLd012aHZNTTQwNzNrOWxFSkZqdUJUN3Y?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "defenceministrysignsrs197640crorecontractwithisraelaerospace",
-   "title": "Defence Ministry signs Rs 1,976.40 crore contract with Israel Aerospace Industries to upgrade Barak Missile Systems - DD India",
-   "source": "DD India",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPektsY3Z5QWJoUkwwN09IZU4tQWN0S3R4QkVRdzVyczlXWW5mZ2RYV05aOUJiNHg5bTVENmY2RG5Xd3U5bk9GRUl3bXdkT1hTTFpaZnc0WlVxWWJxamRJUHNMSnVSdGJhNXY4Q21TLUFrTldzTUIxRUxyQVNINHBHeWxtUk9KVm41c01HN0ZXVEJfTktBdUluUFdpSkYxOFJqd1h2aG95aHFRWkJQUnpfY0ZReW0zVlVnT2xOVTR2MlZXcEp1cXJTRDYwd29wd1QyRjllQWZhem9UdTg3RkE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "tonbowinsars3562croredefencethermalsightordermultibaggai",
-   "title": "Tonbo wins a Rs 35.62 crore Defence thermal-sight order - Multibagg AI",
-   "source": "Multibagg AI",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWVJTXhxUEF5RkJIRV80eUEycUNBak5LVmZLaXZVNEVnSHhQUjdLS25MRnNfWVFaNW96REcwazVrSUw4TXc1VmFsenozZF92MURuMnlQTWRHZWhkeWpFRklKckhEQm1FM2s1eWdiY3k1MjlUNE0wVVZOQTJnUENSNXBYbDZza0pmSW1FVHZYYUFyZC1vZmFWbzJ0WHBfTTZxeWwtWE4xY2tWa08wN3RzazAzZDRTcGFHb193?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,98 +248,98 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 62
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 56
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 57
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 57
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 92
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 82
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 83
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 59
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 62
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 407 min old)",
+   "why": "stale quote / market closed (last price 474 min old)",
    "score": 79
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 66
   }
  ],
  "paper": {
@@ -353,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 02:47 PM AEDT",
+  "last_scan": "Thu 19 Nov 2026 03:53 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
