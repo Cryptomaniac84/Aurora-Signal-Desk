@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Fri 20 Nov 2026 01:46 AM AEDT",
- "fx_audusd": 0.671,
+ "generated": "Fri 20 Nov 2026 02:48 AM AEDT",
+ "fx_audusd": 0.668,
  "signals": [],
  "events": [
+  {
+   "key": "keytakeawayfromtrumpxiputinmeetinghowchinarespondstotighterc",
+   "title": "Key Takeaway from Trump-Xi-Putin meeting: How China responds to tighter chip exports controls - CNBC",
+   "source": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbHM5N3NEanduaVVJVG5jV3paTTMyeW92WUhUSHBXRjRYc2o0V2VFM1pqMVZ6b0ZMdzRhc2YwVGVxSXlpSDMtLVB2dW5YNGRRaTFHQVMybHhBWExCSmRHX25RUWs2d2c0M0dHSzhheTRtbFFUQVRzbHpzMGZwSlo5TkpJN04yOEpvaHd3OU41ak13VVltSHJDSFRBZVhMMXkzZ0lBRTlmNzlVcXpyQW56RVZjakdTV1hPLUtxUTdlbWs3Z1JLZmVqb0NlT2Y5ZldR?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "eugovernmentsapprovetradedealwithindonesiatooffsettrumptarif",
    "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs - Al Jazeera",
@@ -149,12 +161,36 @@
    "pts": 22
   },
   {
+   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiatheedgemalays",
+   "title": "US to curb China's access to AI chips as Trump heads to Asia - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QlkyNTRRaHlHY3RKcEh0UzVoNl9ORk1uVUpsQ0M2VUZqOFU0OTRjN1RLcVFBd1VLZ2o4dTZyQUd0ZFlOTkJ3bnpQT1RETzBN?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "tradersarebettingoninterestratesstayinghighforyearsbloomberg",
    "title": "Traders Are Betting on Interest Rates Staying High for Years - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOendXZWRGalVfMHpfQTJhRGFXOXdyNW1hYmhhUDNXTWFfbWVLNy1mQmJhZEhKWDR1aVo0LTZ4Q3JhemNpQzR2M0hxNDlvanV3MmlVNVA3aEY0QkVtNEwzQWpDTWMwTWRfcUNmTngtMThtTjhHRGI2a3Z6VGhiWEIxZUNHdEFXT0R2R0F0S3BsLVlXY3M5SVcxUy1pYlVMak5Rd0hwVERQeF9DOHNzVjJQdw?oc=5",
    "themes": [
     "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "nvidiasscandalsmakethecaseforchipcontrolsbloombergcom",
+   "title": "Nvidia\u2019s Scandals Make the Case for Chip Controls - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQl9mbnhOUFNfNmxWN0U4LXIzVXgtY3lNOW1jajUzVE41U0UzaGRyMHlrRlZpUkQ4ZjRMRXpTM3BYallsOFJFblRyUmVwOFZZeEh3NkE4MnRJVWpCTk1vN2E0Tmpodlp1NkZvdmFjelF3LXBudnpSSHZDdE5CejZEUXR2emlHYUc5YmZiTUU3MThnamRQb2pwendGNFNGUlBQMjVqNDZOcw?oc=5",
+   "themes": [
+    "semiconductors"
    ],
    "trump": false,
    "trusted": true,
@@ -207,74 +243,58 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "l3harriswinsroughly28millionaustraliandefencecontractsecurit",
-   "title": "L3Harris Wins Roughly $28 Million Australian Defence Contract - Securities.io",
-   "source": "Securities.io",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFB6RHJPajB3eVo2UnpJYWdLczYzVTdHVjhDV05TZkNsOVFFcmdWNmMxSU5CSEMta0pzWmhiYWRVNkVBcGdTck9WcllBSEszZUVWVTk5ZWJPVm5rVmw5b00ydDF2SlFiWG9tWGR2bXZRQzE4Wk5zQUhmWjRNWHhKdXBYVHlLUThEMmdtaHJZX2U?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "hungarysministryofdefencesignedcontractwithfugitivebusinessm",
-   "title": "Hungary's Ministry of Defence signed contract with fugitive businessman wanted by the government - Daily News Hungary",
-   "source": "Daily News Hungary",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LSzhpMnRiS3hzVHBfWEl6cU9NMFd5dk9uaVRKZ0hYcm5wdFZEblQ3M2t2bW9SYjRNbTk2djlHczJ0VlJ4TTlVc1BzTFZEODUyQjhSRWlHRTRidlhIUW1MWUpfMnlLNzR3X0RxNGxOTVpYSzgxTzAzb0VOTQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "ministryofdefencesigns197640crorecontractwithisraelaerospace",
-   "title": "Ministry of Defence Signs \u20b91,976.40 Crore Contract with Israel Aerospace Industries for Barak Missile System Upgrade - SSBCrack",
-   "source": "SSBCrack",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWmxvREd3alhUdXVUZGtsUzhkcWNRbTYxRnU1ZVhrUzZ6UGU1Zk1aWjZFTmt3TkxKMkh0MzkwbUlVYnBfVjRWNkQyUDhhM2RyTldHZ0RVQzY4LTVOazBjN09DTF9nQjhKSENVOHpHbV9UT0JlSUdCZnp2WW5nTWRaYVMzZTIwY0lMUldNbGZrLUI1cmFPRmJiYVNmMS14NVpaMFNnMy1nSU93dlVhQVVqWE9mVTVROUVzaldJWV9STG93d0pTYk1tTFpFMFp4UjJFQjhDQUZTdnE1ZUpUdnZEN1VnZl9BMlpMTWRGY0dON1oySlE?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
+   "sym": "NVDA",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 47
+  },
+  {
+   "sym": "AMD",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 60
+  },
+  {
+   "sym": "SOXX",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
+  },
+  {
+   "sym": "TSM",
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 50
+  },
+  {
    "sym": "GLD",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 41
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 55
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 41
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 56
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 40
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 42
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 44
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 69
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 40
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 76
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 42
   },
   {
    "sym": "LMT",
@@ -283,47 +303,47 @@
   },
   {
    "sym": "RTX",
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 41
+  },
+  {
+   "sym": "NOC",
    "why": "volume not confirmed (0.3x normal)",
    "score": 39
   },
   {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 38
-  },
-  {
    "sym": "XOM",
    "why": "volume not confirmed (0.3x normal)",
-   "score": 46
+   "score": 39
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 56
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 39
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 577 min old)",
+   "why": "stale quote / market closed (last price 639 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 577 min old)",
+   "why": "stale quote / market closed (last price 639 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 57
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 43
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 47
+   "why": "price not above VWAP and 20-bar average",
+   "score": 57
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 575 min old)",
+   "why": "stale quote / market closed (last price 637 min old)",
    "score": 38
   }
  ],
@@ -338,7 +358,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 20 Nov 2026 01:46 AM AEDT",
+  "last_scan": "Fri 20 Nov 2026 02:48 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
