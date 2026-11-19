@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 12:57 PM AEDT",
- "fx_audusd": 0.6684,
+ "generated": "Thu 19 Nov 2026 01:46 PM AEDT",
+ "fx_audusd": 0.6673,
  "signals": [],
  "events": [
-  {
-   "key": "trumpslapsadditional50tariffoncertaincanadiangoodsabcnewsbre",
-   "title": "Trump slaps additional 50% tariff on certain Canadian goods - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDZTVjFHZXBWcUoteUpOakQ0T016RDVlQWxGR19KYnhEeEdfQzV3UmVLNkdEbWVCckxFbHZsNjhpcW9HQktmWGd5RmtobE1fWTJ4TnpqQlRZZDJRTUs2QzU4eW9zNl9ZeEpfRFk0OVRRTzRBVUJYS1F0dTFWRlNqNUFNV0taQU81MnBWbHd1MG5rendjb1g1X290RdIBoAFBVV95cUxPX09ka2RKeVgzdHdOWERZWHFGNWhmeWk0bHE5b0V3T3B0X19JQzZfcVQ0SHFkNXRBLWp3Sk1QMWduVU5sdy1DektIa19VeWtwTGNuNy1lbnU0OW0wazRjN1ZQdWJZdlp1N2kwSjc3RVhBaG40eFZTN0xTbE5xTHMyenZZazdlOXdqSHhrbkZrcTlzOGZiX3BnTy1tSThqTm1G?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "eugovernmentsapprovetradedealwithindonesiatooffsettrumptarif",
    "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs - Al Jazeera",
@@ -32,7 +20,7 @@
    "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
    "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - Japan Today",
    "source": "Japan Today",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ2w5SDQ2czNhMjFZSXpHN1diOFg2eEJoQ3NWaVdDT3FRRW5oaG5COHluMFl0QVNRQ0ZSa05lclFqWmFMZnA1N3lWTERPQzE3cGhKWC1zMzNuX0cxWDlKSWFGN2dLbFplMG10aEQycHUzbEtWUGtaX0xYVndsS1F6Yk9kNHAwWkRETXJhUWwybzJHQVVaNDRmMHlKejZ5d0FPX3hGczFjT2xfbjJ0dEVybUF1Mk1xVjAzc3ZrOGFrWlFZUVY3RXZrMl95VnZ2SjZXWk5YRGpPaUdsa0E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdnF1cFdmQlEyYjI2bEVyRGhkVUxCSXNFSU1KdGs0S2NDTVpOS2l1NmQwemdLT09HV1dQZmhJUGVWYk5faHdtZEpsYk9QZEFsUjBFVHprZUhtZWgyU05YLWM2VEFraXB2RUtTV0w3WldNSE1pWHlicmlwTHU5bndQMHRJSjB5T2RENjlIRWxZWWM3U05ZRXlMc3dDdTR6Vm10czBLc0pzd3AtU3ZnczY2c3VYaVNwNFJicUg4Z1VvLVEyNUY2cVAtWHJEYWM2elBIWmlibHZpNTF1bG83WkYyMktJU3pZc1J5algyYjRNTUYyNHNsVnE2TGc0aHlIYlk?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,10 +41,22 @@
    "pts": 22
   },
   {
-   "key": "xipledgestariffcutsandputincriticisessanctionsaheadofnov19ta",
-   "title": "Xi pledges tariff cuts and Putin criticises sanctions ahead of Nov 19 talks with Trump - Nation Thailand",
+   "key": "usaskstokeepcollectingtrumpstariffsaftercourtlossenergynowco",
+   "title": "U.S. Asks to Keep Collecting Trump\u2019s Tariffs After Court Loss - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU9JN2Vlb2FpV0NGUnlXTklZb1V0RHdWVnB6TWk1NEdqa3dYMGs0WXAwQkpmWk1NTi1nRHJwWHE4Y0RUYm1rVHJkNGpoWjBQRVQ0NEFtRzByTWFzTjlzQ1pLUExmX0NlSXNkNVA5YWxZX0FDbWhzTDhWcDZTSTY2U2p3Y25FbUcyVVdwc1dWRlpobnhn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "sirikanyachallengesanutinovertarifftermsdisclosedbytrumpnati",
+   "title": "Sirikanya challenges Anutin over tariff terms disclosed by Trump - Nation Thailand",
    "source": "Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YX1VRdUZQaTh6OXU4bE4yZ24yUmdhdlNsOEtVRGpQQUNidFdsSFdzRlljNFNNVXFyQm0wTER1MkNsa3lZRWFXSkZNSVROVUpKSEpuSVFsbWFwRjJrMmQw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9adE5BUmczT080bEtvVmFqaDVqQjg3dW9YbXVpX3QtcTJjRkxjVHpkZnZTQUxhVVliTmlXcmVvNmhZRmdhSmpzLUVZTHlvb1h5OVhqVmZJNklCcllLbjJLYWcwQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,6 +149,18 @@
    "pts": 20
   },
   {
+   "key": "fedsdalyurgesratehikeswithathoughtfulmeasuredapproachbloombe",
+   "title": "Fed\u2019s Daly Urges Rate Hikes With a Thoughtful, Measured Approach - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDJGNGRIU0Q3NE5tbW9qVUpjd2NCUTRuZTdERXEwY2Q5bEQtZ1NNVjFLQmwwdnVMRERPSnN4cm1TcXBLRWxDcWtxS0tZdXdBanJVNVhhRVBOVWtKYlplWXFwcHFkUmJTRWtVQjBUaGRZUGpiWU1acVdESEZvck9TSzBiNHVhdk5rNlZDMEpKYk5zS1dxSVpDdGxZWjEyOEJKTTdldVo2Q3Z6dHpPOVF0cWJGSW4?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "breakingviewscommentarychipcurbsthreatenuschinatradetrucereu",
    "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
    "source": "Reuters",
@@ -161,84 +173,72 @@
    "pts": 20
   },
   {
-   "key": "l3harriswinsroughly28millionaustraliandefencecontractsecurit",
-   "title": "L3Harris Wins Roughly $28 Million Australian Defence Contract - Securities.io",
-   "source": "Securities.io",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFB6RHJPajB3eVo2UnpJYWdLczYzVTdHVjhDV05TZkNsOVFFcmdWNmMxSU5CSEMta0pzWmhiYWRVNkVBcGdTck9WcllBSEszZUVWVTk5ZWJPVm5rVmw5b00ydDF2SlFiWG9tWGR2bXZRQzE4Wk5zQUhmWjRNWHhKdXBYVHlLUThEMmdtaHJZX2U?oc=5",
+   "key": "tktkpagehedforcurrentpageseehowmuchcompaniesaregettingintari",
+   "title": "TKTK-pageHed-for-current-page - See How Much Companies Are Getting in Tariff Refunds - ProPublica",
+   "source": "ProPublica",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWl0UWFUWkw3QVFHMVhmMVNZUHJQSW5VX1NmU2RRNE9MNTM3aVhwZER5WVh3VFVtRzdZWjg4SnA3S1dBYkJwQ1htSGc2ZlhfVHZDTnZ6ZGFBUkFYT203cXVUVW5qcWdNR1lSd3dSZlZ1OXNzY043VHYwd2QzN0VWLXIyLXpxck1xREswdzFNMnowYUxx?oc=5",
    "themes": [
-    "defence"
+    "geopolitics"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "franceawardsover15billionirissatellitecontractovertdefense",
-   "title": "France Awards Over \u20ac1.5 Billion IRIS Satellite Contract - Overt Defense -",
-   "source": "Overt Defense -",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpnRzREcjV2Vmw3STJtZHhCTGhUZTVZaEhFcHlSUzNoYmVrblExNzlnWHM1aGNuMVhjZDg4TnBkOXFyXy15elh1UEhBSmcyZmV3RndYVE04OWVNeG8tajkyUlU5QjBfMzliX2FHN1hrSVlxRzUySzlJQjJtd3JKRHRubGhWSHR5cGJMc2dQQzEyNHc2RFRvNF9FLXI?oc=5",
+   "key": "opecchampionsanageofallenergiesatcop31tocombatenergypovertya",
+   "title": "OPEC Champions an \u201cAge of All Energies\u201d at COP31 to Combat Energy Poverty - African Energy Chamber",
+   "source": "African Energy Chamber",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0hmVkZWNklOUUtBQWN3LUFFbzBrdVJ1U2s5YW4ybTNfVkczR0VOTzVJTWlKVmxpVnlIZHFDOXBoZ3Y0VFAzT2x5YlNXMEF0Nk1meXRIalE3NnM2LWVtMmFuNnJXTFpqcndQR3FXTjkwdTVLeW11NkdjVDlLQWY0bWRDc1VFNWs1TzVvWWpPeGI2YlQ1LWxiekY2X1ZWUGlzMmww?oc=5",
    "themes": [
-    "defence"
+    "energy"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "generalmotorstargetshigherdefencerevenueasmilitarycontractse",
-   "title": "General Motors targets higher defence revenue as military contracts expand - Traders Union",
-   "source": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUt0WWw1UHVmWGdvUGVFV0hJZGw1MVh6cWRRc1FGOUtiMGNPam5LVnNydUJhVThEbWc3RFNheGtPX2ktdlpsQWVOaHlxUGRGeGlUOG9ZMTFBTllQTk16VEVva3RCWUtfOVhyOEw1WV8tLXRPMnZFX2lLd012aHZNTTQwNzNrOWxFSkZqdUJUN3Y?oc=5",
+   "key": "opecagreestokeepnovemberoiloutputtargetssteadyenergynowcom",
+   "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWIzaV9QMGF4MDZQT0pHT3FRbTRDN0pzNkVBTVI0eDhPQ00yRjNCTUxBS3B6MWFTU3BHcjdqUlpQYzBpbWN2QTJWUFB5VlFCUDU0Ulg2bEdMTkxzTzFjN1pyX3FnX0dUWHpJaWFyNEtxS1ZheTVTU2pzTVROX2tZeGROTU5qRmozYV8xVk5n?oc=5",
    "themes": [
-    "defence"
+    "energy"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "defenceministrysignsrs197640crorecontractwithisraelaerospace",
-   "title": "Defence Ministry signs Rs 1,976.40 crore contract with Israel Aerospace Industries to upgrade Barak Missile Systems - DD India",
-   "source": "DD India",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPektsY3Z5QWJoUkwwN09IZU4tQWN0S3R4QkVRdzVyczlXWW5mZ2RYV05aOUJiNHg5bTVENmY2RG5Xd3U5bk9GRUl3bXdkT1hTTFpaZnc0WlVxWWJxamRJUHNMSnVSdGJhNXY4Q21TLUFrTldzTUIxRUxyQVNINHBHeWxtUk9KVm41c01HN0ZXVEJfTktBdUluUFdpSkYxOFJqd1h2aG95aHFRWkJQUnpfY0ZReW0zVlVnT2xOVTR2MlZXcEp1cXJTRDYwd29wd1QyRjllQWZhem9UdTg3RkE?oc=5",
+   "key": "opecdefendsfossilfuelsatcop31asglobalelectrificationdebatein",
+   "title": "OPEC defends fossil fuels at COP31 as global electrification debate intensifies - Oil & Gas 360",
+   "source": "Oil & Gas 360",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUG5Eb25jOEhSN3VVTGYwcjJlR2lHV0pDbkVMdFhxMXV3QlN6SmlKTUpFOVRpYUpYMVdwZ0FYcV9wZ080M3Ixel9iQXIwVjBjYmRtOTFSLXhkRWhyRVhRbnFGRVhDVGtVeDdNUW9SNWxSZDZYYTRhYUIxYWFCSlBudVZPMGI4STRlTUFBbWNzeG9BbW9jeUQyNko0Q2RVcUhIVHVKN1NmaHBiOVZVNFE?oc=5",
    "themes": [
-    "defence"
+    "energy"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "tonbowinsars3562croredefencethermalsightordermultibaggai",
-   "title": "Tonbo wins a Rs 35.62 crore Defence thermal-sight order - Multibagg AI",
-   "source": "Multibagg AI",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWVJTXhxUEF5RkJIRV80eUEycUNBak5LVmZLaXZVNEVnSHhQUjdLS25MRnNfWVFaNW96REcwazVrSUw4TXc1VmFsenozZF92MURuMnlQTWRHZWhkeWpFRklKckhEQm1FM2s1eWdiY3k1MjlUNE0wVVZOQTJnUENSNXBYbDZza0pmSW1FVHZYYUFyZC1vZmFWbzJ0WHBfTTZxeWwtWE4xY2tWa08wN3RzazAzZDRTcGFHb193?oc=5",
+   "key": "opecsayselectrificationpushstillneedsoilforbesmiddleeast",
+   "title": "OPEC Says Electrification Push Still Needs Oil - Forbes Middle East",
+   "source": "Forbes Middle East",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVAybXlBT25YTVdJbEstYV9UeDVIOEVhN2FHSjBUUzUwV0huU2RPdEMxNHJxN3NYS1l2b3BhanR0dWx0M095dG5ESHN5T3NnZ2lYbWF2V1Rfak56UVh6RkJEWkctT21DUXpZdGZtdF81MlZSVEFUMlYwMUJHTnlSTlFQQjNEM3piV1hBcmNmalB5Q3QxeVU3QXpIUUhDT2VnR1M2VlItbnRydw?oc=5",
    "themes": [
-    "defence"
+    "energy"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "modinksrs197640crorebarakdefencemissileupgradecontractwithis",
-   "title": "MoD inks Rs 1,976.40 crore Barak Defence Missile upgrade contract with Israel Aerospace Industries - ANI News",
-   "source": "ANI News",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRFc3LVJfU0Y5SzNWZl9Deng1RWNBS25Tc1FseS1nSkdqQVRUaV9mYm9vbTBvd0JEd0dCVV8wdXNTRnY0MUdzbFpweTRNajd2aW1YUDdrR0hBUWlRMWN2MUVFV3d2OU9iMWd5cHhzMElQVGVUYm1sQ0pKa3o0T3MwSV9BZEZIRWttWTl3UFU0Ym5YYUNKMzRsaWtkNVMxcUh1eFZmVEhlYVd1Q2VzMVZ4YVBudnQ3N1dTTVpBX05Zek9MMWVLelY3QWtRcDZvQzNnRUxQbHM1elZrczFlSkktM1paMEUwaWVRWnNKeWxva3JoQQ?oc=5",
+   "key": "agencyreportssuggestoilmarketapproachingturningpointrigzone",
+   "title": "Agency Reports Suggest Oil Market Approaching Turning Point - Rigzone",
+   "source": "Rigzone",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcldjYzg2SUl1ZC16aWxrQXVtRWN0UlNOZ24yZ0ZmZHAtczYzV18zbUVpUHQ3c1RlTXdJSHJzbkVwQjFNaVpncExBSV9VblZraElLLUp1aHBYOXdRemdkWWxvdFNUZTlHZWpsdGloZkR4ZXY4blkxWmJMbmpVNFpaWlZ1UWRITVhabWVPejBuZGVDX3c0NlI4VVZnZzlJVHlXT0lLRHo4eXgyZThkdnBRRkVhVHFSbWc?oc=5",
    "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "indiaisraelsignrs1976croredealtoupgradenavysbarakairdefences",
-   "title": "India, Israel sign Rs 1,976-crore deal to upgrade Navy's Barak air defence system - India Today",
-   "source": "India Today",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMXI1SzBVQllYbXNrSXNqdWItQjE0QXE5NEE0Y1RJbFNvWXlTTDJQZGgwX0V3dng4TDNkY1owM0pUWmxBbnhPamdFQkJfODlYS2M1TWVTMEN4RjFwV1RhQTI0SkRyblZiZHZseWY2N2NkU0ZQLUpmRjdGcnFuVktzSFhadkQ1WjVHclBnUlRQZ015SmtmMXFlTHFMN2tuZVlnRGJFVHJSV2VDcnFaR1VPekE4UDlfRHV1X1BNeFZfWnNtdTNrWWwwaS1XRdIB0AFBVV95cUxPVFM1SDlmelpmcEU2Nko4c0pKeF83R2J5UjJwbnAxZTUyZU1DZUZRdTZCQktRQ1FucFdOUDk3QnhKRk5hMTMxUXZBd2w1WlpfZDZZQmhUb1NfVFZieWVZR3FGS2g3eWJHWVRWTGF5Z01NeFg2U3RaR1g1VGljWjdiekVqdWpIcDFLbnJha3djenptblhUT1NXMG9TM291Uy04ZVA1TTMyMnRJS3d4RXZMQVZVcUxjam56SWpQU3ktREQxT0xBQzluYlFQbFU1OGp0?oc=5",
-   "themes": [
-    "defence"
+    "energy"
    ],
    "trump": false,
    "trusted": false,
@@ -248,108 +248,108 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 70
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 62
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 65
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 64
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 56
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 59
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 83
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 92
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 88
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 297 min old)",
+   "why": "stale quote / market closed (last price 346 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 54
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 297 min old)",
+   "why": "stale quote / market closed (last price 346 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 70
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 82
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 68
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 83
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 51
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 60
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 59
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 297 min old)",
+   "why": "stale quote / market closed (last price 346 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 48
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 62
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 71
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 79
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 58
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 297 min old)",
+   "why": "stale quote / market closed (last price 346 min old)",
    "score": 47
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 297 min old)",
-   "score": 34
+   "why": "stale quote / market closed (last price 346 min old)",
+   "score": 44
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 27
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 28
   }
  ],
  "paper": {
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 12:57 PM AEDT",
+  "last_scan": "Thu 19 Nov 2026 01:46 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
