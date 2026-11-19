@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 20 Nov 2026 03:54 AM AEDT",
- "fx_audusd": 0.6675,
+ "generated": "Fri 20 Nov 2026 04:48 AM AEDT",
+ "fx_audusd": 0.6676,
  "signals": [],
  "events": [
   {
@@ -101,10 +101,22 @@
    "pts": 22
   },
   {
-   "key": "thesupremecourtblockedtrumpstariffsbutamericansarestillpayin",
-   "title": "The Supreme Court Blocked Trump\u2019s Tariffs, But Americans Are Still Paying the Price - Balls and Strikes",
-   "source": "Balls and Strikes",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3RPMGEyT1NWUXI3M1RvVFpEVkhUWlBPTENxb3VzRWFVU21TZlY1MDE4cjdaZHJtVmV3THJCWWdCWnhfYXRuejJXNE1aTUc0a2VPdWd2NFpVUXhlai0xUnR4M2xSOEQwRkdFRDJzM1dmbVZaWVFoR0M2ZWRiOGlMcmI2d1NuQkE?oc=5",
+   "key": "trumpstarifftroublescouldgivecarneyedgeonindiadealnewsweek",
+   "title": "Trump\u2019s Tariff Troubles Could Give Carney Edge on India Deal - Newsweek",
+   "source": "Newsweek",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHhySTN1bGlfS2N5T1JDeEMzdE5MMS1IY19aODRwandTY2V4U3lnOUZnSXpXVUt2OUg2anBKLXItV3cwa0Z6b2wyZW5uX05UV2ZSamt6aUUtZl9qSnVTeWdQdFQ0Q0NyOGNrd3lSUEtnaUgzcl9kNXg3d2JNUXQ3YXV4cVdYUQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "donaldtrumpstariffshavebroughtchinatothetablenews24",
+   "title": "Donald Trump\u2019s tariffs have \u2018brought China to the table\u2019 - News24",
+   "source": "News24",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZjlIS3J2elBzUEluN0UxU25tYzR0VzBKSTlNTzVobW1ua2tpVWk2ZXcxSDJJczY1T3BqVmFvWkJZVmtiZGpjaHJ1WGxTUlNhOXZVdFNnc0Mtd29uX0dMWUxtQ0dsOC1ITGhmRGo4a1pKZl9EV0xUQnN4OWpuQjNiYXhEbVM1WUY2eXVXc2toSXNZR1EzOTZOT2FPeExERWtuYnd2Y19sMW8xdkhJbVYybkhxZzlQc3dockZydDBoeGN0cExmZVQtSHhNUWQxXzFmaTV3UDA3cnhzQdIB2gFBVV95cUxOZjlIS3J2elBzUEluN0UxU25tYzR0VzBKSTlNTzVobW1ua2tpVWk2ZXcxSDJJczY1T3BqVmFvWkJZVmtiZGpjaHJ1WGxTUlNhOXZVdFNnc0Mtd29uX0dMWUxtQ0dsOC1ITGhmRGo4a1pKZl9EV0xUQnN4OWpuQjNiYXhEbVM1WUY2eXVXc2toSXNZR1EzOTZOT2FPeExERWtuYnd2Y19sMW8xdkhJbVYybkhxZzlQc3dockZydDBoeGN0cExmZVQtSHhNUWQxXzFmaTV3UDA3cnhzQQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,12 +149,12 @@
    "pts": 22
   },
   {
-   "key": "uspresidentdonaldtrumpscompanymayface8835millionindebtwillbi",
-   "title": "US President Donald Trump's Company May Face $883.5 Million in Debt! Will Bitcoins Be Sold? - Bitcoin Sistemi",
-   "source": "Bitcoin Sistemi",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1d3a01YcHlrY1JiOVg1b0hCRGF6OXU2QVBwVzZ2RDQtM1YzTjhnaDdKZzVXYTJfS1RNUFhpRV9wdlc0MHktVjE2Y1g1NnFsbU9OWTNVMm5oRmlGSnQ1azU3WGJnVl91dEx3TEpYMFlGWFJyYzMxWFZON1hZU2pUbGlRTVRodkZyTlBNTFZNa0pLTVlvbVJpdjEwQlpLZTNobVZDdm1Oc2t6MWdPZnVEMXBhQUlpeFE0RVYw?oc=5",
+   "key": "trumptoutsgoodrelationswithvenezuelasaysoilmagnatesargeantdo",
+   "title": "Trump Touts Good Relations with Venezuela, Says Oil Magnate Sargeant Does Not Represent US - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFBjamdXQlNiMnpETTY3UXV2VTk5Z3VCV3g1TEQ4ZnpQd3c0OEJKak5nWko2R01oWVRIWlFrTGF5TnE3Tm5tMXQyejJKODhHUkJpN3l3X2tfRHRVejFsNVItaFFKTkRrOTE2WVJNQTZ5RDdadjVGV0N0NDBGLW1Ed3NlVXk1dlUyREdCNEc1QnFjdDQ3THhnZF8yZXFTdXpvTS02MXBhcW5zdXNwLVVaWU9lUUVoblRNYmd3VA?oc=5",
    "themes": [
-    "crypto"
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -165,6 +177,18 @@
    "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
    "source": "EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVFJONE9NeE5JNGU1V2FSN0JOV0JSTWVDUFJRNjJEZTdSWjlJZWhrM0RvZlJoZ0ZUY3pidU9ZQUsyMTNhLW9yY09ZemN2c2VjNXBiNmlUWGxCbGhhUmY2UWo5cllpVkpyS01EeUtwanpQYlk1dE1vYlc2Zw?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
    "themes": [
     "energy"
    ],
@@ -219,57 +243,33 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonusesscri",
-   "title": "Tariff refunds worth millions are helping fund corporate bonuses - Scripps News",
-   "source": "Scripps News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "chinapledgestariffcutsrussiacriticisessanctionsaheadoftalksw",
-   "title": "China pledges tariff cuts, Russia criticises sanctions ahead of talks with US - Asia News Network",
-   "source": "Asia News Network",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNDc1ZEJNVWE0ak80Z1E2eXdaT3F1Y2FNRDZmbDFXN3VHQU5CZU1RTWMzSFlaOEtyTDhkUDNnS2l3ZFUyOWZGWm03X29KRzlKSU51WlZ0aGdSdnRlRnFOWmZfZGZnWlNOaVpJbG1iRUNILVBDQVhoVmU0ajlmS1A5U2FtODFlVXp2X2M1bWJzM1JvdU04V1ZFRks1WG52VjlyaDhjY2dOVnRFQVZQbklaRi1fR2RBb0RCd0FRZlF4MkRtaDE3Rm5xNmczMHhRdnNiR0NfLVh0T0dTV2pDTXBkMFFWMjhBaDVIOHFZ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "NVDA",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 64
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 45
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 46
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 63
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 49
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 47
   },
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
   },
   {
    "sym": "ITA",
@@ -278,72 +278,72 @@
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 46
   },
   {
    "sym": "COIN",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 46
   },
   {
    "sym": "MSTR",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 48
-  },
-  {
-   "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 54
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 55
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.9x normal)",
-   "score": 78
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "XOM",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 54
+   "score": 38
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 73
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 758 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 705 min old)",
+   "why": "stale quote / market closed (last price 758 min old)",
    "score": 92
   },
   {
-   "sym": "SPY",
+   "sym": "LMT",
    "why": "volume not confirmed (0.4x normal)",
-   "score": 46
+   "score": 39
+  },
+  {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
+  },
+  {
+   "sym": "NOC",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
+  },
+  {
+   "sym": "SPY",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (1.3x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 37
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 703 min old)",
+   "why": "stale quote / market closed (last price 756 min old)",
    "score": 38
   }
  ],
@@ -358,7 +358,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 20 Nov 2026 03:54 AM AEDT",
+  "last_scan": "Fri 20 Nov 2026 04:48 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
