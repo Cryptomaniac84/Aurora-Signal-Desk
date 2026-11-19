@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Thu 19 Nov 2026 01:46 PM AEDT",
- "fx_audusd": 0.6673,
+ "generated": "Thu 19 Nov 2026 02:47 PM AEDT",
+ "fx_audusd": 0.6675,
  "signals": [],
  "events": [
   {
@@ -65,6 +65,18 @@
    "pts": 22
   },
   {
+   "key": "chinesepresidentxipledgestariffcutsasrussiancounterpartputin",
+   "title": "Chinese President Xi pledges tariff cuts as Russian counterpart Putin criticises sanctions ahead of talks with US President Trump - Asia News Network",
+   "source": "Asia News Network",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNDc1ZEJNVWE0ak80Z1E2eXdaT3F1Y2FNRDZmbDFXN3VHQU5CZU1RTWMzSFlaOEtyTDhkUDNnS2l3ZFUyOWZGWm03X29KRzlKSU51WlZ0aGdSdnRlRnFOWmZfZGZnWlNOaVpJbG1iRUNILVBDQVhoVmU0ajlmS1A5U2FtODFlVXp2X2M1bWJzM1JvdU04V1ZFRks1WG52VjlyaDhjY2dOVnRFQVZQbklaRi1fR2RBb0RCd0FRZlF4MkRtaDE3Rm5xNmczMHhRdnNiR0NfLVh0T0dTV2pDTXBkMFFWMjhBaDVIOHFZ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "xiputinslamtariffsandsanctionsbeforetrumptalksthecanberratim",
    "title": "Xi, Putin slam tariffs and sanctions before Trump talks - The Canberra Times",
    "source": "The Canberra Times",
@@ -89,12 +101,12 @@
    "pts": 22
   },
   {
-   "key": "thailandsbusinessesfretovertrumpszerotariffonusgoodsfarmersc",
-   "title": "Thailand\u2019s businesses fret over Trump\u2019s zero tariff on US goods, farmers comment - South China Morning Post",
-   "source": "South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTU3YUx2WXllSXpFVlNtTWJEbzZ5RkM0dGRtZGhUNzlPVjlEaXU0U2lsTGVYM2d3dEo3bWZJbUlTUVBnSnZjUEZyam5YVlhEOTdZOE1XeUJ1UDlxYUZaLU5mdjYwZWlFaWZwaHdjb1pJY0hxTkV0dk13WTM5aGMzZ09CeWhzMzU0SFZ1NGIzWnczWTZxd01nLXNhT01udUxtODBHN1l1YmxrUDE0OFBFT2t4ampSN0F2aHdMeWRtZmc4Uy0zU2o3cVZ5RdIBywFBVV95cUxOLWxKQ1ZtZlZfUFdKS1RCNWhFa1IwRHdxenZtLTNLYkF5bTJDb1otR1UzRWZhMk03QUhNSTZkaFU2YVhQOFloRTZpeU5pOUw1Y21jcE1iTmc5OUJvNFU2ZkZUSWtoZndJVWlXenBpaHVFek1uMVlWVE9BcFlPb2RZM0Y0eU5HWHl3b0p3OXVWUDhNSEt0WWYwRGgyQTZ1bDNfN1R3NU5DV0RkTEJTb2dBdkNxNXlMM0FoSTV2bTI5MjlzUXlIUEthQkh4WQ?oc=5",
+   "key": "trumpadministrationtapstrmlabsin95millionpushtodisruptcrypto",
+   "title": "Trump administration taps TRM Labs in $95 million push to disrupt crypto crime networks - Cryptonews.net",
+   "source": "Cryptonews.net",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43ajJIeEYtekNxVzYxSTZ3X3piSllUUzJOREo5N0RTR0QzdzgzLTdYWl9KSV92djhzTE5taHNsanhkVlpZWWlBQzU4SUhIYzkyRkE0ZlZR?oc=5",
    "themes": [
-    "geopolitics"
+    "crypto"
    ],
    "trump": true,
    "trusted": false,
@@ -137,6 +149,18 @@
    "pts": 20
   },
   {
+   "key": "australiandollarsettoshed2026gainonrbaratecutbetsbloomberg",
+   "title": "Australian Dollar Set to Shed 2026 Gain on RBA Rate-Cut Bets - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWpXY0Npa2JnU2NRb0hZaE1jc01pR2V0ZFp4WkdfaTJGOTJ4UW8xaGN4YU55U0NyZktsbkFBV2JuNzVOQVl6MnpnTmhIaWYxMFN1OGlUbk44YmxfTlRaTnNZVXN2ZGx5c2VFT2hqckZBaklpSU5xM1ZURnZtWTNMb1VnbVZuU25wcTRQWXRBNFFwcW5ERG16MDRaWVRPOHAwSVM2VjVYSjZ6LXdDOC1iWg?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "fedswallersayscentralbankmayneedtoshockpeoplewithhalfpointra",
    "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike - CNBC",
    "source": "CNBC",
@@ -149,22 +173,10 @@
    "pts": 20
   },
   {
-   "key": "fedsdalyurgesratehikeswithathoughtfulmeasuredapproachbloombe",
-   "title": "Fed\u2019s Daly Urges Rate Hikes With a Thoughtful, Measured Approach - Bloomberg",
-   "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDJGNGRIU0Q3NE5tbW9qVUpjd2NCUTRuZTdERXEwY2Q5bEQtZ1NNVjFLQmwwdnVMRERPSnN4cm1TcXBLRWxDcWtxS0tZdXdBanJVNVhhRVBOVWtKYlplWXFwcHFkUmJTRWtVQjBUaGRZUGpiWU1acVdESEZvck9TSzBiNHVhdk5rNlZDMEpKYk5zS1dxSVpDdGxZWjEyOEJKTTdldVo2Q3Z6dHpPOVF0cWJGSW4?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "breakingviewscommentarychipcurbsthreatenuschinatradetrucereu",
-   "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
+   "key": "chinaseeksadvancednvidiachipsforaiweaponsdespiteuscurbsrepor",
+   "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says - Reuters",
    "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0Vsd0FkMFJLZl8zbklveDFFQW9XSEc3Q3dHMEZ6NjJFZ0dyYUIzOVdkam50a0lSYy00NEt5OGpCaG8wQTZ4RDlyTGVvaU1VMTlGNjk3aTdiZHVXcnloamEyTUZqbEhJWTlHbFJqTHNDWmVGN2JBT2FYTG44bWRIVXFfQ1E3LVdmeGRlczZETDFIUXlUSy04RXk0bDBlTHlIVm1ld2V3TnltenZZSXdBTm1ZV3NxUFVnTTRZWWRn?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -173,72 +185,60 @@
    "pts": 20
   },
   {
-   "key": "tktkpagehedforcurrentpageseehowmuchcompaniesaregettingintari",
-   "title": "TKTK-pageHed-for-current-page - See How Much Companies Are Getting in Tariff Refunds - ProPublica",
-   "source": "ProPublica",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWl0UWFUWkw3QVFHMVhmMVNZUHJQSW5VX1NmU2RRNE9MNTM3aVhwZER5WVh3VFVtRzdZWjg4SnA3S1dBYkJwQ1htSGc2ZlhfVHZDTnZ6ZGFBUkFYT203cXVUVW5qcWdNR1lSd3dSZlZ1OXNzY043VHYwd2QzN0VWLXIyLXpxck1xREswdzFNMnowYUxx?oc=5",
+   "key": "l3harriswinsroughly28millionaustraliandefencecontractsecurit",
+   "title": "L3Harris Wins Roughly $28 Million Australian Defence Contract - Securities.io",
+   "source": "Securities.io",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUFB6RHJPajB3eVo2UnpJYWdLczYzVTdHVjhDV05TZkNsOVFFcmdWNmMxSU5CSEMta0pzWmhiYWRVNkVBcGdTck9WcllBSEszZUVWVTk5ZWJPVm5rVmw5b00ydDF2SlFiWG9tWGR2bXZRQzE4Wk5zQUhmWjRNWHhKdXBYVHlLUThEMmdtaHJZX2U?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "opecchampionsanageofallenergiesatcop31tocombatenergypovertya",
-   "title": "OPEC Champions an \u201cAge of All Energies\u201d at COP31 to Combat Energy Poverty - African Energy Chamber",
-   "source": "African Energy Chamber",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0hmVkZWNklOUUtBQWN3LUFFbzBrdVJ1U2s5YW4ybTNfVkczR0VOTzVJTWlKVmxpVnlIZHFDOXBoZ3Y0VFAzT2x5YlNXMEF0Nk1meXRIalE3NnM2LWVtMmFuNnJXTFpqcndQR3FXTjkwdTVLeW11NkdjVDlLQWY0bWRDc1VFNWs1TzVvWWpPeGI2YlQ1LWxiekY2X1ZWUGlzMmww?oc=5",
+   "key": "franceawardsover15billionirissatellitecontractovertdefense",
+   "title": "France Awards Over \u20ac1.5 Billion IRIS Satellite Contract - Overt Defense -",
+   "source": "Overt Defense -",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbEpnRzREcjV2Vmw3STJtZHhCTGhUZTVZaEhFcHlSUzNoYmVrblExNzlnWHM1aGNuMVhjZDg4TnBkOXFyXy15elh1UEhBSmcyZmV3RndYVE04OWVNeG8tajkyUlU5QjBfMzliX2FHN1hrSVlxRzUySzlJQjJtd3JKRHRubGhWSHR5cGJMc2dQQzEyNHc2RFRvNF9FLXI?oc=5",
    "themes": [
-    "energy"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "opecagreestokeepnovemberoiloutputtargetssteadyenergynowcom",
-   "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWIzaV9QMGF4MDZQT0pHT3FRbTRDN0pzNkVBTVI0eDhPQ00yRjNCTUxBS3B6MWFTU3BHcjdqUlpQYzBpbWN2QTJWUFB5VlFCUDU0Ulg2bEdMTkxzTzFjN1pyX3FnX0dUWHpJaWFyNEtxS1ZheTVTU2pzTVROX2tZeGROTU5qRmozYV8xVk5n?oc=5",
+   "key": "generalmotorstargetshigherdefencerevenueasmilitarycontractse",
+   "title": "General Motors targets higher defence revenue as military contracts expand - Traders Union",
+   "source": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUt0WWw1UHVmWGdvUGVFV0hJZGw1MVh6cWRRc1FGOUtiMGNPam5LVnNydUJhVThEbWc3RFNheGtPX2ktdlpsQWVOaHlxUGRGeGlUOG9ZMTFBTllQTk16VEVva3RCWUtfOVhyOEw1WV8tLXRPMnZFX2lLd012aHZNTTQwNzNrOWxFSkZqdUJUN3Y?oc=5",
    "themes": [
-    "energy"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "opecdefendsfossilfuelsatcop31asglobalelectrificationdebatein",
-   "title": "OPEC defends fossil fuels at COP31 as global electrification debate intensifies - Oil & Gas 360",
-   "source": "Oil & Gas 360",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUG5Eb25jOEhSN3VVTGYwcjJlR2lHV0pDbkVMdFhxMXV3QlN6SmlKTUpFOVRpYUpYMVdwZ0FYcV9wZ080M3Ixel9iQXIwVjBjYmRtOTFSLXhkRWhyRVhRbnFGRVhDVGtVeDdNUW9SNWxSZDZYYTRhYUIxYWFCSlBudVZPMGI4STRlTUFBbWNzeG9BbW9jeUQyNko0Q2RVcUhIVHVKN1NmaHBiOVZVNFE?oc=5",
+   "key": "defenceministrysignsrs197640crorecontractwithisraelaerospace",
+   "title": "Defence Ministry signs Rs 1,976.40 crore contract with Israel Aerospace Industries to upgrade Barak Missile Systems - DD India",
+   "source": "DD India",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPektsY3Z5QWJoUkwwN09IZU4tQWN0S3R4QkVRdzVyczlXWW5mZ2RYV05aOUJiNHg5bTVENmY2RG5Xd3U5bk9GRUl3bXdkT1hTTFpaZnc0WlVxWWJxamRJUHNMSnVSdGJhNXY4Q21TLUFrTldzTUIxRUxyQVNINHBHeWxtUk9KVm41c01HN0ZXVEJfTktBdUluUFdpSkYxOFJqd1h2aG95aHFRWkJQUnpfY0ZReW0zVlVnT2xOVTR2MlZXcEp1cXJTRDYwd29wd1QyRjllQWZhem9UdTg3RkE?oc=5",
    "themes": [
-    "energy"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "opecsayselectrificationpushstillneedsoilforbesmiddleeast",
-   "title": "OPEC Says Electrification Push Still Needs Oil - Forbes Middle East",
-   "source": "Forbes Middle East",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVAybXlBT25YTVdJbEstYV9UeDVIOEVhN2FHSjBUUzUwV0huU2RPdEMxNHJxN3NYS1l2b3BhanR0dWx0M095dG5ESHN5T3NnZ2lYbWF2V1Rfak56UVh6RkJEWkctT21DUXpZdGZtdF81MlZSVEFUMlYwMUJHTnlSTlFQQjNEM3piV1hBcmNmalB5Q3QxeVU3QXpIUUhDT2VnR1M2VlItbnRydw?oc=5",
+   "key": "tonbowinsars3562croredefencethermalsightordermultibaggai",
+   "title": "Tonbo wins a Rs 35.62 crore Defence thermal-sight order - Multibagg AI",
+   "source": "Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWVJTXhxUEF5RkJIRV80eUEycUNBak5LVmZLaXZVNEVnSHhQUjdLS25MRnNfWVFaNW96REcwazVrSUw4TXc1VmFsenozZF92MURuMnlQTWRHZWhkeWpFRklKckhEQm1FM2s1eWdiY3k1MjlUNE0wVVZOQTJnUENSNXBYbDZza0pmSW1FVHZYYUFyZC1vZmFWbzJ0WHBfTTZxeWwtWE4xY2tWa08wN3RzazAzZDRTcGFHb193?oc=5",
    "themes": [
-    "energy"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "agencyreportssuggestoilmarketapproachingturningpointrigzone",
-   "title": "Agency Reports Suggest Oil Market Approaching Turning Point - Rigzone",
-   "source": "Rigzone",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcldjYzg2SUl1ZC16aWxrQXVtRWN0UlNOZ24yZ0ZmZHAtczYzV18zbUVpUHQ3c1RlTXdJSHJzbkVwQjFNaVpncExBSV9VblZraElLLUp1aHBYOXdRemdkWWxvdFNUZTlHZWpsdGloZkR4ZXY4blkxWmJMbmpVNFpaWlZ1UWRITVhabWVPejBuZGVDX3c0NlI4VVZnZzlJVHlXT0lLRHo4eXgyZThkdnBRRkVhVHFSbWc?oc=5",
-   "themes": [
-    "energy"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -248,108 +248,98 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 62
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 57
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 56
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
+   "score": 57
+  },
+  {
+   "sym": "COIN",
+   "why": "stale quote / market closed (last price 407 min old)",
+   "score": 57
+  },
+  {
+   "sym": "MSTR",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 92
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 92
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 92
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 65
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 82
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 83
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 59
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 62
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 62
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 346 min old)",
+   "why": "stale quote / market closed (last price 407 min old)",
    "score": 79
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 58
-  },
-  {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 346 min old)",
-   "score": 47
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 346 min old)",
-   "score": 44
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "volume not confirmed (0.0x normal)",
-   "score": 27
-  },
-  {
-   "sym": "STO.AX",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 28
+   "score": 36
   }
  ],
  "paper": {
@@ -363,7 +353,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Thu 19 Nov 2026 01:46 PM AEDT",
+  "last_scan": "Thu 19 Nov 2026 02:47 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
