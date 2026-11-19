@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 20 Nov 2026 02:48 AM AEDT",
- "fx_audusd": 0.668,
+ "generated": "Fri 20 Nov 2026 03:54 AM AEDT",
+ "fx_audusd": 0.6675,
  "signals": [],
  "events": [
   {
@@ -15,6 +15,18 @@
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "undoingtrumpstariffswillbeharderthanitseemsamericasquarterly",
+   "title": "Undoing Trump\u2019s Tariffs Will Be Harder Than It Seems - Americas Quarterly",
+   "source": "Americas Quarterly",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmViaWkxekhjeVItOUZzek5XZHRkS0xpZi1DcnRpb2lYQTlrT0JZazVRVVh3czhWejBJNk5EM0luRTkyX2wzVzRNREhISG5SNnFpTjMtUG5LZm9IdEoxaWstcV9RYWdDR3N0RGRkU1J0eDRaODBOVjZwRm80R2w5UlN6akRYQ0VpcFVQSWJISmlZSkQy?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "eugovernmentsapprovetradedealwithindonesiatooffsettrumptarif",
@@ -65,18 +77,6 @@
    "pts": 22
   },
   {
-   "key": "thesupremecourtblockedtrumpstariffsbutamericansarestillpayin",
-   "title": "The Supreme Court Blocked Trump\u2019s Tariffs, But Americans Are Still Paying the Price - Balls and Strikes",
-   "source": "Balls and Strikes",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3RPMGEyT1NWUXI3M1RvVFpEVkhUWlBPTENxb3VzRWFVU21TZlY1MDE4cjdaZHJtVmV3THJCWWdCWnhfYXRuejJXNE1aTUc0a2VPdWd2NFpVUXhlai0xUnR4M2xSOEQwRkdFRDJzM1dmbVZaWVFoR0M2ZWRiOGlMcmI2d1NuQkE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "usaskstokeepcollectingtrumpstariffsaftercourtlossenergynowco",
    "title": "U.S. Asks to Keep Collecting Trump\u2019s Tariffs After Court Loss - EnergyNow.com",
    "source": "EnergyNow.com",
@@ -101,6 +101,18 @@
    "pts": 22
   },
   {
+   "key": "thesupremecourtblockedtrumpstariffsbutamericansarestillpayin",
+   "title": "The Supreme Court Blocked Trump\u2019s Tariffs, But Americans Are Still Paying the Price - Balls and Strikes",
+   "source": "Balls and Strikes",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3RPMGEyT1NWUXI3M1RvVFpEVkhUWlBPTENxb3VzRWFVU21TZlY1MDE4cjdaZHJtVmV3THJCWWdCWnhfYXRuejJXNE1aTUc0a2VPdWd2NFpVUXhlai0xUnR4M2xSOEQwRkdFRDJzM1dmbVZaWVFoR0M2ZWRiOGlMcmI2d1NuQkE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpmediawantstoclear884millionofdebtwithoutsellingitsbitco",
    "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin (BTC) - CoinDesk",
    "source": "CoinDesk",
@@ -117,6 +129,18 @@
    "title": "Trump Media seeks to clear $884M debt without selling Bitcoin - TradingView",
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlQyclRiSEQtTi00TFhqNXJfQW0wWU16VU9YUVBhcVg1bmFhZHJNZ3JfUUNSaXAwS3B2OEZNNUtLZlBnSWdXZ29nUnl1QmV1QjRuUU1JNkVUOTZzODRUQV9IUkFqbHdUdkhGcUpzenljeHpNbkMyUkczZE11SzIwb2NobTN4T05BcnBLTE9NQ1VRbjlTRVE3T0lmRk5tbFpNM2tJZGQtanJiSWFibEltaFFRYjZTOWFiMjFBTlBBZ05WbTA?oc=5",
+   "themes": [
+    "crypto"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "uspresidentdonaldtrumpscompanymayface8835millionindebtwillbi",
+   "title": "US President Donald Trump's Company May Face $883.5 Million in Debt! Will Bitcoins Be Sold? - Bitcoin Sistemi",
+   "source": "Bitcoin Sistemi",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1d3a01YcHlrY1JiOVg1b0hCRGF6OXU2QVBwVzZ2RDQtM1YzTjhnaDdKZzVXYTJfS1RNUFhpRV9wdlc0MHktVjE2Y1g1NnFsbU9OWTNVMm5oRmlGSnQ1azU3WGJnVl91dEx3TEpYMFlGWFJyYzMxWFZON1hZU2pUbGlRTVRodkZyTlBNTFZNa0pLTVlvbVJpdjEwQlpLZTNobVZDdm1Oc2t6MWdPZnVEMXBhQUlpeFE0RVYw?oc=5",
    "themes": [
     "crypto"
    ],
@@ -161,18 +185,6 @@
    "pts": 22
   },
   {
-   "key": "ustocurbchinasaccesstoaichipsastrumpheadstoasiatheedgemalays",
-   "title": "US to curb China's access to AI chips as Trump heads to Asia - The Edge Malaysia",
-   "source": "The Edge Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QlkyNTRRaHlHY3RKcEh0UzVoNl9ORk1uVUpsQ0M2VUZqOFU0OTRjN1RLcVFBd1VLZ2o4dTZyQUd0ZFlOTkJ3bnpQT1RETzBN?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "tradersarebettingoninterestratesstayinghighforyearsbloomberg",
    "title": "Traders Are Betting on Interest Rates Staying High for Years - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -185,16 +197,28 @@
    "pts": 20
   },
   {
-   "key": "nvidiasscandalsmakethecaseforchipcontrolsbloombergcom",
-   "title": "Nvidia\u2019s Scandals Make the Case for Chip Controls - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQl9mbnhOUFNfNmxWN0U4LXIzVXgtY3lNOW1jajUzVE41U0UzaGRyMHlrRlZpUkQ4ZjRMRXpTM3BYallsOFJFblRyUmVwOFZZeEh3NkE4MnRJVWpCTk1vN2E0Tmpodlp1NkZvdmFjelF3LXBudnpSSHZDdE5CejZEUXR2emlHYUc5YmZiTUU3MThnamRQb2pwendGNFNGUlBQMjVqNDZOcw?oc=5",
+   "key": "tsmcandsamsungsuspendsomechipshipmentstochinesecustomersfina",
+   "title": "TSMC and Samsung suspend some chip shipments to Chinese customers - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5",
    "themes": [
     "semiconductors"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "thiscompanyturnsamericanmilkintocanadiancheesetariffsarecurd",
+   "title": "This Company Turns American Milk Into Canadian Cheese. Tariffs Are Curdling Those Plans. - Reason Magazine",
+   "source": "Reason Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1RHX3RyUWhwQklEUjZZX3B6VGF5WGx3VHZtZ1lOeDNSenZCd0ItV3pkXzZEanV2VC1SdmprV25ZYUJJNjcyUS1raW9rYVNRdEVlUk04cVprOXBYeGJCdmFNWTJIWU13b285OWM2M1BRUE9iWHFzbFJpeklzLTJOaV80aGpKbms4ZjJIRXdBMTBieWlMS1pneFZvYjBVcFZDNmRrOWprcFlWTmJDT0FqcTRVNmFocW55?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonusesscri",
@@ -219,131 +243,107 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "werepublishingthetariffrefundsthegovernmenthasrefusedtodiscl",
-   "title": "We\u2019re Publishing the Tariff Refunds the Government Has Refused to Disclose - ProPublica",
-   "source": "ProPublica",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0Y1k0ak1HSExYRDkyTXhCdTgxTGRJWmplYUpRX0N3MWhvNGdtYTFPMFBTT2kyb3NhQVFjWGZZemJKZnFta2NhRGFSb3BSdXJUOTVBVDlzZktkdExnNnFjdy1PY3JPYlh3ZEFQckcxdmpjdWVyMGc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "welcometotheantitariffclubdemocratsnowtrulybeantitariffcatoi",
-   "title": "Welcome to the Anti-Tariff Club, Democrats\u2014Now Truly Be Anti-Tariff - Cato Institute",
-   "source": "Cato Institute",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmhja2s1VktlWGZkYUR4ZGJKTWhhb1pwd3V4ekdPMUdac1NaMVFDRVFFeFNYaFZPTEFYb3ZWSGtxc3VEWmh6Ty1QUkdmY04yUzA5VWtjZHFDcVNWc1A1ZTBaQTJKRS1WTlBaNUVsSnUxS1dBYldVVmlES0ZYc3l5Q1RPZlo3WjE0cExuQzZzOA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 47
+   "why": "price not above VWAP and 20-bar average",
+   "score": 64
   },
   {
    "sym": "AMD",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 60
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 63
   },
   {
    "sym": "SOXX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 57
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 63
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 50
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 49
   },
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "XLE",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
+  },
+  {
+   "sym": "FXI",
    "why": "volume not confirmed (0.5x normal)",
    "score": 40
   },
   {
-   "sym": "FXI",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 44
-  },
-  {
    "sym": "COIN",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 53
   },
   {
    "sym": "MSTR",
    "why": "volume not confirmed (0.7x normal)",
-   "score": 42
+   "score": 48
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 54
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 55
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 78
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 54
   },
   {
    "sym": "CVX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 73
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 639 min old)",
+   "why": "stale quote / market closed (last price 705 min old)",
    "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 639 min old)",
+   "why": "stale quote / market closed (last price 705 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 43
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 46
   },
   {
    "sym": "QQQ",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 57
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 53
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 637 min old)",
+   "why": "stale quote / market closed (last price 703 min old)",
    "score": 38
   }
  ],
@@ -358,7 +358,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 20 Nov 2026 02:48 AM AEDT",
+  "last_scan": "Fri 20 Nov 2026 03:54 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
