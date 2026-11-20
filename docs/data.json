@@ -1,10 +1,337 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 06:08 AM AEDT",
- "fx_audusd": 0.6629,
+ "generated": "Sat 21 Nov 2026 07:07 AM AEDT",
+ "fx_audusd": 0.662,
  "signals": [],
- "events": [],
- "rejected": [],
+ "events": [
+  {
+   "key": "watchdonaldtrumpstariffscantkillglobalizationbloombergcom",
+   "title": "Watch Donald Trump's Tariffs Can't Kill Globalization - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHM5UVlLSktxdV9iOGtHVm5ITTJ3UVRRaXROZGxPNllPNURmRTBRMkFJbEx5MXNkY0M2dWd2Unh5ZWxSRTF1ZUR1OG12QzYtT01iR2l2VmhFeU01NzA2d3ZnUi1Edi02SWFMSlNfZkU3VTBNOFlIaXlPaW80R1hINXhya1Q2SGV3NWw0amFWZmRuTVI0bkwtb0g0LVUyc3hCUTdnVQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "repealingtrumpstariffscouldsavemorethan1100perhouseholdreaso",
+   "title": "Repealing Trump's Tariffs Could Save More Than $1,100 Per Household - Reason Magazine",
+   "source": "Reason Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWRudVozOHg1OGdfVHctenpONUpfUy1SbTd1eE5WLXIwZktsa2FFbUlLNWVJbGdlZnJqSE1uLV9fUGZhNUVVSF9SQjNsZmxMalhfV1FaNWFDN3E1cS1kZ3VCWGczZTlQcGx3cFFKTnFZOXh2MXVPTm5iV3FKYVB4d2lkdGxxUmVYZ1BMM241TGdCXzJqdm1Hdm81cw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "fordreopenscanadaautoplantdefyingtrumptariffsdigitaljournal",
+   "title": "Ford reopens Canada auto plant, defying Trump tariffs - Digital Journal",
+   "source": "Digital Journal",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmtNNVI0R0p1ZVB0d0hTS0tfeTBCeWZFWFh6SWdHS3pKYkNPeW04OUt2alJqa3dzM3Z1NmxNTEl3ZXhEVWJ4a0Nkd1RSclBIeTVYUmhiVHpjdTF6cUpoZU83QjBQZFVDRG9xalVSVW9KbktEeGV2blFLOGRkYXpNcFBselZGcko4QVdWMnNrR0pCZ3paRUN3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffrefundsavedlowesfromanearningsmissheresthemathon",
+   "title": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government Tariff Refunds Are Padding Retailers' Profits - 24/7 Wall St.",
+   "source": "24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR1h1OXdkaFJGYUJlT0IxdUFDOW1QdFFpZnBNYy02Vll3d3gwbkNqSHZ2bjRBTThNMlVHN0JDREQ5TVdMU0J2QzZOWVhtR3RNNTNmcFVzTVhuamlFLUpKTkxTaXprc3JTeEtTODMwbXZrWmt1TTNkU1RTRC1OMjhGSjd2WUFzbHZlbnFMbnYtVUxKLUo1YmFYSHA1TExmX0g5MGtKZmNXbUVyT1EwU3VjM3pIamNLZERmVjN5SDBpSDJJUW5WdFhmUWlxTmNNZ2JzemdrczFUbF9mMF94cXJTMmoyaG5WOTJWZFNPS3lCQ2wxcGF1OG5Ic0EtR2UycjNHWnFCVmtBVQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "markwisemanwarnstrumps50tariffsarefreezingbusinessinvestment",
+   "title": "Mark Wiseman warns Trump's 50% tariffs are freezing business investment as Canada's borrowing costs climb - Yahoo! Finance Canada",
+   "source": "Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjluU3I2MW84cENIcGRFbDdaVjRkUUV4Q2tLUkI2MDJrMzJ3aWE2N2pyZ080bTY2WTdJM1JVNVBBNF9ZMXpLRFlHNjJtZ1phcUt4bmxxLXRyTkxFbHVMVEZrTkJMdWNTelM0TEFNZTlNUVVkbVFvOThuQ1pUc0pqdENaNA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "seewhichfloridacompaniesreceivedmillionsintrumptariffrefunds",
+   "title": "See which Florida companies received millions in Trump tariff refunds - Miami Herald",
+   "source": "Miami Herald",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldk9jRUFCNHpwdW4wamp5bFJxLTdESG1LSkY5dmE2cDl0WkUwRTRFWWFUVEZaR3NFd05lQTVRSG5Ta2Z0Wk9kQjVqd1ZxemJxdlp4UG56UXZpUU5RTjFTY2hFdDQzOVlTc1h4Nlo5eFBUNG51V1kxWEpPMFhqMEHSAX9BVV95cUxNNkF1VzVyTWpVRmFEazY1NklfZzd5VGlQY1RsNV9VSGR2alRyTFZ0OUJ3ckk2TEdrdFJsbTZQdUJHeUdlVFdHSjk2SnhxSktwLVJyaWVWSFFCT1VsLUtXYVFkSHlMWHhNbVAxcURTNmdoN3JRMzhUQUtGbl9vWVFz?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
+   "title": "Trump\u2019s tariffs are unpopular -- but they\u2019ll be tough to repeal despite Democrats\u2019 landslide win - The Miami Times",
+   "source": "The Miami Times",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMTdza3pjUEZyYkJGd1I5WDNjOGtmTmdpb2Z4bHVfTmk4T1I4OFI1TzJWVTBMbnI4Q3IzQ2lnaXN1dU9TQ0xXck1rWE4zdFFnTE56d25WcjlJVHV6TzFRQkJBMXc1bkZ6SXBYWUdVRmdYUjFsT0lqTVlKaTR0YjBuNFU5S08zYTVTUmN2MTd0TC03UGlVelhyY3k4c0VZVkNlLWhOcThiWS1FZ2VIOXBqTEhTUVY1cmFmMGVvdXBHNkJ2YXFiR1lzTFRSNENfZmthaGlYQUNOa3ZQS2l2XzhBNjhQTEN3dTVoSkZv0gHwAUFVX3lxTE5KeDdPQXVDakZ2T1MxaWRmLThOeFByWk5fOV9HczRTakF3Z2NWOHQzQk5tVC1Cd1V5YWU2eHFLQU9HUlNUbjQ0U0d5MGtOT25VQ2JoaGhLdHhMS3BlS01qUUhFT0l5bHFJY2JfTmllbUszVDZKZXNxRThmUkxtdTFQcVF3ZUVGTDVSQWhKOF9ObklMN3p1cXpkVFJ1RDFnVU9WOXN3WENkVHRvUnF0MWF6TXZJX1hLaTI0Wm50aTJJVWFkcEtjaDQ2cUg0bFVDWDFQN1M5WGM0V0k0SWdIU0ZsTk84NGI1b0RFczhLc0d4UA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpinvokeda96yearoldlawtohitus20bincanadiangoodswith50tari",
+   "title": "Trump invoked a 96-year-old law to hit US$20B in Canadian goods with 50% tariffs \u2014 and there's no expiry date - Money.ca",
+   "source": "Money.ca",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcElyLWNBZ1huUnNtWjFJZWFlY1R2cjYzT1BkMloxbzY2ZFRvWjZkaFAwWWplSDNrTmVoWnAzOTRqdHlGc2NjMmF5Q0hYdDdfa2hYbjFWUnMyMVgzOS1OV1BRLVZLZTJZQ3lJSWdmLTNlS01fV1E4VEZzWTZuLWQ5aUlfbzRlWFhwenlF?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whitmertalksaboutconversationswithtrumpregardingtariffsaudac",
+   "title": "Whitmer talks about conversations with Trump regarding tariffs - Audacy",
+   "source": "Audacy",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWm1tYy02SzkxMlV2aU03WkFqRHNvd2ZPMW56LVJ5dzh2Z2M4Q3ZpY09JbzJaVjNXS1ppaVVXak5jVTc1SXZ0enhoM2s1Vm54X2VZRHpLaWNIaXZ1d3hyRjVTXzFIUXVzZkV0b2JoRGIyVFNmU1F4dG4zeEw4UnhPdjJzNDFpYnBrS0g2VjhuLU5vNjVZX0dyOEp5NkJRNkdXdmF3TTVMZnZ5RTlCU2E3UEZ3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "canadianwineryconsidersshiftingbusinesstochinaastrumptariffs",
+   "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
+   "source": "Spectrum News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "migrantsheadtousinstrollersamidtrumptariffthreat",
+   "title": "Migrants Head to U.S. in Strollers Amid Trump Tariff Threat - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUE4SXAtLUlSWjFvbU1fUmt2aURwenlUUnRtdmxmSlZoWW1CVDNQM1JZZE43YTlxZ0JnQzgzZFl1eERhdGtkR3RjRjVsc1ZXUHdERlJWN09HTGZva2pNeVNBb3FtWmhFLUh2bWJzQ0pOU0lDVEZiR3otRFVKR0dBY09POWQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "whitehousetapspentagonofficialasnewcyberdirectoraftertechout",
+   "title": "White House taps Pentagon official as new cyber director after tech outages - USA Today",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFlSZWJPOF9FNVJPRmVKWnZsUjc3TXJUaXNacGZlTnVRYzNUbFZ1SG9jUTl2NVFaSUJSbFhoNDVWdHFuc3BFb2k4N3JrcUVBVTlKbTBrVUlUQkpsSk10eW5mT0FlSzlueVRnQXlaWWJabFQ4VFFNb3BFSTA3OGs1TERyeGNHelFfcldhLXRvQUVfblhDdG92WTFibnRzekRT?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "lookatindiatrumptargetsuscentralbankoverhighinterestratesndt",
+   "title": "'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV",
+   "source": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "fdatomissdeadlineonsavarasrarelungdiseasedrugapprovalreuters",
+   "title": "FDA to miss deadline on Savara's rare lung disease drug approval - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTHNONUxCYXhKMEJzN1hCTGJUMEJKVU9tYVpseGJxVmNGcXFqMDZDVjR3VVJGakQ2bGV5bEJqRFZ1VFA0Nm1XMFVF?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "rbaseekstomanageinflationjobstradeoffsboardmembersaysbloombe",
+   "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnhrbGhFcDBkUG5teTFYdVFqcGhZRm9HckFtWmJ4MF9UN0hFdjZSS19WaHQwYlplNEQ4Z2Eya18xZE90YjVWVHFobmRiNnpqRG9ZSVlfQUF3alZpbWlzUFlTOGZnd21tcGprcUs0WHhETlYwOHUxR19sbzJvOFRTU0EzeFM3ejRRTzBrY2I2azVKYktFLVJXRjEwUmgwNExiVFlDXzhsbHU1ZDYyWDBIclF1Zw?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "systematicopensnewcanberraofficeafteraustralianarmycontractd",
+   "title": "Systematic opens new Canberra office after Australian Army contract - Defence Connect",
+   "source": "Defence Connect",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOElTUmwyNldpemxhOWxOMUFfU0tSQWRwQThTUU5OTFZ0ZkZnLWs1M1lFRXZybjQwYUhRaWItaUg0bVhxNllLVzBzMzZBVmJvM0Nkamdaa3FQR1A3SVhWZWdpSnhXN1hUeHVwRm52RmpYdWUwRFR3MElYTDhUYl91MVFHTDgyeURiVVl2cVdVNWIyZWhjcG1xTXBPYjJNdUc2ZDNHQm5kSWJHeFJISm1OaVFFZHdKNGM?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "duratecsecuresover200minthreenewcontractsacrossenergyanddefe",
+   "title": "Duratec Secures Over $200M in Three New Contracts Across Energy and Defence Sectors - Kalkine",
+   "source": "Kalkine",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHJlQ0dOTmlla0MwcnlKa0wzdXJNSF9iR2RFaTVJTi1wVFZacVZaRnl2MnRjQTJXdFZlUEVlSDN0YzFxSjhXYTdDMm1Kd01sd0dzbGkydERxYWZxaE1qMEtlVEJYWVdUX0hYcTNvTVJlQTZJTTV0YnFqTzdTV1pNU2dPdVFDVkFJcDFOWmZjREtscjlCVUtNSWxmZlRDUGFhZXFlNHh3WmRuRTEweDY2M1NJY2kwMTJZeUJfTkJfQnBMUQ?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "timetogetreadytipsforprospectivedefencecontractorsmltaikins",
+   "title": "Time to get ready: Tips for prospective defence contractors - MLT Aikins",
+   "source": "MLT Aikins",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1oxaldfQUJDUFg4NjAxUlB0UFljcmdYOXZNZlh6VW90NHVxaEZLYkN0ZXg3ZTlBeElMeGlleFVZNzlLTjAtLUZuUjh1VnpYcVJPQlg5OWN0TTJnMWlqbVhhZTlzQncyNVJqVl9YU19BNzk0TElfTG50NERTYmJRTjZPd2xLT21fVjNlSEQ2NUY2Vzh5R3N1bWxR?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "rightuptothewiredefenceeye",
+   "title": "Right Up To The Wire\u2026 - Defence Eye",
+   "source": "Defence Eye",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93UlNSdFN4MjYzZVRTTTJTSzJEdEVVaWhtVG1FLUNBWmxCNDN2MEZyRTBXSEhzODU1eTdPNy1WcHlERncyNkNfZE9qVzhFU2N1ajNIYzBpTmhxNDBDU252eTczUHJiZWtlbWZsVGN5V21hXzdlUUM4SDdMWXd3WHc?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  }
+ ],
+ "rejected": [
+  {
+   "sym": "GLD",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 45
+  },
+  {
+   "sym": "ITA",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 46
+  },
+  {
+   "sym": "XLE",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 47
+  },
+  {
+   "sym": "FXI",
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 50
+  },
+  {
+   "sym": "LMT",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 40
+  },
+  {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
+  },
+  {
+   "sym": "NOC",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 39
+  },
+  {
+   "sym": "XOM",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
+  },
+  {
+   "sym": "CVX",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 40
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 896 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 898 min old)",
+   "score": 92
+  },
+  {
+   "sym": "SPY",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
+  },
+  {
+   "sym": "QQQ",
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 37
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 896 min old)",
+   "score": 40
+  },
+  {
+   "sym": "XBI",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 37
+  },
+  {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 50
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 38
+  }
+ ],
  "paper": {
   "stats": {},
   "by": {
@@ -16,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 06:08 AM AEDT",
+  "last_scan": "Sat 21 Nov 2026 07:07 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
