@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 08:42 AM AEDT",
- "fx_audusd": 0.6618,
+ "generated": "Sat 21 Nov 2026 09:27 AM AEDT",
+ "fx_audusd": 0.6619,
  "signals": [],
  "events": [
   {
@@ -33,6 +33,18 @@
    "title": "Repealing Trump's Tariffs Could Save More Than $1,100 Per Household - Reason Magazine",
    "source": "Reason Magazine",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWRudVozOHg1OGdfVHctenpONUpfUy1SbTd1eE5WLXIwZktsa2FFbUlLNWVJbGdlZnJqSE1uLV9fUGZhNUVVSF9SQjNsZmxMalhfV1FaNWFDN3E1cS1kZ3VCWGczZTlQcGx3cFFKTnFZOXh2MXVPTm5iV3FKYVB4d2lkdGxxUmVYZ1BMM241TGdCXzJqdm1Hdm81cw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffrefundsavedlowesfromanearningsmissheresthemathon",
+   "title": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government Tariff Refunds Are Padding Retailers' Profits - 24/7 Wall St.",
+   "source": "24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR1h1OXdkaFJGYUJlT0IxdUFDOW1QdFFpZnBNYy02Vll3d3gwbkNqSHZ2bjRBTThNMlVHN0JDREQ5TVdMU0J2QzZOWVhtR3RNNTNmcFVzTVhuamlFLUpKTkxTaXprc3JTeEtTODMwbXZrWmt1TTNkU1RTRC1OMjhGSjd2WUFzbHZlbnFMbnYtVUxKLUo1YmFYSHA1TExmX0g5MGtKZmNXbUVyT1EwU3VjM3pIamNLZERmVjN5SDBpSDJJUW5WdFhmUWlxTmNNZ2JzemdrczFUbF9mMF94cXJTMmoyaG5WOTJWZFNPS3lCQ2wxcGF1OG5Ic0EtR2UycjNHWnFCVmtBVQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,42 +89,6 @@
    "pts": 22
   },
   {
-   "key": "migrantsheadtousinstrollersamidtrumptariffthreat",
-   "title": "Migrants Head to U.S. in Strollers Amid Trump Tariff Threat - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUE4SXAtLUlSWjFvbU1fUmt2aURwenlUUnRtdmxmSlZoWW1CVDNQM1JZZE43YTlxZ0JnQzgzZFl1eERhdGtkR3RjRjVsc1ZXUHdERlJWN09HTGZva2pNeVNBb3FtWmhFLUh2bWJzQ0pOU0lDVEZiR3otRFVKR0dBY09POWQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpinvokeda96yearoldlawtohitus20bincanadiangoodswith50tari",
-   "title": "Trump invoked a 96-year-old law to hit US$20B in Canadian goods with 50% tariffs \u2014 and there's no expiry date - Money.ca",
-   "source": "Money.ca",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcElyLWNBZ1huUnNtWjFJZWFlY1R2cjYzT1BkMloxbzY2ZFRvWjZkaFAwWWplSDNrTmVoWnAzOTRqdHlGc2NjMmF5Q0hYdDdfa2hYbjFWUnMyMVgzOS1OV1BRLVZLZTJZQ3lJSWdmLTNlS01fV1E4VEZzWTZuLWQ5aUlfbzRlWFhwenlF?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
-   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "whitehousetapspentagonofficialasnewcyberdirectoraftertechout",
    "title": "White House taps Pentagon official as new cyber director after tech outages - USA Today",
    "source": "USA Today",
@@ -125,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
    "themes": [
     "energy"
    ],
@@ -173,10 +149,10 @@
    "pts": 20
   },
   {
-   "key": "ecbmustbringinflationbackto2francesmoulinsaysbloombergcom",
-   "title": "ECB Must Bring Inflation Back to 2%, France\u2019s Moulin Says - Bloomberg.com",
+   "key": "rbaseekstomanageinflationjobstradeoffsboardmembersaysbloombe",
+   "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUV2X3NvMUlxQnRNWWJPYmFNdTJjTUJ5UUJRVTBhZFUyXy1qNzJvTzZNWkdOd21FeHZxVC04WldsU21rTV9wV0Z1d0RXVTZfQTl6dFlhejBscEtobWJtNk5oTlVtNTRwN1FlbG1tM0IxMUxmWFZiMWRlZFJtaGVHNEJ1T3NiZjd1ZUhVY0J2WUJ4UkRYZEhQUTVqRzFjZlkxb1dPSlZwVG9EUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnhrbGhFcDBkUG5teTFYdVFqcGhZRm9HckFtWmJ4MF9UN0hFdjZSS19WaHQwYlplNEQ4Z2Eya18xZE90YjVWVHFobmRiNnpqRG9ZSVlfQUF3alZpbWlzUFlTOGZnd21tcGprcUs0WHhETlYwOHUxR19sbzJvOFRTU0EzeFM3ejRRTzBrY2I2azVKYktFLVJXRjEwUmgwNExiVFlDXzhsbHU1ZDYyWDBIclF1Zw?oc=5",
    "themes": [
     "rates"
    ],
@@ -185,10 +161,10 @@
    "pts": 20
   },
   {
-   "key": "rbaseekstomanageinflationjobstradeoffsboardmembersaysbloombe",
-   "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says - Bloomberg.com",
+   "key": "ecbmustbringinflationbackto2francesmoulinsaysbloombergcom",
+   "title": "ECB Must Bring Inflation Back to 2%, France\u2019s Moulin Says - Bloomberg.com",
    "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnhrbGhFcDBkUG5teTFYdVFqcGhZRm9HckFtWmJ4MF9UN0hFdjZSS19WaHQwYlplNEQ4Z2Eya18xZE90YjVWVHFobmRiNnpqRG9ZSVlfQUF3alZpbWlzUFlTOGZnd21tcGprcUs0WHhETlYwOHUxR19sbzJvOFRTU0EzeFM3ejRRTzBrY2I2azVKYktFLVJXRjEwUmgwNExiVFlDXzhsbHU1ZDYyWDBIclF1Zw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUV2X3NvMUlxQnRNWWJPYmFNdTJjTUJ5UUJRVTBhZFUyXy1qNzJvTzZNWkdOd21FeHZxVC04WldsU21rTV9wV0Z1d0RXVTZfQTl6dFlhejBscEtobWJtNk5oTlVtNTRwN1FlbG1tM0IxMUxmWFZiMWRlZFJtaGVHNEJ1T3NiZjd1ZUhVY0J2WUJ4UkRYZEhQUTVqRzFjZlkxb1dPSlZwVG9EUQ?oc=5",
    "themes": [
     "rates"
    ],
@@ -243,112 +219,136 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "rightuptothewiredefenceeye",
+   "title": "Right Up To The Wire\u2026 - Defence Eye",
+   "source": "Defence Eye",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93UlNSdFN4MjYzZVRTTTJTSzJEdEVVaWhtVG1FLUNBWmxCNDN2MEZyRTBXSEhzODU1eTdPNy1WcHlERncyNkNfZE9qVzhFU2N1ajNIYzBpTmhxNDBDU252eTczUHJiZWtlbWZsVGN5V21hXzdlUUM4SDdMWXd3WHc?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "leonardodrstodevelopnewthaadinfraredsensorandexpanddallaspro",
+   "title": "Leonardo DRS to develop new THAAD infrared sensor and expand Dallas production capacity - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamlQRHJhTEdKVm9Ha09TZlNUXzFkelNvZHNKd3F4VWNNT1VjWDBCRkJzdUJQd2tUbUtidFZ4cDBrTmxTUGY1YW1BZ3MxaGhBNndITUxMZHJOSXlEa0VpSmNMT204OHU2eW13SnFneXZCZ0ctSElaSWF6amRxV0c1cDR3cUxPTkRxVGVjd0JwcUhWZmpJTkJ1V0tMenAzUWZEVlhjZllhX0FKQjRJUlhqSlN3SF8tVUU?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 62
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 64
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 62
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 53
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 43 min old)",
+   "why": "stale quote / market closed (last price 88 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 43 min old)",
+   "why": "stale quote / market closed (last price 88 min old)",
    "score": 65
   },
   {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 57
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 57
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 991 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 993 min old)",
-   "score": 92
-  },
-  {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 43 min old)",
+   "why": "stale quote / market closed (last price 88 min old)",
    "score": 57
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 43 min old)",
+   "why": "stale quote / market closed (last price 88 min old)",
    "score": 52
   },
   {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 56
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 57
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 1036 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 1038 min old)",
+   "score": 92
+  },
+  {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 44
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 41
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 39
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 991 min old)",
+   "why": "stale quote / market closed (last price 1036 min old)",
    "score": 40
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 55
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 53
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 47
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 55
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 37
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 38
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 43 min old)",
-   "score": 46
+   "why": "stale quote / market closed (last price 88 min old)",
+   "score": 45
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 43 min old)",
+   "why": "stale quote / market closed (last price 88 min old)",
    "score": 55
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 43 min old)",
+   "why": "stale quote / market closed (last price 88 min old)",
    "score": 40
   }
  ],
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 08:42 AM AEDT",
+  "last_scan": "Sat 21 Nov 2026 09:27 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
