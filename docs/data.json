@@ -1,9 +1,33 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 04:05 AM AEDT",
- "fx_audusd": 0.6638,
+ "generated": "Sat 21 Nov 2026 05:03 AM AEDT",
+ "fx_audusd": 0.6628,
  "signals": [],
  "events": [
+  {
+   "key": "watchdonaldtrumpstariffscantkillglobalizationbloombergcom",
+   "title": "Watch Donald Trump's Tariffs Can't Kill Globalization - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHM5UVlLSktxdV9iOGtHVm5ITTJ3UVRRaXROZGxPNllPNURmRTBRMkFJbEx5MXNkY0M2dWd2Unh5ZWxSRTF1ZUR1OG12QzYtT01iR2l2VmhFeU01NzA2d3ZnUi1Edi02SWFMSlNfZkU3VTBNOFlIaXlPaW80R1hINXhya1Q2SGV3NWw0amFWZmRuTVI0bkwtb0g0LVUyc3hCUTdnVQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumpstariffrefundsavedlowesfromanearningsmissheresthemathon",
+   "title": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government Tariff Refunds Are Padding Retailers' Profits - 24/7 Wall St.",
+   "source": "24/7 Wall St.",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR1h1OXdkaFJGYUJlT0IxdUFDOW1QdFFpZnBNYy02Vll3d3gwbkNqSHZ2bjRBTThNMlVHN0JDREQ5TVdMU0J2QzZOWVhtR3RNNTNmcFVzTVhuamlFLUpKTkxTaXprc3JTeEtTODMwbXZrWmt1TTNkU1RTRC1OMjhGSjd2WUFzbHZlbnFMbnYtVUxKLUo1YmFYSHA1TExmX0g5MGtKZmNXbUVyT1EwU3VjM3pIamNLZERmVjN5SDBpSDJJUW5WdFhmUWlxTmNNZ2JzemdrczFUbF9mMF94cXJTMmoyaG5WOTJWZFNPS3lCQ2wxcGF1OG5Ic0EtR2UycjNHWnFCVmtBVQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
   {
    "key": "markwisemanwarnstrumps50tariffsarefreezingbusinessinvestment",
    "title": "Mark Wiseman warns Trump's 50% tariffs are freezing business investment as Canada's borrowing costs climb - Yahoo! Finance Canada",
@@ -29,10 +53,34 @@
    "pts": 22
   },
   {
+   "key": "migrantsheadtousinstrollersamidtrumptariffthreat",
+   "title": "Migrants Head to U.S. in Strollers Amid Trump Tariff Threat - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUE4SXAtLUlSWjFvbU1fUmt2aURwenlUUnRtdmxmSlZoWW1CVDNQM1JZZE43YTlxZ0JnQzgzZFl1eERhdGtkR3RjRjVsc1ZXUHdERlJWN09HTGZva2pNeVNBb3FtWmhFLUh2bWJzQ0pOU0lDVEZiR3otRFVKR0dBY09POWQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "canadianwineryconsidersshiftingbusinesstochinaastrumptariffs",
    "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
    "source": "Spectrum News",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpstariffsareunpopularbuttheyllbetoughtorepealdespitedemo",
+   "title": "Trump\u2019s tariffs are unpopular -- but they\u2019ll be tough to repeal despite Democrats\u2019 landslide win - The Miami Times",
+   "source": "The Miami Times",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMTdza3pjUEZyYkJGd1I5WDNjOGtmTmdpb2Z4bHVfTmk4T1I4OFI1TzJWVTBMbnI4Q3IzQ2lnaXN1dU9TQ0xXck1rWE4zdFFnTE56d25WcjlJVHV6TzFRQkJBMXc1bkZ6SXBYWUdVRmdYUjFsT0lqTVlKaTR0YjBuNFU5S08zYTVTUmN2MTd0TC03UGlVelhyY3k4c0VZVkNlLWhOcThiWS1FZ2VIOXBqTEhTUVY1cmFmMGVvdXBHNkJ2YXFiR1lzTFRSNENfZmthaGlYQUNOa3ZQS2l2XzhBNjhQTEN3dTVoSkZv0gHwAUFVX3lxTE5KeDdPQXVDakZ2T1MxaWRmLThOeFByWk5fOV9HczRTakF3Z2NWOHQzQk5tVC1Cd1V5YWU2eHFLQU9HUlNUbjQ0U0d5MGtOT25VQ2JoaGhLdHhMS3BlS01qUUhFT0l5bHFJY2JfTmllbUszVDZKZXNxRThmUkxtdTFQcVF3ZUVGTDVSQWhKOF9ObklMN3p1cXpkVFJ1RDFnVU9WOXN3WENkVHRvUnF0MWF6TXZJX1hLaTI0Wm50aTJJVWFkcEtjaDQ2cUg0bFVDWDFQN1M5WGM0V0k0SWdIU0ZsTk84NGI1b0RFczhLc0d4UA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,34 +125,10 @@
    "pts": 22
   },
   {
-   "key": "morevotersblametrumpstariffsforraisingcostoflivingthaniranwa",
-   "title": "More voters blame Trump\u2019s tariffs for raising cost of living than Iran war: poll - New York Post",
-   "source": "New York Post",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE5kbnRzSEY3NWM1aEZyMC1zUWJ2UHEtVjNsZGNJMmhnWmt6RVlZeEdMM1A3TG1aTjQwVXc0OTJRYWY5MXZlZkpkVmR1S2p6eVpBTDN0NjFDVDFBWmNoelRFZTFMRWZodl9EeXJ3cXJCUmNzX21hb1VMWGlkUl9hd2tVTFpYRDRiSzVrVzFPZy1Sa2JKektHSzNFLVZZRVE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "congressmannealweighsinontrumpstariffsloominggovernmentshutd",
    "title": "Congressman Neal weighs in on Trump\u2019s tariffs, looming government shutdown - WWLP",
    "source": "WWLP",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF94Wi1DbWI4Tl96T2lNX0IzZERIbjAtUnpsMUhPbVVzYmQ1a2R4Q050OUQ5VkJFQU9VRG1oVUh2Z0VsekNIZGFvckQ3NGQ1YWdBQjBseERiYUJnUHZQdGNyNjVyRFBEdlo5NVNhY25UWW9UMWVIRE90S3FxRmctU0pqWkQzb05GeTFtc0Z4czBndTZUeldxNzAwRFVTMkVValk5V2M5LWNZYTVNV2RSbEoxONIBuAFBVV95cUxNSVQ3LXJhTHkzRTk4d25FZFVXNXk0Nl9iTzVkVW1lQ24tOHhRU0d3djJFUDliMVNacFJhX1dfVGFDaVhzVERyOFNHTHlNb2YzejlBRTZXbE5GN3VfeTBzUDlQOVQ5WHVDMnlERERHUTB1SVVCakd1NUR6aXg1N3ZUMjBWTTlKdFFjNnpIMy01YzdkWTdOTXNXVS1zN0ZSYk1LZ092RUtVSFp3LVZqOFJwcjVIRzlKcEZO?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "dansullivanslossisanindictmentoftrumpstariffswashingtonexami",
-   "title": "Dan Sullivan\u2019s loss is an indictment of Trump\u2019s tariffs - Washington Examiner",
-   "source": "Washington Examiner",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkV5OTBFZFBpXzlOaGV1SDNKWVVVNVd5TFZHQ2VybnJWSktXQ2lfUU81dzBOR1A4WWoxWGMtdW1TejZoWGN1ZFVsUDAtSzYtM2I1ZFNaaFdmakc1OGwtaVUwNFRlbnFBa213THNja041RUlCdlpxNG9YamhWSkhFdVk1LWM3MkxNaEliRjhMZVdwTXBXWmEyRGJHblg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -119,18 +143,6 @@
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFlSZWJPOF9FNVJPRmVKWnZsUjc3TXJUaXNacGZlTnVRYzNUbFZ1SG9jUTl2NVFaSUJSbFhoNDVWdHFuc3BFb2k4N3JrcUVBVTlKbTBrVUlUQkpsSk10eW5mT0FlSzlueVRnQXlaWWJabFQ4VFFNb3BFSTA3OGs1TERyeGNHelFfcldhLXRvQUVfblhDdG92WTFibnRzekRT?oc=5",
    "themes": [
     "defence"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -185,10 +197,10 @@
    "pts": 12
   },
   {
-   "key": "afpusarmssalemilitaryfinancingtoboostphdefenseposturemoderni",
-   "title": "AFP: US arms sale, military financing to boost PH defense posture, modernization - GMA Network",
-   "source": "GMA Network",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzQwSEFfOHRCUmVEcmRtbjZpQkc4cWZBRUl5bnEyU2xOY3VudkxvQ2Qta3YwUDNON0lNMmlOQ1JQalc5aXV2cFE1c3pqTm5lUlg4TlQ4T08yZjFsQzlKdWdHcTl3dFNGU1BTZkdfR09aRlIzb3B6ZVFKU0VndG94eVE5ODhyRUVoYXc5RmRvOW9xZGNwRzg1aHYzUF95c0Zwd0ZscHFiZzNyNE9rVGxjTFRnVXhfYzE0aUdKQjNmOVRaeHlLZVVnaUZ4a0pqTFBuSVEwSnI4a3k4d9IB3wFBVV95cUxQWWxleEJmdW9yRUZTcldNZnJSb0FYdHpXOUZUdWhjVXZKb3RWeUUtc0hPS0MzTlpfTjBYZ0tsYi1nVFNaN0dZMGc0ZXltR3ZJR0l3Y2JJSWxWbDJmbjNsMGdyUUNQSHBsREE1YlhZbDNUWXVMTGxZRWtLSjBVWWdQeHdnTzJaUzBXSlROUk1odnVfOHZfbk1HZ3R5OUpwWjE1dWJwZzU0b0RIQzc3N0tlaHcwUzBmbTQ1YjBZOHZ2SmNwSlJlM1dOVjJlUVVDeTdla0VDeDFzUmIxQmVsR2Fv?oc=5",
+   "key": "ustospend400mforphseadefenseinquirernet",
+   "title": "US to spend $400M for PH sea defense - Inquirer.net",
+   "source": "Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5VG1VVFNMNEY0S1RQR0psMnY4d3lIcUhWalpDUXY0RWo4Yi1ITjlvWFAxbkRJN204QkFlNUNnYXFvS3BaZV9QTzhsbGxaYVlPY1B3Tk9NSnNkWW04RmtKWUcwMVViSWJRYlUyXzhwTWFaeXlSNlNv?oc=5",
    "themes": [
     "defence"
    ],
@@ -197,10 +209,10 @@
    "pts": 12
   },
   {
-   "key": "ustospend400mforphseadefenseinquirernet",
-   "title": "US to spend $400M for PH sea defense - Inquirer.net",
-   "source": "Inquirer.net",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5VG1VVFNMNEY0S1RQR0psMnY4d3lIcUhWalpDUXY0RWo4Yi1ITjlvWFAxbkRJN204QkFlNUNnYXFvS3BaZV9QTzhsbGxaYVlPY1B3Tk9NSnNkWW04RmtKWUcwMVViSWJRYlUyXzhwTWFaeXlSNlNv?oc=5",
+   "key": "afpusarmssalemilitaryfinancingtoboostphdefenseposturemoderni",
+   "title": "AFP: US arms sale, military financing to boost PH defense posture, modernization - GMA Network",
+   "source": "GMA Network",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzQwSEFfOHRCUmVEcmRtbjZpQkc4cWZBRUl5bnEyU2xOY3VudkxvQ2Qta3YwUDNON0lNMmlOQ1JQalc5aXV2cFE1c3pqTm5lUlg4TlQ4T08yZjFsQzlKdWdHcTl3dFNGU1BTZkdfR09aRlIzb3B6ZVFKU0VndG94eVE5ODhyRUVoYXc5RmRvOW9xZGNwRzg1aHYzUF95c0Zwd0ZscHFiZzNyNE9rVGxjTFRnVXhfYzE0aUdKQjNmOVRaeHlLZVVnaUZ4a0pqTFBuSVEwSnI4a3k4d9IB3wFBVV95cUxQWWxleEJmdW9yRUZTcldNZnJSb0FYdHpXOUZUdWhjVXZKb3RWeUUtc0hPS0MzTlpfTjBYZ0tsYi1nVFNaN0dZMGc0ZXltR3ZJR0l3Y2JJSWxWbDJmbjNsMGdyUUNQSHBsREE1YlhZbDNUWXVMTGxZRWtLSjBVWWdQeHdnTzJaUzBXSlROUk1odnVfOHZfbk1HZ3R5OUpwWjE1dWJwZzU0b0RIQzc3N0tlaHcwUzBmbTQ1YjBZOHZ2SmNwSlJlM1dOVjJlUVVDeTdla0VDeDFzUmIxQmVsR2Fv?oc=5",
    "themes": [
     "defence"
    ],
@@ -231,75 +243,43 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "electroopticsystemsasxeossharesmaybetradingnearfairvalueonan",
-   "title": "Electro Optic Systems (ASX:EOS) Shares May Be Trading Near Fair Value On A New Defense Contract - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU01SbnhJendNLXllMUNQTWJZbVNYZ2RyeDlSLVVBM3dVNFZja1YxR0IwY191TWhIcnl4UnlJSVh3T0lheV81blh1dzhSSnU4OFk4UnRCZGlZTlI5dFBpdzFnSUc4eEZ0bFhscFZoRExZYjZaSndvQThXOGZjVHM5c2Z1MXJGWlEyWC1SaDNJSGRNQm9rXzJLc2JB?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 45
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 40
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "FXI",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 39
+   "score": 47
   },
   {
    "sym": "LMT",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 39
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
    "score": 38
   },
   {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 40
-  },
-  {
-   "sym": "XOM",
+   "sym": "RTX",
    "why": "volume not confirmed (0.1x normal)",
    "score": 38
   },
   {
-   "sym": "CVX",
+   "sym": "NOC",
    "why": "volume not confirmed (0.2x normal)",
-   "score": 73
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 713 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 715 min old)",
-   "score": 92
+   "score": 38
   },
   {
    "sym": "XBI",
@@ -309,22 +289,22 @@
   {
    "sym": "LLY",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 35
+   "score": 36
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "NVDA",
    "why": "volume not confirmed (0.1x normal)",
-   "score": 36
+   "score": 35
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 44
   },
   {
    "sym": "SOXX",
@@ -333,8 +313,8 @@
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 37
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "SPY",
@@ -348,7 +328,7 @@
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 713 min old)",
+   "why": "stale quote / market closed (last price 772 min old)",
    "score": 38
   }
  ],
@@ -363,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 04:05 AM AEDT",
+  "last_scan": "Sat 21 Nov 2026 05:03 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
