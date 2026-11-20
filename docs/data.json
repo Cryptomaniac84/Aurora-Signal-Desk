@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 02:02 AM AEDT",
- "fx_audusd": 0.6666,
+ "generated": "Sat 21 Nov 2026 03:03 AM AEDT",
+ "fx_audusd": 0.6647,
  "signals": [],
  "events": [
   {
@@ -77,6 +77,18 @@
    "pts": 22
   },
   {
+   "key": "congressmannealweighsinontrumpstariffsloominggovernmentshutd",
+   "title": "Congressman Neal weighs in on Trump\u2019s tariffs, looming government shutdown - WWLP",
+   "source": "WWLP",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF94Wi1DbWI4Tl96T2lNX0IzZERIbjAtUnpsMUhPbVVzYmQ1a2R4Q050OUQ5VkJFQU9VRG1oVUh2Z0VsekNIZGFvckQ3NGQ1YWdBQjBseERiYUJnUHZQdGNyNjVyRFBEdlo5NVNhY25UWW9UMWVIRE90S3FxRmctU0pqWkQzb05GeTFtc0Z4czBndTZUeldxNzAwRFVTMkVValk5V2M5LWNZYTVNV2RSbEoxONIBuAFBVV95cUxNSVQ3LXJhTHkzRTk4d25FZFVXNXk0Nl9iTzVkVW1lQ24tOHhRU0d3djJFUDliMVNacFJhX1dfVGFDaVhzVERyOFNHTHlNb2YzejlBRTZXbE5GN3VfeTBzUDlQOVQ5WHVDMnlERERHUTB1SVVCakd1NUR6aXg1N3ZUMjBWTTlKdFFjNnpIMy01YzdkWTdOTXNXVS1zN0ZSYk1LZ092RUtVSFp3LVZqOFJwcjVIRzlKcEZO?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "dansullivanslossisanindictmentoftrumpstariffswashingtonexami",
    "title": "Dan Sullivan\u2019s loss is an indictment of Trump\u2019s tariffs - Washington Examiner",
    "source": "Washington Examiner",
@@ -89,12 +101,36 @@
    "pts": 22
   },
   {
-   "key": "congressmannealweighsinontrumpstariffsloominggovernmentshutd",
-   "title": "Congressman Neal weighs in on Trump\u2019s tariffs, looming government shutdown - WWLP",
-   "source": "WWLP",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF94Wi1DbWI4Tl96T2lNX0IzZERIbjAtUnpsMUhPbVVzYmQ1a2R4Q050OUQ5VkJFQU9VRG1oVUh2Z0VsekNIZGFvckQ3NGQ1YWdBQjBseERiYUJnUHZQdGNyNjVyRFBEdlo5NVNhY25UWW9UMWVIRE90S3FxRmctU0pqWkQzb05GeTFtc0Z4czBndTZUeldxNzAwRFVTMkVValk5V2M5LWNZYTVNV2RSbEoxONIBuAFBVV95cUxNSVQ3LXJhTHkzRTk4d25FZFVXNXk0Nl9iTzVkVW1lQ24tOHhRU0d3djJFUDliMVNacFJhX1dfVGFDaVhzVERyOFNHTHlNb2YzejlBRTZXbE5GN3VfeTBzUDlQOVQ5WHVDMnlERERHUTB1SVVCakd1NUR6aXg1N3ZUMjBWTTlKdFFjNnpIMy01YzdkWTdOTXNXVS1zN0ZSYk1LZ092RUtVSFp3LVZqOFJwcjVIRzlKcEZO?oc=5",
+   "key": "whitehousetapspentagonofficialasnewcyberdirectoraftertechout",
+   "title": "White House taps Pentagon official as new cyber director after tech outages - USA Today",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFlSZWJPOF9FNVJPRmVKWnZsUjc3TXJUaXNacGZlTnVRYzNUbFZ1SG9jUTl2NVFaSUJSbFhoNDVWdHFuc3BFb2k4N3JrcUVBVTlKbTBrVUlUQkpsSk10eW5mT0FlSzlueVRnQXlaWWJabFQ4VFFNb3BFSTA3OGs1TERyeGNHelFfcldhLXRvQUVfblhDdG92WTFibnRzekRT?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
+   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysusdealwithsouthkoreaincludes84billionforoilrecovery",
+   "title": "Trump Says US Deal With South Korea Includes $8.4 Billion for Oil Recovery - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEpoVkx3blIzY21yRmtxeU1GNHRqTmItQzZsZ1VLWThJczJzN2NrclJQcy1vZmV6SU1Oa0U5NGk2SmhfMmtQTDZ4UzRVdjdBb1Z5bDdBemI3NFpKT3JYcGppaXRDWWhRY3RKOEJjei1MNVptZTQzWDByX0tIemZXT1ZmaHR5U0swZjBTRXdKZWt3UDNpaElISnEwcFdQTmJTM3hBb2NnMA?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -125,6 +161,18 @@
    "pts": 20
   },
   {
+   "key": "shoppingchipsandcentralbanksreuters",
+   "title": "Shopping, chips and central banks - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXh3QTRTZW1RR1lQZXg1bHE2clBpUnkxNjljMjF0M0FXSWZSLVg3T3ZiQmxRYnI4THNORmJJZzU1TG9hbml1b1FvZFF6MGhjdUlNRmF2OXI3UDl2cURHVFJNV0JsNkd4aU54ZHBaQzEyZHcwTWxWOTNjbm1INXVQWTkzNWdvWEluejNfaA?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "rbaseekstomanageinflationjobstradeoffsboardmembersaysbloombe",
    "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -149,10 +197,22 @@
    "pts": 12
   },
   {
-   "key": "duratecsecuresover200minthreenewcontractsacrossenergyanddefe",
-   "title": "Duratec Secures Over $200M in Three New Contracts Across Energy and Defence Sectors - Kalkine",
+   "key": "durateclimitedasxdursecuresover200millioninnewcontractsacros",
+   "title": "Duratec Limited (ASX:DUR) Secures Over $200 Million in New Contracts Across Energy and Defence Sectors - Kalkine",
    "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHJlQ0dOTmlla0MwcnlKa0wzdXJNSF9iR2RFaTVJTi1wVFZacVZaRnl2MnRjQTJXdFZlUEVlSDN0YzFxSjhXYTdDMm1Kd01sd0dzbGkydERxYWZxaE1qMEtlVEJYWVdUX0hYcTNvTVJlQTZJTTV0YnFqTzdTV1pNU2dPdVFDVkFJcDFOWmZjREtscjlCVUtNSWxmZlRDUGFhZXFlNHh3WmRuRTEweDY2M1NJY2kwMTJZeUJfTkJfQnBMUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWDRUeXhPWENFangxdWU1VnROQkVUa3NHb3BQd3JVNHJIeGFNWVg5NWhDaHJLRWNSNVdKYlcxQ1FpOFdjUjZFQWtXVzFsZXF3cnVwM3pnYUVFRG42R2lrQmpEem5jSHpMU0lpQV96bVJ5UDBHVWp0YmxySkNGZkhqVmxxc1JTQkY0Tl80a05qaHRCVmN6NkpXUnV1N1BEcVR6bHhnUlpJX3hla3c4N3hxaEtSSXBVWVA3X3RmS3R3djk2UFVIcXpOd2JfX2d2ZzdP?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "michiganwantstoturnitsautomotivemanufacturingpowerintoadefen",
+   "title": "Michigan wants to turn its automotive manufacturing power into a defence industry advantage - Resilience Media",
+   "source": "Resilience Media",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkh5VGRrVWd0ZDBfQUN5RlpwZzVKUDFYbDhZZ0xnUU0yUjctVkQycWNUeS1ZckhPQzEyNHpBT0NzUW1aTi1tNjR6TU9pUy0xaXVOWkV6cUc1YlRpMnVVVmFaTU84YTdnNFVHY01ZR2trQmxPQzJBWGY0UEcxZHJMa2RHVVEyRWFNOFl0aHFtTTZfdUdRVkZDMXkzbWgtUVVPV0tHbzJuT0t2ZlhSU1ZYZnpsdlQwZjAzUW5z?oc=5",
    "themes": [
     "defence"
    ],
@@ -173,70 +233,10 @@
    "pts": 12
   },
   {
-   "key": "techfirmsecures25milliondefencecontractbdaily",
-   "title": "Tech firm secures \u00a32.5 million defence contract - Bdaily",
-   "source": "Bdaily",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWxMTHZlRFNkZVVoZC1lN2tlZkp4bF9TMDljSVZNVHZReXg1dTZ2MkJaSEoyV2psRlZ5Nk5STjV5ZWVpMnI5ZEg0QlRSZ3pqb3l5ZWZxOUU3ZS1fWVNBV2MyejdKdkR6TEs5ejhoaDRpTl84SnpCUmVJcWwyYU5UZnJ6OFBQVmlwNDhfUjlONk9nUQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "techfirmsecures25milliondefencecontractbusinessdurham",
-   "title": "Tech firm secures \u00a32.5 million defence contract - Business Durham",
-   "source": "Business Durham",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTdNQmlJazNDRThveXU3Y2VaWEU1ZlIyWE91d1N4aUlkTTlfNVpGcS10SzEyZXprZ0ZOZzFHZmpNNF9CUDFtMkkySjNoWFAteWxaZUFYLU1LQTI3WlllSGtXQjFBU3ZERVNLNWcyS2R3ejE0SUpIc3J5ZWtHNnJuMkJpZktfQzAxVzFUbw?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "netherlandssignsabout15defensecontractsworthover15billiondef",
-   "title": "Netherlands signs about 15 defense contracts worth over \u20ac1.5 billion - Defensehere",
-   "source": "Defensehere",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPVjRFS21hN2FaVTc5T1VwMXVrcTJvcDhaMXdNeUVubE9lQkpQWktpYWhoUXhxSE55TGZFSXJkWmZZeE9GakhqT2FtT1ZlOXlEbFVLVk4xVG4xNXdnZ1BrSVA1eVlFektCd2VPSXNySVpMR2R4UG5wNThPVUF4WXM?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "newcybersecuritycertificationfordefencesupplierswhatthecpcsc",
-   "title": "New cyber security certification for defence suppliers: What the CPCSC means for your business - MLT Aikins",
-   "source": "MLT Aikins",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWRnblVtUEFwbndqMk9UOGFYSklIM1R0NjNyT3pUejJUQklaN21MdU1fYjRGNGdRcm4zMHZrUnU2UUh3Zllod29qYmxsLVN5LXIzNUdPbEQtalI5Z0thdHdSTXljdzcxQllDZ2c3SVU1ZHJTbUZIbEtKdU9MVmMyLWpjYUpaOS16MEc0Q09TMkNfa2VG?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "indiasignsdealwithiaitoupgradebaraksystemsinitsfleetisraelde",
-   "title": "India Signs Deal with IAI to Upgrade Barak Systems in Its Fleet - Israel Defense",
-   "source": "Israel Defense",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Cb1dLZ0FNN2NQa0F5M2QwQUNRTGFFbkFDVGNTd3J1WlRNS2d4RlZWMzl6UE9aR3EwNFBKaE9adlVPa3NBbWlxMklrVmpYOS00TjN1WGhmUDc?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "michiganwantstoturnitsautomotivemanufacturingpowerintoadefen",
-   "title": "Michigan wants to turn its automotive manufacturing power into a defence industry advantage - Resilience Media",
-   "source": "Resilience Media",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkh5VGRrVWd0ZDBfQUN5RlpwZzVKUDFYbDhZZ0xnUU0yUjctVkQycWNUeS1ZckhPQzEyNHpBT0NzUW1aTi1tNjR6TU9pUy0xaXVOWkV6cUc1YlRpMnVVVmFaTU84YTdnNFVHY01ZR2trQmxPQzJBWGY0UEcxZHJMa2RHVVEyRWFNOFl0aHFtTTZfdUdRVkZDMXkzbWgtUVVPV0tHbzJuT0t2ZlhSU1ZYZnpsdlQwZjAzUW5z?oc=5",
+   "key": "electroopticsystemsasxeossharesmaybetradingnearfairvalueonan",
+   "title": "Electro Optic Systems (ASX:EOS) Shares May Be Trading Near Fair Value On A New Defense Contract - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU01SbnhJendNLXllMUNQTWJZbVNYZ2RyeDlSLVVBM3dVNFZja1YxR0IwY191TWhIcnl4UnlJSVh3T0lheV81blh1dzhSSnU4OFk4UnRCZGlZTlI5dFBpdzFnSUc4eEZ0bFhscFZoRExZYjZaSndvQThXOGZjVHM5c2Z1MXJGWlEyWC1SaDNJSGRNQm9rXzJLc2JB?oc=5",
    "themes": [
     "defence"
    ],
@@ -248,88 +248,108 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (1.3x normal)",
-   "score": 46
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 40
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 67
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 39
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 79
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 66
   },
   {
    "sym": "FXI",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 41
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 40
   },
   {
    "sym": "LMT",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 52
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 68
   },
   {
    "sym": "RTX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 64
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 39
   },
   {
    "sym": "NOC",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 63
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 44
   },
   {
-   "sym": "XBI",
-   "why": "volume not confirmed (0.5x normal)",
+   "sym": "XOM",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 73
   },
   {
+   "sym": "CVX",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 75
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 652 min old)",
+   "score": 57
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 654 min old)",
+   "score": 92
+  },
+  {
+   "sym": "XBI",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
+  },
+  {
    "sym": "LLY",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 53
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 36
   },
   {
    "sym": "PFE",
    "why": "volume not confirmed (0.4x normal)",
-   "score": 58
+   "score": 38
   },
   {
-   "sym": "SPY",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 47
+   "sym": "NVDA",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 55
   },
   {
-   "sym": "QQQ",
+   "sym": "AMD",
    "why": "volume not confirmed (0.6x normal)",
    "score": 39
   },
   {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 590 min old)",
+   "sym": "SOXX",
+   "why": "volume not confirmed (1.1x normal)",
+   "score": 42
+  },
+  {
+   "sym": "TSM",
+   "why": "volume not confirmed (0.5x normal)",
    "score": 38
   },
   {
-   "sym": "XOM",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 57
+   "sym": "SPY",
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 39
   },
   {
-   "sym": "CVX",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 54
+   "sym": "QQQ",
+   "why": "price not above VWAP and 20-bar average",
+   "score": 55
   },
   {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 590 min old)",
-   "score": 47
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 592 min old)",
-   "score": 82
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 652 min old)",
+   "score": 38
   }
  ],
  "paper": {
@@ -343,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 02:02 AM AEDT",
+  "last_scan": "Sat 21 Nov 2026 03:03 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
