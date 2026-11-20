@@ -1,9 +1,21 @@
 {
  "mode": "LIVE",
- "generated": "Fri 20 Nov 2026 04:29 PM AEDT",
- "fx_audusd": 0.6665,
+ "generated": "Fri 20 Nov 2026 05:30 PM AEDT",
+ "fx_audusd": 0.6677,
  "signals": [],
  "events": [
+  {
+   "key": "trumps50tariffsoncanadatakeeffectascarneyvowstoretaliateabcn",
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "undoingtrumpstariffswillbeharderthanitseemsamericasquarterly",
    "title": "Undoing Trump\u2019s Tariffs Will Be Harder Than It Seems - Americas Quarterly",
@@ -77,34 +89,34 @@
    "pts": 22
   },
   {
-   "key": "dansullivanslossisanindictmentoftrumpstariffswashingtonexami",
-   "title": "Dan Sullivan\u2019s loss is an indictment of Trump\u2019s tariffs - Washington Examiner",
-   "source": "Washington Examiner",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkV5OTBFZFBpXzlOaGV1SDNKWVVVNVd5TFZHQ2VybnJWSktXQ2lfUU81dzBOR1A4WWoxWGMtdW1TejZoWGN1ZFVsUDAtSzYtM2I1ZFNaaFdmakc1OGwtaVUwNFRlbnFBa213THNja041RUlCdlpxNG9YamhWSkhFdVk1LWM3MkxNaEliRjhMZVdwTXBXWmEyRGJHblg?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "congressmannealweighsinontrumpstariffsloominggovernmentshutd",
-   "title": "Congressman Neal weighs in on Trump\u2019s tariffs, looming government shutdown - WWLP",
-   "source": "WWLP",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF94Wi1DbWI4Tl96T2lNX0IzZERIbjAtUnpsMUhPbVVzYmQ1a2R4Q050OUQ5VkJFQU9VRG1oVUh2Z0VsekNIZGFvckQ3NGQ1YWdBQjBseERiYUJnUHZQdGNyNjVyRFBEdlo5NVNhY25UWW9UMWVIRE90S3FxRmctU0pqWkQzb05GeTFtc0Z4czBndTZUeldxNzAwRFVTMkVValk5V2M5LWNZYTVNV2RSbEoxONIBuAFBVV95cUxNSVQ3LXJhTHkzRTk4d25FZFVXNXk0Nl9iTzVkVW1lQ24tOHhRU0d3djJFUDliMVNacFJhX1dfVGFDaVhzVERyOFNHTHlNb2YzejlBRTZXbE5GN3VfeTBzUDlQOVQ5WHVDMnlERERHUTB1SVVCakd1NUR6aXg1N3ZUMjBWTTlKdFFjNnpIMy01YzdkWTdOTXNXVS1zN0ZSYk1LZ092RUtVSFp3LVZqOFJwcjVIRzlKcEZO?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "morevotersblametrumpstariffsforraisingcostoflivingthaniranwa",
    "title": "More voters blame Trump\u2019s tariffs for raising cost of living than Iran war: poll - New York Post",
    "source": "New York Post",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeE5kbnRzSEY3NWM1aEZyMC1zUWJ2UHEtVjNsZGNJMmhnWmt6RVlZeEdMM1A3TG1aTjQwVXc0OTJRYWY5MXZlZkpkVmR1S2p6eVpBTDN0NjFDVDFBWmNoelRFZTFMRWZodl9EeXJ3cXJCUmNzX21hb1VMWGlkUl9hd2tVTFpYRDRiSzVrVzFPZy1Sa2JKektHSzNFLVZZRVE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpimposesnewglobaltariffsdrawingprotestsfromtradingpartne",
+   "title": "Trump imposes new global tariffs, drawing protests from trading partners - DD News",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0NjTmp1aFctaUVTVTdVRVRKc05TVVFmQ1R0bFhsdUtTME45em5rRDZSNFNqeWMyclJZNC11UXV6ZjVwbG81OXM2c1phQTZJclpGVGV5dl9NWHI0c0R2UERQR0Q1VWpXdW9maHJLc3p0cVhUZS1RYmYtQTVBalA1N0lLdjhxZGlHQjZWZmlaNnlYRXN4TjRBQnJxSmtoQQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "dansullivanslossisanindictmentoftrumpstariffswashingtonexami",
+   "title": "Dan Sullivan\u2019s loss is an indictment of Trump\u2019s tariffs - Washington Examiner",
+   "source": "Washington Examiner",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkV5OTBFZFBpXzlOaGV1SDNKWVVVNVd5TFZHQ2VybnJWSktXQ2lfUU81dzBOR1A4WWoxWGMtdW1TejZoWGN1ZFVsUDAtSzYtM2I1ZFNaaFdmakc1OGwtaVUwNFRlbnFBa213THNja041RUlCdlpxNG9YamhWSkhFdVk1LWM3MkxNaEliRjhMZVdwTXBXWmEyRGJHblg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -221,18 +233,6 @@
    "pts": 12
   },
   {
-   "key": "hungarysministryofdefencesignedcontractwithfugitivebusinessm",
-   "title": "Hungary's Ministry of Defence signed contract with fugitive businessman wanted by the government - Daily News Hungary",
-   "source": "Daily News Hungary",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LSzhpMnRiS3hzVHBfWEl6cU9NMFd5dk9uaVRKZ0hYcm5wdFZEblQ3M2t2bW9SYjRNbTk2djlHczJ0VlJ4TTlVc1BzTFZEODUyQjhSRWlHRTRidlhIUW1MWUpfMnlLNzR3X0RxNGxOTVpYSzgxTzAzb0VOTQ?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "techfirmsecures25milliondefencecontractbdaily",
    "title": "Tech firm secures \u00a32.5 million defence contract - Bdaily",
    "source": "Bdaily",
@@ -248,82 +248,82 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 509 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 571 min old)",
+   "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 509 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 571 min old)",
+   "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 509 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 571 min old)",
+   "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 509 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 571 min old)",
+   "score": 65
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 57
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 64
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 64
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 46
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 34 min old)",
-   "score": 41
+   "why": "stale quote / market closed (last price 79 min old)",
+   "score": 40
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 49
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 60
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 47
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 509 min old)",
+   "why": "stale quote / market closed (last price 571 min old)",
    "score": 55
   }
  ],
@@ -338,7 +338,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 20 Nov 2026 04:29 PM AEDT",
+  "last_scan": "Fri 20 Nov 2026 05:30 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
