@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Fri 20 Nov 2026 05:30 PM AEDT",
- "fx_audusd": 0.6677,
+ "generated": "Fri 20 Nov 2026 06:57 PM AEDT",
+ "fx_audusd": 0.6678,
  "signals": [],
  "events": [
   {
@@ -33,18 +33,6 @@
    "title": "Undoing Trump\u2019s Tariffs Will Be Harder Than It Seems - AS/COA",
    "source": "AS/COA",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3B2eUYxQ3hIZ1YwYVhQRXc3X003dE94OXY4SlEtNjVSNVdSVGJDZi1sNlY3WE5NT1hHZEsyVm9GNE1HUWUtYXh4V2M2a3dtbk91Mjg2d1pEeGpNaGcxa1MteWk0LTcya1Y5MGVuRGhjdFpPSWRGeVpGMXNBOUZxTDducFo?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "washingtoncanstartdeliveringonaffordabilitybyrejectingtrumps",
-   "title": "Washington Can Start Delivering on Affordability by Rejecting Trump\u2019s Tariffs - Tax Foundation",
-   "source": "Tax Foundation",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhRRFhsa2d6d0NORXVyMEloRFU4b3J5al83QnNnXzlBYWcxSmZKWGJLZUlqQnVBWDd5ckR2STZ2WVNrN29YWGxKZFRlNVdVUEpraWFfM1RiU2owZTB3TFhlUjNZQXR0OW1PWkR5NTg3R01pZExLQjFQaFZRM0ZpWUQzVGM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -185,16 +173,28 @@
    "pts": 20
   },
   {
-   "key": "commerceapprovedsalesofmorethan879000aichipstochinesecompani",
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+   "key": "bankofjapantoraiseinterestratesindecemberandagainbyendmarche",
+   "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tVS3ktQThQZmhzbFBGVmwzRDlycmtudVhLTk1vLWpJeDlQMFBqV1J3bFZXNGtTT0VfRGJaWUxBeWNWck0tblgzbTJsQmM4SXNRbUVXZEo1Nk1UdWpONURjY1I5RnJsVmRuRzdra2VFSVlyYnJUTnhjUXNjNUJKU2YtWDBfQkZuWFV2d3FJZTdFSzZKdHgyM242QzVReUJENE52TEtXaWlfMnNlNGZkejlzRGR3TnM?oc=5",
    "themes": [
-    "semiconductors"
+    "rates"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonusesscri",
+   "title": "Tariff refunds worth millions are helping fund corporate bonuses - Scripps News",
+   "source": "Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "thiscompanyturnsamericanmilkintocanadiancheesetariffsarecurd",
@@ -248,83 +248,63 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 65
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 65
   },
   {
    "sym": "COIN",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 57
   },
   {
    "sym": "MSTR",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 64
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 57
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 64
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 571 min old)",
+   "why": "stale quote / market closed (last price 657 min old)",
    "score": 46
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 79 min old)",
+   "why": "stale quote / market closed (last price 165 min old)",
    "score": 40
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 571 min old)",
-   "score": 49
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 571 min old)",
-   "score": 60
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 571 min old)",
-   "score": 47
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 571 min old)",
-   "score": 55
   }
  ],
  "paper": {
@@ -338,7 +318,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 20 Nov 2026 05:30 PM AEDT",
+  "last_scan": "Fri 20 Nov 2026 06:57 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
