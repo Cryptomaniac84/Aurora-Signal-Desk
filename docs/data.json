@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 01:08 AM AEDT",
- "fx_audusd": 0.6671,
+ "generated": "Sat 21 Nov 2026 02:02 AM AEDT",
+ "fx_audusd": 0.6666,
  "signals": [],
  "events": [
   {
@@ -29,18 +29,6 @@
    "pts": 22
   },
   {
-   "key": "canadianwineryconsidersshiftingbusinesstochinaastrumptariffs",
-   "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
-   "source": "Spectrum News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "seewhichfloridacompaniesreceivedmillionsintrumptariffrefunds",
    "title": "See which Florida companies received millions in Trump tariff refunds - Miami Herald",
    "source": "Miami Herald",
@@ -53,10 +41,10 @@
    "pts": 22
   },
   {
-   "key": "commentaryhereshowcanadianpolicymakersshouldrespondtotrumpst",
-   "title": "COMMENTARY: Here\u2019s How Canadian Policymakers Should Respond to Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGNJbmEyeEc1WndtLUxoMlZpZzlHSUdvaVhzUXZrZC14RVNnd2lKeUhGUTVCeFJ4ZEQzWkNUZUQ4ZDRmNTYwbEJsVDFGWVJDNHNSakpIcHdPempNaTRxVGh4TkJtSjQxNWtYRVUzamp2LTAtc051cXA5RFRBMzZINTBIN3RSZjBLZGlxNTAtSXJBVDRmeXNkQU94c3duX1Y1TGxKOW5sdGI5emduOUszMFBaZUVxUzdNZXNxRGVsSQ?oc=5",
+   "key": "canadianwineryconsidersshiftingbusinesstochinaastrumptariffs",
+   "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
+   "source": "Spectrum News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,36 +101,24 @@
    "pts": 22
   },
   {
-   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
-   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "whitehousetapspentagonofficialasnewcyberdirectoraftertechout",
-   "title": "White House taps Pentagon official as new cyber director after tech outages - USA Today",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFlSZWJPOF9FNVJPRmVKWnZsUjc3TXJUaXNacGZlTnVRYzNUbFZ1SG9jUTl2NVFaSUJSbFhoNDVWdHFuc3BFb2k4N3JrcUVBVTlKbTBrVUlUQkpsSk10eW5mT0FlSzlueVRnQXlaWWJabFQ4VFFNb3BFSTA3OGs1TERyeGNHelFfcldhLXRvQUVfblhDdG92WTFibnRzekRT?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "washingtonoutsourcesdefenseoftransgendersportslawtobryancave",
    "title": "Washington outsources defense of transgender sports law to Bryan Cave - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDlBNUplSFplWkZpR3ZmZ1RFamt4djFNM2ctam0xVDdDZ0lHd29rcXR0TmFZR1U4c3N1RV9hRXRZQTloLWZWdGl4bU9nZXJtQ0ozMXZSYzAtSUl3Qkl4T3hhWGZGeHZRb2VmY1NXeERqU1NuX0RZcU1JWDlDYjhqcFlJSXlXZk5sb1FUT0tJUW4yaTJCUksyXzllWlVPT1lhR2doMGZ1cDdoMmY2S0doSzZ5T2h2X3c?oc=5",
    "themes": [
     "defence"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "fdatomissdeadlineonsavarasrarelungdiseasedrugapprovalreuters",
+   "title": "FDA to miss deadline on Savara's rare lung disease drug approval - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTHNONUxCYXhKMEJzN1hCTGJUMEJKVU9tYVpseGJxVmNGcXFqMDZDVjR3VVJGakQ2bGV5bEJqRFZ1VFA0Nm1XMFVF?oc=5",
+   "themes": [
+    "pharma"
    ],
    "trump": false,
    "trusted": true,
@@ -161,60 +137,12 @@
    "pts": 20
   },
   {
-   "key": "commerceapprovedsalesofmorethan879000aichipstochinesecompani",
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "thiscompanyturnsamericanmilkintocanadiancheesetariffsarecurd",
    "title": "This Company Turns American Milk Into Canadian Cheese. Tariffs Are Curdling Those Plans. - Reason Magazine",
    "source": "Reason Magazine",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1RHX3RyUWhwQklEUjZZX3B6VGF5WGx3VHZtZ1lOeDNSenZCd0ItV3pkXzZEanV2VC1SdmprV25ZYUJJNjcyUS1raW9rYVNRdEVlUk04cVprOXBYeGJCdmFNWTJIWU13b285OWM2M1BRUE9iWHFzbFJpeklzLTJOaV80aGpKbms4ZjJIRXdBMTBieWlMS1pneFZvYjBVcFZDNmRrOWprcFlWTmJDT0FqcTRVNmFocW55?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "thailanddenies123mhimarsdeallinkedtoustariffssayspurchasefar",
-   "title": "Thailand denies $123m HIMARS deal linked to US tariffs, says purchase far from finalised - jiji press",
-   "source": "jiji press",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84blB2M3lQemRWQ3RubGR6dEc4ZHlMb3VpZ0RJaHJlWTgxNHoyRkRFTlhfYl9wMzBkdHpnSUk3Ym1kZGNBempaX3BfT1JxMlVrMFpEcWI4V1FWWS1VQ2gxMC1nZWN0OG4ycG5rY2hB?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "ustospend400mforphseadefenseinquirernet",
-   "title": "US to spend $400M for PH sea defense - Inquirer.net",
-   "source": "Inquirer.net",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5VG1VVFNMNEY0S1RQR0psMnY4d3lIcUhWalpDUXY0RWo4Yi1ITjlvWFAxbkRJN204QkFlNUNnYXFvS3BaZV9QTzhsbGxaYVlPY1B3Tk9NSnNkWW04RmtKWUcwMVViSWJRYlUyXzhwTWFaeXlSNlNv?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "afpusarmssalemilitaryfinancingtoboostphdefenseposturemoderni",
-   "title": "AFP: US arms sale, military financing to boost PH defense posture, modernization - GMA Network",
-   "source": "GMA Network",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzQwSEFfOHRCUmVEcmRtbjZpQkc4cWZBRUl5bnEyU2xOY3VudkxvQ2Qta3YwUDNON0lNMmlOQ1JQalc5aXV2cFE1c3pqTm5lUlg4TlQ4T08yZjFsQzlKdWdHcTl3dFNGU1BTZkdfR09aRlIzb3B6ZVFKU0VndG94eVE5ODhyRUVoYXc5RmRvOW9xZGNwRzg1aHYzUF95c0Zwd0ZscHFiZzNyNE9rVGxjTFRnVXhfYzE0aUdKQjNmOVRaeHlLZVVnaUZ4a0pqTFBuSVEwSnI4a3k4d9IB3wFBVV95cUxQWWxleEJmdW9yRUZTcldNZnJSb0FYdHpXOUZUdWhjVXZKb3RWeUUtc0hPS0MzTlpfTjBYZ0tsYi1nVFNaN0dZMGc0ZXltR3ZJR0l3Y2JJSWxWbDJmbjNsMGdyUUNQSHBsREE1YlhZbDNUWXVMTGxZRWtLSjBVWWdQeHdnTzJaUzBXSlROUk1odnVfOHZfbk1HZ3R5OUpwWjE1dWJwZzU0b0RIQzc3N0tlaHcwUzBmbTQ1YjBZOHZ2SmNwSlJlM1dOVjJlUVVDeTdla0VDeDFzUmIxQmVsR2Fv?oc=5",
-   "themes": [
-    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -243,98 +171,165 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "techfirmsecures25milliondefencecontractbdaily",
+   "title": "Tech firm secures \u00a32.5 million defence contract - Bdaily",
+   "source": "Bdaily",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWxMTHZlRFNkZVVoZC1lN2tlZkp4bF9TMDljSVZNVHZReXg1dTZ2MkJaSEoyV2psRlZ5Nk5STjV5ZWVpMnI5ZEg0QlRSZ3pqb3l5ZWZxOUU3ZS1fWVNBV2MyejdKdkR6TEs5ejhoaDRpTl84SnpCUmVJcWwyYU5UZnJ6OFBQVmlwNDhfUjlONk9nUQ?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "techfirmsecures25milliondefencecontractbusinessdurham",
+   "title": "Tech firm secures \u00a32.5 million defence contract - Business Durham",
+   "source": "Business Durham",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTdNQmlJazNDRThveXU3Y2VaWEU1ZlIyWE91d1N4aUlkTTlfNVpGcS10SzEyZXprZ0ZOZzFHZmpNNF9CUDFtMkkySjNoWFAteWxaZUFYLU1LQTI3WlllSGtXQjFBU3ZERVNLNWcyS2R3ejE0SUpIc3J5ZWtHNnJuMkJpZktfQzAxVzFUbw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "netherlandssignsabout15defensecontractsworthover15billiondef",
+   "title": "Netherlands signs about 15 defense contracts worth over \u20ac1.5 billion - Defensehere",
+   "source": "Defensehere",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPVjRFS21hN2FaVTc5T1VwMXVrcTJvcDhaMXdNeUVubE9lQkpQWktpYWhoUXhxSE55TGZFSXJkWmZZeE9GakhqT2FtT1ZlOXlEbFVLVk4xVG4xNXdnZ1BrSVA1eVlFektCd2VPSXNySVpMR2R4UG5wNThPVUF4WXM?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "newcybersecuritycertificationfordefencesupplierswhatthecpcsc",
+   "title": "New cyber security certification for defence suppliers: What the CPCSC means for your business - MLT Aikins",
+   "source": "MLT Aikins",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWRnblVtUEFwbndqMk9UOGFYSklIM1R0NjNyT3pUejJUQklaN21MdU1fYjRGNGdRcm4zMHZrUnU2UUh3Zllod29qYmxsLVN5LXIzNUdPbEQtalI5Z0thdHdSTXljdzcxQllDZ2c3SVU1ZHJTbUZIbEtKdU9MVmMyLWpjYUpaOS16MEc0Q09TMkNfa2VG?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "indiasignsdealwithiaitoupgradebaraksystemsinitsfleetisraelde",
+   "title": "India Signs Deal with IAI to Upgrade Barak Systems in Its Fleet - Israel Defense",
+   "source": "Israel Defense",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Cb1dLZ0FNN2NQa0F5M2QwQUNRTGFFbkFDVGNTd3J1WlRNS2d4RlZWMzl6UE9aR3EwNFBKaE9adlVPa3NBbWlxMklrVmpYOS00TjN1WGhmUDc?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "michiganwantstoturnitsautomotivemanufacturingpowerintoadefen",
+   "title": "Michigan wants to turn its automotive manufacturing power into a defence industry advantage - Resilience Media",
+   "source": "Resilience Media",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkh5VGRrVWd0ZDBfQUN5RlpwZzVKUDFYbDhZZ0xnUU0yUjctVkQycWNUeS1ZckhPQzEyNHpBT0NzUW1aTi1tNjR6TU9pUy0xaXVOWkV6cUc1YlRpMnVVVmFaTU84YTdnNFVHY01ZR2trQmxPQzJBWGY0UEcxZHJMa2RHVVEyRWFNOFl0aHFtTTZfdUdRVkZDMXkzbWgtUVVPV0tHbzJuT0t2ZlhSU1ZYZnpsdlQwZjAzUW5z?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 57
+   "why": "volume not confirmed (1.3x normal)",
+   "score": 46
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 57
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 67
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 57
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 79
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 57
-  },
-  {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 72
-  },
-  {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 72
-  },
-  {
-   "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 536 min old)",
-   "score": 57
-  },
-  {
-   "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 538 min old)",
-   "score": 92
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 41
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 64
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 52
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 57
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 1028 min old)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 64
   },
   {
+   "sym": "NOC",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 63
+  },
+  {
+   "sym": "XBI",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 73
+  },
+  {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 53
+  },
+  {
+   "sym": "PFE",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 58
+  },
+  {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 55
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 44
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 536 min old)",
-   "score": 38
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 49
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 60
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1028 min old)",
+   "why": "volume not confirmed (0.7x normal)",
    "score": 47
   },
   {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 1028 min old)",
-   "score": 55
+   "sym": "QQQ",
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 39
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "stale quote / market closed (last price 590 min old)",
+   "score": 38
+  },
+  {
+   "sym": "XOM",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 57
+  },
+  {
+   "sym": "CVX",
+   "why": "volume not confirmed (1.1x normal)",
+   "score": 54
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 590 min old)",
+   "score": 47
+  },
+  {
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 592 min old)",
+   "score": 82
   }
  ],
  "paper": {
@@ -348,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 01:08 AM AEDT",
+  "last_scan": "Sat 21 Nov 2026 02:02 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
