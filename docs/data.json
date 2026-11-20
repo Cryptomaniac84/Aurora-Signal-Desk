@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 03:03 AM AEDT",
- "fx_audusd": 0.6647,
+ "generated": "Sat 21 Nov 2026 04:05 AM AEDT",
+ "fx_audusd": 0.6638,
  "signals": [],
  "events": [
-  {
-   "key": "undoingtrumpstariffswillbeharderthanitseemsamericasquarterly",
-   "title": "Undoing Trump\u2019s Tariffs Will Be Harder Than It Seems - Americas Quarterly",
-   "source": "Americas Quarterly",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmViaWkxekhjeVItOUZzek5XZHRkS0xpZi1DcnRpb2lYQTlrT0JZazVRVVh3czhWejBJNk5EM0luRTkyX2wzVzRNREhISG5SNnFpTjMtUG5LZm9IdEoxaWstcV9RYWdDR3N0RGRkU1J0eDRaODBOVjZwRm80R2w5UlN6akRYQ0VpcFVQSWJISmlZSkQy?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
   {
    "key": "markwisemanwarnstrumps50tariffsarefreezingbusinessinvestment",
    "title": "Mark Wiseman warns Trump's 50% tariffs are freezing business investment as Canada's borrowing costs climb - Yahoo! Finance Canada",
@@ -53,10 +41,34 @@
    "pts": 22
   },
   {
+   "key": "whitmertalksaboutconversationswithtrumpregardingtariffsaudac",
+   "title": "Whitmer talks about conversations with Trump regarding tariffs - Audacy",
+   "source": "Audacy",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWm1tYy02SzkxMlV2aU03WkFqRHNvd2ZPMW56LVJ5dzh2Z2M4Q3ZpY09JbzJaVjNXS1ppaVVXak5jVTc1SXZ0enhoM2s1Vm54X2VZRHpLaWNIaXZ1d3hyRjVTXzFIUXVzZkV0b2JoRGIyVFNmU1F4dG4zeEw4UnhPdjJzNDFpYnBrS0g2VjhuLU5vNjVZX0dyOEp5NkJRNkdXdmF3TTVMZnZ5RTlCU2E3UEZ3?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpstariffadvantageforindiaisnofavourwhyuscannotaffordtolo",
    "title": "Trump's tariff advantage for India is no favour: Why US cannot afford to lose New Delhi - The Times of India",
    "source": "The Times of India",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQlRueVQxOVN4RGRhMGdJM1Q4S2lEaUtuY29NaHJvWWJibG9LOE92TE4zU3l0ZFp2NVVFVGtkT2RyUU5kVkhYeVhLcVMyREc3anRLMmN2ZDktY19fOVNlVmpzOC01Vmc1NlU5SUM4UllZM2dHcFkzM2N1c0tnTnp0OEZHMVNDSEllVWJDbC1DcDVxSmpKUFEyOGVwcW9uYm1xVGNJaDJvQ3FlYjNXYVVhWDNON2FZSGFGSUk2VEhhVFVOQ1NTcWRubWZWRF9mV205UVFCbjZSQ3Bnc2M5azNJN25iaWlpTlhJWE5JbmczaG0zUFprYnZfMENURDFTV0hS0gGGAkFVX3lxTFAtcEdRSHNXMy1ITmthTmZsMERMb01oZWtGaFU0dkJHM3NSR3I3SU9FYVprMDZEVDJHeVo0OS1hOXV6cEtENTZPZW5pbW1HQl9CTWduVG9oWlBSTV91U2dSSU9veGVUSUczdVdhRmdRTWxGMDl6b2tZbmstN1NvRklGMmd2NXQtNmxub1J1Mmsta3NrMjZMS0VqRXdacTZWUElHN1FxWTB5U2dxTkp2X0wyV3dDWGx0TUFNbHpOcnpSc012R2JiYTFtaUJySk5FNXBMeWM0RGR3TXRjS043d2d6STZzMUJaN1BBSTRiaERwRGpkNThGdnJ4NWlEV0xLNzFvNTgxcnc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "chuckschumerblamestrumpsdisastrouswartariffsandtradedisputew",
+   "title": "Chuck Schumer Blames Trump\u2019s \u2018Disastrous War,\u2019 Tariffs and Trade Dispute With Canada for Rising Thanksgiv - Benzinga",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQT2tRWHJxSFVNeEU5RFhIRjlsSUNZcVpUQXA5VlhtUWNKb0tjMFZqeE4tdWNMVzloR1dxc1JLNHJPVjhJeGZjZ19aZ2hSVHAxN2VyUE5xY0RTYTBJcTEtYUpqN1hWVjFrbTFTd0kxdmVlYmxjUkF4ckVVNE8wRVVZM3FySGhUMFcwNEViejNqNG1KVXFaNzBPd29FUHlqYVV0X2NkTnNYU0Jkemc4T0t4RjgySjdjQ1BCZExnU3BQWk9kZkNMWFhIaFI3bTZfTmV5WmUyUVRIYkJpRWZaS25oakhPYzBpN0tadHRqQWozQVJFS0VEM0c3SU1ZT3VkWEFqVzd1TTgwcnhKalpEYlREa0xSclp4eFVxcE55eElnc0tOcVJfQlB2NThSUnFRc1dSTjdfSVJSUzJzUThCaW9IUk9hWUFqZw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,40 +125,16 @@
    "pts": 22
   },
   {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsaysusdealwithsouthkoreaincludes84billionforoilrecovery",
-   "title": "Trump Says US Deal With South Korea Includes $8.4 Billion for Oil Recovery - EnergyNow.com",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
    "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEpoVkx3blIzY21yRmtxeU1GNHRqTmItQzZsZ1VLWThJczJzN2NrclJQcy1vZmV6SU1Oa0U5NGk2SmhfMmtQTDZ4UzRVdjdBb1Z5bDdBemI3NFpKT3JYcGppaXRDWWhRY3RKOEJjei1MNVptZTQzWDByX0tIemZXT1ZmaHR5U0swZjBTRXdKZWt3UDNpaElISnEwcFdQTmJTM3hBb2NnMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
    "themes": [
     "energy"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "washingtonoutsourcesdefenseoftransgendersportslawtobryancave",
-   "title": "Washington outsources defense of transgender sports law to Bryan Cave - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDlBNUplSFplWkZpR3ZmZ1RFamt4djFNM2ctam0xVDdDZ0lHd29rcXR0TmFZR1U4c3N1RV9hRXRZQTloLWZWdGl4bU9nZXJtQ0ozMXZSYzAtSUl3Qkl4T3hhWGZGeHZRb2VmY1NXeERqU1NuX0RZcU1JWDlDYjhqcFlJSXlXZk5sb1FUT0tJUW4yaTJCUksyXzllWlVPT1lhR2doMGZ1cDdoMmY2S0doSzZ5T2h2X3c?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   },
   {
    "key": "fdatomissdeadlineonsavarasrarelungdiseasedrugapprovalreuters",
@@ -185,12 +173,36 @@
    "pts": 20
   },
   {
-   "key": "thiscompanyturnsamericanmilkintocanadiancheesetariffsarecurd",
-   "title": "This Company Turns American Milk Into Canadian Cheese. Tariffs Are Curdling Those Plans. - Reason Magazine",
-   "source": "Reason Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1RHX3RyUWhwQklEUjZZX3B6VGF5WGx3VHZtZ1lOeDNSenZCd0ItV3pkXzZEanV2VC1SdmprV25ZYUJJNjcyUS1raW9rYVNRdEVlUk04cVprOXBYeGJCdmFNWTJIWU13b285OWM2M1BRUE9iWHFzbFJpeklzLTJOaV80aGpKbms4ZjJIRXdBMTBieWlMS1pneFZvYjBVcFZDNmRrOWprcFlWTmJDT0FqcTRVNmFocW55?oc=5",
+   "key": "thailanddenies123mhimarsdeallinkedtoustariffssayspurchasefar",
+   "title": "Thailand denies $123m HIMARS deal linked to US tariffs, says purchase far from finalised - jiji press",
+   "source": "jiji press",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84blB2M3lQemRWQ3RubGR6dEc4ZHlMb3VpZ0RJaHJlWTgxNHoyRkRFTlhfYl9wMzBkdHpnSUk3Ym1kZGNBempaX3BfT1JxMlVrMFpEcWI4V1FWWS1VQ2gxMC1nZWN0OG4ycG5rY2hB?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "afpusarmssalemilitaryfinancingtoboostphdefenseposturemoderni",
+   "title": "AFP: US arms sale, military financing to boost PH defense posture, modernization - GMA Network",
+   "source": "GMA Network",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzQwSEFfOHRCUmVEcmRtbjZpQkc4cWZBRUl5bnEyU2xOY3VudkxvQ2Qta3YwUDNON0lNMmlOQ1JQalc5aXV2cFE1c3pqTm5lUlg4TlQ4T08yZjFsQzlKdWdHcTl3dFNGU1BTZkdfR09aRlIzb3B6ZVFKU0VndG94eVE5ODhyRUVoYXc5RmRvOW9xZGNwRzg1aHYzUF95c0Zwd0ZscHFiZzNyNE9rVGxjTFRnVXhfYzE0aUdKQjNmOVRaeHlLZVVnaUZ4a0pqTFBuSVEwSnI4a3k4d9IB3wFBVV95cUxQWWxleEJmdW9yRUZTcldNZnJSb0FYdHpXOUZUdWhjVXZKb3RWeUUtc0hPS0MzTlpfTjBYZ0tsYi1nVFNaN0dZMGc0ZXltR3ZJR0l3Y2JJSWxWbDJmbjNsMGdyUUNQSHBsREE1YlhZbDNUWXVMTGxZRWtLSjBVWWdQeHdnTzJaUzBXSlROUk1odnVfOHZfbk1HZ3R5OUpwWjE1dWJwZzU0b0RIQzc3N0tlaHcwUzBmbTQ1YjBZOHZ2SmNwSlJlM1dOVjJlUVVDeTdla0VDeDFzUmIxQmVsR2Fv?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "ustospend400mforphseadefenseinquirernet",
+   "title": "US to spend $400M for PH sea defense - Inquirer.net",
+   "source": "Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5VG1VVFNMNEY0S1RQR0psMnY4d3lIcUhWalpDUXY0RWo4Yi1ITjlvWFAxbkRJN204QkFlNUNnYXFvS3BaZV9QTzhsbGxaYVlPY1B3Tk9NSnNkWW04RmtKWUcwMVViSWJRYlUyXzhwTWFaeXlSNlNv?oc=5",
+   "themes": [
+    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -221,18 +233,6 @@
    "pts": 12
   },
   {
-   "key": "rightuptothewiredefenceeye",
-   "title": "Right Up To The Wire\u2026 - Defence Eye",
-   "source": "Defence Eye",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93UlNSdFN4MjYzZVRTTTJTSzJEdEVVaWhtVG1FLUNBWmxCNDN2MEZyRTBXSEhzODU1eTdPNy1WcHlERncyNkNfZE9qVzhFU2N1ajNIYzBpTmhxNDBDU252eTczUHJiZWtlbWZsVGN5V21hXzdlUUM4SDdMWXd3WHc?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "electroopticsystemsasxeossharesmaybetradingnearfairvalueonan",
    "title": "Electro Optic Systems (ASX:EOS) Shares May Be Trading Near Fair Value On A New Defense Contract - Yahoo Finance",
    "source": "Yahoo Finance",
@@ -248,107 +248,107 @@
  "rejected": [
   {
    "sym": "GLD",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
+  },
+  {
+   "sym": "ITA",
    "why": "volume not confirmed (0.4x normal)",
    "score": 40
   },
   {
-   "sym": "ITA",
+   "sym": "XLE",
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 40
+  },
+  {
+   "sym": "FXI",
    "why": "volume not confirmed (0.2x normal)",
    "score": 39
   },
   {
-   "sym": "XLE",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 66
-  },
-  {
-   "sym": "FXI",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 40
-  },
-  {
    "sym": "LMT",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 68
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (0.3x normal)",
+   "why": "volume not confirmed (0.2x normal)",
    "score": 39
   },
   {
+   "sym": "RTX",
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 38
+  },
+  {
    "sym": "NOC",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 44
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 40
   },
   {
    "sym": "XOM",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
+  },
+  {
+   "sym": "CVX",
    "why": "volume not confirmed (0.2x normal)",
    "score": 73
   },
   {
-   "sym": "CVX",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 75
-  },
-  {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 652 min old)",
+   "why": "stale quote / market closed (last price 713 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 654 min old)",
+   "why": "stale quote / market closed (last price 715 min old)",
    "score": 92
   },
   {
    "sym": "XBI",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 36
+  },
+  {
+   "sym": "LLY",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 35
+  },
+  {
+   "sym": "PFE",
    "why": "volume not confirmed (0.3x normal)",
    "score": 37
   },
   {
-   "sym": "LLY",
-   "why": "volume not confirmed (0.2x normal)",
+   "sym": "NVDA",
+   "why": "volume not confirmed (0.1x normal)",
    "score": 36
   },
   {
-   "sym": "PFE",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 38
-  },
-  {
-   "sym": "NVDA",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 55
-  },
-  {
    "sym": "AMD",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
   },
   {
    "sym": "SOXX",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 42
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.5x normal)",
-   "score": 38
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 37
   },
   {
    "sym": "SPY",
-   "why": "volume not confirmed (0.7x normal)",
-   "score": 39
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 36
   },
   {
    "sym": "QQQ",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 55
+   "why": "volume not confirmed (0.0x normal)",
+   "score": 35
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 652 min old)",
+   "why": "stale quote / market closed (last price 713 min old)",
    "score": 38
   }
  ],
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 03:03 AM AEDT",
+  "last_scan": "Sat 21 Nov 2026 04:05 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
