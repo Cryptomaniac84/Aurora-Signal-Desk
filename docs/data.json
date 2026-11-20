@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 07:57 AM AEDT",
- "fx_audusd": 0.6613,
+ "generated": "Sat 21 Nov 2026 08:42 AM AEDT",
+ "fx_audusd": 0.6618,
  "signals": [],
  "events": [
   {
@@ -17,34 +17,22 @@
    "pts": 30
   },
   {
+   "key": "fordreopenscanadaautoplantdefyingtrumptariffsjapantoday",
+   "title": "Ford reopens Canada auto plant, defying Trump tariffs - Japan Today",
+   "source": "Japan Today",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXVwOU1xUjZSV1lDYTVXSUE2emlRQUhkN0JCUmJRemsyWmItM2tTcUVpQ3VjR0dCdWFON0g5LTh3Y1dtNDE2M0JJSGdYUDZRaV9rYUp5bk5yTlRCZmJETjJvSzhOZDBuSUtnY01YUVdoZkZ1MHNGQ1RyMVFxbW1sa2stMWlhVlZmSXdwb3FGNnhQOERidE5meg?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "repealingtrumpstariffscouldsavemorethan1100perhouseholdreaso",
    "title": "Repealing Trump's Tariffs Could Save More Than $1,100 Per Household - Reason Magazine",
    "source": "Reason Magazine",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWRudVozOHg1OGdfVHctenpONUpfUy1SbTd1eE5WLXIwZktsa2FFbUlLNWVJbGdlZnJqSE1uLV9fUGZhNUVVSF9SQjNsZmxMalhfV1FaNWFDN3E1cS1kZ3VCWGczZTlQcGx3cFFKTnFZOXh2MXVPTm5iV3FKYVB4d2lkdGxxUmVYZ1BMM241TGdCXzJqdm1Hdm81cw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "fordreopenscanadaautoplantdefyingtrumptariffsbarrons",
-   "title": "Ford Reopens Canada Auto Plant, Defying Trump Tariffs - Barron's",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1JXTHVnaHI2TWZBUmViZWhiOTA3NGpWcFROaGwtSkd6X0dSdWlodC1tSFJLSW5SZl9BalVhanduVlNBX3lqTEVSVWJBMkRCcUlZd3lvUlVJMHNZV2FGRHFFWUx5bzB0Rzdxa3RjVk94eWczak53MGlHLUpHRFVJenMxdXYzRVFjbW9URWJmNGYyUmpaX2I0TVQzdDdPdmZKMnFORUhUdTREOU52eGhMVEI4RQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "seewhichfloridacompaniesreceivedmillionsintrumptariffrefunds",
-   "title": "See which Florida companies received millions in Trump tariff refunds - Miami Herald",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldk9jRUFCNHpwdW4wamp5bFJxLTdESG1LSkY5dmE2cDl0WkUwRTRFWWFUVEZaR3NFd05lQTVRSG5Ta2Z0Wk9kQjVqd1ZxemJxdlp4UG56UXZpUU5RTjFTY2hFdDQzOVlTc1h4Nlo5eFBUNG51V1kxWEpPMFhqMEHSAX9BVV95cUxNNkF1VzVyTWpVRmFEazY1NklfZzd5VGlQY1RsNV9VSGR2alRyTFZ0OUJ3ckk2TEdrdFJsbTZQdUJHeUdlVFdHSjk2SnhxSktwLVJyaWVWSFFCT1VsLUtXYVFkSHlMWHhNbVAxcURTNmdoN3JRMzhUQUtGbl9vWVFz?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,10 +53,10 @@
    "pts": 22
   },
   {
-   "key": "migrantsheadtousinstrollersamidtrumptariffthreat",
-   "title": "Migrants Head to U.S. in Strollers Amid Trump Tariff Threat - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUE4SXAtLUlSWjFvbU1fUmt2aURwenlUUnRtdmxmSlZoWW1CVDNQM1JZZE43YTlxZ0JnQzgzZFl1eERhdGtkR3RjRjVsc1ZXUHdERlJWN09HTGZva2pNeVNBb3FtWmhFLUh2bWJzQ0pOU0lDVEZiR3otRFVKR0dBY09POWQ?oc=5",
+   "key": "notwithyourtariffswhitmersharesinsidelookatpostelectioncallw",
+   "title": "'Not with your tariffs': Whitmer shares inside look at post-election call with Trump - FOX 2 Detroit",
+   "source": "FOX 2 Detroit",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTBfYWNRaTBrYmM4R0JQZ0YtZlpDVkZlSmREa0VwY1N6RmxhVHREQ1dtY1g3RHVHUFNySzZXdjQ0Y2JUR1R3cVozejJsOGRZT2dOUG5wMi1GRkNhbVQtV2NabW0zUVU3c3pCUG9PR0NEOUNsNFpFZmRtbUFmYjJySmdZS1JaSURYSXprQ2NnT3lCVlpxTjVYMkNxaw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +65,22 @@
    "pts": 22
   },
   {
-   "key": "canadianwineryconsidersshiftingbusinesstochinaastrumptariffs",
-   "title": "Canadian winery considers shifting business to China as Trump tariffs raise concerns for New York economy - Spectrum News",
-   "source": "Spectrum News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWluSVNRLUt6RFRXWExqbEJrUEJ2Sm84b1NMdWw2LWxLX3E0QUUyU3BLNEE4SlJHUElDVkRXdXY0WlRNUDJqNmhSaUYtc1hyTEhKVVg4RXV6TjFvZEVEUFJhWFZRSUtHRTB0OW1BVnViVkhXeDJYSmN1SnVuUjdYT3F1NnQxNTNrVHRRc2JwN0JvYWdWdVpneE5VWG5DdnFtOTV0R2FzOUgtYzhfeFd4ekpvZw?oc=5",
+   "key": "seewhichfloridacompaniesreceivedmillionsintrumptariffrefunds",
+   "title": "See which Florida companies received millions in Trump tariff refunds - Miami Herald",
+   "source": "Miami Herald",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldk9jRUFCNHpwdW4wamp5bFJxLTdESG1LSkY5dmE2cDl0WkUwRTRFWWFUVEZaR3NFd05lQTVRSG5Ta2Z0Wk9kQjVqd1ZxemJxdlp4UG56UXZpUU5RTjFTY2hFdDQzOVlTc1h4Nlo5eFBUNG51V1kxWEpPMFhqMEHSAX9BVV95cUxNNkF1VzVyTWpVRmFEazY1NklfZzd5VGlQY1RsNV9VSGR2alRyTFZ0OUJ3ckk2TEdrdFJsbTZQdUJHeUdlVFdHSjk2SnhxSktwLVJyaWVWSFFCT1VsLUtXYVFkSHlMWHhNbVAxcURTNmdoN3JRMzhUQUtGbl9vWVFz?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "migrantsheadtousinstrollersamidtrumptariffthreat",
+   "title": "Migrants Head to U.S. in Strollers Amid Trump Tariff Threat - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUE4SXAtLUlSWjFvbU1fUmt2aURwenlUUnRtdmxmSlZoWW1CVDNQM1JZZE43YTlxZ0JnQzgzZFl1eERhdGtkR3RjRjVsc1ZXUHdERlJWN09HTGZva2pNeVNBb3FtWmhFLUh2bWJzQ0pOU0lDVEZiR3otRFVKR0dBY09POWQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -95,6 +95,18 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcElyLWNBZ1huUnNtWjFJZWFlY1R2cjYzT1BkMloxbzY2ZFRvWjZkaFAwWWplSDNrTmVoWnAzOTRqdHlGc2NjMmF5Q0hYdDdfa2hYbjFWUnMyMVgzOS1OV1BRLVZLZTJZQ3lJSWdmLTNlS01fV1E4VEZzWTZuLWQ5aUlfbzRlWFhwenlF?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpsaysuscantakestraitofhormuzwithmoretimetaketheoilandmak",
+   "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
+   "themes": [
+    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -161,6 +173,18 @@
    "pts": 20
   },
   {
+   "key": "ecbmustbringinflationbackto2francesmoulinsaysbloombergcom",
+   "title": "ECB Must Bring Inflation Back to 2%, France\u2019s Moulin Says - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUV2X3NvMUlxQnRNWWJPYmFNdTJjTUJ5UUJRVTBhZFUyXy1qNzJvTzZNWkdOd21FeHZxVC04WldsU21rTV9wV0Z1d0RXVTZfQTl6dFlhejBscEtobWJtNk5oTlVtNTRwN1FlbG1tM0IxMUxmWFZiMWRlZFJtaGVHNEJ1T3NiZjd1ZUhVY0J2WUJ4UkRYZEhQUTVqRzFjZlkxb1dPSlZwVG9EUQ?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
    "key": "rbaseekstomanageinflationjobstradeoffsboardmembersaysbloombe",
    "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says - Bloomberg.com",
    "source": "Bloomberg.com",
@@ -219,137 +243,113 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "electroopticsystemsasxeossharesmaybetradingnearfairvalueonan",
-   "title": "Electro Optic Systems (ASX:EOS) Shares May Be Trading Near Fair Value On A New Defense Contract - Yahoo Finance",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU01SbnhJendNLXllMUNQTWJZbVNYZ2RyeDlSLVVBM3dVNFZja1YxR0IwY191TWhIcnl4UnlJSVh3T0lheV81blh1dzhSSnU4OFk4UnRCZGlZTlI5dFBpdzFnSUc4eEZ0bFhscFZoRExZYjZaSndvQThXOGZjVHM5c2Z1MXJGWlEyWC1SaDNJSGRNQm9rXzJLc2JB?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "rightuptothewiredefenceeye",
-   "title": "Right Up To The Wire\u2026 - Defence Eye",
-   "source": "Defence Eye",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93UlNSdFN4MjYzZVRTTTJTSzJEdEVVaWhtVG1FLUNBWmxCNDN2MEZyRTBXSEhzODU1eTdPNy1WcHlERncyNkNfZE9qVzhFU2N1ajNIYzBpTmhxNDBDU252eTczUHJiZWtlbWZsVGN5V21hXzdlUUM4SDdMWXd3WHc?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 53
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 62
   },
   {
    "sym": "ITA",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 48
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 62
   },
   {
    "sym": "XLE",
-   "why": "volume not confirmed (1.0x normal)",
-   "score": 51
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 65
   },
   {
    "sym": "FXI",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 57
-  },
-  {
-   "sym": "LMT",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 45
-  },
-  {
-   "sym": "RTX",
-   "why": "volume not confirmed (1.2x normal)",
-   "score": 45
-  },
-  {
-   "sym": "NOC",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 42
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 65
   },
   {
    "sym": "XOM",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 44
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 57
   },
   {
    "sym": "CVX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 52
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 946 min old)",
+   "why": "stale quote / market closed (last price 991 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 948 min old)",
+   "why": "stale quote / market closed (last price 993 min old)",
    "score": 92
   },
   {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 57
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 49
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 52
+  },
+  {
    "sym": "SPY",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 38
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 44
   },
   {
    "sym": "QQQ",
-   "why": "volume not confirmed (0.1x normal)",
-   "score": 38
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 40
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 946 min old)",
+   "why": "stale quote / market closed (last price 991 min old)",
    "score": 40
   },
   {
    "sym": "XBI",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 50
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 49
   },
   {
    "sym": "LLY",
-   "why": "volume not confirmed (0.4x normal)",
-   "score": 38
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 53
   },
   {
    "sym": "PFE",
-   "why": "volume not confirmed (1.1x normal)",
-   "score": 42
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 49
   },
   {
    "sym": "NVDA",
-   "why": "volume not confirmed (0.3x normal)",
+   "why": "stale quote / market closed (last price 43 min old)",
    "score": 37
   },
   {
    "sym": "AMD",
-   "why": "volume not confirmed (0.8x normal)",
-   "score": 40
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 46
   },
   {
    "sym": "SOXX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 45
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 55
   },
   {
    "sym": "TSM",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 37
+   "why": "stale quote / market closed (last price 43 min old)",
+   "score": 40
   }
  ],
  "paper": {
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 07:57 AM AEDT",
+  "last_scan": "Sat 21 Nov 2026 08:42 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
