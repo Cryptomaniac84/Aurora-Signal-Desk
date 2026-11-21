@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 01:24 PM AEDT",
+ "generated": "Sat 21 Nov 2026 02:13 PM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
@@ -53,6 +53,18 @@
    "pts": 22
   },
   {
+   "key": "govwhitmersaysshewarnedtrumptariffswouldhurtmikerogersinmich",
+   "title": "Gov. Whitmer Says She Warned Trump Tariffs Would Hurt Mike Rogers in Michigan Election - Deadline Detroit",
+   "source": "Deadline Detroit",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNGtlNmpZVE9heEE0U25jeGgyMGpacXA1SFBMV1dLMXVkSWtFNGtzM2c1MUloNF9yU2dHLW55alhmSmNlTnk1a1hQSXJwVUo0Q1ZGQ2VBaEphQWdpRHNxWVd5YXRJUi1IeUpuMTBzYm9ncmN1WWlCYTBKQWJ1cDVXRjVMQkV3R2hkR3JpVWhIeHl5ekYwMkZvVUZscGdtRXdIaVpqUEhycFh4aFdWTVM0bDhTRTk1VUNWWmNBU0VKWFhjQ3VVT2ZJU09XcW4?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpstariffrefundsavedlowesfromanearningsmissheresthemathon",
    "title": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government Tariff Refunds Are Padding Retailers' Profits - 24/7 Wall St.",
    "source": "24/7 Wall St.",
@@ -77,30 +89,6 @@
    "pts": 22
   },
   {
-   "key": "seewhichfloridacompaniesreceivedmillionsintrumptariffrefunds",
-   "title": "See which Florida companies received millions in Trump tariff refunds - Miami Herald",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldk9jRUFCNHpwdW4wamp5bFJxLTdESG1LSkY5dmE2cDl0WkUwRTRFWWFUVEZaR3NFd05lQTVRSG5Ta2Z0Wk9kQjVqd1ZxemJxdlp4UG56UXZpUU5RTjFTY2hFdDQzOVlTc1h4Nlo5eFBUNG51V1kxWEpPMFhqMEHSAX9BVV95cUxNNkF1VzVyTWpVRmFEazY1NklfZzd5VGlQY1RsNV9VSGR2alRyTFZ0OUJ3ckk2TEdrdFJsbTZQdUJHeUdlVFdHSjk2SnhxSktwLVJyaWVWSFFCT1VsLUtXYVFkSHlMWHhNbVAxcURTNmdoN3JRMzhUQUtGbl9vWVFz?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "notwithyourtariffswhitmersharesinsidelookatpostelectioncallw",
-   "title": "'Not with your tariffs': Whitmer shares inside look at post-election call with Trump - FOX 2 Detroit",
-   "source": "FOX 2 Detroit",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTBfYWNRaTBrYmM4R0JQZ0YtZlpDVkZlSmREa0VwY1N6RmxhVHREQ1dtY1g3RHVHUFNySzZXdjQ0Y2JUR1R3cVozejJsOGRZT2dOUG5wMi1GRkNhbVQtV2NabW0zUVU3c3pCUG9PR0NEOUNsNFpFZmRtbUFmYjJySmdZS1JaSURYSXprQ2NnT3lCVlpxTjVYMkNxaw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpsfdaiswithoutapermanentleaderagainandrogermarshallcould",
    "title": "Trump's FDA Is Without a Permanent Leader Again \u2014 and Roger Marshall Could Be the Next Nominee - Latin Times",
    "source": "Latin Times",
@@ -113,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
    "themes": [
     "energy"
    ],
@@ -128,7 +116,7 @@
    "key": "lookatindiatrumptargetsuscentralbankoverhighinterestratesndt",
    "title": "'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV",
    "source": "NDTV",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUhkLWVlemlwMkdELVFqb2RJVlZrWXFwY2h1LTNiNzJFN0hiWGxWeERGUnhfR0t4SjFJdzhXa3FDUlNoQnFtSm1DUXI5UC0wb2pFb2FlMHRJR1pPaGxPQThaN1JBMnh2cDI2bXBjWmVqeTdiNV81LUpLMzI4OU5aUkNvMVhKaHZqbml1ZS14Vy1VV2ozc0plc1JITEdxS1EyWlNBc0h2cTFxa3VoNDI4TzBhTHBvQdIBtgFBVV95cUxOOUhkLWVlemlwMkdELVFqb2RJVlZrWXFwY2h1LTNiNzJFN0hiWGxWeERGUnhfR0t4SjFJdzhXa3FDUlNoQnFtSm1DUXI5UC0wb2pFb2FlMHRJR1pPaGxPQThaN1JBMnh2cDI2bXBjWmVqeTdiNV81LUpLMzI4OU5aUkNvMVhKaHZqbml1ZS14Vy1VV2ozc0plc1JITEdxS1EyWlNBc0h2cTFxa3VoNDI4TzBhTHBvQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5",
    "themes": [
     "rates"
    ],
@@ -161,8 +149,8 @@
    "pts": 22
   },
   {
-   "key": "usfdadeclinestoapprovecapricorsduchennetreatmentcitingunreli",
-   "title": "US FDA declines to approve Capricor's Duchenne treatment citing unreliable trial data; shares slump - Reuters",
+   "key": "capricorsduchennetreatmentfailstogetfdaapprovalsharessinkreu",
+   "title": "Capricor's Duchenne treatment fails to get FDA approval, shares sink - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUJ5QjBndGJPNTFwMHRqRzZVNHRqd0JpaW1oc2UxeGd0RXpYNDNWQlE2Yl9vLVBfbUxZS3ZqeG1iTnh3Um1vZXJRWU5aenBiaFlYRmRBVy00eFpYRVJFNHN0NTk2TVdWOXNfbHZKckxpRi05WDNJM2VaLWRjR1l0c3JrYkYyZEU0UFItS2NQR19Pb1cwWG1BNW43Y19mZE9EajUwZHA4RUJTOVFoOWdnbG5tT1pzdDhvVlI3MEZlcU50YWd0a2c?oc=5",
    "themes": [
@@ -173,10 +161,10 @@
    "pts": 20
   },
   {
-   "key": "capricorgetssecondfdarejectionformusculardystrophydrugbloomb",
-   "title": "Capricor Gets Second FDA Rejection for Muscular Dystrophy Drug - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFUzTkZXZnZQejZMU0RMOUdxQk01UXE1VExYYl9mcmFZZldSVWtNemJkNXRIazV2WkVVaWMtSlFBS0hOLTRkaGpHYnVyT2x0TVAwdnNIX0RPWE9TSnN0WDNjZ2NCXzNkSGM1Qm9ES0J2Z1ZsTFFoVjlzcUxiLWh6UGwtYWdqU1BtUW8zUGxOT1JLeWE1a1FQcXhJWG5DREdaaUpFX1hQNnNIUVJWamZ6c2F0YVlnQ3Q5TktXMExfeEV2TDViaEIw?oc=5",
+   "key": "fdatomissdeadlineonsavarasrarelungdiseasedrugapprovalreuters",
+   "title": "FDA to miss deadline on Savara's rare lung disease drug approval - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTHNONUxCYXhKMEJzN1hCTGJUMEJKVU9tYVpseGJxVmNGcXFqMDZDVjR3VVJGakQ2bGV5bEJqRFZ1VFA0Nm1XMFVF?oc=5",
    "themes": [
     "pharma"
    ],
@@ -209,28 +197,28 @@
    "pts": 20
   },
   {
-   "key": "ecbmustbringinflationbackto2francesmoulinsaysbloombergcom",
-   "title": "ECB Must Bring Inflation Back to 2%, France\u2019s Moulin Says - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUV2X3NvMUlxQnRNWWJPYmFNdTJjTUJ5UUJRVTBhZFUyXy1qNzJvTzZNWkdOd21FeHZxVC04WldsU21rTV9wV0Z1d0RXVTZfQTl6dFlhejBscEtobWJtNk5oTlVtNTRwN1FlbG1tM0IxMUxmWFZiMWRlZFJtaGVHNEJ1T3NiZjd1ZUhVY0J2WUJ4UkRYZEhQUTVqRzFjZlkxb1dPSlZwVG9EUQ?oc=5",
+   "key": "treasurysecretarysaysnofurtherrestrictionsareneededfornvidia",
+   "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEhyMkdMM0JqLWdPT05FTl93UVdORHdkd2tHVkVCUzh2azJyVlJSbHdSQ0ZtcGR5Z3J4MzFZVmN3TkhWNkhNblQ2bG5BN0tLVXNKWElWNVREVVpYWWpDa08tZWZld3pDdEQ0Q0RaNGxBdGtmdEg5THROV2VwVTV4ejYtSk1KUHhDUUJNLVRjR0xJTzFGcXNuc3NJNTVuZ0U0ekZ3eFdJUVVYbWdRYzZDRWFCZkd3UzlkTUNZ0gG7AUFVX3lxTE9kSHIyR0wzQmotZ09PTkVOX3dRV05Ed2R3a0dWRUJTOHZrMnJWUlJsd1JDRm1wZHlncngzMVlWY3dOSFY2SE1uVDZsbkE3S0tVc0pYSVY1VERVWlhZakNrTy1lZmV3ekN0RDRDRFo0bEF0a2Z0SDlMdE5XZXBVNXh6Ni1KTUpQeENRQk0tVGNHTElPMUZxc25zc0k1NW5nRTR6Rnd4V0lRVVhtZ1FjNkNFYUJmR3dTOWRNQ1k?oc=5",
    "themes": [
-    "rates"
+    "semiconductors"
    ],
    "trump": false,
    "trusted": true,
    "pts": 20
   },
   {
-   "key": "fedscooksaysratehikesneededtolowerhighinflationreuters",
-   "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
+   "key": "ifyougetadealon338tariffstakeitdemswillhandletherestussencbc",
+   "title": "If you get a deal on 338 tariffs, take it \u2014 Dems will handle the rest: U.S. sen. - CBC",
+   "source": "CBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55YjVhNzBQRGFic2pLOGQ2VmFtREJxYW43emVaS0VWTHpQRnhwcEZDZGZvM08tOWMwc0pnSFJNOGpxUlJGYW5xbTR5OGpmSFV3Nkg5OWtPVDZsdw?oc=5",
    "themes": [
-    "rates"
+    "geopolitics"
    ],
    "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trusted": false,
+   "pts": 12
   },
   {
    "key": "tariffrefundsforpubliccompaniesflowingdata",
@@ -243,112 +231,124 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "systematicopensnewcanberraofficeafteraustralianarmycontractd",
+   "title": "Systematic opens new Canberra office after Australian Army contract - Defence Connect",
+   "source": "Defence Connect",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOElTUmwyNldpemxhOWxOMUFfU0tSQWRwQThTUU5OTFZ0ZkZnLWs1M1lFRXZybjQwYUhRaWItaUg0bVhxNllLVzBzMzZBVmJvM0Nkamdaa3FQR1A3SVhWZWdpSnhXN1hUeHVwRm52RmpYdWUwRFR3MElYTDhUYl91MVFHTDgyeURiVVl2cVdVNWIyZWhjcG1xTXBPYjJNdUc2ZDNHQm5kSWJHeFJISm1OaVFFZHdKNGM?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 65
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1273 min old)",
+   "why": "stale quote / market closed (last price 1322 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1275 min old)",
+   "why": "stale quote / market closed (last price 1324 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 325 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 374 min old)",
+   "score": 48
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1273 min old)",
+   "why": "stale quote / market closed (last price 1322 min old)",
    "score": 40
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 325 min old)",
-   "score": 39
+   "why": "stale quote / market closed (last price 374 min old)",
+   "score": 55
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 325 min old)",
+   "why": "stale quote / market closed (last price 374 min old)",
    "score": 47
   }
  ],
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 01:24 PM AEDT",
+  "last_scan": "Sat 21 Nov 2026 02:13 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
