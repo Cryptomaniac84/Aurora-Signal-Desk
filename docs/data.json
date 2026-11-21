@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 02:13 PM AEDT",
+ "generated": "Sat 21 Nov 2026 03:05 PM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
@@ -65,18 +65,6 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffrefundsavedlowesfromanearningsmissheresthemathon",
-   "title": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government Tariff Refunds Are Padding Retailers' Profits - 24/7 Wall St.",
-   "source": "24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR1h1OXdkaFJGYUJlT0IxdUFDOW1QdFFpZnBNYy02Vll3d3gwbkNqSHZ2bjRBTThNMlVHN0JDREQ5TVdMU0J2QzZOWVhtR3RNNTNmcFVzTVhuamlFLUpKTkxTaXprc3JTeEtTODMwbXZrWmt1TTNkU1RTRC1OMjhGSjd2WUFzbHZlbnFMbnYtVUxKLUo1YmFYSHA1TExmX0g5MGtKZmNXbUVyT1EwU3VjM3pIamNLZERmVjN5SDBpSDJJUW5WdFhmUWlxTmNNZ2JzemdrczFUbF9mMF94cXJTMmoyaG5WOTJWZFNPS3lCQ2wxcGF1OG5Ic0EtR2UycjNHWnFCVmtBVQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "markwisemanwarnstrumps50tariffsarefreezingbusinessinvestment",
    "title": "Mark Wiseman warns Trump's 50% tariffs are freezing business investment as Canada's borrowing costs climb - Yahoo! Finance Canada",
    "source": "Yahoo! Finance Canada",
@@ -101,10 +89,22 @@
    "pts": 22
   },
   {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpadministrationdiscussestakingstakeinvenezuelaoilenergyn",
+   "title": "Trump Administration Discusses Taking Stake in Venezuela Oil - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2xRdFJUaDZpcGpQUm9qSUZyN1h5cmFnd0dlLVktOFVqanRsQ0UxSzI4MEl1YWRzLXVyUk04bWYtZk1HMUsyRmxzdV9HQW9nQVFhZUk0bFdRa3p2MVFtM3A0LU5MdUs2eHVTc3dPeEQ1YU5NR0V6Q2Q5VUREelVmdHhFel8yRUFVZmFEZk5VWWNUdzUxYnBwYkxFOFQwZ2NXQmVGZEdWZw?oc=5",
    "themes": [
     "energy"
    ],
@@ -197,18 +197,6 @@
    "pts": 20
   },
   {
-   "key": "treasurysecretarysaysnofurtherrestrictionsareneededfornvidia",
-   "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEhyMkdMM0JqLWdPT05FTl93UVdORHdkd2tHVkVCUzh2azJyVlJSbHdSQ0ZtcGR5Z3J4MzFZVmN3TkhWNkhNblQ2bG5BN0tLVXNKWElWNVREVVpYWWpDa08tZWZld3pDdEQ0Q0RaNGxBdGtmdEg5THROV2VwVTV4ejYtSk1KUHhDUUJNLVRjR0xJTzFGcXNuc3NJNTVuZ0U0ekZ3eFdJUVVYbWdRYzZDRWFCZkd3UzlkTUNZ0gG7AUFVX3lxTE9kSHIyR0wzQmotZ09PTkVOX3dRV05Ed2R3a0dWRUJTOHZrMnJWUlJsd1JDRm1wZHlncngzMVlWY3dOSFY2SE1uVDZsbkE3S0tVc0pYSVY1VERVWlhZakNrTy1lZmV3ekN0RDRDRFo0bEF0a2Z0SDlMdE5XZXBVNXh6Ni1KTUpQeENRQk0tVGNHTElPMUZxc25zc0k1NW5nRTR6Rnd4V0lRVVhtZ1FjNkNFYUJmR3dTOWRNQ1k?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "ifyougetadealon338tariffstakeitdemswillhandletherestussencbc",
    "title": "If you get a deal on 338 tariffs, take it \u2014 Dems will handle the rest: U.S. sen. - CBC",
    "source": "CBC",
@@ -243,112 +231,124 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "airforceissuesmassive16bcontractforengineworktodozensofcompa",
+   "title": "Air Force issues massive $16B contract for engine work to dozens of companies - Breaking Defense",
+   "source": "Breaking Defense",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2xNS2ZTR25JUGhSMEVSSXJHRUI1djU0Z0JRdXZ1OWtrYURJbEZQa25ZdElPaEo5QnY0dlFBRlJHd29mZVp4MHVETS1VREx1TjBEWnBLUjlSN1RzbktBNy15enZ5REVXZFllZ25vcDJYcW9va29BTVM1eHdUUURnTkFaakRkYWx5Vm9CcEpKMzRueEhZR1FMYUI3ZER0b094TFZsSENIc1o2a3BUWExaSlhzOA?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 65
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1322 min old)",
+   "why": "stale quote / market closed (last price 1374 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1324 min old)",
+   "why": "stale quote / market closed (last price 1376 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 48
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1322 min old)",
+   "why": "stale quote / market closed (last price 1374 min old)",
    "score": 40
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 55
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 374 min old)",
+   "why": "stale quote / market closed (last price 426 min old)",
    "score": 47
   }
  ],
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 02:13 PM AEDT",
+  "last_scan": "Sat 21 Nov 2026 03:05 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
