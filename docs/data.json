@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 03:05 PM AEDT",
+ "generated": "Sat 21 Nov 2026 04:01 PM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
@@ -17,10 +17,22 @@
    "pts": 30
   },
   {
-   "key": "repealingtrumpstariffscouldsavemorethan1100perhouseholdreaso",
-   "title": "Repealing Trump's Tariffs Could Save More Than $1,100 Per Household - Reason Magazine",
-   "source": "Reason Magazine",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWRudVozOHg1OGdfVHctenpONUpfUy1SbTd1eE5WLXIwZktsa2FFbUlLNWVJbGdlZnJqSE1uLV9fUGZhNUVVSF9SQjNsZmxMalhfV1FaNWFDN3E1cS1kZ3VCWGczZTlQcGx3cFFKTnFZOXh2MXVPTm5iV3FKYVB4d2lkdGxxUmVYZ1BMM241TGdCXzJqdm1Hdm81cw?oc=5",
+   "key": "trumpadministrationpaysoutmilestone100billionintariffrefunds",
+   "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1NcXQtTU1pa0V3QTQ3eW9CMThMVUVWXzBVLUpkTlNCekpxQkxiQi1XZzI0X1VzZ2hNdXRjUzF5MVlzcm9zcnJRb3pRanp1TGJ1Mm02T0NDWXU0MXI1R3JmNHNKb3lnOWx2R0dpQjR2Rk9aNGowb0NNcXRpVWdQRmVoN1pndGhaLUxXc3d5d2R6RVlhVHlNbHd6c1RnZUdUNFp5YUl3OGF4VURrTjg00gG0AUFVX3lxTE5IUDFROHpDMGhZM1pRelFZelItOFlhYTk4ZlpZaVpwWjBuYUZoN2l4MFM2bjRFMDBjMEtyNXFsSF93eFBzcU43TW16XzNacEh1b0Vja0xRZkp5LTFMaE4wUUlfd1o4RUNsNkN0aWVtb1hQTHZELUtvR2N0QVROTjN2dF9JZW9QUVl6NzNTRVJFSDRKYy15WHRUMGxDNWNabzFvZGFSNlhHcnBtWlN3TnloUFZlbQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "fordreopenscanadianplantindefianceoftrumptariffstheedgemalay",
+   "title": "Ford reopens Canadian plant in defiance of Trump tariffs - The Edge Malaysia",
+   "source": "The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqV3BxS1VkeEY0ZUctY3MwSDUySF9BVEwyc2htekxSTGZKT3l2bHFuRjBqNzhqUHJmYTUtMmhHRHYzTnFMODExZ2cxd21ZS19L?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -29,10 +41,22 @@
    "pts": 22
   },
   {
-   "key": "fordreopenscanadaautoplantdefyingtrumptariffsbarrons",
-   "title": "Ford Reopens Canada Auto Plant, Defying Trump Tariffs - Barron's",
-   "source": "Barron's",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1JXTHVnaHI2TWZBUmViZWhiOTA3NGpWcFROaGwtSkd6X0dSdWlodC1tSFJLSW5SZl9BalVhanduVlNBX3lqTEVSVWJBMkRCcUlZd3lvUlVJMHNZV2FGRHFFWUx5bzB0Rzdxa3RjVk94eWczak53MGlHLUpHRFVJenMxdXYzRVFjbW9URWJmNGYyUmpaX2I0TVQzdDdPdmZKMnFORUhUdTREOU52eGhMVEI4RQ?oc=5",
+   "key": "trumpstariffshavepanamalookingtodiversifycanmercosurbetheans",
+   "title": "Trump\u2019s tariffs have Panama looking to diversify. Can Mercosur be the answer? - Buenos Aires Herald",
+   "source": "Buenos Aires Herald",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlZFbE5jcVZ2ZTh4NGFJbWFIQ2I1NTB3c05NZmFENUN3dHY2aTZNNEtxN1VQUUZwNGZub3Uydlg3T2UxVVRKb3FaaFdvTkw1MFNndFc3MHZjTXN0dVk3eVFmUkF5RS1TRHFMS0lxemZQYURDaXRyRHV2bVRlbUFkTjF1TTlMNHhZX3JHQkV3Q1dNVGFQa2piQXI2bVFxUmxzbnpEM2p2MFk0cXRhMk8yQ3FFNmQzMmdXNEtELTg5TzAtZw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "repealingtrumpstariffscouldsavemorethan1100perhouseholdreaso",
+   "title": "Repealing Trump's Tariffs Could Save More Than $1,100 Per Household - Reason Magazine",
+   "source": "Reason Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWRudVozOHg1OGdfVHctenpONUpfUy1SbTd1eE5WLXIwZktsa2FFbUlLNWVJbGdlZnJqSE1uLV9fUGZhNUVVSF9SQjNsZmxMalhfV1FaNWFDN3E1cS1kZ3VCWGczZTlQcGx3cFFKTnFZOXh2MXVPTm5iV3FKYVB4d2lkdGxxUmVYZ1BMM241TGdCXzJqdm1Hdm81cw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,36 +89,12 @@
    "pts": 22
   },
   {
-   "key": "markwisemanwarnstrumps50tariffsarefreezingbusinessinvestment",
-   "title": "Mark Wiseman warns Trump's 50% tariffs are freezing business investment as Canada's borrowing costs climb - Yahoo! Finance Canada",
-   "source": "Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjluU3I2MW84cENIcGRFbDdaVjRkUUV4Q2tLUkI2MDJrMzJ3aWE2N2pyZ080bTY2WTdJM1JVNVBBNF9ZMXpLRFlHNjJtZ1phcUt4bmxxLXRyTkxFbHVMVEZrTkJMdWNTelM0TEFNZTlNUVVkbVFvOThuQ1pUc0pqdENaNA?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpsfdaiswithoutapermanentleaderagainandrogermarshallcould",
    "title": "Trump's FDA Is Without a Permanent Leader Again \u2014 and Roger Marshall Could Be the Next Nominee - Latin Times",
    "source": "Latin Times",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjB6S3FDU0hOWEJuT1EtTmhTWVB5T3AxZXZVUUx6d0VZd240Qm9jMWg5Q3FLb2E5anRIaXg5aW9aTlhLZkppdkZfek5Zc0t4Y2FOVENjQ1FBa0dvVklEcHZleFVXS3hVY09STXJ4VXB2R01FcThBQThkSTBqM3JVY3ljTHlRNDd0ZXdETg?oc=5",
    "themes": [
     "pharma"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
-   "themes": [
-    "energy"
    ],
    "trump": true,
    "trusted": false,
@@ -113,22 +113,22 @@
    "pts": 22
   },
   {
-   "key": "lookatindiatrumptargetsuscentralbankoverhighinterestratesndt",
-   "title": "'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV",
-   "source": "NDTV",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
    "themes": [
-    "rates"
+    "energy"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "lookatindiatrumpslamsuscentralbankforhighinterestratesindiat",
-   "title": "Look at India: Trump slams US central bank for high interest rates - India Today",
-   "source": "India Today",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUdnY2dZNHp0QWRNVmtId1Q2TnRTcFZqS2RWWEg3QnlLVkRzRXVsdFNTTnphN3o1VjZRSFNkWWJiVXdZdTlGUGNPUnQwNmFiREg4VlBOa0ltUmd3TWdTZ2wzUFNTaW9xRGZXRml4WXZxVnc3VV9xQTAzMm1qbEE4OVF2TDY3akVVV2xld01QQXVQdVk5OXJWeHVYczhVNzV1QUtHV3VOTFdfblNteDhNSy1oT2pCeUpzbEVUM0U0ZTR2c0l2V2d2Nk45YWYwbUHSAdQBQVVfeXFMTVlKeFd1clEyMVpzMHozRWNfRFZod0I1SHdPdjEweVE3UFFPMUF2cUJTRm5xMGV5ck1hVUZNUVJpVEVqd2NvOEhmVnFoZl9QWTE3Z010d05xaDFRWkVrdVk4M1NKLW5DRlA3dW5zX3JOME4xdU1FeUt6Z0UxVFRjalZUUDB1UmZ4S1VTeFAzQnNqT3BySEVKWFE0aGNrcjd2ZXllWHh3TElLQmd1Z1NQQU1ZQ2lZLTl0SE9YU3Nudm5JM1VnNW5yblQwTlFsaG1lSEppZE4?oc=5",
+   "key": "lookatindiatrumptargetsuscentralbankoverhighinterestratesndt",
+   "title": "'Look At India': Trump Targets US Central Bank Over High Interest Rates - NDTV",
+   "source": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3ozTkpDcXdBaFJMSTloNEdKWjE5MHpZeWlaUUVtQmRUaXhzRGdsQldTX0ZzbWlzaXhrdHk2dEZrZEpZT3gydnowTDFDZ2hJY3RCandHZW1ZS2wwbWtDUk5QU1dwcWl6RHVZanl0a19DR2F0NW5uSWhGblhYdVBnd2xjRzFYa3E0ckJDbi1jUDNSZDJDSjlGYWlfYU8xajJMNHFEU3ROMU9xOXNjaUHSAbYBQVVfeXFMTjlIZC1lZXppcDJHRC1Ram9kSVZWa1lxcGNodS0zYjcyRTdIYlhsVnhERlJ4X0dLeEoxSXc4V2txQ1JTaEJxbUptQ1FyOVAtMG9qRW9hZTB0SUdaT2hsT0E4WjdSQTJ4dnAyNm1wY1plank3YjVfNS1KSzMyODlOWlJDbzFYSmh2am5pdWUteFctVVdqM3NKZXNSSExHcUtRMlpTQXNIdnExcWt1aDQyOE8wYUxwb0E?oc=5",
    "themes": [
     "rates"
    ],
@@ -161,10 +161,10 @@
    "pts": 20
   },
   {
-   "key": "fdatomissdeadlineonsavarasrarelungdiseasedrugapprovalreuters",
-   "title": "FDA to miss deadline on Savara's rare lung disease drug approval - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTHNONUxCYXhKMEJzN1hCTGJUMEJKVU9tYVpseGJxVmNGcXFqMDZDVjR3VVJGakQ2bGV5bEJqRFZ1VFA0Nm1XMFVF?oc=5",
+   "key": "capricorgetssecondfdarejectionformusculardystrophydrugbloomb",
+   "title": "Capricor Gets Second FDA Rejection for Muscular Dystrophy Drug - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFUzTkZXZnZQejZMU0RMOUdxQk01UXE1VExYYl9mcmFZZldSVWtNemJkNXRIazV2WkVVaWMtSlFBS0hOLTRkaGpHYnVyT2x0TVAwdnNIX0RPWE9TSnN0WDNjZ2NCXzNkSGM1Qm9ES0J2Z1ZsTFFoVjlzcUxiLWh6UGwtYWdqU1BtUW8zUGxOT1JLeWE1a1FQcXhJWG5DREdaaUpFX1hQNnNIUVJWamZ6c2F0YVlnQ3Q5TktXMExfeEV2TDViaEIw?oc=5",
    "themes": [
     "pharma"
    ],
@@ -173,12 +173,12 @@
    "pts": 20
   },
   {
-   "key": "shoppingchipsandcentralbanksreuters",
-   "title": "Shopping, chips and central banks - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXh3QTRTZW1RR1lQZXg1bHE2clBpUnkxNjljMjF0M0FXSWZSLVg3T3ZiQmxRYnI4THNORmJJZzU1TG9hbml1b1FvZFF6MGhjdUlNRmF2OXI3UDl2cURHVFJNV0JsNkd4aU54ZHBaQzEyZHcwTWxWOTNjbm1INXVQWTkzNWdvWEluejNfaA?oc=5",
+   "key": "ecbmustbringinflationbackto2francesmoulinsaysbloombergcom",
+   "title": "ECB Must Bring Inflation Back to 2%, France\u2019s Moulin Says - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUV2X3NvMUlxQnRNWWJPYmFNdTJjTUJ5UUJRVTBhZFUyXy1qNzJvTzZNWkdOd21FeHZxVC04WldsU21rTV9wV0Z1d0RXVTZfQTl6dFlhejBscEtobWJtNk5oTlVtNTRwN1FlbG1tM0IxMUxmWFZiMWRlZFJtaGVHNEJ1T3NiZjd1ZUhVY0J2WUJ4UkRYZEhQUTVqRzFjZlkxb1dPSlZwVG9EUQ?oc=5",
    "themes": [
-    "semiconductors"
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -189,6 +189,18 @@
    "title": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnhrbGhFcDBkUG5teTFYdVFqcGhZRm9HckFtWmJ4MF9UN0hFdjZSS19WaHQwYlplNEQ4Z2Eya18xZE90YjVWVHFobmRiNnpqRG9ZSVlfQUF3alZpbWlzUFlTOGZnd21tcGprcUs0WHhETlYwOHUxR19sbzJvOFRTU0EzeFM3ejRRTzBrY2I2azVKYktFLVJXRjEwUmgwNExiVFlDXzhsbHU1ZDYyWDBIclF1Zw?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "fedscooksaysratehikesneededtolowerhighinflationreuters",
+   "title": "Fed's Cook says rate hikes needed to lower high inflation - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
    "themes": [
     "rates"
    ],
@@ -231,124 +243,112 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "airforceissuesmassive16bcontractforengineworktodozensofcompa",
-   "title": "Air Force issues massive $16B contract for engine work to dozens of companies - Breaking Defense",
-   "source": "Breaking Defense",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2xNS2ZTR25JUGhSMEVSSXJHRUI1djU0Z0JRdXZ1OWtrYURJbEZQa25ZdElPaEo5QnY0dlFBRlJHd29mZVp4MHVETS1VREx1TjBEWnBLUjlSN1RzbktBNy15enZ5REVXZFllZ25vcDJYcW9va29BTVM1eHdUUURnTkFaakRkYWx5Vm9CcEpKMzRueEhZR1FMYUI3ZER0b094TFZsSENIc1o2a3BUWExaSlhzOA?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 65
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1374 min old)",
+   "why": "stale quote / market closed (last price 1430 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1376 min old)",
+   "why": "stale quote / market closed (last price 1432 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 48
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1374 min old)",
+   "why": "stale quote / market closed (last price 1430 min old)",
    "score": 40
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 55
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 426 min old)",
+   "why": "stale quote / market closed (last price 482 min old)",
    "score": 47
   }
  ],
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 03:05 PM AEDT",
+  "last_scan": "Sat 21 Nov 2026 04:01 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
