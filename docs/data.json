@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 22 Nov 2026 09:19 AM AEDT",
+ "generated": "Sun 22 Nov 2026 10:07 AM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
@@ -12,18 +12,6 @@
    "themes": [
     "mining",
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumporderscontractorstogetapprovalforcongressqueriesbloombe",
-   "title": "Trump Orders Contractors to Get Approval for Congress Queries - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGZvLTBWNFZ2MXZueUZJTkZILUM2WmZ1RlEwQm9EOGVJX29GSGhILUtoU1ZFSGZjVzk1eFcwX3ZSbWdZdTVSRkxwOUtybTJMTE1FQWpyMzNHLXhmNUg0ZjJ3cjVJVndZV0RSWTM2MVM4a3JlS2FZdVFQaERCdWFsMVh3b0V2dzhLMlR4MFpLSnh5dlBQdlRvRGdaaElhaXF5Ykh6aWhrbTZaT0IxZ0FxUHBn?oc=5",
-   "themes": [
-    "pharma"
    ],
    "trump": true,
    "trusted": true,
@@ -114,6 +102,31 @@
    "pts": 22
   },
   {
+   "key": "aiboomandtrumpstariffsfuelinflationchapluang",
+   "title": "AI boom and Trump's tariffs fuel inflation, cha... - Pluang",
+   "source": "Pluang",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53cHdNOU9obnZUVjlBQncwQXFwWjJBMGpDZlplQjFxRUFKUFktcVRicXRVbmJSRTR1VE1fclV0emdOcEtpWC1RcjJsZUg0REQtdURhZ2ZyZm9SalFYemM5SVpfd1ljbW5FX3MwWHV5eWF6cnAzX0hmTVZZYXQ?oc=5",
+   "themes": [
+    "rates",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratspledgetotargettrumpstariffsinnewcongresswzmq19news",
+   "title": "Democrats Pledge to Target Trump\u2019s Tariffs in New Congress - WZMQ 19 News",
+   "source": "WZMQ 19 News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXRXNWw3S0gzTFpfVUNpOEVDblFtZi1ScHhyVzlFYXN1Q3ZLbGlwbGhybnVvR1pxcXdsYXBZZno1VDRIT0FqTWVUOWRBNS1wdTBsTDM1MkxaOWdfa01qSDJ1Q19LcGczX2h0QVQ1YWQxYVJEUVY2MVFVVXdZLXRTVFlOeldYT2lyX0wzUW5DeVhPXzA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpbarscontractorsfromspeakingtocongresswithoutapprovalupi",
    "title": "Trump bars contractors from speaking to Congress without approval - upi",
    "source": "upi",
@@ -138,12 +151,12 @@
    "pts": 22
   },
   {
-   "key": "trumpsfdaiswithoutapermanentleaderagainandrogermarshallcould",
-   "title": "Trump's FDA Is Without a Permanent Leader Again \u2014 and Roger Marshall Could Be the Next Nominee - Latin Times",
-   "source": "Latin Times",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjB6S3FDU0hOWEJuT1EtTmhTWVB5T3AxZXZVUUx6d0VZd240Qm9jMWg5Q3FLb2E5anRIaXg5aW9aTlhLZkppdkZfek5Zc0t4Y2FOVENjQ1FBa0dvVklEcHZleFVXS3hVY09STXJ4VXB2R01FcThBQThkSTBqM3JVY3ljTHlRNDd0ZXdETg?oc=5",
+   "key": "stringsattachedtrumpusesusdefenseumbrellaastradeleveragetout",
+   "title": "Strings attached? Trump uses US defense umbrella as trade leverage, touts $2B Philippine arms purchases - Bilyonaryo Business",
+   "source": "Bilyonaryo Business",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemRnb2JYTTNUY21vdmpiZUhHY2U2WEhnVnJoUmdUdGtOb040MEV0T09rYXZFLWtXTDhfRXdSdGxjbW5YTWV0THJtTGN0cU45d2d1X3lqOE5FYWNSZ0JGVHlhY1A5NFhaRDBYRVVySnVoTWRSLTZ6ZmNJLWx4anRnM0hrR2Y5T0EwWG9wOEdBNUE4bnZWcm9rWW1SdUxTMHlvakZ6WW45akEzcl84V25Cczcwa2VZVEI2MGhDTmxfX0pLdw?oc=5",
    "themes": [
-    "pharma"
+    "defence"
    ],
    "trump": true,
    "trusted": false,
@@ -154,18 +167,6 @@
    "title": "Trump Takes Aim at Fed: \"Rates Are Too High... It's Moving Politically\" - BigGo Finance",
    "source": "BigGo Finance",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ELTV6SmotVGg2Ujg0aHE2SWdPcTE5S1h0dGdKQWZwNldyLWVYN1FqYmhRY3BhaWZodDJHRlFyYnNNY0ZqRlk0WHM0Ti1ELVMzSHYxZFhnekd0RkZJVFlpR0paZFpPZldBYlpBQXZTZXp3MHBOelE?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "indiavsusinterestratestrumpciteslookatindiaexampletoturnuphe",
-   "title": "India vs US interest rates: Trump cites 'look at India' example to turn up heat on Fed - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSXlJOTd4ekZ3SHR4cjJHVFdXMXQzWEllbFQ0OGdwMU50RUFORnRVNC1OV1RGLXd2UVZOZ0NaNEFrX3dESDVMVHYxd3h4a1FGVmxpTFdER3RlZXlnQXVtZm12cHZ4WXhtVThOMVZoWXJCdVQ5ZEN4YjFBUTlaMHBuLXBjMDZGTURaUDNIWWdSQ0NQX3ZrS0RSeVp2TUF5TU8zUjNocVozNkhteVVlX3JTMjZHTzViSE53UTNWOFZaZThlNjNIWUtGMnhjeEJ5TldtUWNsT2hLVklqQUdtbHJVQWdFazJSTGNFU2Q2Q1lVRzRhOTdQQXRDeXk0T1VaQ1BOaTRpOU82S3nSAY4CQVVfeXFMT3VnanBxQXJJWFNyQXNpVXNyMDVUQ3dnSlhDMGNCdmZzUUdhdVh6V25UWWlNR2I2akpHWUVPcE5wU1FOMTRtMkFfYXhlRHh3dzBXcmtLNUtXUHYtZG5WMVhjLUJBc0c0ZFNEblhNVFpiT0ozQ2pqWWdfS0tWUnhXMFg4SEhZcnlub2h0aWpCQ0ZCQTFsX3VnSVQ3alNoaXVaOWtjb0hWSnNCand4RUN2ejZUbjhSc2gxUTl2dkJ0V0lxM1Y0U3ItRjlDNXlxM1NkUDc1UjRzTUM5SkhTbkpsS1lyWXprbHNpczg2NmhETXg2NGRnMndPUVFPdndFaEZBQjc3ZjR5MDdNUHAzdFR3?oc=5",
    "themes": [
     "rates"
    ],
@@ -249,113 +250,113 @@
  "rejected": [
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 2467 min old)",
+   "why": "stale quote / market closed (last price 2516 min old)",
    "score": 65
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 2469 min old)",
+   "why": "stale quote / market closed (last price 2518 min old)",
    "score": 65
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 2467 min old)",
+   "why": "stale quote / market closed (last price 2516 min old)",
    "score": 92
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 2467 min old)",
+   "why": "stale quote / market closed (last price 2516 min old)",
    "score": 85
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 65
   },
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1519 min old)",
-   "score": 65
-  },
-  {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 1519 min old)",
-   "score": 65
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 1519 min old)",
-   "score": 65
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1519 min old)",
-   "score": 48
+   "why": "stale quote / market closed (last price 1568 min old)",
+   "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2467 min old)",
+   "why": "stale quote / market closed (last price 2516 min old)",
    "score": 40
   },
   {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 1568 min old)",
+   "score": 57
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 1568 min old)",
+   "score": 57
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 1568 min old)",
+   "score": 57
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 1568 min old)",
+   "score": 57
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 1568 min old)",
+   "score": 57
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 1568 min old)",
+   "score": 57
+  },
+  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 55
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1519 min old)",
+   "why": "stale quote / market closed (last price 1568 min old)",
    "score": 53
-  },
-  {
-   "sym": "LMT",
-   "why": "stale quote / market closed (last price 1519 min old)",
-   "score": 47
-  },
-  {
-   "sym": "RTX",
-   "why": "stale quote / market closed (last price 1519 min old)",
-   "score": 47
-  },
-  {
-   "sym": "NOC",
-   "why": "stale quote / market closed (last price 1519 min old)",
-   "score": 47
   }
  ],
  "paper": {
@@ -369,7 +370,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 22 Nov 2026 09:19 AM AEDT",
+  "last_scan": "Sun 22 Nov 2026 10:07 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
