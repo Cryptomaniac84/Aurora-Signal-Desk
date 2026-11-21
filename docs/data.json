@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sat 21 Nov 2026 12:24 PM AEDT",
+ "generated": "Sat 21 Nov 2026 01:24 PM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
@@ -41,6 +41,18 @@
    "pts": 22
   },
   {
+   "key": "asiahopesdemocratscanproviderelieffromtrumpsiranwartariffsru",
+   "title": "Asia Hopes Democrats Can Provide Relief From Trump\u2019s Iran War, Tariffs: Russell - EnergyNow.com",
+   "source": "EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkxtUVNlU2Y5TzBYNEhtRjlQMmUwVXloNTBSOG1td0QwZnRvWkI4N2lTa0VKYk1Oc2lfMDdVekhmWTNHcmxwVFZoemJLUV9ONnZjXzNhczBDM0pzSFNmRWtqbTRoOW04M2JTNHJ2b3JGWnExRnpTbzI0am1Zb3ROTnlBV1NUa0REME9fSE40b3l5cTRzRXkyNEZGSlZndXF5S3ZVWlpMaXB0clE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpstariffrefundsavedlowesfromanearningsmissheresthemathon",
    "title": "Trump's Tariff Refund Saved Lowe's From An Earnings Miss. Here's The Math On How Government Tariff Refunds Are Padding Retailers' Profits - 24/7 Wall St.",
    "source": "24/7 Wall St.",
@@ -65,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "notwithyourtariffswhitmersharesinsidelookatpostelectioncallw",
-   "title": "'Not with your tariffs': Whitmer shares inside look at post-election call with Trump - FOX 2 Detroit",
-   "source": "FOX 2 Detroit",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTBfYWNRaTBrYmM4R0JQZ0YtZlpDVkZlSmREa0VwY1N6RmxhVHREQ1dtY1g3RHVHUFNySzZXdjQ0Y2JUR1R3cVozejJsOGRZT2dOUG5wMi1GRkNhbVQtV2NabW0zUVU3c3pCUG9PR0NEOUNsNFpFZmRtbUFmYjJySmdZS1JaSURYSXprQ2NnT3lCVlpxTjVYMkNxaw?oc=5",
+   "key": "seewhichfloridacompaniesreceivedmillionsintrumptariffrefunds",
+   "title": "See which Florida companies received millions in Trump tariff refunds - Miami Herald",
+   "source": "Miami Herald",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldk9jRUFCNHpwdW4wamp5bFJxLTdESG1LSkY5dmE2cDl0WkUwRTRFWWFUVEZaR3NFd05lQTVRSG5Ta2Z0Wk9kQjVqd1ZxemJxdlp4UG56UXZpUU5RTjFTY2hFdDQzOVlTc1h4Nlo5eFBUNG51V1kxWEpPMFhqMEHSAX9BVV95cUxNNkF1VzVyTWpVRmFEazY1NklfZzd5VGlQY1RsNV9VSGR2alRyTFZ0OUJ3ckk2TEdrdFJsbTZQdUJHeUdlVFdHSjk2SnhxSktwLVJyaWVWSFFCT1VsLUtXYVFkSHlMWHhNbVAxcURTNmdoN3JRMzhUQUtGbl9vWVFz?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "seewhichfloridacompaniesreceivedmillionsintrumptariffrefunds",
-   "title": "See which Florida companies received millions in Trump tariff refunds - Miami Herald",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldk9jRUFCNHpwdW4wamp5bFJxLTdESG1LSkY5dmE2cDl0WkUwRTRFWWFUVEZaR3NFd05lQTVRSG5Ta2Z0Wk9kQjVqd1ZxemJxdlp4UG56UXZpUU5RTjFTY2hFdDQzOVlTc1h4Nlo5eFBUNG51V1kxWEpPMFhqMEHSAX9BVV95cUxNNkF1VzVyTWpVRmFEazY1NklfZzd5VGlQY1RsNV9VSGR2alRyTFZ0OUJ3ckk2TEdrdFJsbTZQdUJHeUdlVFdHSjk2SnhxSktwLVJyaWVWSFFCT1VsLUtXYVFkSHlMWHhNbVAxcURTNmdoN3JRMzhUQUtGbl9vWVFz?oc=5",
+   "key": "notwithyourtariffswhitmersharesinsidelookatpostelectioncallw",
+   "title": "'Not with your tariffs': Whitmer shares inside look at post-election call with Trump - FOX 2 Detroit",
+   "source": "FOX 2 Detroit",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTBfYWNRaTBrYmM4R0JQZ0YtZlpDVkZlSmREa0VwY1N6RmxhVHREQ1dtY1g3RHVHUFNySzZXdjQ0Y2JUR1R3cVozejJsOGRZT2dOUG5wMi1GRkNhbVQtV2NabW0zUVU3c3pCUG9PR0NEOUNsNFpFZmRtbUFmYjJySmdZS1JaSURYSXprQ2NnT3lCVlpxTjVYMkNxaw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynowcom",
-   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5",
+   "key": "trumpwelcomesunitedarabemiratesexitfromopecenergynow",
+   "title": "Trump Welcomes United Arab Emirates Exit From OPEC - EnergyNow",
+   "source": "EnergyNow",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3IxZ1NMbnoyZW1hNHhqNm5xWnNWVzlwX0t3RDRHYmtHMlJ0Y0FMUGpnLWN1RkZPYk5lbUV5U3ZQb01vM1RRdWJXX2RmSVh3eUVQblFuNnp1MmM2aU82RG5rRGZET3haV2hSRUFHazN2emwtTzJwXy01NUFlakZzTUNmblRvUkk?oc=5",
    "themes": [
     "energy"
    ],
@@ -125,22 +137,34 @@
    "pts": 22
   },
   {
+   "key": "lookatindiatrumpslamsuscentralbankforhighinterestratesindiat",
+   "title": "Look at India: Trump slams US central bank for high interest rates - India Today",
+   "source": "India Today",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUdnY2dZNHp0QWRNVmtId1Q2TnRTcFZqS2RWWEg3QnlLVkRzRXVsdFNTTnphN3o1VjZRSFNkWWJiVXdZdTlGUGNPUnQwNmFiREg4VlBOa0ltUmd3TWdTZ2wzUFNTaW9xRGZXRml4WXZxVnc3VV9xQTAzMm1qbEE4OVF2TDY3akVVV2xld01QQXVQdVk5OXJWeHVYczhVNzV1QUtHV3VOTFdfblNteDhNSy1oT2pCeUpzbEVUM0U0ZTR2c0l2V2d2Nk45YWYwbUHSAdQBQVVfeXFMTVlKeFd1clEyMVpzMHozRWNfRFZod0I1SHdPdjEweVE3UFFPMUF2cUJTRm5xMGV5ck1hVUZNUVJpVEVqd2NvOEhmVnFoZl9QWTE3Z010d05xaDFRWkVrdVk4M1NKLW5DRlA3dW5zX3JOME4xdU1FeUt6Z0UxVFRjalZUUDB1UmZ4S1VTeFAzQnNqT3BySEVKWFE0aGNrcjd2ZXllWHh3TElLQmd1Z1NQQU1ZQ2lZLTl0SE9YU3Nudm5JM1VnNW5yblQwTlFsaG1lSEppZE4?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpreaffirmsstanceonsellingonlyolderchipstochinaifwedontth",
+   "title": "Trump Reaffirms Stance on Selling Only Older Chips to China: 'If We Don't, They'll Make Them Themselves' - news.sbs.co.kr",
+   "source": "news.sbs.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqSUJleERkNTJIcDhSQjU0MTB3NzBsRHlCbEFiYUxIcnI5Z1lGUjhaMHpDbUhUUWNBUFpMWjNXRndvelhzdjk2WUhhTHN2cHI0eHBWM1FPdXZ4cUtKLXJiMEwyS3k5UHJ6MlJBVkRn?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "usfdadeclinestoapprovecapricorsduchennetreatmentcitingunreli",
    "title": "US FDA declines to approve Capricor's Duchenne treatment citing unreliable trial data; shares slump - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUJ5QjBndGJPNTFwMHRqRzZVNHRqd0JpaW1oc2UxeGd0RXpYNDNWQlE2Yl9vLVBfbUxZS3ZqeG1iTnh3Um1vZXJRWU5aenBiaFlYRmRBVy00eFpYRVJFNHN0NTk2TVdWOXNfbHZKckxpRi05WDNJM2VaLWRjR1l0c3JrYkYyZEU0UFItS2NQR19Pb1cwWG1BNW43Y19mZE9EajUwZHA4RUJTOVFoOWdnbG5tT1pzdDhvVlI3MEZlcU50YWd0a2c?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "fdatomissdeadlineonsavarasrarelungdiseasedrugapprovalreuters",
-   "title": "FDA to miss deadline on Savara's rare lung disease drug approval - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTHNONUxCYXhKMEJzN1hCTGJUMEJKVU9tYVpseGJxVmNGcXFqMDZDVjR3VVJGakQ2bGV5bEJqRFZ1VFA0Nm1XMFVF?oc=5",
    "themes": [
     "pharma"
    ],
@@ -219,137 +243,113 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "systematicopensnewcanberraofficeafteraustralianarmycontractd",
-   "title": "Systematic opens new Canberra office after Australian Army contract - Defence Connect",
-   "source": "Defence Connect",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOElTUmwyNldpemxhOWxOMUFfU0tSQWRwQThTUU5OTFZ0ZkZnLWs1M1lFRXZybjQwYUhRaWItaUg0bVhxNllLVzBzMzZBVmJvM0Nkamdaa3FQR1A3SVhWZWdpSnhXN1hUeHVwRm52RmpYdWUwRFR3MElYTDhUYl91MVFHTDgyeURiVVl2cVdVNWIyZWhjcG1xTXBPYjJNdUc2ZDNHQm5kSWJHeFJISm1OaVFFZHdKNGM?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "durateclimitedasxdursecuresover200millioninnewcontractsacros",
-   "title": "Duratec Limited (ASX:DUR) Secures Over $200 Million in New Contracts Across Energy and Defence Sectors - Kalkine",
-   "source": "Kalkine",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWDRUeXhPWENFangxdWU1VnROQkVUa3NHb3BQd3JVNHJIeGFNWVg5NWhDaHJLRWNSNVdKYlcxQ1FpOFdjUjZFQWtXVzFsZXF3cnVwM3pnYUVFRG42R2lrQmpEem5jSHpMU0lpQV96bVJ5UDBHVWp0YmxySkNGZkhqVmxxc1JTQkY0Tl80a05qaHRCVmN6NkpXUnV1N1BEcVR6bHhnUlpJX3hla3c4N3hxaEtSSXBVWVA3X3RmS3R3djk2UFVIcXpOd2JfX2d2ZzdP?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 64
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 53
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 264 min old)",
+   "why": "stale quote / market closed (last price 325 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 264 min old)",
+   "why": "stale quote / market closed (last price 325 min old)",
    "score": 65
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 264 min old)",
+   "why": "stale quote / market closed (last price 325 min old)",
    "score": 57
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 49
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 264 min old)",
+   "why": "stale quote / market closed (last price 325 min old)",
    "score": 57
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 56
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 57
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 264 min old)",
+   "why": "stale quote / market closed (last price 325 min old)",
    "score": 57
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 1212 min old)",
+   "why": "stale quote / market closed (last price 1273 min old)",
    "score": 57
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 1214 min old)",
+   "why": "stale quote / market closed (last price 1275 min old)",
    "score": 92
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 41
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 39
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 40
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 1212 min old)",
+   "why": "stale quote / market closed (last price 1273 min old)",
    "score": 40
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 38
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 39
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 45
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 55
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 40
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 264 min old)",
+   "why": "stale quote / market closed (last price 325 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 264 min old)",
+   "why": "stale quote / market closed (last price 325 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 264 min old)",
-   "score": 42
+   "why": "stale quote / market closed (last price 325 min old)",
+   "score": 47
   }
  ],
  "paper": {
@@ -363,7 +363,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sat 21 Nov 2026 12:24 PM AEDT",
+  "last_scan": "Sat 21 Nov 2026 01:24 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
