@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 22 Nov 2026 02:37 PM AEDT",
+ "generated": "Sun 22 Nov 2026 03:40 PM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
@@ -19,8 +19,8 @@
   },
   {
    "key": "trumporderscontractorstogetapprovalforcongressqueriesbloombe",
-   "title": "Trump Orders Contractors to Get Approval for Congress Queries - Bloomberg.com",
-   "source": "Bloomberg.com",
+   "title": "Trump Orders Contractors to Get Approval for Congress Queries - Bloomberg",
+   "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGZvLTBWNFZ2MXZueUZJTkZILUM2WmZ1RlEwQm9EOGVJX29GSGhILUtoU1ZFSGZjVzk1eFcwX3ZSbWdZdTVSRkxwOUtybTJMTE1FQWpyMzNHLXhmNUg0ZjJ3cjVJVndZV0RSWTM2MVM4a3JlS2FZdVFQaERCdWFsMVh3b0V2dzhLMlR4MFpLSnh5dlBQdlRvRGdaaElhaXF5Ykh6aWhrbTZaT0IxZ0FxUHBn?oc=5",
    "themes": [
     "pharma"
@@ -126,18 +126,6 @@
    "pts": 22
   },
   {
-   "key": "trumpswarbarbieisterribleattheonethinghessupposedtobegoodats",
-   "title": "Trump\u2019s War Barbie is terrible at the one thing he\u2019s supposed to be good at - SMH.com.au",
-   "source": "SMH.com.au",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQczg3cmpUQkR2d0RHa2hmMjFQZ2NOc2NkeEJCV1pSVlJFdDhNUG95MTdzbDZPa3hoa0w1UjBFRTF5U1NZRFFfZGJ2ajFhbDFmc1lTZHQ0aFh6NHBOMkcwd0tWUWJfeGhsZEtMVGpkVVNZOUc2R252Skc1U05kb240WE9zTTlydjZvU3JZT1ZudUM1Qy03LVUwdkl2NHJTa3VrWlp5bDhYd3JaUVVxRW1nVUcxZ2hoNzBaM1ExN2QwcnNqbzFPY0dnRFFyNklZUDQ1UlhLUk5R?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "trumpcallsforratecutstoworldslowestbutmarketbetsover90oddsof",
    "title": "Trump Calls for Rate Cuts to World's Lowest, but Market Bets Over 90% Odds of a Fed Hike in December - BigGo Finance",
    "source": "BigGo Finance",
@@ -174,48 +162,12 @@
    "pts": 12
   },
   {
-   "key": "newustariffscomeinatlower10rateddnews",
-   "title": "New US tariffs come in at lower 10% rate - DD News",
-   "source": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZUcwUjFMeUFYYnhRZElpckF3Y1d2Q0FYU2hvTDhNLWg1WjR6ZHNjUTdEZkVaTXo5NDN1dzE1Wm9sOHdJS2o2cjZrNVBSVVNrQ0RSRXBoQU1zTzA4SnVsUmxuM2NIZ01iNG95Y3Bfa05HdUE?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "carneystariffpromisessethigherthanuspoliticsallowwinnipegsun",
-   "title": "Carney\u2019s tariff promises set higher than U.S. politics allow - Winnipeg Sun",
-   "source": "Winnipeg Sun",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSXBmT1VwWUZaNlV1SE8wZS0yTWlRMnhqWGMyT0VDMnNVNk02RnpFeENobEdNdll0N0RRYmdNd1pqamRqNF95UlFrSXpuVUlrTDNFZjJzRHBVSnNGVXQ3V0cxVHF4aU9KOTRFNGJpc3ZfVlhsYjBTOHg3Y3pLeEdaa1RxZHg5Ykt4WWY3UDJtUWJ6M1VkVlA2bzdqTnhfODMwX05JVTVPVGZJY0FaVlRaUmNLMDVjSFBwQnRfMTgtYnRUWHo0RFZOYmg5YnNWQlQtME9sallmSm9JSzFGZGk0SjNUZ3ZFUQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
    "key": "overtonfdanominationwithdrawnwhatitmeansforpharmacistspharma",
    "title": "Overton FDA Nomination Withdrawn: What It Means for Pharmacists - Pharmacy Times",
    "source": "Pharmacy Times",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUU1Z0dGVF9jdFFEcUVxbkduNWRJMno1N19fNGx4TjRqWDVOX05XclEzQmF0SzhiYTkzTjducFBiZjdsNzJrVUJYRm1LV2M1TkU4TjlXNDNFNlB0ektUMnhvWld5RkVsSjlmTXIwekw5UE5DbTFGajBOX0xBYmJ5MWRCbk9xZFRYV0pXLVhBdWw0X1FGblNoSThUVnB4UQ?oc=5",
    "themes": [
     "pharma"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "britainbringsbackdefenceoffsetsforeignwinnersofmajorcontract",
-   "title": "Britain Brings Back Defence Offsets: Foreign Winners of Major Contracts to Return Up to Full Value from April 2027 - SLDinfo.com",
-   "source": "SLDinfo.com",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTEFYektxZFRqY29hU0I3QWt3SGJkbHc0aXFVckxkWWFTYzlLTjBMc0VfMFp6RDV5WFpwTHZlRHlKUkRsZzVHX3NUNDVEa1FNb3d2N3daaWtPUEp5QWtlUS13clhhRXNTeGZjYi1PVmlaNHhxT2pHc2hzZXBIZmF1Q0lpTmwwRXpkRUlIaWpIZkQtNGdxWC1JdndKMVFkVHhMM1pGVzNJbW9LU010bzlzQ0FUbXhaMGo1UWh3RGpXRi1LekpIbzJJT1ZrYkJlRHNtTHZPb3Z2X1JiZw?oc=5",
-   "themes": [
-    "defence"
    ],
    "trump": false,
    "trusted": false,
@@ -244,97 +196,145 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "premierexplosivesgets33603milliondefenceexportordermultibagg",
+   "title": "Premier Explosives Gets $33.603 Million Defence Export Order - Multibagg AI",
+   "source": "Multibagg AI",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0p3OHpkU05pa0Rjb2Y1ckRTYWtNei1SNHNLM3ZGT3BqZXRHWkQ3R0FaeDUyaHl5Ml9La190eTJwX3FLeUpIWjlTLXRCSkl5UTYwQjhyaTBDN0xJT3lvd3duQTl4VWJtMVFVdjlyeVRHUFdnVWxaTnNNRVBvVldhUUItb0hNMlQ1dmFKaHZLM2hzV1FRUk1iVjhrNWIyOU54V19PX0pJYlotaTBBWEpQTXRB?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "modinkscontractwithisraelaerospaceindustriestoupgradenavysba",
+   "title": "MoD inks contract with Israel Aerospace Industries to upgrade Navy\u2019s Barak Missile System - News On AIR",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0FoNnpxekxoTmtIMUFERENCZ3hqM1FpcUJGalp3TFBFUzJzU0pGaEhNUWliTVd2bmk1MHdJU2dFcUhNRll3NjFoVWl0Wjg5SEFlcThnTVgya3lUak1vRG8zU205UTZxWEdVYkN5QllRTGhha3kzaHROb1ppalE4el9OMGFINDRPY1pBQWU1TUhDdU9KcnJaNjVOaDh6VVY1cFo4Z0RUVzFGZHlJRzF5NjFpeVE?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "theweekinbriefsframeworksfirstforcestofollowdefenseinfo",
+   "title": "The Week in Briefs: Frameworks First, Forces to Follow - Defense.info",
+   "source": "Defense.info",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0F1M0ROaE45amxfTEl0YUVGdHV3VFIzTkU3V21JdEE3blVzQmJDYlAxd3ZDR3AyWmE5NFRtM04wYlFTa19vYld1eTRDeHloQnBXZlRLdkVmZlU5cjA4ZW5uRXNWTV9WMXlNM2xVa1J1RndNdTBZTUFCZGxGZnRtNk5KdXlXMDdyNWx5cGQzaUhqQnBWY1lJdWxPV08?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "baesystemsreceivesuscontractforp8aposeidonpoddesignedtocount",
+   "title": "BAE Systems receives U.S. contract for P-8A Poseidon pod designed to counter radar and missile threats - Defence Industry Europe",
+   "source": "Defence Industry Europe",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWFUbWc0Tkl1VWw0RUpEcDZCVG5YWVYwQzhlYlByQUxpYnRWRWF5OHRoVTFoVjhMeHVVRUs2amV5TjlRVGRMR2FORFpKazFYd0Zwb2ZzUEpXalo3Z3pyWEo0bXNuMFlnYk9jRWVaeWhLVEpIZlJrMktLVWNqLXk1aENWcmNseXJESmNUTmJrVXlEMXMtSGtpV3NkYXhhWG4yVTFlcEduSUJaYlNGdmp0anREMklYVEpaQjBWbFJfMGpYTThTTnBsVjhR?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 2785 min old)",
+   "why": "stale quote / market closed (last price 2848 min old)",
    "score": 65
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 2787 min old)",
+   "why": "stale quote / market closed (last price 2850 min old)",
    "score": 65
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 2785 min old)",
+   "why": "stale quote / market closed (last price 2848 min old)",
    "score": 92
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 2785 min old)",
+   "why": "stale quote / market closed (last price 2848 min old)",
    "score": 85
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 65
   },
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 65
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 65
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 65
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2785 min old)",
+   "why": "stale quote / market closed (last price 2848 min old)",
    "score": 40
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1837 min old)",
+   "why": "stale quote / market closed (last price 1900 min old)",
    "score": 47
   }
  ],
@@ -349,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 22 Nov 2026 02:37 PM AEDT",
+  "last_scan": "Sun 22 Nov 2026 03:40 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
