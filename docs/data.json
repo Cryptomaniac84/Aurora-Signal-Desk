@@ -1,21 +1,9 @@
 {
  "mode": "LIVE",
- "generated": "Mon 23 Nov 2026 04:59 AM AEDT",
+ "generated": "Mon 23 Nov 2026 10:29 AM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
-  {
-   "key": "trumpsettoimposesweepingtariffson60tradepartnersabcnewsbreak",
-   "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
   {
    "key": "democratswillseektounwindtrumpstaxandtariffpoliciesfinancial",
    "title": "Democrats will seek to unwind Trump\u2019s tax and tariff policies - Financial Times",
@@ -23,18 +11,6 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUJBeUxqakhMalJCcG5UZmpLOXM1R1E0YzN1VmFoM0RoQTNiZ0JrV0IzZU9rMy1RWDZlSk1FVmYtTWNITjZxTmtmZklHMlZTYlZJZUdMaXRSMTNSMGJxTFhrNVBVWXZONFJFRlRzUjhCM3BWV2I2NU54OUp1VlZleXlNM18?oc=5",
    "themes": [
     "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumporderscontractorstogetapprovalforcongressqueriesbloombe",
-   "title": "Trump Orders Contractors to Get Approval for Congress Queries - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGZvLTBWNFZ2MXZueUZJTkZILUM2WmZ1RlEwQm9EOGVJX29GSGhILUtoU1ZFSGZjVzk1eFcwX3ZSbWdZdTVSRkxwOUtybTJMTE1FQWpyMzNHLXhmNUg0ZjJ3cjVJVndZV0RSWTM2MVM4a3JlS2FZdVFQaERCdWFsMVh3b0V2dzhLMlR4MFpLSnh5dlBQdlRvRGdaaElhaXF5Ykh6aWhrbTZaT0IxZ0FxUHBn?oc=5",
-   "themes": [
-    "pharma"
    ],
    "trump": true,
    "trusted": true,
@@ -51,6 +27,18 @@
    "trump": true,
    "trusted": true,
    "pts": 30
+  },
+  {
+   "key": "canadacantshaketrumpslumbertariffevenifitlandsausdealwoodcen",
+   "title": "Canada Can\u2019t Shake Trump\u2019s Lumber Tariff, Even If It Lands a US Deal - Wood Central",
+   "source": "Wood Central",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OVVU0U2RmMV84TUZJTmZxN3ctNnVvV1FXXzd0b1dUWE85Z083QWJnWUFtNjk1WkNOSDkyeVNFeDRSalo2cFYtS2JkeTVvWHRWcUdmY09Ua01OX1pJcFdkdWp5QQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
    "key": "trumptariffsandthe2025australianfederalelectioneinternationa",
@@ -101,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "companiesdivertedtrumps100bntariffrefundstobonusesnotconsume",
-   "title": "Companies diverted Trump's $100bn tariff refunds to bonuses, not consumers: Report - The Times of India",
-   "source": "The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLTFlb0dFbnlGSGNoVGY3aVIxb0lXRTVyV29zR0hobWxZS3ZmOV9VUUtkME90Q2tBUklsanJYSTZlVjg2VVhWbkpqbGJWUnVZNU51TFBzUnlNTjZYUTVUZW85SHNNdGxkN3lFVWFfV1ZpX3hod0ZwMXFsejZ0VTktcTFiWWs3eGdlRTVKb2FTS3NjMnJzamhCZmctNjVQZ1VmUmI3ejdWN2RZNW1pWXZEY3ZrVDV5bnJEaUEzbTBQQ25paDlINzkzUGhfYnhuRms4SFIzaWg0MHF6MTdoV0dHTS1Ib9IB6AFBVV95cUxNTTlNMDNkb3NMWVc4QThteTBKTUI4MmVjZHZrMldsalRWZHd5Sk9DSE9BQlVtbW50bFVWSGdFeFY2dTUxdm9fbW5uY3lYeS1ScEpaM1pkOHprYjNLRG5FTjh6UnV3TE1JRmxSQ1h4U1hYX2hfcEw5bDZhalRfSnMxRHdvZS12MnFocHRidmlncFVKT3lFdzlTcUtRYmZERl84Z2hWNUR6M1hLeXN0Tmtrb0JaWHpxUU14aVVWdER5WDY2NGpkZnA3MGduM1pEQkRnMDFLQW5PdW12cjRYNVYyOTdTVnlBT05U?oc=5",
+   "key": "fordreopenscanadaautoplantdefyingtrumptariffsetmanufacturing",
+   "title": "Ford reopens Canada auto plant, defying Trump tariffs - ET Manufacturing",
+   "source": "ET Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFk4WWNRbHVTRGx2aThqZFNhY2xFRUZWMnN0TFZHdjV0WlkxV2dKZUFTRkUxNGNKeVBGNWl3T2hTUVF0V1NGSDFUTGxyT2RsVHEzRkhnZFEtSFhhaU9tTDFCM2xjNUZDMGxodGp5TEp6U1ptM2wxNTRpUDBXZnFIdzh1WmpEa0dYaWFMbGhaZFlMRnBVZEVLTDZWOUJJQ0dDX2VVYk11aDFpMDRNcnlaWDJUZy1DVl95NmRoX0hwX1JQSzRtZGtldtIBzAFBVV95cUxPNzlNcXhmRjR4aGRGZzlLcGlTemRTTlN3Z0NtemlrX2ZVUW0xRTBqRmVfT3l3Qm5uTFJYQzQzYWt5YUFIMnFXTGxLdlBGbnRQUEh1aW10cV8wajdNYldUSlFpNWpPZ2JDWDY3Q2lmSUxHRTd3RkJWWHAwRzdzZ2llY0ZoMjlMWUNWdHBiNzJYM2JleUdYanViUFNZWXdaZVRqM1hYNXRHWlJiSXJVYURmclZkQXNOT0JUdXl4bVZnb09LamxkNm9kZ2ltUmM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "fordreopenscanadaautoplantdefyingtrumptariffsetmanufacturing",
-   "title": "Ford reopens Canada auto plant, defying Trump tariffs - ET Manufacturing",
-   "source": "ET Manufacturing",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFk4WWNRbHVTRGx2aThqZFNhY2xFRUZWMnN0TFZHdjV0WlkxV2dKZUFTRkUxNGNKeVBGNWl3T2hTUVF0V1NGSDFUTGxyT2RsVHEzRkhnZFEtSFhhaU9tTDFCM2xjNUZDMGxodGp5TEp6U1ptM2wxNTRpUDBXZnFIdzh1WmpEa0dYaWFMbGhaZFlMRnBVZEVLTDZWOUJJQ0dDX2VVYk11aDFpMDRNcnlaWDJUZy1DVl95NmRoX0hwX1JQSzRtZGtldtIBzAFBVV95cUxPNzlNcXhmRjR4aGRGZzlLcGlTemRTTlN3Z0NtemlrX2ZVUW0xRTBqRmVfT3l3Qm5uTFJYQzQzYWt5YUFIMnFXTGxLdlBGbnRQUEh1aW10cV8wajdNYldUSlFpNWpPZ2JDWDY3Q2lmSUxHRTd3RkJWWHAwRzdzZ2llY0ZoMjlMWUNWdHBiNzJYM2JleUdYanViUFNZWXdaZVRqM1hYNXRHWlJiSXJVYURmclZkQXNOT0JUdXl4bVZnb09LamxkNm9kZ2ltUmM?oc=5",
+   "key": "companiesdivertedtrumps100bntariffrefundstobonusesnotconsume",
+   "title": "Companies diverted Trump's $100bn tariff refunds to bonuses, not consumers: Report - The Times of India",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLTFlb0dFbnlGSGNoVGY3aVIxb0lXRTVyV29zR0hobWxZS3ZmOV9VUUtkME90Q2tBUklsanJYSTZlVjg2VVhWbkpqbGJWUnVZNU51TFBzUnlNTjZYUTVUZW85SHNNdGxkN3lFVWFfV1ZpX3hod0ZwMXFsejZ0VTktcTFiWWs3eGdlRTVKb2FTS3NjMnJzamhCZmctNjVQZ1VmUmI3ejdWN2RZNW1pWXZEY3ZrVDV5bnJEaUEzbTBQQ25paDlINzkzUGhfYnhuRms4SFIzaWg0MHF6MTdoV0dHTS1Ib9IB6AFBVV95cUxNTTlNMDNkb3NMWVc4QThteTBKTUI4MmVjZHZrMldsalRWZHd5Sk9DSE9BQlVtbW50bFVWSGdFeFY2dTUxdm9fbW5uY3lYeS1ScEpaM1pkOHprYjNLRG5FTjh6UnV3TE1JRmxSQ1h4U1hYX2hfcEw5bDZhalRfSnMxRHdvZS12MnFocHRidmlncFVKT3lFdzlTcUtRYmZERl84Z2hWNUR6M1hLeXN0Tmtrb0JaWHpxUU14aVVWdER5WDY2NGpkZnA3MGduM1pEQkRnMDFLQW5PdW12cjRYNVYyOTdTVnlBT05U?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -149,16 +137,28 @@
    "pts": 22
   },
   {
-   "key": "trumpbarscontractorsfromspeakingtocongresswithoutapprovalupi",
-   "title": "Trump bars contractors from speaking to Congress without approval - upi",
-   "source": "upi",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdGM1ctQTkyZWZGZ2xGNEVYNDNkcThUd0p5RlNfRHVvcy15QUhUR3ByMzRpLWhNaENaR0ZYVTN0SVpzRVhhTmdTbEM0M1I5UlVPMTlpMlM1bTdLb19zUTBMbTJxcjExTnBFNTRILUxBbU8ycDZSOEVLckluSnk4WVlQNG90ZG4zWTFGVVkyMHg0anBNM3B3cE1aaTJOUkh2NHUwSmFHcFZpM3NC0gGyAUFVX3lxTE9PakJFV0I1VFJSUTU5ZDloSHlKdjN4Z0s0WTdsRnpYZkZXVDBsaUJNWTByb280SHo1UXNvUFJycGp2dzNldG1pLTNUby1YcEQ0WWh1UjBBZVNLbC1YNlB1OWhEZWYxR1pSSkYydERIbnNESzBVNkRKWHBDWjRqdjFHMng4c09CVl81ZWQ1eUVvOEdJaW1tWG9GLVl0NUVTQzdqZ2YyRjV1eW5FT0tlMFFNNHc?oc=5",
+   "key": "trumporderscontractorstogetapprovalforcongressqueriesthebusi",
+   "title": "Trump orders contractors to get approval for congress queries - The Business Times",
+   "source": "The Business Times",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0l2cXNWcFYyRnJWSzdsQ2wzVzQtNGg5TEY4SU04NVRvaUtaOUUzbjloMTJEV1NwZ25ZeWIzQkZuWmI1YlNWeHVKMndGLUxRektDZFVwRE1uTUJ3VDdCUUdSMlRGR2F4Y0ZkaUxzY3Jua0YxYlg1R055MDlOcHQyZXBObGZXVnlHd3pZMUJVX0l2Qjc4ZFROa21ZUEdNM3BhXzdZ?oc=5",
    "themes": [
     "pharma"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
+  },
+  {
+   "key": "the60daywarpowersdeadlinefallsonfridaywhatcouldhappennextabc",
+   "title": "The 60-day War Powers deadline falls on Friday. What could happen next? - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkdDMVo0RFZ3Z0RfTXUtbzhnOGlTSXVEaFRIcWpHcWFwb2R3SU03bDIydVFjSks5WTlKSG1UdzdBbWUyTUtUTGZMdXBQQkU0VHZKejhLTlZVN3c0X05rSk5ram9mNHFZYVpjMm1Jdk1iZTFCUjE3SjhLS1ROa2htQUw1cDhFMXkzdnBQcENFcjVJbnplRTJ5ZC1n0gGfAUFVX3lxTE0xRHBkNGdJT1E0dk5Jb1dodlR5YnhMMDV3VWNVeEFDaFNfaU54SDVYUFVfQ0otVkxFOXZYQk5WWjhKYktQbEpqaEt1Q3hyV0ZfMU9kanVUY2pOLXpWODRpb3pEdl9LQ3I1eWFYQVpvYmtVbHU4VndKNlQzVV9acEVVVktCZDdPUXgyQnRoZU5DOVJOTGJacGJpdW5HWGJMYw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
@@ -173,34 +173,10 @@
    "pts": 20
   },
   {
-   "key": "willthefedraiseinterestratesthisyeardividedeconomistsweighin",
-   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
    "key": "bessentwarnsfedrisksovertighteningasusmarketsswoonbloombergc",
    "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon - Bloomberg.com",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
-   "themes": [
-    "rates"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
-  },
-  {
-   "key": "federalreserveraisesinterestratesforthe1sttimesince2023abcne",
-   "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
    "themes": [
     "rates"
    ],
@@ -243,92 +219,116 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "canadatoretaliateforustariffsworseningtiesaftertalksfailddne",
+   "title": "Canada to retaliate for US tariffs, worsening ties after talks fail - DD News",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejJBMVhxMktIYUNiZHpGTzNFdEdKSFptdVV3cF9LSXFTODNYbTBJT0p2dWdRdG9fQ3RFcTBxWkxQeEFZVTNGRlk3dmVGRFhXOWFyZ25IS1ZZT1lrZ1loZ3gzeEQ2TTRyV205bWE0cG00SUJ0S0xSWFY0MDhEOXBnQUFoYWt4TVRvNEpta0YzRnlGNkRyV3hWSnVB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "searchisonfornewleaderatfdabostonherald",
+   "title": "Search is on for new leader at FDA - Boston Herald",
+   "source": "Boston Herald",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVp0UXlzYUVzdktPelVxUjBFSU9vakdscnFadWhqb0g5SUpyODZ6S05JeGVCN0g2TG9IVFRqc2VPMGJtWDdDQkhubEM0MnVITGs5QlNnQUtZbFJZNFVjX1gtUVdYekZFcEM0WU5RX2NsMHQ5dHFrUk5RZ0dqR2l5Yw?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 2700 min old)",
-   "score": 65
-  },
-  {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 2700 min old)",
-   "score": 65
-  },
-  {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 2700 min old)",
-   "score": 65
-  },
-  {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 65
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 65
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 65
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 3648 min old)",
-   "score": 65
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 49
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 3650 min old)",
-   "score": 100
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 46
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 48
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 3648 min old)",
-   "score": 40
+   "why": "price not above VWAP and 20-bar average",
+   "score": 53
+  },
+  {
+   "sym": "XBI",
+   "why": "stale quote / market closed (last price 3030 min old)",
+   "score": 57
+  },
+  {
+   "sym": "LLY",
+   "why": "stale quote / market closed (last price 3030 min old)",
+   "score": 57
+  },
+  {
+   "sym": "PFE",
+   "why": "stale quote / market closed (last price 3030 min old)",
+   "score": 57
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 2700 min old)",
+   "why": "stale quote / market closed (last price 3030 min old)",
    "score": 47
   }
  ],
@@ -343,7 +343,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 23 Nov 2026 04:59 AM AEDT",
+  "last_scan": "Mon 23 Nov 2026 10:29 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
