@@ -1,6 +1,6 @@
 {
  "mode": "LIVE",
- "generated": "Sun 22 Nov 2026 10:46 AM AEDT",
+ "generated": "Sun 22 Nov 2026 11:38 AM AEDT",
  "fx_audusd": 0.6619,
  "signals": [],
  "events": [
@@ -102,6 +102,19 @@
    "pts": 22
   },
   {
+   "key": "aiboomandtrumpstariffsfuelinflationchapluang",
+   "title": "AI boom and Trump's tariffs fuel inflation, cha... - Pluang",
+   "source": "Pluang",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53cHdNOU9obnZUVjlBQncwQXFwWjJBMGpDZlplQjFxRUFKUFktcVRicXRVbmJSRTR1VE1fclV0emdOcEtpWC1RcjJsZUg0REQtdURhZ2ZyZm9SalFYemM5SVpfd1ljbW5FX3MwWHV5eWF6cnAzX0hmTVZZYXQ?oc=5",
+   "themes": [
+    "rates",
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
    "key": "trumpbarscontractorsfromspeakingtocongresswithoutapprovalupi",
    "title": "Trump bars contractors from speaking to Congress without approval - upi",
    "source": "upi",
@@ -114,10 +127,22 @@
    "pts": 22
   },
   {
-   "key": "trumptakesaimatfedratesaretoohighitsmovingpoliticallybiggofi",
-   "title": "Trump Takes Aim at Fed: \"Rates Are Too High... It's Moving Politically\" - BigGo Finance",
+   "key": "trumpswarbarbieisterribleattheonethinghessupposedtobegoodats",
+   "title": "Trump\u2019s War Barbie is terrible at the one thing he\u2019s supposed to be good at - SMH.com.au",
+   "source": "SMH.com.au",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQczg3cmpUQkR2d0RHa2hmMjFQZ2NOc2NkeEJCV1pSVlJFdDhNUG95MTdzbDZPa3hoa0w1UjBFRTF5U1NZRFFfZGJ2ajFhbDFmc1lTZHQ0aFh6NHBOMkcwd0tWUWJfeGhsZEtMVGpkVVNZOUc2R252Skc1U05kb240WE9zTTlydjZvU3JZT1ZudUM1Qy03LVUwdkl2NHJTa3VrWlp5bDhYd3JaUVVxRW1nVUcxZ2hoNzBaM1ExN2QwcnNqbzFPY0dnRFFyNklZUDQ1UlhLUk5R?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumpcallsforratecutstoworldslowestbutmarketbetsover90oddsof",
+   "title": "Trump Calls for Rate Cuts to World's Lowest, but Market Bets Over 90% Odds of a Fed Hike in December - BigGo Finance",
    "source": "BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ELTV6SmotVGg2Ujg0aHE2SWdPcTE5S1h0dGdKQWZwNldyLWVYN1FqYmhRY3BhaWZodDJHRlFyYnNNY0ZqRlk0WHM0Ti1ELVMzSHYxZFhnekd0RkZJVFlpR0paZFpPZldBYlpBQXZTZXp3MHBOelE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNZ1RjcmN4eDV0ZlN1M1NLSmRIWG0yeWp3TGZsZmtlUldiX1RHei1ZUVN5dFBMLVFQeW0yMTV0MUlkNzFwMVUwOXhZWHgyWnNmUjVqOGZKS09lNWttakhCYmVxbDZVSTh2LU8yVVFFM25qdzA5WXc?oc=5",
    "themes": [
     "rates"
    ],
@@ -150,22 +175,22 @@
    "pts": 22
   },
   {
-   "key": "newustariffscomeinatlower10rateddnews",
-   "title": "New US tariffs come in at lower 10% rate - DD News",
-   "source": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZUcwUjFMeUFYYnhRZElpckF3Y1d2Q0FYU2hvTDhNLWg1WjR6ZHNjUTdEZkVaTXo5NDN1dzE1Wm9sOHdJS2o2cjZrNVBSVVNrQ0RSRXBoQU1zTzA4SnVsUmxuM2NIZ01iNG95Y3Bfa05HdUE?oc=5",
+   "key": "usdefensesecretaryordersdefensecooperationrestrictionswithca",
+   "title": "US Defense Secretary Orders Defense Cooperation Restrictions with Canada - \uc870\uc120\uc77c\ubcf4",
+   "source": "\uc870\uc120\uc77c\ubcf4",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPenZ0WnJCbENZZHVOSE1zcGNXeEFGal9pbzd4Z01mZTF0V1E4dWE4SVp6Vmp6dzB1S0xiYWVxNGUzaUp0NHlWSXJMMHdpYlk3V3UwTC1aMDA4QU5oaGpMb2hhaFo0YUxreFJlMGJFdUFWMlFQeGFvVVJGbkFkS1VGNDBYYzE?oc=5",
    "themes": [
-    "geopolitics"
+    "defence"
    ],
    "trump": false,
    "trusted": false,
    "pts": 12
   },
   {
-   "key": "carneystariffpromisessethigherthanuspoliticsallowwinnipegsun",
-   "title": "Carney\u2019s tariff promises set higher than U.S. politics allow - Winnipeg Sun",
-   "source": "Winnipeg Sun",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSXBmT1VwWUZaNlV1SE8wZS0yTWlRMnhqWGMyT0VDMnNVNk02RnpFeENobEdNdll0N0RRYmdNd1pqamRqNF95UlFrSXpuVUlrTDNFZjJzRHBVSnNGVXQ3V0cxVHF4aU9KOTRFNGJpc3ZfVlhsYjBTOHg3Y3pLeEdaa1RxZHg5Ykt4WWY3UDJtUWJ6M1VkVlA2bzdqTnhfODMwX05JVTVPVGZJY0FaVlRaUmNLMDVjSFBwQnRfMTgtYnRUWHo0RFZOYmg5YnNWQlQtME9sallmSm9JSzFGZGk0SjNUZ3ZFUQ?oc=5",
+   "key": "newustariffscomeinatlower10rateddnews",
+   "title": "New US tariffs come in at lower 10% rate - DD News",
+   "source": "DD News",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZUcwUjFMeUFYYnhRZElpckF3Y1d2Q0FYU2hvTDhNLWg1WjR6ZHNjUTdEZkVaTXo5NDN1dzE1Wm9sOHdJS2o2cjZrNVBSVVNrQ0RSRXBoQU1zTzA4SnVsUmxuM2NIZ01iNG95Y3Bfa05HdUE?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -220,141 +245,117 @@
    "trump": false,
    "trusted": false,
    "pts": 12
-  },
-  {
-   "key": "airforceissuesmassive16bcontractforengineworktodozensofcompa",
-   "title": "Air Force issues massive $16B contract for engine work to dozens of companies - Breaking Defense",
-   "source": "Breaking Defense",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2xNS2ZTR25JUGhSMEVSSXJHRUI1djU0Z0JRdXZ1OWtrYURJbEZQa25ZdElPaEo5QnY0dlFBRlJHd29mZVp4MHVETS1VREx1TjBEWnBLUjlSN1RzbktBNy15enZ5REVXZFllZ25vcDJYcW9va29BTVM1eHdUUURnTkFaakRkYWx5Vm9CcEpKMzRueEhZR1FMYUI3ZER0b094TFZsSENIc1o2a3BUWExaSlhzOA?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "premierexplosivesgets33603milliondefenceexportordermultibagg",
-   "title": "Premier Explosives Gets $33.603 Million Defence Export Order - Multibagg AI",
-   "source": "Multibagg AI",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0p3OHpkU05pa0Rjb2Y1ckRTYWtNei1SNHNLM3ZGT3BqZXRHWkQ3R0FaeDUyaHl5Ml9La190eTJwX3FLeUpIWjlTLXRCSkl5UTYwQjhyaTBDN0xJT3lvd3duQTl4VWJtMVFVdjlyeVRHUFdnVWxaTnNNRVBvVldhUUItb0hNMlQ1dmFKaHZLM2hzV1FRUk1iVjhrNWIyOU54V19PX0pJYlotaTBBWEpQTXRB?oc=5",
-   "themes": [
-    "defence"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "BHP.AX",
-   "why": "stale quote / market closed (last price 2555 min old)",
+   "why": "stale quote / market closed (last price 2607 min old)",
    "score": 65
   },
   {
    "sym": "RIO.AX",
-   "why": "stale quote / market closed (last price 2557 min old)",
+   "why": "stale quote / market closed (last price 2609 min old)",
    "score": 65
   },
   {
    "sym": "FMG.AX",
-   "why": "stale quote / market closed (last price 2555 min old)",
+   "why": "stale quote / market closed (last price 2607 min old)",
    "score": 92
   },
   {
    "sym": "PLS.AX",
-   "why": "stale quote / market closed (last price 2555 min old)",
+   "why": "stale quote / market closed (last price 2607 min old)",
    "score": 85
   },
   {
    "sym": "GDX",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 65
   },
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 65
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 2555 min old)",
+   "why": "stale quote / market closed (last price 2607 min old)",
    "score": 40
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 57
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 57
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 57
   },
   {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 55
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 57
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 57
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 53
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 1607 min old)",
+   "why": "stale quote / market closed (last price 1659 min old)",
    "score": 47
   }
  ],
@@ -369,7 +370,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Sun 22 Nov 2026 10:46 AM AEDT",
+  "last_scan": "Sun 22 Nov 2026 11:38 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
