@@ -1,7 +1,7 @@
 {
  "mode": "LIVE",
- "generated": "Mon 23 Nov 2026 10:29 AM AEDT",
- "fx_audusd": 0.6619,
+ "generated": "Mon 23 Nov 2026 02:55 PM AEDT",
+ "fx_audusd": 0.6638,
  "signals": [],
  "events": [
   {
@@ -17,12 +17,12 @@
    "pts": 30
   },
   {
-   "key": "realitychecktrumpsvenezuelaoildealmayhavelittleimmediateimpa",
-   "title": "Reality check: Trump's Venezuela oil deal may have little immediate impact on US gas prices - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGxlT2YyYzQyRUFyTzc4a25QeXRzTHpQV0tTR05YZkZYWl9wd1JUT1Mwb1lJeTBNM2ItVjMwRlRtdDZLOVVCMG5CVWhkMjJCT3B6OHhQWkRDdWRLZUQ3Z2lPZGowaDhNNU9YWjhjdlpiekctM0tpb2JkbnZIQy1qV051Yk1VWmtPdmc4Y29NYUcwUFRFaUlubmUtZWtfc3Y5dzF3bmhHa9IBrAFBVV95cUxQM1hWaXRCS3NTUmd6UFY3MmpRajRiNkZuRkFwZ2ZrVTFYWjQybnF0WFpvbUd5cmw5VzNKU2k0TUI0X2luSllDZFozT2p3dmlFb0hyT2JELU1HSzVZRFVFc3RQOTR4WXNvZWRZQmxsTy1wM09TSng4dlk4TWM5WGtVR04xVWR3VTdPSDdxalNLYzFhMzY2ajRGV0FxY2xjdC1fR0M4LU1hRzVYbkUz?oc=5",
+   "key": "trumpsaichipcrackdowninflictscollateraldamageacrossasiabloom",
+   "title": "Trump\u2019s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXp0ODZqcDNzanpGNkNMTmsxMk93OXpvU2IzU1NKcFkteXdZcXdSM3dKM0lZc3Z0T3lSMXR4UGJ3enY5LWZVdnR6NlBGZENCcDNJYngxMkxKdFVzajN4VlZvMTg3X09vUHlNSFZEZEJ0M0NvSngxdlVjNDQ2OEhyaXYtenB5SVJ3T2tjemlPZjI0WjBTVC1RR0tRY0t3cDZuUDlZal85OVQxRjhiUlg2LV9uZV9yZWN1cng4dkZxNWxkM2F3ZlhpbA?oc=5",
    "themes": [
-    "energy"
+    "semiconductors"
    ],
    "trump": true,
    "trusted": true,
@@ -33,6 +33,18 @@
    "title": "Canada Can\u2019t Shake Trump\u2019s Lumber Tariff, Even If It Lands a US Deal - Wood Central",
    "source": "Wood Central",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OVVU0U2RmMV84TUZJTmZxN3ctNnVvV1FXXzd0b1dUWE85Z083QWJnWUFtNjk1WkNOSDkyeVNFeDRSalo2cFYtS2JkeTVvWHRWcUdmY09Ua01OX1pJcFdkdWp5QQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratswinbothchambersofcongressplansweepingreviewoftrumps",
+   "title": "Democrats Win Both Chambers of Congress, Plan Sweeping Review of Trump's Tariffs and Tax Cuts - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4Ml9abUQ2XzMzZmVkeFFmR0YxdGhjaTVQSFlWS3FyZTBqZVZ5N01RZE1RQi1ZWE1JZ056LTRkMG5KWHhrOE9IbF9SeGlxUHlFc1JnZjFJRDVRQjZOUUlzb3VDRlhxMUE0WjRZUFZDVGZaYWxVTXc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -68,7 +80,7 @@
    "key": "trumpseconomicpoliciesfuelinflationfearsaswallstreetfacesgro",
    "title": "Trump's Economic Policies Fuel Inflation Fears As Wall Street Faces Growing Risk of Major Sell-Off - \u062a\u0633\u0646\u06cc\u0645",
    "source": "\u062a\u0633\u0646\u06cc\u0645",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUDhrN3BGNmZBQ2duZk41OE1qNUo1ZlJvTVItY21nNVVSSU9WeENZNW5HS3NzMVdwMWdVNm1vMXNDUVBlcUVqSTh2VVE3cEFnWUtKNEs4UWdjRWw2aU1GQVNXQWpndUJsZ0NHek9PVy00Z3k1VTJaNlZoN1pJOU1iMGZnZDBTTWpaUnJ5MUdlNGxvckt0X2dUMUxUR0NGX1VBRjYxSm5aTnpEVG9JQmxsc3FES0NXR29OQW9FUDZhVkVtZEtCMnUxcHM1bzVHQXJLRUNFSTVWaVBPbXhzd3JvWkhQMERBRXdvMHZv0gHrAUFVX3lxTE9QOGs3cEY2ZkFDZ25mTjU4TWo1SjVmUm9NUi1jbWc1VVJJT1Z4Q1k1bkdLc3MxV3AxZ1U2bW8xc0NRUGVxRWpJOHZVUTdwQWdZS0o0SzhRZ2NFbDZpTUZBU1dBamd1QmxnQ0d6T09XLTRneTVVMlo2Vmg3Wkk5TWIwZmdkMFNNalpScnkxR2U0bG9yS3RfZ1QxTFRHQ0ZfVUFGNjFKblpOekRUb0lCbGxzcURLQ1dHb05Bb0VQNmFWRW1kS0IydTFwczVvNUdBcktFQ0VJNVZpUE9teHN3cm9aSFAwREFFd28wdm8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWlQ3VndzZU11RVRPWl9NY3hUWVFDN0RJdDdEUE1kYklVY0RPLVlSWFFfLXdZSlVBQjZoZ3ozNnVFVWV3SFV1TjZqM2xDWkpYazZaTVBJVUlPdHZEcVY4SndVRi1MSjZmU3BLbnBnQnN6dG9pa1plcUxPYUl4NjRtV2F3NW53b05hdTd4b1BHX0R6ZWVYYW9qUFByc01fbFpYWE54Wmd1b0s1bFpvVW1XYVlNZ2ZEaDJEMmFiSDdqeThoMVZidy1NUGd6QmZoUUU0dnpPX0h0dVc1WGdoWHJmVk5kclZPZ9IB6wFBVV95cUxPUDhrN3BGNmZBQ2duZk41OE1qNUo1ZlJvTVItY21nNVVSSU9WeENZNW5HS3NzMVdwMWdVNm1vMXNDUVBlcUVqSTh2VVE3cEFnWUtKNEs4UWdjRWw2aU1GQVNXQWpndUJsZ0NHek9PVy00Z3k1VTJaNlZoN1pJOU1iMGZnZDBTTWpaUnJ5MUdlNGxvckt0X2dUMUxUR0NGX1VBRjYxSm5aTnpEVG9JQmxsc3FES0NXR29OQW9FUDZhVkVtZEtCMnUxcHM1bzVHQXJLRUNFSTVWaVBPbXhzd3JvWkhQMERBRXdvMHZv?oc=5",
    "themes": [
     "rates"
    ],
@@ -89,42 +101,6 @@
    "pts": 22
   },
   {
-   "key": "fordreopenscanadaautoplantdefyingtrumptariffsetmanufacturing",
-   "title": "Ford reopens Canada auto plant, defying Trump tariffs - ET Manufacturing",
-   "source": "ET Manufacturing",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFk4WWNRbHVTRGx2aThqZFNhY2xFRUZWMnN0TFZHdjV0WlkxV2dKZUFTRkUxNGNKeVBGNWl3T2hTUVF0V1NGSDFUTGxyT2RsVHEzRkhnZFEtSFhhaU9tTDFCM2xjNUZDMGxodGp5TEp6U1ptM2wxNTRpUDBXZnFIdzh1WmpEa0dYaWFMbGhaZFlMRnBVZEVLTDZWOUJJQ0dDX2VVYk11aDFpMDRNcnlaWDJUZy1DVl95NmRoX0hwX1JQSzRtZGtldtIBzAFBVV95cUxPNzlNcXhmRjR4aGRGZzlLcGlTemRTTlN3Z0NtemlrX2ZVUW0xRTBqRmVfT3l3Qm5uTFJYQzQzYWt5YUFIMnFXTGxLdlBGbnRQUEh1aW10cV8wajdNYldUSlFpNWpPZ2JDWDY3Q2lmSUxHRTd3RkJWWHAwRzdzZ2llY0ZoMjlMWUNWdHBiNzJYM2JleUdYanViUFNZWXdaZVRqM1hYNXRHWlJiSXJVYURmclZkQXNOT0JUdXl4bVZnb09LamxkNm9kZ2ltUmM?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "euproposes3digitallevyonbigtechastrumpthreatens100tariffsseo",
-   "title": "EU Proposes 3% Digital Levy on Big Tech as Trump Threatens 100% Tariffs - Seoul Economic Daily",
-   "source": "Seoul Economic Daily",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXRiZmFsbUdfeW9VVk9iZFhuYk51aFE1NUVCZHVVYU5WWldnczV6WU9rOTM3bmhsY3ZFU2pEX091TnJhY1Z3TExtOU11QkhCNHpoWVFvMnBfSk5RcDZLamJNdFhWQUZNMnUyVGxHcGdXd1ZMeGpBb0tSZUVFUUlKQ2xrNGVMUjNfYzBvRnZrTUREdEhadzV2b1dzQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "euindonesiasignlandmarktradedealafterdecadeoftalksastrumptar",
-   "title": "EU, Indonesia sign landmark trade deal after decade of talks as Trump tariffs reshape global trade - Bilyonaryo Business",
-   "source": "Bilyonaryo Business",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazJiQ0oyS2l6a2VrWGdnSXNMT0NOOFM3YWZ6MzZtNkYtVlZ1QmE4UUtUN05iM0ZLbGs2RWM0UV94MXBCdVRscnNQaE9BSHdFN2ZBb2JfZEhwa1c3ZHJTdkhmQng5YlB5OGcwY0xzb0VtSVYwYnB6aDF1M19ObmNPeFprcDVvajdhTTlLMGQxLWNEY0RjY1cyTEpYdkdjOWVxcGx5VU1ra2hJWm1IWnhDTTA2RDA0VEtmREVqRVhR?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "companiesdivertedtrumps100bntariffrefundstobonusesnotconsume",
    "title": "Companies diverted Trump's $100bn tariff refunds to bonuses, not consumers: Report - The Times of India",
    "source": "The Times of India",
@@ -137,36 +113,49 @@
    "pts": 22
   },
   {
-   "key": "trumporderscontractorstogetapprovalforcongressqueriesthebusi",
-   "title": "Trump orders contractors to get approval for congress queries - The Business Times",
-   "source": "The Business Times",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0l2cXNWcFYyRnJWSzdsQ2wzVzQtNGg5TEY4SU04NVRvaUtaOUUzbjloMTJEV1NwZ25ZeWIzQkZuWmI1YlNWeHVKMndGLUxRektDZFVwRE1uTUJ3VDdCUUdSMlRGR2F4Y0ZkaUxzY3Jua0YxYlg1R055MDlOcHQyZXBObGZXVnlHd3pZMUJVX0l2Qjc4ZFROa21ZUEdNM3BhXzdZ?oc=5",
+   "key": "trumplinksiranwaroilpricesandmarketcrashtomidtermelectionske",
+   "title": "Trump links Iran war, oil prices and market crash to midterm elections: Key takeaways - Gulf News",
+   "source": "Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWJaZFlDLUl5UldWczZ4UTg1WGw4Vnh2bTdhbU9sbjFKdVczVWRvU2luNE9YMWV2YTRjZ2lQdWU3ZDBIRmxpUlJQNTJDcUQ4Q1BDNnY4T1UyUWRIVm9NU1RrNDk0VDRzRnJ5UDdMNkczWlhlRXFBdmtJcVF5VHNrSFNUZTJCcm5QQzJUZUNBYWNhZ2FrMXRVMGZLa3FDb0tNWGZmN05sQUtLTldiUEZybkYxMk43NHJQX1ZTN0xGNXJ6X1c5ZzRHM1Zpd9IB3gFBVV95cUxQY3NsRFZxODVTbjlaX2pBMVRKZ2dKaVQ3ay00cmVDcXdiMWpUMndBMnV6TWFlVkFsMDhFWlZtS2RmcGpqZ0RKbE4yRWFOR3VvXzVhX3h2SXJQdWNoNXNqMXNwODI1bFltcmJWT0hNUUxSSkhtc3MyQ3NaaXBmR2lGVVJMSFg0U3NEaEpWd1dRaG5wdGdITWZ3NFQweWNvZGNzckRfcGRPUndlSXFzdXVfcUVJZHZQc0xxYlV2bkwxU3JUUDM4WmJkTC1xSy1MOXJKTWp2SWtTWmh5ZDNtT3c?oc=5",
    "themes": [
-    "pharma"
+    "energy",
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
   },
   {
-   "key": "the60daywarpowersdeadlinefallsonfridaywhatcouldhappennextabc",
-   "title": "The 60-day War Powers deadline falls on Friday. What could happen next? - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkdDMVo0RFZ3Z0RfTXUtbzhnOGlTSXVEaFRIcWpHcWFwb2R3SU03bDIydVFjSks5WTlKSG1UdzdBbWUyTUtUTGZMdXBQQkU0VHZKejhLTlZVN3c0X05rSk5ram9mNHFZYVpjMm1Jdk1iZTFCUjE3SjhLS1ROa2htQUw1cDhFMXkzdnBQcENFcjVJbnplRTJ5ZC1n0gGfAUFVX3lxTE0xRHBkNGdJT1E0dk5Jb1dodlR5YnhMMDV3VWNVeEFDaFNfaU54SDVYUFVfQ0otVkxFOXZYQk5WWjhKYktQbEpqaEt1Q3hyV0ZfMU9kanVUY2pOLXpWODRpb3pEdl9LQ3I1eWFYQVpvYmtVbHU4VndKNlQzVV9acEVVVktCZDdPUXgyQnRoZU5DOVJOTGJacGJpdW5HWGJMYw?oc=5",
+   "key": "donaldtrumprepostsdemocratstrumpcareuniversalhealthcareplanw",
+   "title": "Donald Trump Reposts Democrat's 'TrumpCare' Universal Health Care Plan, While Senator-Elect Offers to Put President's Name on Gold Insurance Cards - Yahoo Lifestyle Canada",
+   "source": "Yahoo Lifestyle Canada",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMWJKOFpKOTZGdHYzTUhQUDVLWVlrckEwSFVrV3JtOGZuQ0JzWjBXbjZXRElkUHItTExBcjd0Rk8zbVZGWGZxa0xQYUl0WFROM2ZsLWtFY2R5MGlWaDZmS01wdkNtWVRVVlhENF90ckowaFoyWE1RSkJpRjBIMG1zZm94SFhZdE5qeGc?oc=5",
    "themes": [
-    "geopolitics"
+    "mining"
    ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
+   "trump": true,
+   "trusted": false,
+   "pts": 22
   },
   {
-   "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
-   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
+   "key": "nvidiaschinachipsalescontroversydrawspressurefromcongressand",
+   "title": "Nvidia's China Chip Sales Controversy Draws Pressure From Congress and Treasury Alike\u2026 Trump's 'State Capitalism' Put to the Test - BigGo Finance",
+   "source": "BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tN0YzYnBQSTRCbWd2clh1U3RLd3BpUmZhWWZ4ZXRkNThsV1BKVUVuRkVSYU50anRGajd4di1mOGRadU5PdGdiRTk4NkQwYms1WDFuenZZMklBSEE3dnNjZDk2Z0VvWnFTWThJQ3YwR282cDY5RXc?oc=5",
    "themes": [
-    "pharma"
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "willthefedraiseinterestratesthisyeardividedeconomistsweighin",
+   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "themes": [
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -185,46 +174,34 @@
    "pts": 20
   },
   {
+   "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonusesscri",
+   "title": "Tariff refunds worth millions are helping fund corporate bonuses - Scripps News",
+   "source": "Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "portugalamonghardesthitbyustariffstheportugalnews",
+   "title": "Portugal Among Hardest Hit by US Tariffs - The Portugal News",
+   "source": "The Portugal News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDVxT01RZW9yRVJXZjBXazRzVnpWUGpBSGZTRndseWtMeFV4T21jN1phTWJHd2x5X1h3bEdSWExKQXZBUENMUDFZR1BuNS1DWENmNlNDNGdYLUZxZ2E2dFdaSVhwa0RDZkNlSDdscFhjVzhySmkyVFloZWRWUkZIckhfYVRValFaQi1HY293bktzVmxiXzcxdTNpaHA?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
    "key": "democratseffortstorepealtariffssettobetoughdespitelandslidew",
    "title": "Democrats\u2019 efforts to repeal tariffs set to be tough despite landslide win - Northwest Arkansas Democrat-Gazette",
    "source": "Northwest Arkansas Democrat-Gazette",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzdsdGtXWnNmbEdiQUJnbDNQVGp4ZXBobDkwX3lISFZKRk5tT1JRQjN0cHN0NkViakJ0RlEwY3ViaUJsb2o2VTMybUk2dXpWR0k2RWJZTzJtbW5KejBnRzRnRXN3NVV3akp4TE84NnNlRU02aHBWTGhnVVA2NHVXVlpNbU9Ja3hwcEcyaVF1YXgtU00?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "tariffrefundsworthmillionsarehelpingfundcorporatebonuseswtvr",
-   "title": "Tariff refunds worth millions are helping fund corporate bonuses - WTVR.com",
-   "source": "WTVR.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWgwMU1XOTFTRWUyVFZJNklRbnRoY3RLcTNVUnB6RnV5WkYzZ2sxOEl6S2todGIwQ3pGMlBYS3RLXzc2MDVNbzMwbTFWQ1FZV1RiTmNtdFMtZGY0WVpldEFoX0RsWEVyWFpVUmZURTZtNkxqVEE1ZFJpaVY1OUJSWk1HNGFGOWRKN1dVM1JHVUc2dDVzaEZBOFZMRXNaSEZna0p1SQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "indonesiaeusealzerotarifftradedealafterdecadelongtalkstempoc",
-   "title": "Indonesia, EU Seal Zero-Tariff Trade Deal After Decade-Long Talks - Tempo.co English",
-   "source": "Tempo.co English",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMjBqM0dKTHRSeGhyenlKTWJsZGw3UWVoZzFEM1lnUWZrZmVJWXZoYzFyQ0J5NEhvTU91VHYzYzRFWnAwaGhsM0lGNXNRRjc3YlNJUy1zTEdOaXR2UkxWS2FlYUVlNlhfUjU4M0hnQnBiVzlFamRPTFBhNFpXNmRUT3dfdE5PUmtoanhpX0ZHeU1iQnVNV0NGWng0S2hZQQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": false,
-   "trusted": false,
-   "pts": 12
-  },
-  {
-   "key": "canadatoretaliateforustariffsworseningtiesaftertalksfailddne",
-   "title": "Canada to retaliate for US tariffs, worsening ties after talks fail - DD News",
-   "source": "DD News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejJBMVhxMktIYUNiZHpGTzNFdEdKSFptdVV3cF9LSXFTODNYbTBJT0p2dWdRdG9fQ3RFcTBxWkxQeEFZVTNGRlk3dmVGRFhXOWFyZ25IS1ZZT1lrZ1loZ3gzeEQ2TTRyV205bWE0cG00SUJ0S0xSWFY0MDhEOXBnQUFoYWt4TVRvNEpta0YzRnlGNkRyV3hWSnVB?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -243,92 +220,161 @@
    "trump": false,
    "trusted": false,
    "pts": 12
+  },
+  {
+   "key": "unionwarnsstrikeactioncouldhitnuclearanddefenceresponsecapab",
+   "title": "Union warns strike action could hit nuclear and defence response capabilities - AOL.co.uk",
+   "source": "AOL.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmNvWWRxV2VkTHVGOXZBZkV2TW4yNndGSG4yYm9OcUFfakY3NVp5NG9aWjRiMkhFMVJQNU41LWxWOEE0OTA2OHNDZG5mZXJLT3Y3LWh4RHZCM0o4aDZhbVV6c0ZURjE2aUdsTmFzck9tZ2l3WXNndTZ0MVFraEZTQW5GWQ?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
+  },
+  {
+   "key": "defenceministrysignsover810crorecontractwithbdlfor160satsaaw",
+   "title": "Defence Ministry signs over \u20b9810 crore contract with BDL for 160 SAT-SAAW systems - News On AIR",
+   "source": "News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkV0UGFUM2pGZTBhWFJJT2dMdTFSNkphazBVMmdWbjR2UGlpMDVtVmYwWkwwQTlYenpnQUJTZzhPcEhJVkhxR08yTWVCSlY3c0ZoUTBHRVdBTGZVd3dISFdRX1pkdlN0OGhEZmMxVV9xTkdOUUdXQWlTQXZJUUJMMFBYenRBNEhaSUxTTDhTcU8wQWxKZzVja1pTZ0YyNlYtejhFOEpZM2lnNE91dWM2eC1ranRJdw?oc=5",
+   "themes": [
+    "defence"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 73
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 65
   },
   {
-   "sym": "XOM",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 63
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 65
   },
   {
-   "sym": "CVX",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 65
   },
   {
-   "sym": "WDS.AX",
-   "why": "volume not confirmed (0.6x normal)",
-   "score": 49
-  },
-  {
-   "sym": "STO.AX",
-   "why": "volume not confirmed (0.2x normal)",
-   "score": 46
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 61
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 57
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 3030 min old)",
-   "score": 48
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 51
   },
   {
    "sym": "IVV.AX",
-   "why": "price not above VWAP and 20-bar average",
-   "score": 53
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 67
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 57
+  },
+  {
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 57
+  },
+  {
+   "sym": "WDS.AX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 38
+  },
+  {
+   "sym": "STO.AX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 37
+  },
+  {
+   "sym": "BHP.AX",
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 59
+  },
+  {
+   "sym": "RIO.AX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 65
+  },
+  {
+   "sym": "FMG.AX",
+   "why": "volume not confirmed (0.1x normal)",
+   "score": 73
+  },
+  {
+   "sym": "PLS.AX",
+   "why": "already moved too far today (chasing)",
+   "score": 58
+  },
+  {
+   "sym": "GDX",
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 57
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 3030 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 47
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 3030 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 47
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 3030 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 3296 min old)",
+   "score": 47
   },
   {
    "sym": "LMT",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 47
   },
   {
    "sym": "RTX",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 47
   },
   {
    "sym": "NOC",
-   "why": "stale quote / market closed (last price 3030 min old)",
+   "why": "stale quote / market closed (last price 3296 min old)",
    "score": 47
   }
  ],
@@ -343,7 +389,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Mon 23 Nov 2026 10:29 AM AEDT",
+  "last_scan": "Mon 23 Nov 2026 02:55 PM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
