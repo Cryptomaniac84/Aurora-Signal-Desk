@@ -1,9 +1,45 @@
 {
  "mode": "LIVE",
- "generated": "Tue 24 Nov 2026 10:37 PM AEDT",
- "fx_audusd": 0.6636,
+ "generated": "Wed 25 Nov 2026 08:34 AM AEDT",
+ "fx_audusd": 0.6643,
  "signals": [],
  "events": [
+  {
+   "key": "trumpadministrationsettounveilnewtariffsafterprobeonexcessfa",
+   "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "donaldtrumpreadiesraftofnewtariffsonmajoreconomiesfinancialt",
+   "title": "Donald Trump readies raft of new tariffs on major economies - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "nextbatchoftrumptariffsarecomingsoonasg20loomsbloombergcom",
+   "title": "Next Batch of Trump Tariffs Are Coming Soon as G-20 Looms - Bloomberg.com",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlpweFhXRFFWZ0lEaUtJZWRzU0hUM3FpN2ZCLVl1NnRzVDQ0ellQY1h2Nlc2TW1lNGpabzl0SEZSdTZWYVRqbUNlU3A5TktZaWFaanRUUFhQZUw3Tkp4eEsxeXZ4RGlRR3pDbVZOeGJlNkdhWFRfejZGRy1OWk1oM3FqSFQ5U0hBWFRqQ21fVm9UNWtmb1NhWkVB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "imadethedealtrumpsaysheconvincednvidiaboardtoreinstatejensen",
    "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
@@ -29,10 +65,10 @@
    "pts": 30
   },
   {
-   "key": "thecountriesfightingbackagainsttrumpstarifftiradedwcom",
-   "title": "The countries fighting back against Trump's tariff tirade - DW.com",
-   "source": "DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
+   "key": "trumpsettounveilnewwaveoftariffshttpsnewsreelcomau",
+   "title": "Trump set to unveil new wave of tariffs - https://newsreel.com.au/",
+   "source": "https://newsreel.com.au/",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHl4dGtXb3paRWk0VGktbXZvcmNhQjRtU3RuQmtFbTlBVHVqQ21IelcwUEpoR3l3VkxxaUgzRjBTTFRvZFdHcWtlSlg3a0hHMmV4ZllDZ24wYTZOSUJqOWxkV0ZFWmhjcmN6VEdGNEdqaXJkeUREUjM2UHJtZlhweERYcGg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -41,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "trumptobeginimplementingtariffsonchinayenisafakenglish",
-   "title": "Trump to begin implementing tariffs on China - Yeni Safak English",
-   "source": "Yeni Safak English",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjgyb3JDd1pZbWZHSVNtcFBNR3dFWjkzNVI4aU5fNFNhTjJxdW1NNV9uczNIWXd2X0tvaXpnQ0p6ZTZJRzN4MHRweVhwSGcyVTlGUElHbVR3YzZIbmNxcl8tb2xHd2lUdzVfMG1vUDRDNnJZa0ZrSk12OXNqY05lM2RuV3ZTZ2RQTUYtRHp3?oc=5",
+   "key": "trumpstariffsaremakingacomebackandchinacouldbehithardestynet",
+   "title": "Trump's tariffs are making a comeback, and China could be hit hardest - Ynetnews",
+   "source": "Ynetnews",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QblBmaVJ4bGxtbW03RGdod0NvbVVtVWRGTXRoek53UFV4VGFhTUdralpHcGhDc1paaGxvRHpUZ1RSMHU3MXBSTEV4RURNdmVhSFFlSFZR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "trumpimpersonatorjoinscanadianpmheresthelatestonthetradewaru",
-   "title": "Trump impersonator joins Canadian PM. Here's the latest on the trade war - USA Today",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHBwUm5fRzNaeklPVWpKcUd2TnNIS2hxcUR5VTMzV1NNR1c4aEttM29vQlYzM0U4dmx4YTAtTVFvekZzTVprY0RYQ1l5RGRZQTAwLUROWklqWElzM3Q1X0lFSnBHbW94TUhwd0k0bnVaNDF2dFlXTE5TTWJKSTBMbEx5UjBESWFfZGlKRTcwZnRIQ1RvaFk5WG9SNktJOUpzTGNPUFFQa2NsRUZfeml4cGU1UQ?oc=5",
+   "key": "trumpisbringingtariffsbackandchinawilllikelygethithardestwsj",
+   "title": "Trump Is Bringing Tariffs Back, and China Will Likely Get Hit Hardest: WSJ - Yahoo Finance",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTkwck9aVXRkSFRvWlVoM1NSVjlXTlcwc2pmOGRZb0xwVXVQV1dZUTFpdlhibjJVRnpXUkpzYW9fUU4xbklFY3VYbUgyZHlJZ2R3ekd3bTQtRGdXYy0tZ0w4V0JBVHg4STFmVWZKVXBHemo1WGJMamp2TGFEYjRNZl9Gam9mbWZ0eGtfLXRobm5yVlN0cWZjS3NqR0dLVXc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "commentaryhereshowtoattractinvestmenttonewfoundlanddespitetr",
-   "title": "COMMENTARY: Here\u2019s How to Attract Investment to Newfoundland Despite Trump\u2019s Tariffs - Fraser Institute - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWNmOU8tTDZxQlNxa19MS1hjT0J2SHg5RUFiRm96T3RzQ2xaRks4RXhDYzJaUk91cDdKRnJTaDd6R3NlNHhCelFWcEJOOWtvS1luTWUwelZhWnpnSkNJU3BoUDh6M1F0SHZucXZxd25fdDJVNXZvQjJEZXJtZmo4NkRxYkJ1WWZscVBTWmk2T3RHanltd29XNHVPVUg4NTdrd2lHT0hZQ1pUbVhobDF5S3dkbVVBS3RqaUd4QURVODJyQWFacnQ0?oc=5",
+   "key": "trumppreparesanewroundoftargetedtariffsaxios",
+   "title": "Trump prepares a new round of targeted tariffs - Axios",
+   "source": "Axios",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "usdemocratspromisehearingsontrumpstariffsandinvestmentdealsw",
-   "title": "US Democrats promise hearings on Trump\u2019s tariffs and investment deals with Korea and others - Hankyoreh : English Edition",
-   "source": "Hankyoreh : English Edition",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYm1QaVdrUE5lZm1WS3o1bVB5S0dEUVcxZmpYeUMwOU1sdjdDVFRqcUpKVXRBRWEyS3hhZlRNQ0hzdVVsN2Q5VXFBbS1Fem96WExkTjYwNXU1clRzTE1XV05nVlEwQmEwOFRTWF9UOW8zUnk3VnlNc0ZCYU9MUng2c3NR?oc=5",
+   "key": "trumpadministrationteesuptariffhikesoneuchinaotherspolitico",
+   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
+   "source": "Politico",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "gregstantonsaystrumpstariffsaddnearly11000tonewhomecostsasho",
-   "title": "Greg Stanton Says Trump's Tariffs Add Nearly $11,000 to New-Home Costs as Housing Market Cools: \u2018Trump Is Piling On Another Tax\u2019 - TradingView",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMEs5Mk9xSnV4dG1TWWExUXRJVU91czJ0S3lvazRkY1ItOHFVZFhpMUZWWDYwQVJrT1NMT05kcWRTdnlvVlc3MDE1cTVTUmdrZnp5NnpNdWJzSE1EZzNvQUFNcnBPanlMQnRLYlhsb2pOMEcwRHNSM2twWEdTa0pzWU1XcTZiMW5PMmVIOWdQTXpRYVMwcllaQ3lRMS1WdEtRY1U0UmVvUVZxSWU3SmZVM25icHNzTGZSNkpSWHNQVndKdzFuRF9sRVFhUXdka1lPamdWXzhQUmxWbms4MXJmQjE4V3BRY3Vxa0oxT3U4a3ZLMXhIblFnN1pfQV9WOF9JcnFKWlRVM3lRQTdNUHdsVA?oc=5",
+   "key": "trumptodoubledownontariffsaftermidtermsdefeatsemafor",
+   "title": "Trump to double down on tariffs after midterms defeat - Semafor",
+   "source": "Semafor",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGVlMVZscVNVS1QwNzFsbUR5dGYzZ2dmU0FXMVEwNnhEaDk3Vnd1QVpvbnVMSG9fUGlYTDhSZ3lrT1ZfSjN2QzdOblJHdmUyS0ZfZExYR1dROXBOMTRKM3VCcVhCcUt6WmJMTnRCNHlUMmJCbGNBVm0xSjdCaHJlekJTR053WW5pbDlaT0RIcEVMQmFGQlgxTE9BUnA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +137,10 @@
    "pts": 22
   },
   {
-   "key": "trumpseeksanother100blnintariffsagainstchinayenisafakenglish",
-   "title": "Trump seeks another $100 bln in tariffs against China - Yeni Safak English",
-   "source": "Yeni Safak English",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1ZkQTEwNWhuMV9vTEZFYm1NTzFsWHlBWnJWMTRsc3dvVUs1MzlicFk2RXNGNnVBMGQ5dU1mM1ZQQmN6ZnpaemNuZWFhN001MmVPamhlNWs4OS1sUDh4MlBsd0JpdkVjcXBaQU5IaWR6Y1NqUUxZYi1BbVRHdjBJak4teHRXcVQ5Z3loQ3lMWjVBZHBBZUE?oc=5",
+   "key": "neworegongrantprogramoffersonetimefundingtobusinessesinwakeo",
+   "title": "New Oregon grant program offers one-time funding to businesses in wake of Trump tariffs - Oregon Capital Chronicle",
+   "source": "Oregon Capital Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNck53Vk9sbU5YcV85alZzc2pCN3B2bHBpZ1RHNHVEVkVkUnpiSUN1R0hRVFNoVENKMm1nTkFsWlhIRGR4c0lGR3BrRHpINktvVVUxWnV3a1VlS0NLQ0UyREltZEJVSUk4NjBDVW5UQTJoQXVTNUtmNTlpM0pNcEo2LXBrM0xBT0dNSDZLa0s5cmlFcnZYNGh0UTIyWTd4bzZzN3lZYUhaM1VoMVk2LTM2Tm03bnlCUC1YajQyRzhzQzg3dndaVTYyNDZNZDY2dGs?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,10 +149,34 @@
    "pts": 22
   },
   {
-   "key": "federaljudgesayshecantstoptrumpsiccjudgesanctionscourthousen",
-   "title": "Federal judge says he can't stop Trump's ICC judge sanctions - Courthouse News",
-   "source": "Courthouse News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXNXYXJ6enNBV2pJQ1BMY3B0SEZXM1VZemtfQW1yYlVKYmdEemhoU1Bvb19TVjVoZEprNXV1SEdVWUQtMWdjTXN0Q2N5U2xUVkJYTDVwU2YyMDJ6eXZxbW5DUkpoUlh4dzc3bmN6SU5aMUJNdFpYbWFYS183S3FFUUtWT1ltTVNERlVoaXV2UnBSa0E?oc=5",
+   "key": "americansdontliketrumpstariffshesdoublingdownanywayassoonast",
+   "title": "Americans don\u2019t like Trump\u2019s tariffs. He\u2019s doubling down anyway \u2014 as soon as this week. - MarketWatch",
+   "source": "MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2MzZGtHLWMxc19YSXNoZ0l2RzZnXzEyYUhfWGhDWWZaa0tYWTZGQTdWTDl3b2dSNFlaVEs1MnU4WmszaDBFT1FWejJzQ3hmMXVINDFtVlVGRjFRd1hheWpFVktncXVkZDNYMlFiVi1vQ3lkTFNUbG9KczJ3QWZTekVvbkxDTFItN2F3QlY5d2drSk5NT0hPNnk5eVhjQ1FwODdtdm45UFpzd1lTdlc4S21GRHV3RFhJMmY0cU9OLTY?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "democratstargettrumptariffsasmidtermscloudmanufacturingtrade",
+   "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda - Plastics News",
+   "source": "Plastics News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmJqQWtraWRUR18yazZqczY2NVdUalFReUQtS04zQS0zLWQyT2RuSVNUVC0yVW1NSFgtTWxzZ1JtcG9aLUp1VktRNmhfekVjbFBfVXA0S3oyNmJVdFVYR0Z6TnBndC1zR3NadVI3ZkNLZDNSb3NYUk5aVHJVMlc1OVdEWnM1d204alRZSlB1QTNaTkQ2cG5udDJn?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "techrallyrunsoutofpufftrumpeyesnewtariffsnationalbusinessrev",
+   "title": "Tech rally runs out of puff; Trump eyes new tariffs - National Business Review",
+   "source": "National Business Review",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ2RaZldZMGM1bEdTT2M0NDZIQkxGRUc4WEQybF9Ua053QTB5el9GUGJmNHpINFhjQUNycDRqTEpxSkxicV9McEM5OUJzQVZDN1d1X0lVZ296T3Jxc1Jjd1ZxcXBRekV6WE1yZFNaNVItRUZqclhJMWFwWEJGUVNDWlNtSnVqbEF3OENMc09Udw?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,10 +197,34 @@
    "pts": 22
   },
   {
-   "key": "trumpsnvidiaceopostencapsulateshisdepravedamericaopinionusat",
-   "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
+   "key": "trumpsbizarretruthsocialpostcelebratesjensenhuangsreturnasnv",
+   "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
+   "source": "The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa21kRlhkcko4b05WT1NZR2xPcU9QX29EdjgzZms5YUJKSkY2NGt4RXNpSGt6bkp0R0lTdHItMUhRY2NUYXFxZ2hZZFRhMUZmVjZvSlpUVXhZREtOY3d1UjZ0aXdIaVlNLXE4cFlYdzl6bmRIMjFHMlJJeUNNd2NSX3ZQUUhKY2QycjFqRlhadU04TGliMGc1ZmNncTFQQTk2ejVacGQwbkJYR3UzVFJ3d2JMelNXNndFSTFpWkxjM2J2X2duMnJPeNIB1gFBVV95cUxNMG5iYm92eXV4Q0tVSHk4QWVtUWxObFdDTDVrWFplNUFUSjAyRVdvanNaXzAzejNadU43azdaSDYtS1BDU3B3cmxhZXEzQk1lSGlqT29sRUNUQmtweDlJZmNiN013SDA1SEt0ZHF0Y2FYVHBFMERQZ1hFRFd3WHpyNnVpT0FmbnAycTZLT2xYa2RJREwxSkxzVENaZWhiSzJPbDJ2QVJESk4yWDFhLU1WYlY5YjFTT3FIbnRKcno3R24tX3R3TW50NF9yN2tmc3RSQmNQZGZB?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumphailshuangsnvidiareturnwithredbraaimemethestandardhk",
+   "title": "Trump hails Huang's Nvidia return with 'red bra' AI meme - The Standard (HK)",
+   "source": "The Standard (HK)",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONm1MeVo1QklBcEgydGw1bEs3S2JWQzFCOHBvVTdOV0o3c05aWmZFMm5yNUFKMlhualJIejNxOXBRMV9sZ2dFY3NIVUNadm9BTGUyWWJRSEt4UjdYaVVLMmpnUk5sX3FybDduRkJheFdtb0JGeUJ1M3lMaEw0N2F6a284bnZQU2VSS3VoeExBcjliMGY4dHR3Sm1jTUxhSTRwWFdVZlFGaXM?oc=5",
+   "themes": [
+    "semiconductors"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "trumphasapersonalstakeinnvidiasfutureusatoday",
+   "title": "Trump has a personal stake in Nvidia's future - USA Today",
    "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemYwcjZvOWZSbjNGSjU2b2FPaGZCQlpwU3AzdXd4elA0VkVycWxuQ2IxX3VONGp6ekNGMUNncEEyajJ2ZlBaWU9WQkRwSU4xbHJPejNzOWd0Z1hZUGQ4X0UzMEtsdGM3LTJMS3FaY0o2N3JnVWdobTI3MzNoQmdfdkcwR1R3TE9JbDFxOEN6LWJuYUhPQ2p5T0lQTWRESDhBclpWa2xtUmxBcnhzSUdBNWx4Yw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0lINENzOUhrRklJazItUm40OFlTRnlBUmlJaGtIZW81MGNMeWtIUmhBbHp1RnRNWWV3QWVhTFVBcjZvZXFWUkxTXzJnUW1oOEtEMWo2YnU2U0IwM2l1NFp1bHpRem5xVTQ1azAxZ1lyaFhmbDN3X2lwRnhlRmJhN2VwQVhUNHZoeGtLVkdTSlFnRjVIeWQ3S0xnc2R4LUs1TXJoRDlfcDRRY0M0SGdwcjBOX1A?oc=5",
    "themes": [
     "semiconductors"
    ],
@@ -149,172 +233,78 @@
    "pts": 22
   },
   {
-   "key": "greatpatriotandnationaltreasuretrumpapplaudsnvidiasdecisiont",
-   "title": "\u2018Great Patriot and National Treasure\u2019: Trump Applauds NVIDIA\u2019s Decision to Reinstate Jensen Huang - Time Magazine",
-   "source": "Time Magazine",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmcFN6dTlXN0djTUlNTUFDRGR1MlZYWGFTa2Z1MW5MNHROZ1BYS1c5Z1ZpRERHd1F4UzBBeWNweVJYNWdLZTdhanEtZUxoS2FSUjBaOGRoUnQ2akMyeVhjR2RKVDRIMHlhWmk5SldodzR0MXN1cmp5cXdPcXFldw?oc=5",
+   "key": "jensenhuangreinstatedtrumpsnvidiastocktruthsocialmemethepalm",
+   "title": "Jensen Huang reinstated. Trump's Nvidia stock, Truth Social meme - The Palm Beach Post",
+   "source": "The Palm Beach Post",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQy1pTDNnR3JOUF96TGVxdF9GUklKMnVsVkExWndXNlJ3Yl9QQzFXNDNaczhReTVqSmNEb3Qxak44Y3NvdS1mZTMxTWx1RHdmaFo4a3VJVF9ZN3EtUy04MndlUlI0eVhIQ1A5TmR3Q3pGVGRBOEdrSXI1b2RRNVVqUFRDdnZjSXZYY3R5eHJkdFJGRUh0R0YxZXNHaEZIRTJVU2JLYy1pbGM1Z0tTY1pyVXo0ank1aEl5NE4zaUNLYnhCSURmUHFwY2hEYzNvTGRBVjVCMzgyOWRkUWQ1NmdCcUJRUXZoSDE2em96M01CR3FMaHlCY3pOSTcyNA?oc=5",
    "themes": [
     "semiconductors"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
-  },
-  {
-   "key": "whattrumptoldpbsnewsaboutjensenhuangbeforenvidiareinstatemen",
-   "title": "What Trump told PBS News about Jensen Huang before Nvidia reinstatement - PBS",
-   "source": "PBS",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblhVTUpEUHVvbmVtTHhHWVBHb1dfYi1MZDN2aXdBUUJRamtYeDVMVnVKejc2ek5ycDZqbjBjbEFqNG0yYUd0VUVTQi1tUm1yMENpaVZWd0R2WEJUVG9zd3ZKaWswczZwQWdQaVA1RXdnY290M0YtSk5QdFBmLTFObEgtZm51VzJTMVV0S2ZJamliSXBwN1EwZzFubG1CSmVVYzA1SHZpLV9jekNtLWfSAbMBQVVfeXFMTkpsV050bGZndlhOaDdsLWpadmxmaVB6NUh3MU5rU3hnMUdLcEdTczJhSFgwckt6bXNXRzNFMGptdnd6b0pmdDROc1pjaVkydm03d0V3Rnhqa1NLZnRNMm1HVXZpOFE4Q0JHaC1wV3hXa1lieEhpN2RRTUpvYW1ma0tzNWxoRHFrYVVLM05jd1VmY05iMDcxaGpQSGxNWlp2SW1SUEI0bk0xVk1ZYjZiZWtuSGc?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpclaimscreditasjensenhuangreturnstonvidianpr",
-   "title": "Trump claims credit as Jensen Huang returns to Nvidia - NPR",
-   "source": "NPR",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zbnZDQkUyREFBaUM2YkdGLTNyWWxjMXNzcTFBR2I0WmdyVWtQYXFHMmtfaG5xdmlCZ2ZBVlp2M29XSUxPbU4tNnU4V1ZHVWZINFExTWpUUncwRGFIZ0hwVnNmd2RQeGRwV1hLNUIyLWR6OF9sOUVKWUZjOA?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpgloatsaboutgettingnvidiatoreinstatedisgracedceojensenhu",
-   "title": "Trump Gloats About Getting Nvidia to Reinstate Disgraced CEO Jensen Huang - Rolling Stone Australia",
-   "source": "Rolling Stone Australia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVM2cGFNYTRMdHFtdWl6ZTI3Sm85SjNkc3pyc0ZfcDhiVmRPUU1SME1pTGZSdlViYnI5bnh5U1JpdDZDWDNxZTFFMWp6M2lzcGV3SW1sbERoM1ZGa3NBY0RCWlc2cHlUVlNPdVhXbU00NWlOWDMtRHZEbVc5aFRRbURsT1ZFQ1NkYTFrVThTcy1XQmI3M1RoejJVMmgycTk1US1MTlRkY2x3Z0xT?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpissaidtohavepushedtoreinstatenvidiaceojensenhuangthenew",
-   "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang - The New York Times",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41T3Z1VnJLSk9LLURuSVhPYVJEdHZmUXIwQzYteGVERktDYm55NEpKNU1jMEFpbzgtTmVURzlzU2drN0Juc19HR0tCREl2MUJRWjFaTGFCd3FJWVEwNUwwalc3RktTcHVLMDVfMnZCVU9DLUZMaWZ1dnd3?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsinterventionreversesnvidiaboardshuangdecision",
-   "title": "Trump's Intervention Reverses Nvidia Board's Huang Decision - \uc870\uc120\uc77c\ubcf4",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1NqeUUzWC1JVTFxLUhjSGVMdVBtb3B3OThabGFnS3hGNVpVRHdQN043VkVfMDQ3QTFxcGIyMWxKOU9KQnN3VE43RnJLMXpsUjNIRk9kZk0xRzc2aG9tRnpLWnJDaENPY0xyOVFqdlRONWt6Mm5mczJrLUt0TDh2LWRFNHo2LXdr?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "ceosreturntonvidiacapscomebackbidwithwhitehousehelpdallasnew",
-   "title": "CEO's return to Nvidia caps comeback bid with White House help - Dallas News",
-   "source": "Dallas News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVFc3clpjdlROc004SEd0eVdlbHR4Q3l4SXVoZFFmQmNzSTZfeEpzN0xIYl9objdad0pTekNRVU1YcmtBc01hajRjS2ZOVV85bnpoZlR3Nm1ERG5TZmF5c0Y4Z2xZVlB2WHFYQUprT2ZaakRJNmhtQlhsUFIzWGtvYUtlYTFjUENXZ0hIZzFocks5Z0NtajhmaGtqQ2JUSzdTZ3dsUw?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "usfdaapprovesbridgebiosdrugforraremusclediseasereuters",
-   "title": "US FDA approves BridgeBio's drug for rare muscle disease - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjBWcXMtRnluUTRaUFdBQThseE5rOHNOUzcwampwV0s4ZFMzZ25Zc2FhMmhkUjJOV1pqeDJBY3hUTTU3Tlh4NWJuNzhLZFVuZW1ITEw5VmlEVEtFdndLeE1QMThuSW5DYnA0bTRvZEwzVHRBQlBoWk9jZUREdEp1OV9RanUzVTNJOVBZa1YyUmJVV3BaOFg5OG00RnlLZkFLTjI5aGkwODZXMGRSMFJHcGxybnFlWS1tWGpF?oc=5",
-   "themes": [
-    "pharma"
-   ],
-   "trump": false,
-   "trusted": true,
-   "pts": 20
   }
  ],
  "rejected": [
   {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 74
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 68
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 100
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 72
-  },
-  {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 62
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 84
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 65
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 57
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 72
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 878 min old)",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 72
+  },
+  {
+   "sym": "NVDA",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 75
+  },
+  {
+   "sym": "AMD",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 80
+  },
+  {
+   "sym": "SOXX",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 62
+  },
+  {
+   "sym": "TSM",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 100
+  },
+  {
+   "sym": "XOM",
+   "why": "stale quote / market closed (last price 34 min old)",
    "score": 57
   },
   {
-   "sym": "XBI",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 90
+   "sym": "CVX",
+   "why": "stale quote / market closed (last price 34 min old)",
+   "score": 57
   },
   {
-   "sym": "LLY",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 66
+   "sym": "WDS.AX",
+   "why": "stale quote / market closed (last price 982 min old)",
+   "score": 64
   },
   {
-   "sym": "PFE",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 55
-  },
-  {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 70
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 878 min old)",
-   "score": 74
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 386 min old)",
-   "score": 70
+   "sym": "STO.AX",
+   "why": "stale quote / market closed (last price 982 min old)",
+   "score": 64
   }
  ],
  "paper": {
@@ -328,7 +318,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Tue 24 Nov 2026 10:37 PM AEDT",
+  "last_scan": "Wed 25 Nov 2026 08:34 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
