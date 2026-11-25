@@ -1,12 +1,24 @@
 {
  "mode": "LIVE",
- "generated": "Wed 25 Nov 2026 03:36 PM AEDT",
- "fx_audusd": 0.6605,
+ "generated": "Thu 26 Nov 2026 01:58 AM AEDT",
+ "fx_audusd": 0.6586,
  "signals": [],
  "events": [
   {
-   "key": "donaldtrumpreadiesraftofnewtariffsonmajoreconomiesfinancialt",
-   "title": "Donald Trump readies raft of new tariffs on major economies - Financial Times",
+   "key": "trumpunveilssuiteofnewtariffsonmajortradingpartnersabcnewshe",
+   "title": "Trump unveils suite of new tariffs on major trading partners - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3RIRkczTW8zZXlZNGZsOHlqT2ZKVlRNZm5IZEdYSUhmMnN4T0dwXzYzV3VjOUZpXzhFY09hOE1HTzhfMjVJR2IzM2w4eEd4TGRaMDJURGtmSzlYbDBVR1QxTEdSOEphWUlDamNWWF9DR3ZCdGNnYlhQVmlpZGpLSG5LX25ISEE5UG9BMElxNW9XbTQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "donaldtrumpannouncesraftofnewtariffsonmajoreconomiesfinancia",
+   "title": "Donald Trump announces raft of new tariffs on major economies - Financial Times",
    "source": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
    "themes": [
@@ -17,8 +29,20 @@
    "pts": 30
   },
   {
-   "key": "trumpadministrationsettounveilnewtariffsafterprobeonexcessfa",
-   "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters",
+   "key": "trumpannouncesnewtariffsundeterredbymidtermsdefeatreuters",
+   "title": "Trump announces new tariffs, undeterred by midterms defeat - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "trumpsettoaddnewsweepingtariffsundeterredbymidtermsdefeatreu",
+   "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - Reuters",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
    "themes": [
@@ -29,22 +53,10 @@
    "pts": 30
   },
   {
-   "key": "newtrumptariffswonttoptradedeallevelswillbetargetedbloomberg",
-   "title": "New Trump Tariffs Won\u2019t Top Trade Deal Levels, Will Be Targeted - Bloomberg.com",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk9ydWRwa1d2aXFHT0FvQW16SWMyemgzS1VCc1g3MVRlb2hhM21HTl9RdWMzTUVQcnNJbVpRMzFQellZZVBCbG44RXhpekczWkg0TnRwaVJVT3didFhjc2oySHpxUFFheC05NVB4a0Y1dnVXM2tmSjE0YVhwYjNHVnI4WmhTS2dna2dmeDA1ZVRwV0oyS1pmZG9BeXI0SEVIMjh5QVE0YkRRTW1xR2R5Z3ZfRQ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumpadministrationsettounveilnewustariffsthecanberratimes",
-   "title": "Trump administration set to unveil new US tariffs - The Canberra Times",
-   "source": "The Canberra Times",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbElBbXZ3RGJNYkVIdU81dU0wTmhuaE1fWF9YaTdoNV9TTEFGeGZYdjQtcHJRVE1waFVGUFcxRVd6NGFsRW1hRWFUTGpibkNyNHVlZjNMcXZodkR6aWZlSVMzSTl4cU5rMHZUR2RCU2QzNUY3MTExd1Y2RlpjMU5ic284dU1IMndFQlN6cWtQeWFxYjl2U2E0d3NqTGs2dw?oc=5",
+   "key": "trumpproposesanewwaveoftariffsonchinaeuandothertradepartners",
+   "title": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners - NBC News",
+   "source": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEhIWkhHU2FmSW5HZm1STUdfNlgzRWF6TXR1Njc2cDZ5SXF0RmVSY2NyS2tIQmJxWHlTZTJxVTg1bmI5YzcxemluVXFFdVZEUW1xUHZuTXhQN2ZaTjVtMzl0bEdwcGFNTFR5aU0wLTY3cDVJbnpXMjVQVWItMUoyOGVQakp1OHpocUlJWmc3ZWxZM1NHUWFiT2NsMXA2TXM?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -53,10 +65,10 @@
    "pts": 22
   },
   {
-   "key": "trumppreparesanewroundoftargetedtariffsaxios",
-   "title": "Trump prepares a new round of targeted tariffs - Axios",
-   "source": "Axios",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
+   "key": "trumptoreignitetradetensionswithnewtariffsmichaelwestmedia",
+   "title": "Trump to reignite trade tensions with new tariffs - Michael West Media",
+   "source": "Michael West Media",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR2dLOEdKNmhXVDBYVzMwX0JOTU5Yb0ZDME5EOHJZX2FaY2xPSjhHd2ZHNEUwTHBGYVpwTFhPb3I0WGZrMk1KZVpRRFY2MHh1dUx1NjFHVXpORHhQTzh2YmlzVEF6RFFnSnBkdERQR1J2TmJKXzkzRkZuLUdTU1hSckYzNA?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -65,10 +77,10 @@
    "pts": 22
   },
   {
-   "key": "trumpstariffsaremakingacomebackandchinacouldbehithardestynet",
-   "title": "Trump's tariffs are making a comeback, and China could be hit hardest - Ynetnews",
-   "source": "Ynetnews",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QblBmaVJ4bGxtbW03RGdod0NvbVVtVWRGTXRoek53UFV4VGFhTUdralpHcGhDc1paaGxvRHpUZ1RSMHU3MXBSTEV4RURNdmVhSFFlSFZR?oc=5",
+   "key": "trumptargetschinaeuinnewroundoftariffscnn",
+   "title": "Trump targets China, EU in new round of tariffs - CNN",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -77,10 +89,10 @@
    "pts": 22
   },
   {
-   "key": "trumpadministrationpreparessection301excesscapacityfindingsa",
-   "title": "Trump Administration Prepares Section 301 Excess-Capacity Findings and New Tariffs on 16 Trading Partners - kalkine.com",
-   "source": "kalkine.com",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcktsN1hwZGFUQnNkS2pwMEFxR0xhTlhvb1dmRmN3eWZxdlE4RUcxU1NOcFZfaEZmNFFITVNyc3dJUjVkeUZZWnhJRVFfanU1cUZIbE9YTTBiejVaT1pSS0FmZHhRTElIdnpIOUJ6cVJGQ3hzX2FPLXpFamdwaTREV0J5NTNnNXdkb2tVM2k0YjhMQksyRldYejZJVmRELUZrVjhoQl9PTVBEWHFSLW11MzZiRTJvSEs0SkV1cnhub0NOVzVJYW1jMUtsTmlXeVBBczZBU0VJMEtkbnM?oc=5",
+   "key": "trumpproposesnewtariffsonchinaeuropeandothertradepartnersthe",
+   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
+   "source": "The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "teamtrumpplansnewwaveofustariffsindiachinaonhitlistreportndt",
-   "title": "Team Trump Plans New Wave Of US Tariffs, India, China On Hit List: Report - NDTV",
-   "source": "NDTV",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUNxWWcycGx3dFF6NWR3SlJCRE9XSGVtMkxCNVAxTjJ1bVZVeGc1eHEtR2d4UTVjaTkyWTdfMHNTNW1XbWUtRGdvYVlONU5sWmE5THpRLTZvZEUwRGRDdkgwS0Z4QnJlMkFrSklTN2F3dUVIY0E2SmVlek9XM3ZMemNrS3dHWU5nVTY4Y09ReXhaNmNsVFo4Z0ZDWUtGU2lCYkVlaE13Y1JpVFc1VUpqWNIBuAFBVV95cUxPdDBKZEhEMEdkZjkydWxTTWVFak1ERUU2ekVlY1NuMjRrTjI0a09WdklCZXR4bHFUUzAxV3Y4SXVackJtQlJYR1JyWU5Bd3V2UG1sOWZmcDE4cEhDX211N0t2QU4wVk1uOVBTZmxpTGRSbjBwNTR5TDFYRGh1TjVxWnZmemtrMFNjaU5aekxXRUtMeUg5dGdnbWZyMERLYlhzN0UtUWR0SUtHVjVXQTNCUjA0dkd6TmZq?oc=5",
+   "key": "trumpadministrationunveilsnewtariffsfordozensofcountriesciti",
+   "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices - The New York Times",
+   "source": "The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -101,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "trumptodoubledownontariffsaftermidtermsdefeatsemafor",
-   "title": "Trump to double down on tariffs after midterms defeat - Semafor",
-   "source": "Semafor",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGVlMVZscVNVS1QwNzFsbUR5dGYzZ2dmU0FXMVEwNnhEaDk3Vnd1QVpvbnVMSG9fUGlYTDhSZ3lrT1ZfSjN2QzdOblJHdmUyS0ZfZExYR1dROXBOMTRKM3VCcVhCcUt6WmJMTnRCNHlUMmJCbGNBVm0xSjdCaHJlekJTR053WW5pbDlaT0RIcEVMQmFGQlgxTE9BUnA?oc=5",
+   "key": "trumpsettoaddnewsweepingtariffsundeterredbymidtermsdefeatcna",
+   "title": "Trump set to add new sweeping tariffs, undeterred by midterms defeat - CNA",
+   "source": "CNA",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3FnamwtTXpFa0hPcDhhc1dodGc3bXNmYnJYZXcyaEVrMkl3WmRaRXRSeDl1X1Q0aWhUTlVaSWxxOVRTanZPelpkWVY1akhzY2xrdzRNTEFYM01UQWRRSTk2NzQwWXFkdFdQdUlwSTh2aUFTcUs3U1hLbkhHUEFzQg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -113,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "trumpadministrationteesuptariffhikesoneuchinaotherspolitico",
-   "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
-   "source": "Politico",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
+   "key": "trumpproposesnewtariffsondozensofcountriesforbes",
+   "title": "Trump Proposes New Tariffs On Dozens Of Countries - Forbes",
+   "source": "Forbes",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFlWUnBXeDFWZ1dVX2FNSTRXcENzSzd6WEJrZ1AxVWlYWFE4Q1N2N1VTeUhQdDRNUVBja3JLUUx6RzYwVncyeDJWNU1EQ1cwNjdTYWZGUzBkWkhjMDlZQVB6X0RGTVpzODI1VDhiYXU4VDZudXFTT2p5dVNaOWtuRFVzZWY3VGFPdWNuU01zNzBQS0p2U3NLbFFDM29TVTNUYVhCMFZURlRHdkdUcUplTnNHYXJ4dUZmcHc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,24 +137,12 @@
    "pts": 22
   },
   {
-   "key": "trumphailshuangsnvidiareturnwithredbraaimemethestandardhk",
-   "title": "Trump hails Huang's Nvidia return with 'red bra' AI meme - The Standard (HK)",
-   "source": "The Standard (HK)",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONm1MeVo1QklBcEgydGw1bEs3S2JWQzFCOHBvVTdOV0o3c05aWmZFMm5yNUFKMlhualJIejNxOXBRMV9sZ2dFY3NIVUNadm9BTGUyWWJRSEt4UjdYaVVLMmpnUk5sX3FybDduRkJheFdtb0JGeUJ1M3lMaEw0N2F6a284bnZQU2VSS3VoeExBcjliMGY4dHR3Sm1jTUxhSTRwWFdVZlFGaXM?oc=5",
+   "key": "trumptariffson16economiescansection301survivewtolawdiplomacy",
+   "title": "Trump Tariffs on 16 Economies: Can Section 301 Survive WTO Law? - Diplomacy and Law",
+   "source": "Diplomacy and Law",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfaXQxTjFmN1NxVG1Va3dybzJSYzV3TW9JYXNaSWxJcVRBV0RpNXlYbHlWakQ0WUxCN3g2cG83a1VFeHNvRm9Nak0ycnZVM1FUOVRZaXc0MEtOSlhRUEs0?oc=5",
    "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpsbizarretruthsocialpostcelebratesjensenhuangsreturnasnv",
-   "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
-   "source": "The New Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa21kRlhkcko4b05WT1NZR2xPcU9QX29EdjgzZms5YUJKSkY2NGt4RXNpSGt6bkp0R0lTdHItMUhRY2NUYXFxZ2hZZFRhMUZmVjZvSlpUVXhZREtOY3d1UjZ0aXdIaVlNLXE4cFlYdzl6bmRIMjFHMlJJeUNNd2NSX3ZQUUhKY2QycjFqRlhadU04TGliMGc1ZmNncTFQQTk2ejVacGQwbkJYR3UzVFJ3d2JMelNXNndFSTFpWkxjM2J2X2duMnJPeNIB1gFBVV95cUxNMG5iYm92eXV4Q0tVSHk4QWVtUWxObFdDTDVrWFplNUFUSjAyRVdvanNaXzAzejNadU43azdaSDYtS1BDU3B3cmxhZXEzQk1lSGlqT29sRUNUQmtweDlJZmNiN013SDA1SEt0ZHF0Y2FYVHBFMERQZ1hFRFd3WHpyNnVpT0FmbnAycTZLT2xYa2RJREwxSkxzVENaZWhiSzJPbDJ2QVJESk4yWDFhLU1WYlY5YjFTT3FIbnRKcno3R24tX3R3TW50NF9yN2tmc3RSQmNQZGZB?oc=5",
-   "themes": [
-    "semiconductors"
+    "geopolitics"
    ],
    "trump": true,
    "trusted": false,
@@ -161,84 +161,84 @@
    "pts": 22
   },
   {
-   "key": "trumphasapersonalstakeinnvidiasfutureusatoday",
-   "title": "Trump has a personal stake in Nvidia's future - USA Today",
-   "source": "USA Today",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0lINENzOUhrRklJazItUm40OFlTRnlBUmlJaGtIZW81MGNMeWtIUmhBbHp1RnRNWWV3QWVhTFVBcjZvZXFWUkxTXzJnUW1oOEtEMWo2YnU2U0IwM2l1NFp1bHpRem5xVTQ1azAxZ1lyaFhmbDN3X2lwRnhlRmJhN2VwQVhUNHZoeGtLVkdTSlFnRjVIeWQ3S0xnc2R4LUs1TXJoRDlfcDRRY0M0SGdwcjBOX1A?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "thenewyorktimesnvidiareinstatedjensenhuangaschiefexecutiveaf",
-   "title": "The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on \u201cThe Daily\u201d abo - Facebook",
-   "source": "Facebook",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMzB0a3E5bGMtbFFjSGRiVWp5cTZMbnpfRXBGbHppdkliYkdFRHgyZHB1N28yNUJxWkVUYVN3RFo0bUhIVFVoc0pIWkV3YXBoOERocTRZZHJyV25PUXRZRThNWFdVbXpNbVJRY3ZJWHc3MGhhakFTREdEblFIWFFESHU3aUxQWno2bjhucnJjMHM3czJ4YWl6dWdaczFfX1M5M3NmeWJiTlFKOU1QTU9SdG9naGdkOFFPWW03d21BQldjN01LWWViNlNqMHJlZEtWejhz?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpmadeupto15mafteroustednvidiabossjensenhuangreinstatedre",
-   "title": "Trump made up to $15m after ousted Nvidia boss Jensen Huang reinstated: report - The Independent",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFdtZDFLcGJVOUFwWHh5UW9FVWJmajZxV05BcXBIbVB0X0dyeWh0SzhHc2V0ZmN2V2ZBYjJBdWR6eGdwTll1blV1NE9mNHZyVUUwNW42TkktQ1NsdkJxVHJLQmY1NzZzbGtfM3lVNzg3NTlXVlpjb2FYdWduZ2h6QkhxTXh0TG80aktzOHNHMDNmTnVsVFVRVjRYU2dnRzBIejQ2dExxQmVnemp1?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumptookcreditforjensenhuangsreturnhisnvidiastakemayhavegai",
-   "title": "Trump Took Credit for Jensen Huang's Return. His Nvidia Stake May Have Gained $15 Million - Inc.com",
-   "source": "Inc.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbGV3ZjFick8yaWhXUE51SGNvUTFZdDFYVEFEM2t5YW1jbkR4aVhDbUdNSzB2bTk0RDUtUi1PcW9TMGgyekYwcnB0WjRBS01SV2dua0xjZ1JfYWU2R3FKNUkyN2FXTk5HRFFKRzFSUlpkR2FUdUVwcE1ONE5aMHlNN2RKVy1haXJKaVFLVTJfTnBILVpTbnhGQ1hLNmlGMER0R1ZJUzBScTNxRVMzdHRGd05pSzNWTURTTnI3MEtnb2dXaXFJcFE?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpexpectedtoannounce54billionsouthkoreainvestmentinalaska",
-   "title": "Trump Expected to Announce $54 Billion South Korea Investment in Alaska LNG, Sources Say - EnergyNow",
-   "source": "EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUd3TFQyV1FNM01RczAwbmJkZ3BtempxazZqblpxOC02TzRzWVFjRWtHMFVNdm5jRExOWkxndGhmeW1wZDJReXp0bG9MdWV5Zlk0YVhxWk91SUlWaHB1UDk0YU9iZ1MxNU5ENlI2bUZNb2pSTVFKZ1ZUWHFUZzhDblU1cV9JcVN5NVBibWQwRl90a1ZYTEljUDQzNnloQTc0SXFkRmhSRTF6dkJPMFplRHdsUnFSaGs?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "commentarytrumpbrokeopechemayregretitboussoenergynowcom",
-   "title": "COMMENTARY: Trump Broke OPEC. He May Regret It: Bousso - EnergyNow.com",
-   "source": "EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVFJONE9NeE5JNGU1V2FSN0JOV0JSTWVDUFJRNjJEZTdSWjlJZWhrM0RvZlJoZ0ZUY3pidU9ZQUsyMTNhLW9yY09ZemN2c2VjNXBiNmlUWGxCbGhhUmY2UWo5cllpVkpyS01EeUtwanpQYlk1dE1vYlc2Zw?oc=5",
-   "themes": [
-    "energy"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "uspreparingtounveilplanfornewtariffsonglobaltradingpartnersb",
-   "title": "US preparing to unveil plan for new tariffs on global trading partners - BBC",
-   "source": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nc0ZZdU1LSC1JM2lWbV80OFdPYXU1OFg5S2pXVHFZVGIxeUljazk5Z3Z2TWlQM1FoTUVVQXFOLTVJZjVOVTYxaXNNMWc3blMxUEEyODdCd1l6bXptRnc?oc=5",
+   "key": "whitehousereadiesnewsection301tariffsonchinatheeuandothersst",
+   "title": "White House readies new Section 301 tariffs on China, the EU and others - Startup Fortune",
+   "source": "Startup Fortune",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREtDMkhRMUpYdlVkTTNTNjh5MmhjSWZ2ZVhkRmhTRW9HZkU0Q3I5Mlp4VGktc0xZczhNLTNjNHI1OTYtWjFqaEV1MjdZT2N4cWJHc1oxWjRrbzgwT3hVNElBUlZUZlo5bHpHeDc1dUM5TzcyUFQ0LWF2VDVwM3Fhb2E5Zm5nQ3lTWW1vVTdxTVNGbnMxclZJWTh3ZHJVM2s?oc=5",
    "themes": [
     "geopolitics"
+   ],
+   "trump": true,
+   "trusted": false,
+   "pts": 22
+  },
+  {
+   "key": "usannouncesnewtariffsonhostofcountriesincludingchinabbc",
+   "title": "US announces new tariffs on host of countries including China - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "ustargetschinaeuwithnewtariffscitingovercapacitybloomberg",
+   "title": "US Targets China, EU With New Tariffs Citing Overcapacity - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "kazakhstanalsoseekshigheroiloutputcapacityestimateaheadof202",
+   "title": "Kazakhstan also seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmZkWG52MVRvamtENGF3YmViWno3ckhhV1JIeFBzcnVTeG5ueG55S0M1amhYa1c3U1NVUldNV3c3UTRzTG9lcnVsUmJoYzV2ckJsY2c2cmtFdFlLckpLRk91NTdnSEtJQ3lDSVlYNzEwdklnUkFvb1R6dUpZLWV2TnM5d0dldC00NnBCWkZ1RVRjQ0NqMFA2OEp2SThlVlQ5OXZNbDVHN2tLVjFjbmJhSHlPUGZCSXR0aUxLZGQ3RjZIdWlwOElBWmZPUQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "opecslargestmembersheadforclashoveroilproductionestimatesfin",
+   "title": "Opec+\u2019s largest members head for clash over oil production estimates - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXZnb25ZTWVaVHNZU2lWMG9YYzlVaTFPMFR0Vnd5TFJIWHRoWVU2dTVMWThxRXdLTzFqWjdsak14cW9DVGZKbW0zNE1XblVZWlpiSTdwWEk4ZTdtT1lkWkdZSEFydlgwT19fSWRfUnpmZTF4bW85SnpBZ0x3dVZIWlo2WDQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "fdaapprovesbreakthroughdrugtotreatadvancedpancreaticcancerab",
+   "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
+   "themes": [
+    "pharma"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "whyinflationisupbutinterestratesarenotexpectedtofollowabcnew",
+   "title": "Why inflation is up, but interest rates are not expected to follow - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzAybkxaRUNmTWRfdFdMeVVjNUdLdktaX0FMNHRZVEdrcHlEQWcwcVdoajVrbWJMQ3VsLS05XzRSclpRNTBQZ2Y1UDhzTkVQNDcwTTBFb293TFlKc0NIRjc0RGU3cFgtalhtSnFmeXZzendZNkk0V1I0b1NSZS03TGt5TGdrMWV0cDVuTjlyXy10UDE1VF9wV1F3?oc=5",
+   "themes": [
+    "rates"
    ],
    "trump": false,
    "trusted": true,
@@ -248,93 +248,93 @@
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 62
+   "why": "volume not confirmed (1.1x normal)",
+   "score": 53
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 65
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 49
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 72
+   "why": "volume not confirmed (0.9x normal)",
+   "score": 86
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 72
-  },
-  {
-   "sym": "NVDA",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 80
-  },
-  {
-   "sym": "AMD",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 82
-  },
-  {
-   "sym": "SOXX",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 54
-  },
-  {
-   "sym": "TSM",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 92
+   "why": "volume not confirmed (0.6x normal)",
+   "score": 49
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 57
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 75
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 57
+   "why": "volume not confirmed (0.8x normal)",
+   "score": 76
   },
   {
    "sym": "WDS.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 46
+   "why": "stale quote / market closed (last price 586 min old)",
+   "score": 55
   },
   {
    "sym": "STO.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 39
+   "why": "stale quote / market closed (last price 588 min old)",
+   "score": 62
   },
   {
    "sym": "XBI",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 90
+   "why": "volume not confirmed (0.5x normal)",
+   "score": 38
   },
   {
    "sym": "LLY",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 55
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 39
   },
   {
    "sym": "PFE",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 55
+   "why": "volume not confirmed (0.3x normal)",
+   "score": 37
   },
   {
    "sym": "SPY",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 82
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 40
   },
   {
    "sym": "QQQ",
-   "why": "stale quote / market closed (last price 456 min old)",
-   "score": 80
+   "why": "price not above VWAP and 20-bar average",
+   "score": 46
   },
   {
    "sym": "IVV.AX",
-   "why": "volume not confirmed (0.3x normal)",
-   "score": 72
+   "why": "stale quote / market closed (last price 586 min old)",
+   "score": 71
+  },
+  {
+   "sym": "NVDA",
+   "why": "volume not confirmed (0.7x normal)",
+   "score": 40
+  },
+  {
+   "sym": "AMD",
+   "why": "volume not confirmed (1.1x normal)",
+   "score": 42
+  },
+  {
+   "sym": "SOXX",
+   "why": "volume not confirmed (1.0x normal)",
+   "score": 42
+  },
+  {
+   "sym": "TSM",
+   "why": "volume not confirmed (1.1x normal)",
+   "score": 42
   }
  ],
  "paper": {
@@ -348,7 +348,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Wed 25 Nov 2026 03:36 PM AEDT",
+  "last_scan": "Thu 26 Nov 2026 01:58 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
