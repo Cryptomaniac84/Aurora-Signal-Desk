@@ -1,14 +1,38 @@
 {
  "mode": "LIVE",
- "generated": "Fri 27 Nov 2026 02:34 AM AEDT",
- "fx_audusd": 0.6637,
+ "generated": "Fri 27 Nov 2026 11:00 AM AEDT",
+ "fx_audusd": 0.6638,
  "signals": [],
  "events": [
+  {
+   "key": "whataretariffshowdotheyworkandwhyistrumpusingthembbc",
+   "title": "What are tariffs, how do they work and why is Trump using them? - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
   {
    "key": "chinahitsbackattrumptariffthreatfinancialtimes",
    "title": "China hits back at Trump tariff threat - Financial Times",
    "source": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOXdLemg3R0M0SkVKVUhMZHdsQmN0X2t0Tk9lYWY4RzFuYzhWUFFxVHQ0WUxkMDhnQTB4dEhoZDJvQ0gzUmhmelROQmRlS2kxdUpXTkI0TkxFM0pVMElQWlE4RmY2UE1UZjQyLUNtdmVJT3k5OE1xOXJvaURWU1hjZmN5anY?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": true,
+   "trusted": true,
+   "pts": 30
+  },
+  {
+   "key": "faisalislamwhytrumpsnewtariffsarelessofathreatbbc",
+   "title": "Faisal Islam: Why Trump's new tariffs are less of a threat - BBC",
+   "source": "BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mS1RNWGZ3OFI5aW9OeldzV0RQYVRuOFBfTGM1SDJOamdVRTBWY0hSalpHMXFEdjNOZVhrb3BDa1ViNEZsN2tueDhEX04xLWc5cnFYN0RsOE1zQ1U0cHc?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -29,34 +53,10 @@
    "pts": 30
   },
   {
-   "key": "howtrumpslatesttariffmoveshandindiaanedgeoverrivalasianexpor",
-   "title": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters - CNBC",
-   "source": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCNEVmNUhlTHZVREEzZ01xdzYwNmpBWE1fNEk2WTlKREhuUWtqN2xsVnRTLWtWUkVGQ2d3UmFURW1ORUY1ZV9FV3V1YVpLa19jczZrS21YVWtYLXhBb0dSY2taSzVvWlR0djdYQWlBcjF6UdIBd0FVX3lxTE8xSVBVQVFIMm5qRmN0dDNJeE5XZEk5eVF3ZjgzaWZhUlZTWVhnWC1FLWtwZ3Q2UE5YSEtpalkxb1lidFZMWk1CMU9qa25OcURkdjkzRk4xdEoxdDl0ZEZhTVNzQUxSZFR2aXdXbm5CZE92X0pqaERJ?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "trumprilestradepartnerswithtariffsthatundercutchina1bloomber",
-   "title": "Trump Riles Trade Partners With Tariffs That Undercut \u2018China+1\u2019 - Bloomberg",
+   "key": "trumpslatesttariffsundercutthechinaplusoneideabloomberg",
+   "title": "Trump\u2019s Latest Tariffs Undercut the \u2018China Plus One\u2019 Idea - Bloomberg",
    "source": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFybkwxanpDZHdLeGlnSHN6dTBsUnoxS0Zrc3FjaDJ1ZDhGS3Y4Y09qRnNEMmhMazJfeXRlMVdnNy1RM2RoenR0VDlCOWpfZTdWME5pY19lcFlkbzIzUDgwYkN0RXVlcTRET0dEMGNpUnFUcnhkUDQ0a1dzZGpzaXByMnRvTGFMQlZZRVlMOHlBdDRfNUV2VlBPZklRdmFyeTZRWC1lZGdGX1R4MmdGRU1R?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": true,
-   "pts": 30
-  },
-  {
-   "key": "howtrumpsproposedtariffsforindiacomparewithrivalnationsreute",
-   "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZxT2c1ekdQZ3lIOXg3OW1kakF5bnFLMHhYLWluR2EyVUlvSGc0R2d4TmgzSUsyTlRWdVo4M0NLdTU5YmpDbnNWOEpIQWtGSE1ORFhuZE0xaTFYQ3pFR0JmR1ozMnFZc3lyZ0Y2T3dRckRIWE51ZjhnODR5cVlzSFJDaXlmNVpzOUd0TXZBQlJHZ1JSNU5CeG5ZdG9lTEJCTmZQQlZQcFVEWGI3c0E?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -89,18 +89,6 @@
    "pts": 22
   },
   {
-   "key": "tariffsdonaldtrumptargetschinaeubrazilandothersinnewroundoft",
-   "title": "Tariffs: Donald Trump targets China, EU, Brazil and others in new round of tariff hikes - Nine.com.au",
-   "source": "Nine.com.au",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0VQZkxtWGo1aW9NOElVSlVOZFlwZU5YQTE5dmpnNk9Sei03NjVDdVBHcm01VVY5V3hlNklhckR2bXo5aVMwUVRsb1gtblRjbUY5b1FrTnBfVUt1NGRyMktBVnpTSUhZQUstdmFfbkczR0Rfcl8yY2RkdmFvaUVBRF9LVUpLYW1wR1dVM3UxVGFUY1hRWFdXaXkxQ3pjRDVPQThabWFZbVM0ZDhRNmY1dnRKc1UzVXFzYU5rNlFZNVdkR2Q2dDlkQVJaZlM1WlMzYTJYY3ByUjJKYXlV?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "chinaandbrazilleadpushbackagainsttrumpsunacceptabletariffthr",
    "title": "China and Brazil Lead Pushback Against Trump\u2019s \u2018Unacceptable\u2019 Tariff Threats - Time Magazine",
    "source": "Time Magazine",
@@ -113,10 +101,10 @@
    "pts": 22
   },
   {
-   "key": "trumpproposesnewtariffsonchinaeuropeandothertradepartnersthe",
-   "title": "Trump proposes new tariffs on China, Europe and other trade partners - The Washington Post",
-   "source": "The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
+   "key": "newroundoftrumptariffsshouldspurmorefrontloadinglloydslist",
+   "title": "New round of Trump tariffs should spur more front-loading - Lloyd's List",
+   "source": "Lloyd's List",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjZsVjk5OW5uWHlyNUhmV204OFRwMm1JN3pqWS1nM0dDVGxWRWR6U2I4SWsyV0s3dXZ4LWJ0M2RIcFF6UEZMS080S3JvQ2JJQWw4OWptVVVUYi1WdWh4UDdXTmRzQ3dHX3JXeVc0Z05rX0twaHJLSjJ5SVpQRFJ6RlBlSExhcXRiRHdNVmNWb0V4OG5LNHo1bkpn?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -125,10 +113,10 @@
    "pts": 22
   },
   {
-   "key": "donaldtrumpannouncesnewtariffsonchinajapanandtheeusbs",
-   "title": "Donald Trump announces new tariffs on China, Japan and the EU - SBS",
-   "source": "SBS",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGZkMFF1cUdfVzYxRVhZZDh6RUFmeVlDZmp1d1BmUHFpbUhQaGZjN0pkTEw2Ul9Eak51TjRhMGxjd3FoaS04SnZ4ZmwtcTBDd051ekpQbkpyY0lPYlJlTW1vcG9aTzdhZjdFQ3hmTlZxbjVFNTUzX3dlYllvejFpUE1fV19iVEtUbmpvd2RvN1RSTnVDT3ktVXRmb1dqNXNVRXB1M2xqakdQQQ?oc=5",
+   "key": "trumpunveilsnewtariffsoverexcessindustrialcapacityundeterred",
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Sight Magazine",
+   "source": "Sight Magazine",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnJWcjJJRnR4S1Bub1RIUEZrZkpNWm1iVGVjb2puMU1EUUdCOHZpTnJ4cWVoMjJ1a0dLUGVBQ1FCNEJHaFdWaVZmSzhzQzBhRHBZMUktODBVNUF0RnVYTURxdXNKcTg4UU55Y1NqRktma2k1Um9BLUNhRVhRZWVzVDdXQ001QjVsdXQyQXJzYTM4cVF3R0ZXN25yLVN3eUZxZDRlU2FYR204Y1g5V1dwbGN5dmZlVWMzYWxFTFB6SQ?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -137,10 +125,10 @@
    "pts": 22
   },
   {
-   "key": "trumpunveilsnewtariffsonjapanchinaeuothersjapantoday",
-   "title": "Trump unveils new tariffs on Japan, China, EU, others - Japan Today",
-   "source": "Japan Today",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDN4ME5WTGRXNWFUcnF3bU9XdEI1YXRITThibnJ1ZnppS1Rrb1psa2FoUWRlZ1lVVkd6UGIxYWp5dWY2NEtFWFc4S0lBRk1Ueng5VG5aTnFLNld2ZW5IU19LdHdxZGQ0M29Db3JMRnRsaEZxTFcyRlF6TU1rR1JqOXlIV054d3lzNENSZWNzUFJVVjhDUnY4Rlh5djY4TWR2R295Q3pwZXhjXzJXTEFRSURGWDNNMjhFY1c5VHBodGtVeTNtcFhN?oc=5",
+   "key": "worldstockstumbleastrumptariffsrattlemarketsairallyfadeseuro",
+   "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades - Euronext Markets: Real-time Stock Market Data | live",
+   "source": "Euronext Markets: Real-time Stock Market Data | live",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeFU0MGVaQ3FORTJicWJ1QTlNQWRob3haZGpGQUR2bDg2QXpYNHZtSTZyUGFCN256S3ZpWlI5cC1mT2MxR0NfZ2FJYXpnRVc2VG9ycTNvN1A4QzdiQmF5SWdhNEdscW9VTFFhdlhfaXJGZm4wcElWU2tyaTRrWmRMY0tSZ0JpbS1yTERnME54SmxSMWFNclRRMzgtOXJScVNVSDNkVmZwNXNaczg?oc=5",
    "themes": [
     "geopolitics"
    ],
@@ -161,43 +149,6 @@
    "pts": 22
   },
   {
-   "key": "thewhitehouseannouncedaraftofnewtariffsonthesamedayinflation",
-   "title": "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed\u2019s target - Fortune",
-   "source": "Fortune",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWVHVE9zZ0YwZURJTU1TcTB0SmctN1FqWlljNlFsUEdvUHRMSDRtcnU3YXFBZjlicFhuaEJRNXgzTTd1emdhYzB2Y2dubEJwUUFpQk9VUEo1QmlhM3ZvMG1Lb0tOeVF0SDZrc3VvUUlqZFhDQndtc1dJUl9JUm8zc0EyZ3dJRnRjOG9OY0VOS1I?oc=5",
-   "themes": [
-    "rates",
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "trumpadministrationunveilsnewtariffsforchinatheeuropeanunion",
-   "title": "Trump Administration Unveils New Tariffs for China, the European Union, and More - Time Magazine",
-   "source": "Time Magazine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhtMHlCRmo0RXBTdk9ObEE1X3RickdBOUwydnhxN25sbjBubGM4eE9qZlBaTTBmOW5IbWVQNUw5MXBvVlg0TlduTmJuR1lrLW1zRV9NaXRzcXBaRGlxMHUxS1luN1htcndZaGpBNl9yZU8tU1ptbjA0WG1yV2wwRW03M0ViODMzRHZ2WEY5RnpaTUJYSWk3T0lOdU4?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "fortrumpdoublingdownontariffsisaboutpowernotpopularitythestr",
-   "title": "For Trump, doubling down on tariffs is about power, not popularity - The Straits Times",
-   "source": "The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkNoX3o5LU5jeEhLMk9LYWtaeTcxV3lpLUFvWXprTEVNRzU3MWlmODl6ckthNTlJUEJuTlNEYTY4SmhjZE53emFFX29fdnBlakxFQWJlOHZTbjBKOGtmcHZsYWFBUkxRTUpTVXRJLTlnYkQwdmc5MzJVX0kzNzk4TFZKUTUyV2tLMnRpNjQwNGt2X2IxNVd6c015MHJJMVRqS0ZCTkEwdFBaQk1WbW5aLTdOYw?oc=5",
-   "themes": [
-    "geopolitics"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
    "key": "chinausalliespushbackonlatestroundofwhitehousetariffscbc",
    "title": "China, U.S. allies push back on latest round of White House tariffs - CBC",
    "source": "CBC",
@@ -210,28 +161,29 @@
    "pts": 22
   },
   {
-   "key": "trumptoleadtsmcgroundbreakinginarizonaafternvidiagambittaipe",
-   "title": "Trump to lead TSMC groundbreaking in Arizona after Nvidia gambit - Taipei Times",
-   "source": "Taipei Times",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmptNFl3aXNESnM2YnRyeUxfUE9fNWc4UDJRX1g4Y0RsUVZZQmdrTGprUVlINGJBRnZMVWR0azZneG44WVBfcV9rc2wtUkF4SHRWX1dUa0dweHY4SVp2cDNrUG9NUk5uZjJKamhXc3RBcDA0b1E?oc=5",
-   "themes": [
-    "semiconductors"
-   ],
-   "trump": true,
-   "trusted": false,
-   "pts": 22
-  },
-  {
-   "key": "analysisfortrumpdoublingdownontariffsisaboutpowernotpopulari",
-   "title": "Analysis: For Trump, doubling down on tariffs is about power, not popularity - KLSE Screener",
-   "source": "KLSE Screener",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRl9DeXFwZlpzemdhaUprWU85bDZqWnVxZUxPSFpMRmduMW1LTHV0aHdacUowSUlCS19CYlM3TWF5VUVpVE5xYkRDd2hsYnM1VnBCdjFBa1lYaERYUksxSTE1NTJyZWxMc0toR3NTbWFfRy12MkljZTFkSk5NamdUNGxQekh3cUZUNDN6cmJPaThTQzZ2YjRMb2FlS2JXdURabVNEMmlFV09GY2FkeTBic0VEbHppVU1LYWNIT2VMNkc?oc=5",
+   "key": "fortrumpdoublingdownontariffsisaboutpowernotpopularitythesta",
+   "title": "For Trump, doubling down on tariffs is about power, not popularity - The Standard (HK)",
+   "source": "The Standard (HK)",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTVvRGlBWmt6c0lvVTFCZmpOUzVYRDJrZS1jVWlEME5nUTZhUmhabHhjVzNpQ09WeEZfNG5qcVFKeXk5bFFMaG93VHJXdWFvVlU0bEYyeTQ1aUx6Mjd4T20xaUtObTVxa0NsME54WXFqZ0Vyc3F3RlhlSzZDWjM4TDdsNU41MENZSUZEM0d0VDVFLTNjWHdmWUF5bzBjeDc0LW9rUkRWWFNYd3pGZzVSQ25DSW9DVnM?oc=5",
    "themes": [
     "geopolitics"
    ],
    "trump": true,
    "trusted": false,
    "pts": 22
+  },
+  {
+   "key": "videotariffsnvidiaandfearsofaibubbledrivespikeinmarketvolati",
+   "title": "VIDEO: Tariffs, NVIDIA and fears of AI bubble drive spike in market volatility - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGlCY0JQd2dHZ01Tc0tieVN4cFZueHZSaTdhVG1nZm5lb2FldjhWdkg4Z1FvanVreEd3MUdVNTBTRFdCWjZwbXhTbVV1U0h0ZzZVcXptTVZfSDFXVmNJbk5ZQl9MRi1nN1pwanRuNXlpWnZtaTUtelZrSmpQSERmSG96UXdxeHpWSFpLQzZBQndPaDFiR1lueHhEVUFDOV9ab1NJOWJiSF82N2JVSlh0aXhPcVdyUXI4eFl6VElYR2Z0R0tEX0hnOFIzUUVFN1pL?oc=5",
+   "themes": [
+    "semiconductors",
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
   },
   {
    "key": "usannouncesnewtariffsonhostofcountriesincludingchinabbc",
@@ -244,83 +196,146 @@
    "trump": false,
    "trusted": true,
    "pts": 20
+  },
+  {
+   "key": "opeclikelytorolloveroiloutputtargetsforq1ascapacitydisputesp",
+   "title": "OPEC+ likely to roll over oil output targets for Q1 as capacity disputes persist, sources say - Reuters",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWNNN09tM1phcUhhRlFRRTlHaW0yYU5fQUxJUVFEZjl5cEdhaHRnOGNwRkl6QUZTWEhNeU16Vnk5bHhNQ3JSd0FXNDlHZkdDVTV4ZkVsbUpQUFV4VWdobEhfdlpHOUt4SEJadFRpNHlYZTZRZFdBaEZKYnUyTHJ0eHlyWjE1a1FjenhuYWtoZHJJSHVPYVhjSlprNF81NkNiMlpQNUpBcy1kcHd3eEFaRjZHczhHV3RIWlJRaHZOQlBXUQ?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "opecconsidersstickingwithcurrentquotasdelegatessaybloomberg",
+   "title": "OPEC+ Considers Sticking With Current Quotas, Delegates Say - Bloomberg",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzZJUUc1WVZ2QjU0RFVtOHlYMmxfeUFCQWFhVDZ3VkVHeG9WdlBlQXdmb2dfWVRsUzRSWDNyNHVZam1LSERIS1hYaGs3NDdSblFzU0FDd3ZGRHlYbldNUWR3c0l5MHBYUGxVd1JMdkxDZjR2Qk42Uk9KVHNRZ0d3OHB4WFVrV05TQmNNTlkzbzY5cTVkeFZpSDNWNENOcWZ1OTAtbkFkWmpOazkyaW9lREpB?oc=5",
+   "themes": [
+    "energy"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "hawkishfedpoisedtoraiseratesdespitestockmarketturmoilfinanci",
+   "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+   "themes": [
+    "rates"
+   ],
+   "trump": false,
+   "trusted": true,
+   "pts": 20
+  },
+  {
+   "key": "usannouncesnewtariffsoverexcesscapacitygmkcenter",
+   "title": "US announces new tariffs over excess capacity - GMK Center",
+   "source": "GMK Center",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yNThsZlpycUpLcXZRWHZtcnltc1dQcFZhV1NmX1I1LWhSNHRwc2gtNDBxNlZ4eHJKWXgybnlKRFN1czZZTk9KNk1Fc3FER3pObXgwMEY1TUVOb05wU3lSaDNWS3JLbnZPVkg3b0xOX0tUSXZ6VER4THhObEpHd9IBgwFBVV95cUxPc25JbGZObUJ4R0RxSDA4T01jYnVQbFR1NzFNU3ZuN0xTQ2xVY2VBYU5KZktDM3Nna3pwMzJQUmdLWFY3dG9mNjVWdUJaT1VBQVBQZlpxNnBoSklwQTZnOXdtQlRFb2lBOHhIZWVPQ19tWGFPWDNsdEtmUE1MZVNudzlkTQ?oc=5",
+   "themes": [
+    "geopolitics"
+   ],
+   "trump": false,
+   "trusted": false,
+   "pts": 12
   }
  ],
  "rejected": [
   {
    "sym": "GLD",
-   "why": "stale quote / market closed (last price 1114 min old)",
-   "score": 76
+   "why": "stale quote / market closed (last price 1620 min old)",
+   "score": 79
   },
   {
    "sym": "ITA",
-   "why": "stale quote / market closed (last price 1114 min old)",
+   "why": "stale quote / market closed (last price 1620 min old)",
    "score": 79
   },
   {
    "sym": "XLE",
-   "why": "stale quote / market closed (last price 1114 min old)",
+   "why": "stale quote / market closed (last price 1620 min old)",
    "score": 65
   },
   {
    "sym": "FXI",
-   "why": "stale quote / market closed (last price 1114 min old)",
+   "why": "stale quote / market closed (last price 1620 min old)",
    "score": 92
   },
   {
-   "sym": "SPY",
-   "why": "stale quote / market closed (last price 1114 min old)",
-   "score": 65
-  },
-  {
-   "sym": "QQQ",
-   "why": "stale quote / market closed (last price 1114 min old)",
-   "score": 75
-  },
-  {
-   "sym": "IVV.AX",
-   "why": "stale quote / market closed (last price 624 min old)",
-   "score": 75
-  },
-  {
    "sym": "NVDA",
-   "why": "stale quote / market closed (last price 1114 min old)",
-   "score": 78
+   "why": "stale quote / market closed (last price 1620 min old)",
+   "score": 81
   },
   {
    "sym": "AMD",
-   "why": "stale quote / market closed (last price 1114 min old)",
-   "score": 84
+   "why": "stale quote / market closed (last price 1620 min old)",
+   "score": 82
   },
   {
    "sym": "SOXX",
-   "why": "stale quote / market closed (last price 1114 min old)",
-   "score": 86
+   "why": "stale quote / market closed (last price 1620 min old)",
+   "score": 84
   },
   {
    "sym": "TSM",
-   "why": "stale quote / market closed (last price 1114 min old)",
-   "score": 83
+   "why": "stale quote / market closed (last price 1621 min old)",
+   "score": 81
   },
   {
    "sym": "XOM",
-   "why": "stale quote / market closed (last price 1114 min old)",
+   "why": "stale quote / market closed (last price 1621 min old)",
    "score": 55
   },
   {
    "sym": "CVX",
-   "why": "stale quote / market closed (last price 1114 min old)",
+   "why": "stale quote / market closed (last price 1621 min old)",
    "score": 55
   },
   {
    "sym": "WDS.AX",
-   "why": "stale quote / market closed (last price 622 min old)",
-   "score": 55
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 72
   },
   {
    "sym": "STO.AX",
-   "why": "stale quote / market closed (last price 622 min old)",
-   "score": 55
+   "why": "volume not confirmed (0.2x normal)",
+   "score": 71
+  },
+  {
+   "sym": "SPY",
+   "why": "stale quote / market closed (last price 1621 min old)",
+   "score": 72
+  },
+  {
+   "sym": "QQQ",
+   "why": "stale quote / market closed (last price 1621 min old)",
+   "score": 73
+  },
+  {
+   "sym": "IVV.AX",
+   "why": "volume not confirmed (0.4x normal)",
+   "score": 65
+  },
+  {
+   "sym": "LMT",
+   "why": "stale quote / market closed (last price 1621 min old)",
+   "score": 82
+  },
+  {
+   "sym": "RTX",
+   "why": "stale quote / market closed (last price 1621 min old)",
+   "score": 82
+  },
+  {
+   "sym": "NOC",
+   "why": "stale quote / market closed (last price 1621 min old)",
+   "score": 74
   }
  ],
  "paper": {
@@ -334,7 +349,7 @@
   "closed": []
  },
  "health": {
-  "last_scan": "Fri 27 Nov 2026 02:34 AM AEDT",
+  "last_scan": "Fri 27 Nov 2026 11:00 AM AEDT",
   "news": "ok",
   "telegram": "no new signal",
   "quote_errors": 0
